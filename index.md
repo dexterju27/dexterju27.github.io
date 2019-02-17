@@ -6,40 +6,21 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi!  I’m a research engineer at Facebook AI Research working on game and reinforcement learning. I joined the team in 2018. Prior to that, I received master degree specialized in machine learning from Telecom ParisTech and University Paris 6. Throughout my studies, I am interested in both engineering and AI research. 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+You may also find me by my legal name Da JU.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Reinforcement Learning, Game AI. 
+
+## Academia
+
+In 2015, I finished my undergraduate in Information Science and Engineering at [Southeast University](http://www.seu.edu.cn/english/main.htm), Nanjing, China. I wrote my [Bachelor's thesis](bachelor-thesis.pdf）, "High-resolution LED Headlamps Testing System with Web GUI" at [L-LAB](http://www.l-lab.de/llab/index.html), Lippstadt, Germany. It documents the development of WiFi based system for controlling cars. The thesis remains Intellectual property of [HELLA](https://www.hella.com/hella-com/index.html).
+
+In 2017, I finished my Master's degree at [Telecom ParisTech](https://www.telecom-paristech.fr/), focussing on Machine Learning and Humain Computer Interaction. I also recived a second master degree from [UPMC university](http://www.upmc.fr/en/) in Data Science.
+
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+1. Gehring, Jonas, **Da Ju**, Vegard Mella, Daniel Gant, Nicolas Usunier, and Gabriel Synnaeve. “High-Level Strategy Selection under Partial Observability in StarCraft: Brood War.” ArXiv:1811.08568 [Cs, Stat], November 20, 2018. http://arxiv.org/abs/1811.08568.
