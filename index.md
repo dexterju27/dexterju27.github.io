@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Dexter JU's Home Page
 ---
 
 ## About Me
