@@ -3,24 +3,11 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Email: [daju[dot]fb.com](mailto:daju@fb.com)
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Github](https://github.com/dexterju)
+2. [Google Scolar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=YW5jp5QAAAAJ)
