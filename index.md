@@ -7,13 +7,13 @@ title: Dexter JU's Home Page
 
 <img class="profile-picture" src="profil-photo.png">
 
-Hi!  I’m a research engineer at Facebook AI Research working on game and reinforcement learning. I joined the team in 2018. Prior to that, I received master degree specialized in machine learning from Telecom ParisTech and University Paris 6. Throughout my studies, I am interested in both engineering and AI research. 
+Hi!  I’m a research engineer at Facebook AI Research. I am part of the [ParlAI](https://parl.ai/) team working on dialogue research. I also worked in Reinforcement Learning for a while, focusing on strategy games. I joined the team in 2018. Prior to that, I received master degree specialized in machine learning from Telecom ParisTech and University Paris 6. Throughout my studies, I am interested in both engineering and AI research.
 
 You may also find me by my legal name **Da JU**.
 
 ## Research Interest
 
-Reinforcement Learning, Game AI. 
+NLP, Dialogue
 
 ## Academia
 
@@ -24,4 +24,4 @@ In 2017, I finished my Master's degree at [Telecom ParisTech](https://www.teleco
 
 ## Publications
 
-1. Gehring, Jonas, **Da Ju**, Vegard Mella, Daniel Gant, Nicolas Usunier, and Gabriel Synnaeve. “High-Level Strategy Selection under Partial Observability in StarCraft: Brood War.” ArXiv:1811.08568 [Cs, Stat], November 20, 2018. http://arxiv.org/abs/1811.08568.
+1. Gehring, Jonas, **Da Ju**, Vegard Mella, Daniel Gant, Nicolas Usunier, and Gabriel Synnaeve. “High-Level Strategy Selection under Partial Observability in StarCraft: Brood War.”  ([RLPO@](https://sites.google.com/site/rlponips2018)NeurIPS 2018)  ArXiv:1811.08568 [Cs, Stat], November 20, 2018. http://arxiv.org/abs/1811.08568.
