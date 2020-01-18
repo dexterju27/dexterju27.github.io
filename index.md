@@ -25,7 +25,9 @@ In 2017, I finished my Master's degree at [Telecom ParisTech](https://www.teleco
 ## Publications
 
 [1]**D. Ju**, K. Shuster, Y.-L. Boureau, and J. Weston, “All-in-One Image-Grounded Conversational Agents,” arXiv:1912.12394 [cs], Jan. 2020.
+
 [2]K. Shuster, **D. Ju**, S. Roller, E. Dinan, Y.-L. Boureau, and J. Weston, “The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents,” arXiv:1911.03768 [cs], Nov. 2019.
+
 [3]J. Gehring, **D. Ju**, V. Mella, D. Gant, N. Usunier, and G. Synnaeve, “High-Level Strategy Selection under Partial Observability in StarCraft: Brood War,” arXiv:1811.08568 [cs, stat], Nov. 2018 (RLPO@NeurIPS 2018).
 
 
