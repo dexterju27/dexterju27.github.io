@@ -5,7 +5,7 @@ title: Dexter JU's Home Page
 
 ## About Me
 
-<img class="profile-picture" src="profil-photo.png">
+<img class="profile-picture" src="profil-photo.jpg">
 
 Hi!  I’m a research engineer at Facebook AI Research. I am part of the [ParlAI](https://parl.ai/) team working on dialogue research. I also worked in Reinforcement Learning for a while, focusing on strategy games. I joined the team in 2018. Prior to that, I received master degree specialized in machine learning from Telecom ParisTech and University Paris 6. Throughout my studies, I am interested in both engineering and AI research.
 
@@ -24,4 +24,9 @@ In 2017, I finished my Master's degree at [Telecom ParisTech](https://www.teleco
 
 ## Publications
 
-1. Gehring, Jonas, **Da Ju**, Vegard Mella, Daniel Gant, Nicolas Usunier, and Gabriel Synnaeve. “High-Level Strategy Selection under Partial Observability in StarCraft: Brood War.”  ([RLPO@](https://sites.google.com/site/rlponips2018)NeurIPS 2018)  ArXiv:1811.08568 [Cs, Stat], November 20, 2018. http://arxiv.org/abs/1811.08568.
+[1]**D. Ju**, K. Shuster, Y.-L. Boureau, and J. Weston, “All-in-One Image-Grounded Conversational Agents,” arXiv:1912.12394 [cs], Jan. 2020.
+[2]K. Shuster, **D. Ju**, S. Roller, E. Dinan, Y.-L. Boureau, and J. Weston, “The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents,” arXiv:1911.03768 [cs], Nov. 2019.
+[3]J. Gehring, **D. Ju**, V. Mella, D. Gant, N. Usunier, and G. Synnaeve, “High-Level Strategy Selection under Partial Observability in StarCraft: Brood War,” arXiv:1811.08568 [cs, stat], Nov. 2018 (RLPO@NeurIPS 2018).
+
+
+
