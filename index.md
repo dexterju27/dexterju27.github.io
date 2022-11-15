@@ -7,9 +7,9 @@ title: Dexter JU's Home Page
 
 <img class="profile-picture" src="profil-photo.jpg">
 
-Hi!  I’m a research engineer at Facebook AI Research. I am part of the [ParlAI](https://parl.ai/) team working on dialogue research. I also worked in Reinforcement Learning for a while, focusing on strategy games. I joined the team in 2018. Prior to that, I received master degree specialized in machine learning from Telecom ParisTech and University Paris 6. Throughout my studies, I am interested in both engineering and AI research.
+Hi!  I’m a research engineer at Facebook AI Research. I am part of the [ParlAI](https://parl.ai/) team working on Conversational AI (Blenderbot N+1) and Core ML research. I joined the team in 2018. Prior to that, I received master degree specialized in machine learning from Telecom ParisTech and University Paris 6. Throughout my studies, I am interested in both engineering and AI research.
 
-You may also find me by my legal name **Da JU**.
+You may also find me by my legal name **Da JU**. And talk to our [chatbot](https://blenderbot.ai/) here.
 
 ## Research Interest
 
@@ -23,12 +23,26 @@ In 2017, I finished my Master's degree at [Telecom ParisTech](https://www.teleco
 
 
 ## Publications
+### 2022
+**D Ju**, J Xu, YL Boureau, J Weston. 2022. Learning from data in the mixed adversarial non-adversarial case: Finding the helpers and ignoring the trolls.
+
+
+K Shuster, J Xu, M Komeili, **D Ju** (Joint First Author), EM Smith, S Roller, M Ung, M Chen, ... 2022. Blenderbot 3: a deployed conversational agent that continually learns to responsibly engage.[Facebook AI Blog Post](https://ai.facebook.com/blog/blenderbot-3-a-175b-parameter-publicly-available-chatbot-that-improves-its-skills-and-safety-over-time/)
+
+### 2021
+**D Ju**, S Roller, S Sukhbaatar, J Weston. 2021. Staircase Attention for Recurrent Processing of Sequences. Selected as Oral. NeurIPS 2022
+
+N Goyal, C Gao, V Chaudhary, PJ Chen, G Wenzek, **D Ju**, S Krishnan, ... 2021. The FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation. WMT21@EMNLP 2021
+
+J Xu, **D Ju**, M Li, YL Boureau, J Weston, E Dinan. 2021. Bot-adversarial dialogue for safe conversational agents. NACL 2021
+
+S Sukhbaatar, **D Ju**, S Poff, S Roller, A Szlam, J Weston, A Fan. 2021. Not All Memories are Created Equal: Learning to Forget by Expiring. ICML 2021
 ### 2020
 Jing Xu, **Da Ju**, Margaret Li, Y.-Lan Boureau, Jason Weston, and Emily Dinan. 2020. Recipes for Safety in Open-domain Chatbots. arXiv:2010.07079 [cs], October. arXiv: 2010.07079.
 
-Kurt Shuster, Eric Michael Smith, **Da Ju**, and Jason Weston. 2020. Multi-Modal Open-Domain Dialogue. arXiv:2010.01082 [cs], October. arXiv: 2010.01082.
+Kurt Shuster, Eric Michael Smith, **Da Ju**, and Jason Weston. 2020. Multi-Modal Open-Domain Dialogue. arXiv:2010.01082 [cs], October. arXiv: 2010.01082. EMNLP 2021
 
-Stephen Roller, Emily Dinan, Naman Goyal, **Da Ju**, Mary Williamson, Yinhan Liu, Jing Xu, Myle Ott, Kurt Shuster, Eric M. Smith, Y.-Lan Boureau, and Jason Weston. 2020. Recipes for building an open-domain chatbot. arXiv:2004.13637 [cs], April. arXiv: 2004.13637. [Facebook AI Blog Post](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot)
+Stephen Roller, Emily Dinan, Naman Goyal, **Da Ju**, Mary Williamson, Yinhan Liu, Jing Xu, Myle Ott, Kurt Shuster, Eric M. Smith, Y.-Lan Boureau, and Jason Weston. 2020. Recipes for building an open-domain chatbot. arXiv:2004.13637 [cs], April. arXiv: 2004.13637. [Facebook AI Blog Post](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot) EACL 2021
 ### 2019
 **Da Ju**, Kurt Shuster, Y.-Lan Boureau, and Jason Weston. 2020. All-in-One Image-Grounded Conversational Agents. arXiv:1912.12394 [cs], January. arXiv: 1912.12394.
 
