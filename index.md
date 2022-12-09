@@ -24,28 +24,31 @@ In 2017, I finished my Master's degree at [Telecom ParisTech](https://www.teleco
 
 ## Publications
 ### 2022
+**D Ju**, S Roller, S Sukhbaatar, J Weston. 2021. Staircase Attention for Recurrent Processing of Sequences. **Selected as Oral**. NeurIPS 2022
+
 **D Ju**, J Xu, YL Boureau, J Weston. 2022. Learning from data in the mixed adversarial non-adversarial case: Finding the helpers and ignoring the trolls.
 
 
 K Shuster, J Xu, M Komeili, **D Ju** (Joint First Author), EM Smith, S Roller, M Ung, M Chen, ... 2022. Blenderbot 3: a deployed conversational agent that continually learns to responsibly engage.[Facebook AI Blog Post](https://ai.facebook.com/blog/blenderbot-3-a-175b-parameter-publicly-available-chatbot-that-improves-its-skills-and-safety-over-time/)
 
 ### 2021
-**D Ju**, S Roller, S Sukhbaatar, J Weston. 2021. Staircase Attention for Recurrent Processing of Sequences. Selected as Oral. NeurIPS 2022
-
 N Goyal, C Gao, V Chaudhary, PJ Chen, G Wenzek, **D Ju**, S Krishnan, ... 2021. The FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation. WMT21@EMNLP 2021
 
 J Xu, **D Ju**, M Li, YL Boureau, J Weston, E Dinan. 2021. Bot-adversarial dialogue for safe conversational agents. NACL 2021
 
 S Sukhbaatar, **D Ju**, S Poff, S Roller, A Szlam, J Weston, A Fan. 2021. Not All Memories are Created Equal: Learning to Forget by Expiring. ICML 2021
+
 ### 2020
 Jing Xu, **Da Ju**, Margaret Li, Y.-Lan Boureau, Jason Weston, and Emily Dinan. 2020. Recipes for Safety in Open-domain Chatbots. arXiv:2010.07079 [cs], October. arXiv: 2010.07079.
 
 Kurt Shuster, Eric Michael Smith, **Da Ju**, and Jason Weston. 2020. Multi-Modal Open-Domain Dialogue. arXiv:2010.01082 [cs], October. arXiv: 2010.01082. EMNLP 2021
 
 Stephen Roller, Emily Dinan, Naman Goyal, **Da Ju**, Mary Williamson, Yinhan Liu, Jing Xu, Myle Ott, Kurt Shuster, Eric M. Smith, Y.-Lan Boureau, and Jason Weston. 2020. Recipes for building an open-domain chatbot. arXiv:2004.13637 [cs], April. arXiv: 2004.13637. [Facebook AI Blog Post](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot) EACL 2021
+
 ### 2019
 **Da Ju**, Kurt Shuster, Y.-Lan Boureau, and Jason Weston. 2020. All-in-One Image-Grounded Conversational Agents. arXiv:1912.12394 [cs], January. arXiv: 1912.12394.
 
 Kurt Shuster, **Da Ju**, Stephen Roller, Emily Dinan, Y.-Lan Boureau, and Jason Weston. 2019. The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents. arXiv:1911.03768 [cs], November. arXiv: 1911.03768. ACL 2020
+
 ### 2018
 Jonas Gehring, **Da Ju**, Vegard Mella, Daniel Gant, Nicolas Usunier, and Gabriel Synnaeve. 2018. High-Level Strategy Selection under Partial Observability in StarCraft: Brood War. arXiv:1811.08568 [cs, stat], November. arXiv: 1811.08568  (RLPO@NeurIPS 2018).
