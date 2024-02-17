@@ -7,13 +7,15 @@ title: Dexter JU's Home Page
 
 <img class="profile-picture" src="profil-photo.jpg">
 
-Hi!  I’m a research engineer at Facebook AI Research. I am part of the [ParlAI](https://parl.ai/) team working on Conversational AI (Blenderbot N+1) and Core ML research. I joined the team in 2018. Prior to that, I received master degree specialized in machine learning from Telecom ParisTech and University Paris 6. Throughout my studies, I am interested in both engineering and AI research.
+Hello! I am currently serving as a Research Engineer at the FAIR team within Meta AI. Since joining the team in 2018, I have had the opportunity to delve into a broad spectrum of AI topics. My work has spanned Reinforcement Learning (RL), Generative Conversational AI (which has now evolved into LLM), Safety and Responsible AI, and Core Machine Learning research.
 
-You may also find me by my legal name **Da JU**. And talk to our [chatbot](https://blenderbot.ai/) here.
+Before joining Meta AI, I earned a Master's degree specializing in Machine Learning from Telecom ParisTech and University Paris 6. My academic journey has always been driven by a keen interest in both engineering and AI research. I am excited to continue exploring these fields and contributing to the advancements in AI technology.
+
+I publish under the name Da JU.
 
 ## Research Interest
 
-NLP, Dialogue
+NLP, GenAI, RAI
 
 ## Academia
 
@@ -23,6 +25,9 @@ In 2017, I finished my Master's degree at [Telecom ParisTech](https://www.teleco
 
 
 ## Publications
+### 2023
+Jing Xu, **Da Ju**, Joshua Lane, Mojtaba Komeili, Eric Michael Smith, Megan Ung, Morteza Behrooz, William Ngan, Rashel Moritz, Sainbayar Sukhbaatar, Y-Lan Boureau, Jason Weston, Kurt Shuster. 2023. Improving Open Language Models by Learning from Organic Interactions.
+
 ### 2022
 **D Ju**, S Roller, S Sukhbaatar, J Weston. 2021. Staircase Attention for Recurrent Processing of Sequences. **Selected as Oral**. NeurIPS 2022
 
