@@ -7,7 +7,8 @@ title: Dexter JU's Home Page
 
 <img class="profile-picture" src="profil-photo.jpg">
 
-Hello! I am currently serving as a Research Engineer at the FAIR team within Meta AI. Since joining the team in 2018, I have had the opportunity to delve into a broad spectrum of AI topics. My work has spanned Reinforcement Learning (RL), Generative Conversational AI (which has now evolved into LLM), Safety and Responsible AI, and Core Machine Learning research.
+Hello! I am currently a Member of Technical Staff at Microsoft AI, where I focus on AI safety for foundational models. Previously, I worked as a Research Scientist on the LLaMA reasoning team at Meta GenAI / Superintelligence Labs, developing reinforcement learning approaches for reasoning models. Earlier in my career, I was a Research Engineer at Facebook AI Research (FAIR).
+Over the years, I have had the opportunity to delve into a broad spectrum of AI topics. My work has spanned Reinforcement Learning (RL), Generative Conversational AI (which has now evolved into LLM), Safety and Responsible AI, and Core Machine Learning research.
 
 Before joining Meta AI, I earned a Master's degree specializing in Machine Learning from Telecom ParisTech and University Paris 6. My academic journey has always been driven by a keen interest in both engineering and AI research. I am excited to continue exploring these fields and contributing to the advancements in AI technology.
 
@@ -25,6 +26,18 @@ In 2017, I finished my Master's degree at [Telecom ParisTech](https://www.teleco
 
 
 ## Publications
+### 2025
+**D Ju**, H Blix, A Williams. 2025. Domain Regeneration: How well do LLMs match syntactic properties of text domains? arXiv preprint arXiv:2505.07784
+
+### 2024
+**D Ju**, A Williams, B Karrer, M Nickel. 2024. Sense and Sensitivity: Evaluating the simulation of social dynamics via Large Language Models. arXiv preprint arXiv:2412.05093
+
+S Jiang, **D Ju**, A Cohen, S Mitts, A Foss, JT Kao, X Li, Y Tian. 2024. Towards full delegation: Designing ideal agentic behaviors for travel planning. arXiv preprint arXiv:2411.13904
+
+**D Ju**, S Jiang, A Cohen, A Foss, S Mitts, A Zharmagambetov, B Amos, X Li, … 2024. To the Globe (TTG): Towards Language-Driven Guaranteed Travel Planning. EMNLP 2024
+
+**D Ju**, K Ulrich, A Williams. 2024. Are Female Carpenters like Blue Bananas? A Corpus Investigation of Occupation Gender Typicality. Findings of the Association for Computational Linguistics ACL 2024
+
 ### 2023
 Jing Xu, **Da Ju**, Joshua Lane, Mojtaba Komeili, Eric Michael Smith, Megan Ung, Morteza Behrooz, William Ngan, Rashel Moritz, Sainbayar Sukhbaatar, Y-Lan Boureau, Jason Weston, Kurt Shuster. 2023. Improving Open Language Models by Learning from Organic Interactions.
 
