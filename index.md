@@ -7,8 +7,9 @@ title: Dexter JU's Home Page
 
 <img class="profile-picture" src="profil-photo.jpg">
 
-Hello! I am currently a Member of Technical Staff at Microsoft AI, where I focus on AI safety for foundational models. Previously, I worked as a Research Scientist on the LLaMA reasoning team at Meta GenAI / Superintelligence Labs, developing reinforcement learning approaches for reasoning models. Earlier in my career, I was a Research Engineer at Facebook AI Research (FAIR).
-Over the years, I have had the opportunity to delve into a broad spectrum of AI topics. My work has spanned Reinforcement Learning (RL), Generative Conversational AI (which has now evolved into LLM), Safety and Responsible AI, and Core Machine Learning research.
+Hello! I am currently a Member of Technical Staff at Microsoft AI, where I focus on AI safety for foundational models. Previously, I worked as a Research Scientist on the LLaMA reasoning team at Meta GenAI / Superintelligence Labs, developing reinforcement learning approaches for reasoning models. Earlier in my career, I was a Research Engineer at Facebook AI Research (FAIR). Where I was part of Gabriel Synnaeve's, Jason Weston's and Yuandong Tian's Team over the years.
+
+Over the years, I have had the opportunity to delve into a broad spectrum of AI topics. My work has spanned Reinforcement Learning (RL), Generative Conversational AI (which has now evolved into LLM), RL Post-training Safety and Responsible AI, and Core Machine Learning research.
 
 Before joining Meta AI, I earned a Master's degree specializing in Machine Learning from Telecom ParisTech and University Paris 6. My academic journey has always been driven by a keen interest in both engineering and AI research. I am excited to continue exploring these fields and contributing to the advancements in AI technology.
 
