@@ -7688,6 +7688,440 @@ Victor Lin at Bryant Park. Listed by DoNYC; check the event or ticket page for c
 
 ## Where to eat
 
+New tables, good-value menus and limited-time treats. Filter by your mood, cuisine or borough, then add a stop to your day.
+
+Dining research: 2026-09-05T16:08:20+00:00
+
+No new NYC Michelin recognition was independently verified in this refresh. Stars, Bib Gourmand and new guide selections are different; a sister restaurant’s award does not transfer to a New York branch. Official guide access limits are listed below.
+
+### Grand Street Summer Restaurant Week is active in East Williamsburg
+
+Deals & happy hours — Grand Street BID participating restaurants
+
+A neighborhood Restaurant Week-style promotion with 22 participating restaurants, including venues on and off Grand Street; useful for discounted lunches and dinners without confusing it with the ended citywide NYC Restaurant Week.
+
+Price: Lunch menus $15-20; dinner menus $22-40  
+Schedule: Through September 10; meal periods and restaurant hours vary  
+Conditions: Ask for the Restaurant Week menu when seated. Tax and tip not included. Individual menus, availability, and reservation needs vary by restaurant.  
+From: 2026-08-27  
+Through: 2026-09-10  
+Published: 2026-08-21  
+[Source](https://www.grandstreetbk.org/blog/srw-2026)
+
+### Ammazzacaffè: neighborhood prix-fixe menus
+
+Deals & happy hours — Ammazzacaffe
+
+Weekend lunch pairs one pasta with a drink. Dinner includes an antipasto, a pasta, and either dessert or amaro.
+
+Price: Weekend lunch $20 · Dinner $40  
+Schedule: August 27–September 10; lunch menu is weekend-only. Confirm service hours.  
+Conditions: Ask for the Restaurant Week menu. Tax and tip extra per the BID promotion page. The linked two-page menu confirms $20/$40; introductory website copy still mentions $35.  
+From: 2026-08-27  
+Through: 2026-09-10  
+Published: 2026-08-21  
+[Source](https://www.grandstreetbk.org/s/srw26-Ammazzacaffe_web.pdf)
+
+### Grand Morelos: $35.99 Restaurant Week dinner
+
+Deals & happy hours — Grand Morelos
+
+A long-running Grand Street-area Latin American restaurant named by the BID as a returning participant in the neighborhood promotion.
+
+Price: Dinner $35.99  
+Schedule: Through September 10; meal periods and restaurant hours vary  
+Conditions: Ask for the Restaurant Week menu. Tax and tip extra; confirm hours, menu choices and reservations.  
+From: 2026-08-27  
+Through: 2026-09-10  
+Published: 2026-08-21  
+[Source](https://www.grandstreetbk.org/blog/srw-2026)
+
+### Desy’s: lunch and dinner prix fixe
+
+Deals & happy hours — Desy's Clam Restaurant
+
+A Grand Street seafood standby is named as a returning participant, useful for a lower-cost neighborhood dinner option if the restaurant week menu is available when seated.
+
+Price: Lunch $20 · Dinner $40  
+Schedule: Through September 10; meal periods and restaurant hours vary  
+Conditions: Ask for the Restaurant Week menu. Tax and tip extra; confirm hours, menu choices and reservations.  
+From: 2026-08-27  
+Through: 2026-09-10  
+Published: 2026-08-21  
+[Source](https://www.grandstreetbk.org/blog/srw-2026)
+
+### Free olive-oil ice cream at McCarren Parkhouse
+
+Pop-ups — McCarren Parkhouse
+
+A short free tasting-style food event flagged by The Skint for early September; useful as a no-cost add-on near North Brooklyn dining plans.
+
+Price: Free  
+Schedule: 2026-09-06 1-3pm; also 2026-09-13 per The Skint  
+Conditions: Availability likely while supplies last; official linked page was Instagram and not independently fetched here. No purchase requirement was stated in The Skint listing.  
+Event date: 2026-09-06  
+[Source](https://www.theskint.com/)
+
+### Our Little Bake Sale fundraiser at Little Island
+
+Pop-ups — Our Little Bake Sale
+
+One-day pastry fundraiser with a clear per-pastry price, useful for a casual sweets stop near the Hudson River park area.
+
+Price: $10 per pastry  
+Schedule: 2026-09-06 3-5pm  
+Conditions: Free admission per The Skint; pastry availability and exact baker lineup unknown. TicketTailor event page returned 403, so only The Skint details were readable.  
+Event date: 2026-09-06  
+[Source](https://www.theskint.com/)
+
+### West Side County Fair with local vendors and cotton candy
+
+Pop-ups — West Side County Fair
+
+A free riverside fair with local vendors and cotton candy, useful for a low-cost daytime food-and-activities stop.
+
+Price: Free admission; vendor prices unknown  
+Schedule: 2026-09-06 1-6pm; rain date 2026-09-13  
+Conditions: Seating limited, unreserved, first-come first-served. Heavy rain can cancel event; official page says to check NYC Parks Summer on the Hudson updates two hours before event. Vendor prices not stated.  
+Event date: 2026-09-06  
+[Source](https://riversideparknyc.org/event/west-side-county-fair-4/)
+
+### Kirbee's brings Texas barbecue pitmaster collaboration to Greenpoint
+
+New openings — Kirbee's
+
+Barbs B Q's Chuck Charnichart and Goldee's Jonny White teamed up on a casual daytime smoked-meats restaurant with separate barbecue plates, including Mexican-spiced brisket, pork ribs with lime zest, green spaghetti, classic brisket, smoked turkey, and puddings.
+
+Schedule: First day limited service 11am-2pm; full opening listed for Labor Day weekend Friday 2026-09-04 through Sunday 2026-09-06; ongoing hours unknown  
+Conditions: Texas-barbecue-style window ordering and likely lines; 24-seat dining room. No reservation information or service charges stated in fetched article.  
+Opened: 2026-08-30  
+[Source](https://ny.eater.com/news/413426/kirbees-nyc-barbecue-restaurant-open-august-2026-barbs-b-q-goldees-chichuck-charnichart-jonny-white)
+
+### Muje opens as a playful Nomad tasting-menu spot from Jungsik Yim
+
+New openings — Muje
+
+Jungsik Yim opened this eight-course tasting-menu restaurant in July, crossing Asian dining styles in a more playful format than his namesake restaurant.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-09-03  
+[Source](https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap#muje)
+
+### Elder: British Indian chops in Hudson Yards
+
+New openings — Elder
+
+Reported opened in August. A British Indian chophouse with spiced steaks, lamb chops and vegetable dishes.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-09-03  
+[Source](https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap#elder)
+
+### Cospa Ramen: a new late-night noodle stop
+
+New openings — Cospa Ramen
+
+Reported opened in August. Thin-noodle ramen with a lighter broth, from the Hand Hospitality team.
+
+Price: Ramen from about $10; additions about $1.50–$5 (reported)  
+Schedule: 10:30am–2am, per Eater; confirm current days/hours  
+Conditions: Walk-ins only and QR-code ordering. This is a regular menu price, not a discount. Tax/tip terms not stated.  
+Published: 2026-09-03  
+[Source](https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap#cospa-ramen)
+
+### El Califa de León lands in Flatiron
+
+New openings — El Califa de Leon
+
+Reported opened in August. Beef and pork tacos on Sobre Masa tortillas, plus a New York-specific vegetarian option. The Mexico City original’s awards do not establish an award for this NYC branch.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-09-03  
+[Source](https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap#el-califa-de-leon-ny)
+
+### Mary’s Fish Camp returns to the West Village
+
+New openings — Mary's Fish Camp
+
+Reported reopened in late July at a new Hudson Street address. Seafood, walk-in seating and reservations; the hot-fudge sundae is back.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-09-03  
+[Source](https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap#marys-fish-camp)
+
+### Hommali: contemporary Thai in the West Village
+
+New openings — Hommali
+
+Reported opened in September. The menu includes dry-aged duck, beef-cheek panang curry and tom yum seafood cocktails.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-09-03  
+[Source](https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap#hommali)
+
+### Pizza 4P’s comes to Greenpoint
+
+New openings — Pizza 4P's
+
+The Vietnam-based chain’s first US location opened over Fourth of July weekend. Japanese-Italian dishes and Neapolitan-style pizzas with global toppings.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-09-03  
+[Source](https://ny.eater.com/maps/best-new-restaurants-brooklyn-heatmap#pizza-4ps)
+
+### Bark Barbecue’s new Bushwick home
+
+New openings — Bark Barbecue
+
+Reported opened in July. Central Texas barbecue with Dominican influences, now in a full indoor-outdoor restaurant.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-09-03  
+[Source](https://ny.eater.com/maps/best-new-restaurants-brooklyn-heatmap#bark-barbecue)
+
+### Grimm Tavern in Prospect Heights
+
+More restaurants — Grimm Tavern
+
+Opened in June, not a brand-new September opening. Tavern dishes including burgers, muffulettas and roast chicken, with Grimm beers.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-09-03  
+[Source](https://ny.eater.com/maps/best-new-restaurants-brooklyn-heatmap#grimm-tavern)
+
+### Frenzie: pizza next door to Confidant
+
+New openings — Frenzie
+
+Reported opened in August in Brooklyn Heights. New York-style pizzas, natural wines and cocktails.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-09-03  
+[Source](https://ny.eater.com/maps/best-new-restaurants-brooklyn-heatmap#frenzie)
+
+### Clay-pot noodle soups at Xiaozhan
+
+More restaurants — Xiaozhan Rice Noodle
+
+A Flushing rice-noodle shop opened in May, not a new September opening. Clay-pot soups, varied broths and a sauce bar; waits can be long.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-08-06  
+[Source](https://ny.eater.com/maps/best-new-queens-restaurants-heatmap#xiaozhan-rice-noodle)
+
+### Japanese American lunch sets at Tomoni
+
+More restaurants — Tomoni
+
+A Woodside restaurant opened in April, not a new September opening. Lunch sets, donburi and dishes including miso-marinated cream cheese.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-08-06  
+[Source](https://ny.eater.com/maps/best-new-queens-restaurants-heatmap#tomoni)
+
+### Turkish American dining at Zara Austin
+
+More restaurants — Zara Austin
+
+A Forest Hills location opened in May, not a new September opening. Grilled meats, spreads, balloon bread and Turkish desserts.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-08-06  
+[Source](https://ny.eater.com/maps/best-new-queens-restaurants-heatmap#zara-austin)
+
+### Daily plov at Registan Plov Center
+
+More restaurants — Registan Plov Center
+
+A Rego Park Uzbek restaurant opened in April, not a new September opening. Daily rice-and-lamb plov, grilled lamb ribs and seasonal kompot.
+
+Conditions: Confirm current menu, opening hours, prices and any reservation requirements with the restaurant.  
+Published: 2026-08-06  
+[Source](https://ny.eater.com/maps/best-new-queens-restaurants-heatmap#registan-plov-center)
+
+### Manhatta: lunch prix fixe extension through September 6
+
+Deals & happy hours — Manhatta
+
+High-floor lunch deal with two- and three-course options; useful because it extends beyond the official NYC Restaurant Week window.
+
+Price: $60 two-course lunch; $70 three-course lunch  
+Schedule: Lunch only, offered 7 days a week July 20-September 6  
+Conditions: Restaurant-owned menu page lists the extension; tax, tip, beverages and service charges not stated on the checked page.  
+From: 2026-07-20  
+Through: 2026-09-06  
+[Source](https://www.manhattarestaurant.com/menus/)
+
+### Fixed-price dinner menus with wine-pairing prices
+
+Special menus — Manhatta
+
+Splurge prix fixe remains useful for planning: three- or four-course dinner with optional wine pairings and a lower-priced bar menu for a lighter visit.
+
+Price: $120 three courses; $148 four courses; wine pairings $75 or $95; bar snacks from $9 and sandwiches/burger around $22-$29  
+Schedule: Dinner schedule not fully stated in extracted menu text  
+Conditions: Official menu prices checked; service, tax, tip and reservation requirements not stated in extracted text.  
+[Source](https://www.manhattarestaurant.com/menus/)
+
+### Ci Siamo: $45 daily lunch prix fixe through September 6
+
+Deals & happy hours — Ci Siamo
+
+Live-fire Italian restaurant lists a Summer Restaurant Week lunch extension: one antipasti and one secondi for a fixed price.
+
+Price: $45 per guest  
+Schedule: July 20-September 6; two-course lunch; available daily  
+Conditions: Official menu says one antipasti and one secondi; tax, tip, beverages and service charges not stated in extracted menu text.  
+From: 2026-07-20  
+Through: 2026-09-06  
+[Source](https://www.cisiamo.com/menus/)
+
+### Le Rock: $45 lunch prix fixe through September 5
+
+Deals & happy hours — Le Rock
+
+Midtown brasserie lists a lunch prix fixe with choices such as chilled corn soup, petite Nicoise salad, agnolotti, skate, duck confit, and poulet vinaigre.
+
+Price: $45 prix fixe lunch  
+Schedule: July 20-September 5; lunch  
+Conditions: Final-day listing on 2026-09-05; confirm availability before going. Source: https://www.lerocknyc.com/menus/  
+From: 2026-07-20  
+Through: 2026-09-05  
+[Source](https://www.lerocknyc.com/menus/)
+
+### Mermaid Oyster Bar: daily happy hour
+
+Deals & happy hours — Mermaid Oyster Bar Times Square
+
+Useful pre-theater seafood stop with a daily happy-hour window on the restaurant-owned location page.
+
+Schedule: Everyday 3:30pm-6:30pm  
+Conditions: Happy-hour prices and item restrictions were not visible in extracted page text; reservation through OpenTable if desired, availability unknown.  
+[Source](https://www.themermaidnyc.com/mermaid-oyster-bar-times-square/)
+
+### Mermaid Inn: weekend Sunset Menu
+
+Deals & happy hours — The Mermaid Inn Upper West Side
+
+Restaurant-owned page lists a bounded late-afternoon Sunset Menu on weekends, useful between brunch and dinner.
+
+Schedule: Saturday-Sunday 2:30pm-4:30pm  
+Conditions: Sunset Menu item prices and restrictions were not visible in extracted page text; reservation availability unknown.  
+[Source](https://www.themermaidnyc.com/the-mermaid-inn-upper-west-side/)
+
+### Daily happy hour at a Brooklyn landmark dining room
+
+Deals & happy hours — Gage & Tollner
+
+Historic Brooklyn restaurant lists daily happy hour, with longer weekend afternoon hours.
+
+Schedule: Monday-Friday 5:00pm-6:00pm; Saturday-Sunday 3:00pm-5:00pm  
+Conditions: Official page links a happy-hour/interim menu PDF, but item prices were not extracted in this run; reservation needs unknown.  
+[Source](https://www.gageandtollner.com/gage-and-tollner-menus/)
+
+### Gage & Tollner: Restaurant Week lunch/dinner extension through September 6
+
+Deals & happy hours — Gage & Tollner
+
+Official menu page lists Restaurant Week running July 20-September 6, with separate dinner and lunch PDFs.
+
+Schedule: July 20-September 6; dinner available Monday-Friday; lunch available Saturday-Sunday  
+Conditions: Price not extracted from official page text; tax, tip, beverages and service charges not stated in extracted text.  
+From: 2026-07-20  
+Through: 2026-09-06  
+[Source](https://www.gageandtollner.com/gage-and-tollner-menus/)
+
+### Celebration cake special-order menu
+
+Special menus — Gage & Tollner
+
+Useful special-occasion add-on: cakes are ordered in advance and served onsite only.
+
+Price: 6-inch $95; 8-inch $145; 10-inch $190  
+Schedule: Requires 72 hours notice  
+Conditions: Onsite only; no outside food; ordering form exists but was not used; large-party prix fixe policies are separate.  
+[Source](https://www.gageandtollner.com/gage-and-tollner-menus/)
+
+### Bottomless brunch add-on with entree purchase
+
+Deals & happy hours — Marseille
+
+Straightforward brunch drink add-on in Theater District/Hell's Kitchen with a stated time limit and purchase requirement.
+
+Price: $25 with purchase of entree  
+Schedule: Brunch 10:00am-3:00pm  
+Conditions: 90-minute dining limit; entree purchase required; listed drinks are Classic Mimosa, Blood Orange Mimosa, Passion Mimosa, Pomegranate Mimosa and Bellini. Tax/tip not stated. Source: https://www.marseillenyc.com/menus/  
+[Source](https://www.marseillenyc.com/menus/)
+
+### Marseille: Summer Restaurant Week extension through Labor Day
+
+Deals & happy hours — Marseille
+
+The restaurant's own menu page listed a Summer Restaurant Week menu continuing through Labor Day, separate from the official citywide end date.
+
+Price: $30 two-course lunch; $45 three-course dinner; lunch dessert supplement $10  
+Schedule: July 20 through Labor Day; lunch Monday-Friday; dinner every day  
+Conditions: Restaurant-posted Summer Restaurant Week menu lists lunch at $30 and dinner at $45; lunch dessert is a $10 supplement. Tax, tip, beverages and service charges not stated. Source: https://www.marseillenyc.com/menus/  
+From: 2026-07-20  
+Through: 2026-09-07  
+[Source](https://www.marseillenyc.com/menus/)
+
+### Sunday roast special menu
+
+Special menus — Hawksmoor New York
+
+Traditional Sunday roast with dry-aged rump, beef-dripping roast potatoes, Yorkshire pudding, carrots, buttered greens, roasted garlic and bone-marrow onion gravy.
+
+Schedule: Sundays 11:45am-4:30pm; kitchen also lists Sunday lunch service 12:00pm-4:30pm  
+Conditions: Price was not visible in accessible page text; booking link present. Source: https://thehawksmoor.com/us/locations/new-york/sunday-roast/  
+[Source](https://thehawksmoor.com/us/locations/new-york/sunday-roast/)
+
+### Greywind: $34 weekend dinner specials
+
+Special menus — Greywind
+
+Dan Kluger's Hudson Yards restaurant lists specific weekend dinner specials: Friday fish and chips with a Greywind Shandy and Saturday fried chicken breast with prosecco.
+
+Price: $34 each  
+Schedule: Friday fish and chips; Saturday fried chicken breast; regular hours are Monday-Friday lunch 11:30am-2:30pm, dinner 5-9pm, happy hour 4-6pm, Saturday 5-9pm, Sunday closed  
+Conditions: Greywind’s location page says it is closed Friday 9/4-Monday 9/7 for Labor Day, so these specials were not available on 2026-09-05; resume only if still listed after reopening. Source: https://www.greywindnyc.com/location/thyme-is-money/ and https://www.greywindnyc.com/menus/  
+[Source](https://www.greywindnyc.com/menus/)
+
+### Spygold shareables and seasonal cocktail menu
+
+More restaurants — Spygold
+
+Official Greywind/Spygold page lists a useful bar-food and cocktail option near Hudson Yards, including shareables and seasonal cocktail families.
+
+Price: Shareables $8-$24; signature cocktails $21; freezer martinis $30; placebos $15  
+Schedule: Monday-Thursday 5:00pm-10:00pm; Friday-Saturday 5:00pm-11:00pm  
+Conditions: Not available during the Labor Day closure: Spygold’s location page says closed Friday 9/4-Monday 9/7. Regular hours are Monday-Thursday 5-10pm and Friday-Saturday 5-11pm; the page also lists a $20 Happy Meal daily 5-7pm and all night Fridays. Source: https://www.greywindnyc.com/location/spygold/ and https://www.greywindnyc.com/menus/  
+[Source](https://www.greywindnyc.com/menus/)
+
+### Crown Shy lunch with prix-fixe availability noted
+
+Special menus — Crown Shy
+
+Official location page shows weekday lunch hours and menu page says a lunch prix fixe is available; useful for FiDi weekday lunch planning.
+
+Price: prix-fixe price unknown; checked lunch items included Ora King salmon $29, chicken kofta $27 and pork katsu sandwich $29  
+Schedule: Lunch Monday-Friday 11:30am-2pm; dinner Monday-Wednesday 5-9:30pm, Thursday-Friday 5-10pm, Saturday 5-10pm, Sunday 5-9:30pm  
+Conditions: Prix-fixe choices and price were not visible in accessible menu text; a la carte lunch item prices are verified. Source: https://www.crownshy.nyc/menus/ and https://www.crownshy.nyc/location/crown-shy/  
+[Source](https://www.crownshy.nyc/menus/)
+
+### The Fulton lower-key lunch and brunch seafood options
+
+More restaurants — The Fulton
+
+Jean-Georges seafood spot has comparatively accessible lunch/brunch choices at the Seaport, including seafood sandwiches and raw bar portions.
+
+Price: Lunch examples: shrimp burger $26, campanelle $26, half-dozen oysters $26, petite seafood plateau $36; brunch half-dozen clams $12  
+Schedule: Lunch Monday-Friday 11:30am-3pm; brunch Saturday-Sunday 11:30am-3pm; dinner daily 5-9pm  
+Conditions: Not a discount or special event; included as current official menu pricing. Tax/tip/service not stated. Source: https://www.thefulton.nyc/menus/ and https://www.thefulton.nyc/location/the-fulton/  
+[Source](https://www.thefulton.nyc/menus/)
+
+### More restaurants
+
 ### [Maison Yaki](https://www.maisonyaki.com/)
 
 French yakitori · $$ · Prospect Heights · Brooklyn · Score 59.0  
