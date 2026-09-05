@@ -95482,5 +95482,1018 @@
       "run": "dining-20260905T160649"
     },
     "stale": false
+  },
+  "public_ratings": {
+    "version": 1,
+    "updated_at": "2026-09-05T16:34:32+00:00",
+    "entries": {
+      "place-7c2ed910838b4481": {
+        "target": {
+          "id": "place-7c2ed910838b4481",
+          "name": "Maison Yaki",
+          "address": "626 Vanderbilt Ave, Brooklyn, NY 11238",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Maison+Yaki%2C+626+Vanderbilt+Ave%2C+Brooklyn%2C+NY+11238%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Maison+Yaki&find_loc=626+Vanderbilt+Ave%2C+Brooklyn%2C+NY+11238%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.2,
+          "count": 266,
+          "checked_at": "2026-09-05T16:22:27.288000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Maison+Yaki%2C+626+Vanderbilt+Ave%2C+Brooklyn%2C+NY+11238%2C+Brooklyn%2C+New+York",
+          "matched_name": "Maison Yaki",
+          "matched_address": "626 Vanderbilt Ave, Brooklyn, NY 11238",
+          "method": "Public browser check",
+          "business_status": "closed"
+        },
+        "yelp": {
+          "status": "blocked",
+          "attempted_at": "2026-09-05T16:30:02+00:00",
+          "detail": "Public request returned HTTP 403; no bypass attempted"
+        }
+      },
+      "place-faf2486e8423d4c3": {
+        "target": {
+          "id": "place-faf2486e8423d4c3",
+          "name": "Ras Plant Based",
+          "address": "739 Franklin Avenue, Brooklyn, NY 11238",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Ras+Plant+Based%2C+739+Franklin+Avenue%2C+Brooklyn%2C+NY+11238%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Ras+Plant+Based&find_loc=739+Franklin+Avenue%2C+Brooklyn%2C+NY+11238%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.8,
+          "count": 1428,
+          "checked_at": "2026-09-05T16:22:29.092000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Ras+Plant+Based%2C+739+Franklin+Avenue%2C+Brooklyn%2C+NY+11238%2C+Brooklyn%2C+New+York",
+          "matched_name": "RAS Plant Based",
+          "matched_address": "739 Franklin Ave, Brooklyn, NY 11238",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-aa0541885a2b2239": {
+        "target": {
+          "id": "place-aa0541885a2b2239",
+          "name": "Leland Eating and Drinking House",
+          "address": "755 Dean St, Brooklyn, NY 11238",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Leland+Eating+and+Drinking+House%2C+755+Dean+St%2C+Brooklyn%2C+NY+11238%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Leland+Eating+and+Drinking+House&find_loc=755+Dean+St%2C+Brooklyn%2C+NY+11238%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.7,
+          "count": 723,
+          "checked_at": "2026-09-05T16:22:30.476000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Leland+Eating+and+Drinking+House%2C+755+Dean+St%2C+Brooklyn%2C+NY+11238%2C+Brooklyn%2C+New+York",
+          "matched_name": "Leland Eating and Drinking House",
+          "matched_address": "755 Dean St, Brooklyn, NY 11238",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-6917f81cdc9f2ed0": {
+        "target": {
+          "id": "place-6917f81cdc9f2ed0",
+          "name": "Gage & Tollner",
+          "address": "372 Fulton Street, Brooklyn, NY 11201",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Gage+%26+Tollner%2C+372+Fulton+Street%2C+Brooklyn%2C+NY+11201%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Gage+%26+Tollner&find_loc=372+Fulton+Street%2C+Brooklyn%2C+NY+11201%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.3,
+          "count": 1386,
+          "checked_at": "2026-09-05T16:22:31.849000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Gage+%26+Tollner%2C+372+Fulton+Street%2C+Brooklyn%2C+NY+11201%2C+Brooklyn%2C+New+York",
+          "matched_name": "Gage & Tollner",
+          "matched_address": "372 Fulton St, Brooklyn, NY 11201",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-4412afc7138dcf84": {
+        "target": {
+          "id": "place-4412afc7138dcf84",
+          "name": "Sailor",
+          "address": "228 DeKalb Avenue, Brooklyn, NY 11205",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Sailor%2C+228+DeKalb+Avenue%2C+Brooklyn%2C+NY+11205%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Sailor&find_loc=228+DeKalb+Avenue%2C+Brooklyn%2C+NY+11205%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.4,
+          "count": 490,
+          "checked_at": "2026-09-05T16:22:33.196000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Sailor%2C+228+DeKalb+Avenue%2C+Brooklyn%2C+NY+11205%2C+Brooklyn%2C+New+York",
+          "matched_name": "Sailor",
+          "matched_address": "228 Dekalb Ave, Brooklyn, NY 11205",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-e7de02cb3d6e73eb": {
+        "target": {
+          "id": "place-e7de02cb3d6e73eb",
+          "name": "Theodora",
+          "address": "7 Greene Ave, Brooklyn, NY 11238",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Theodora%2C+7+Greene+Ave%2C+Brooklyn%2C+NY+11238%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Theodora&find_loc=7+Greene+Ave%2C+Brooklyn%2C+NY+11238%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.6,
+          "count": 782,
+          "checked_at": "2026-09-05T16:22:46.412000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Theodora%2C+7+Greene+Ave%2C+Brooklyn%2C+NY+11238%2C+Brooklyn%2C+New+York",
+          "matched_name": "Theodora",
+          "matched_address": "7 Greene Ave, Brooklyn, NY 11238",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-e975ed3f91835bc1": {
+        "target": {
+          "id": "place-e975ed3f91835bc1",
+          "name": "Superiority Burger",
+          "address": "119 Avenue A, New York, NY 10009",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Superiority+Burger%2C+119+Avenue+A%2C+New+York%2C+NY+10009%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Superiority+Burger&find_loc=119+Avenue+A%2C+New+York%2C+NY+10009%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.3,
+          "count": 1890,
+          "checked_at": "2026-09-05T16:22:47.855000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Superiority+Burger%2C+119+Avenue+A%2C+New+York%2C+NY+10009%2C+Manhattan%2C+New+York",
+          "matched_name": "Superiority Burger",
+          "matched_address": "119 Avenue A, New York, NY 10009",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-347d1a9740fc3892": {
+        "target": {
+          "id": "place-347d1a9740fc3892",
+          "name": "Dhamaka",
+          "address": "119 Delancey St, New York, NY 10002",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Dhamaka%2C+119+Delancey+St%2C+New+York%2C+NY+10002%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Dhamaka&find_loc=119+Delancey+St%2C+New+York%2C+NY+10002%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.5,
+          "count": 3755,
+          "checked_at": "2026-09-05T16:22:49.220000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Dhamaka%2C+119+Delancey+St%2C+New+York%2C+NY+10002%2C+Manhattan%2C+New+York",
+          "matched_name": "Dhamaka",
+          "matched_address": "119 Delancey St, New York, NY 10002",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-cf58ba961fdeaaf5": {
+        "target": {
+          "id": "place-cf58ba961fdeaaf5",
+          "name": "Cafe Spaghetti",
+          "address": "126 Union St, Brooklyn, NY 11231",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Cafe+Spaghetti%2C+126+Union+St%2C+Brooklyn%2C+NY+11231%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Cafe+Spaghetti&find_loc=126+Union+St%2C+Brooklyn%2C+NY+11231%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.7,
+          "count": 633,
+          "checked_at": "2026-09-05T16:22:50.716000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Cafe+Spaghetti%2C+126+Union+St%2C+Brooklyn%2C+NY+11231%2C+Brooklyn%2C+New+York",
+          "matched_name": "Cafe Spaghetti",
+          "matched_address": "126 Union St, Brooklyn, NY 11231",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-9d816cfe9b7ff34c": {
+        "target": {
+          "id": "place-9d816cfe9b7ff34c",
+          "name": "Thai Diner",
+          "address": "186 Mott St, New York, NY 10012",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Thai+Diner%2C+186+Mott+St%2C+New+York%2C+NY+10012%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Thai+Diner&find_loc=186+Mott+St%2C+New+York%2C+NY+10012%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.4,
+          "count": 3055,
+          "checked_at": "2026-09-05T16:22:52.177000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Thai+Diner%2C+186+Mott+St%2C+New+York%2C+NY+10012%2C+Manhattan%2C+New+York",
+          "matched_name": "Thai Diner",
+          "matched_address": "186 Mott St, New York, NY 10012",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-10662c141c007ba0": {
+        "target": {
+          "id": "place-10662c141c007ba0",
+          "name": "Ci Siamo",
+          "address": "440 W 33rd St, New York, NY 10001",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Ci+Siamo%2C+440+W+33rd+St%2C+New+York%2C+NY+10001%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Ci+Siamo&find_loc=440+W+33rd+St%2C+New+York%2C+NY+10001%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.6,
+          "count": 2421,
+          "checked_at": "2026-09-05T16:22:53.533000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Ci+Siamo%2C+440+W+33rd+St%2C+New+York%2C+NY+10001%2C+Manhattan%2C+New+York",
+          "matched_name": "Ci Siamo",
+          "matched_address": "440 W 33rd St Ste 100, New York, NY 10001",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-5517902a7f00fb5e": {
+        "target": {
+          "id": "place-5517902a7f00fb5e",
+          "name": "Txikito",
+          "address": "240 9th Ave, New York, NY 10001",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Txikito%2C+240+9th+Ave%2C+New+York%2C+NY+10001%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Txikito&find_loc=240+9th+Ave%2C+New+York%2C+NY+10001%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.4,
+          "count": 608,
+          "checked_at": "2026-09-05T16:22:54.785000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Txikito%2C+240+9th+Ave%2C+New+York%2C+NY+10001%2C+Manhattan%2C+New+York",
+          "matched_name": "Txikito",
+          "matched_address": "240 9th Ave, New York, NY 10001",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-7aad71fac8981e36": {
+        "target": {
+          "id": "place-7aad71fac8981e36",
+          "name": "Kiki's",
+          "address": "130 Division St, New York, NY 10002",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Kiki%27s%2C+130+Division+St%2C+New+York%2C+NY+10002%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Kiki%27s&find_loc=130+Division+St%2C+New+York%2C+NY+10002%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.4,
+          "count": 2560,
+          "checked_at": "2026-09-05T16:23:04.706000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Kiki%27s%2C+130+Division+St%2C+New+York%2C+NY+10002%2C+Manhattan%2C+New+York",
+          "matched_name": "Kiki's",
+          "matched_address": "130 Division St, New York, NY 10002",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-c5f189e49646c62e": {
+        "target": {
+          "id": "place-c5f189e49646c62e",
+          "name": "Winner",
+          "address": "367 7th Avenue, Brooklyn, NY 11215",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Winner%2C+367+7th+Avenue%2C+Brooklyn%2C+NY+11215%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Winner&find_loc=367+7th+Avenue%2C+Brooklyn%2C+NY+11215%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.4,
+          "count": 574,
+          "checked_at": "2026-09-05T16:23:05.986000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Winner%2C+367+7th+Avenue%2C+Brooklyn%2C+NY+11215%2C+Brooklyn%2C+New+York",
+          "matched_name": "WINNER",
+          "matched_address": "367 7th Ave, Brooklyn, NY 11215",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-f963f0f655bb4d9d": {
+        "target": {
+          "id": "place-f963f0f655bb4d9d",
+          "name": "AL VOLO PIER 57",
+          "address": "25 11 AVENUE, NY 10011",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=AL+VOLO+PIER+57%2C+25+11+AVENUE%2C+NY+10011%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=AL+VOLO+PIER+57&find_loc=25+11+AVENUE%2C+NY+10011%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.5,
+          "count": 22,
+          "checked_at": "2026-09-05T16:23:07.300000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=AL+VOLO+PIER+57%2C+25+11+AVENUE%2C+NY+10011%2C+Manhattan%2C+New+York",
+          "matched_name": "Al Volo - Italian Sandwiches & Pasta | Pier 57",
+          "matched_address": "25 11th Ave Al Volo, New York, NY 10011",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-038171696057db7e": {
+        "target": {
+          "id": "place-038171696057db7e",
+          "name": "FROZEN PALM",
+          "address": "770 BROADWAY, NY 10003",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=FROZEN+PALM%2C+770+BROADWAY%2C+NY+10003%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=FROZEN+PALM&find_loc=770+BROADWAY%2C+NY+10003%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "unavailable",
+          "attempted_at": "2026-09-05T16:23:08.982Z",
+          "detail": "No confidently matched public rating"
+        }
+      },
+      "place-512137e5c931c24b": {
+        "target": {
+          "id": "place-512137e5c931c24b",
+          "name": "Ammazzacaffe",
+          "address": "702 Grand Street, Brooklyn",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Ammazzacaffe%2C+702+Grand+Street%2C+Brooklyn%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Ammazzacaffe&find_loc=702+Grand+Street%2C+Brooklyn%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.4,
+          "count": 625,
+          "checked_at": "2026-09-05T16:23:10.056000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Ammazzacaffe%2C+702+Grand+Street%2C+Brooklyn%2C+Brooklyn%2C+New+York",
+          "matched_name": "Ammazzacaffè",
+          "matched_address": "702 Grand St, Brooklyn, NY 11211",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-fefea3319aee88a3": {
+        "target": {
+          "id": "place-fefea3319aee88a3",
+          "name": "Grand Morelos",
+          "address": "727 Grand Street, Brooklyn",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Grand+Morelos%2C+727+Grand+Street%2C+Brooklyn%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Grand+Morelos&find_loc=727+Grand+Street%2C+Brooklyn%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.1,
+          "count": 890,
+          "checked_at": "2026-09-05T16:23:11.326000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Grand+Morelos%2C+727+Grand+Street%2C+Brooklyn%2C+Brooklyn%2C+New+York",
+          "matched_name": "Grand Morelos",
+          "matched_address": "727 Grand St, Brooklyn, NY 11211",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-d32b60d7d96eea07": {
+        "target": {
+          "id": "place-d32b60d7d96eea07",
+          "name": "Desy's Clam Restaurant",
+          "address": "672 Grand Street, Brooklyn",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Desy%27s+Clam+Restaurant%2C+672+Grand+Street%2C+Brooklyn%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Desy%27s+Clam+Restaurant&find_loc=672+Grand+Street%2C+Brooklyn%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.4,
+          "count": 396,
+          "checked_at": "2026-09-05T16:23:12.481000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Desy%27s+Clam+Restaurant%2C+672+Grand+Street%2C+Brooklyn%2C+Brooklyn%2C+New+York",
+          "matched_name": "Desy's Clam",
+          "matched_address": "672 Grand St, Brooklyn, NY 11211",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-c913ca321738e855": {
+        "target": {
+          "id": "place-c913ca321738e855",
+          "name": "Kirbee's",
+          "address": "55 McGuinness Boulevard South, Brooklyn",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Kirbee%27s%2C+55+McGuinness+Boulevard+South%2C+Brooklyn%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Kirbee%27s&find_loc=55+McGuinness+Boulevard+South%2C+Brooklyn%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.6,
+          "count": 19,
+          "checked_at": "2026-09-05T16:23:34.080000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Kirbee%27s%2C+55+McGuinness+Boulevard+South%2C+Brooklyn%2C+Brooklyn%2C+New+York",
+          "matched_name": "Kirbee's",
+          "matched_address": "55 McGuinness Blvd S, Brooklyn, NY 11222",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-cf19f16d7ef521b0": {
+        "target": {
+          "id": "place-cf19f16d7ef521b0",
+          "name": "Muje",
+          "address": "151 W 30th St, New York, NY, 10001, US",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Muje%2C+151+W+30th+St%2C+New+York%2C+NY%2C+10001%2C+US%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Muje&find_loc=151+W+30th+St%2C+New+York%2C+NY%2C+10001%2C+US%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.7,
+          "count": 43,
+          "checked_at": "2026-09-05T16:23:35.220000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Muje%2C+151+W+30th+St%2C+New+York%2C+NY%2C+10001%2C+US%2C+Manhattan%2C+New+York",
+          "matched_name": "MUJE",
+          "matched_address": "151 W 30th St, New York, NY 10001",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-ab4104c70d19a310": {
+        "target": {
+          "id": "place-ab4104c70d19a310",
+          "name": "Elder",
+          "address": "517 West 38th Street, New York, New York 10018, United States",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Elder%2C+517+West+38th+Street%2C+New+York%2C+New+York+10018%2C+United+States%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Elder&find_loc=517+West+38th+Street%2C+New+York%2C+New+York+10018%2C+United+States%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.7,
+          "count": 24,
+          "checked_at": "2026-09-05T16:23:36.376000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Elder%2C+517+West+38th+Street%2C+New+York%2C+New+York+10018%2C+United+States%2C+Manhattan%2C+New+York",
+          "matched_name": "Elder",
+          "matched_address": "517 W 38th St, New York, NY 10018",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-de1b94a924a31879": {
+        "target": {
+          "id": "place-de1b94a924a31879",
+          "name": "Cospa Ramen",
+          "address": "36 West 26th Street, New York, New York 10010, United States",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Cospa+Ramen%2C+36+West+26th+Street%2C+New+York%2C+New+York+10010%2C+United+States%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Cospa+Ramen&find_loc=36+West+26th+Street%2C+New+York%2C+New+York+10010%2C+United+States%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.8,
+          "count": 89,
+          "checked_at": "2026-09-05T16:23:37.504000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Cospa+Ramen%2C+36+West+26th+Street%2C+New+York%2C+New+York+10010%2C+United+States%2C+Manhattan%2C+New+York",
+          "matched_name": "Cospa Ramen",
+          "matched_address": "36 W 26th St, New York, NY 10010",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-7d5a5cf88e69f217": {
+        "target": {
+          "id": "place-7d5a5cf88e69f217",
+          "name": "El Califa de Leon",
+          "address": "20 West 23rd Street, New York, New York 10010, United States",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=El+Califa+de+Leon%2C+20+West+23rd+Street%2C+New+York%2C+New+York+10010%2C+United+States%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=El+Califa+de+Leon&find_loc=20+West+23rd+Street%2C+New+York%2C+New+York+10010%2C+United+States%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 3.5,
+          "count": 83,
+          "checked_at": "2026-09-05T16:23:38.713000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=El+Califa+de+Leon%2C+20+West+23rd+Street%2C+New+York%2C+New+York+10010%2C+United+States%2C+Manhattan%2C+New+York",
+          "matched_name": "El Califa de León",
+          "matched_address": "20 W 23rd St, New York, NY 10010",
+          "method": "Public browser check",
+          "business_status": "temporary_closed"
+        }
+      },
+      "place-85ef3f1221332ff0": {
+        "target": {
+          "id": "place-85ef3f1221332ff0",
+          "name": "Mary's Fish Camp",
+          "address": "626 Hudson Street, New York, New York 10014, United States",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Mary%27s+Fish+Camp%2C+626+Hudson+Street%2C+New+York%2C+New+York+10014%2C+United+States%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Mary%27s+Fish+Camp&find_loc=626+Hudson+Street%2C+New+York%2C+New+York+10014%2C+United+States%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.4,
+          "count": 482,
+          "checked_at": "2026-09-05T16:23:39.943000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Mary%27s+Fish+Camp%2C+626+Hudson+Street%2C+New+York%2C+New+York+10014%2C+United+States%2C+Manhattan%2C+New+York",
+          "matched_name": "Mary's Fish Camp",
+          "matched_address": "626 Hudson St, New York, NY 10014",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-ab07fe16d4980d96": {
+        "target": {
+          "id": "place-ab07fe16d4980d96",
+          "name": "Hommali",
+          "address": "28 7th Avenue South, New York, New York 10014, United States",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Hommali%2C+28+7th+Avenue+South%2C+New+York%2C+New+York+10014%2C+United+States%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Hommali&find_loc=28+7th+Avenue+South%2C+New+York%2C+New+York+10014%2C+United+States%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 5.0,
+          "count": 10,
+          "checked_at": "2026-09-05T16:23:41.125000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Hommali%2C+28+7th+Avenue+South%2C+New+York%2C+New+York+10014%2C+United+States%2C+Manhattan%2C+New+York",
+          "matched_name": "Hommali",
+          "matched_address": "28 7th Ave S, New York, NY 10014",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-88219114a34d8b16": {
+        "target": {
+          "id": "place-88219114a34d8b16",
+          "name": "Pizza 4P's",
+          "address": "38 Norman Ave, Brooklyn, NY, 11222, US",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Pizza+4P%27s%2C+38+Norman+Ave%2C+Brooklyn%2C+NY%2C+11222%2C+US%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Pizza+4P%27s&find_loc=38+Norman+Ave%2C+Brooklyn%2C+NY%2C+11222%2C+US%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.4,
+          "count": 94,
+          "checked_at": "2026-09-05T16:24:02.993000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Pizza+4P%27s%2C+38+Norman+Ave%2C+Brooklyn%2C+NY%2C+11222%2C+US%2C+Brooklyn%2C+New+York",
+          "matched_name": "Pizza 4P's Brooklyn",
+          "matched_address": "38 Norman Ave, Brooklyn, NY 11222",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-f788dafb78ba311b": {
+        "target": {
+          "id": "place-f788dafb78ba311b",
+          "name": "Bark Barbecue",
+          "address": "25 Thames Street, Brooklyn, New York 11206, United States",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Bark+Barbecue%2C+25+Thames+Street%2C+Brooklyn%2C+New+York+11206%2C+United+States%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Bark+Barbecue&find_loc=25+Thames+Street%2C+Brooklyn%2C+New+York+11206%2C+United+States%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.5,
+          "count": 171,
+          "checked_at": "2026-09-05T16:24:04.254000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Bark+Barbecue%2C+25+Thames+Street%2C+Brooklyn%2C+New+York+11206%2C+United+States%2C+Brooklyn%2C+New+York",
+          "matched_name": "Bark Barbecue",
+          "matched_address": "25 Thames St, Brooklyn, NY 11206",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-7a07db10e5d6a675": {
+        "target": {
+          "id": "place-7a07db10e5d6a675",
+          "name": "Grimm Tavern",
+          "address": "659 Vanderbilt Ave, Brooklyn, NY, 11238, US",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Grimm+Tavern%2C+659+Vanderbilt+Ave%2C+Brooklyn%2C+NY%2C+11238%2C+US%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Grimm+Tavern&find_loc=659+Vanderbilt+Ave%2C+Brooklyn%2C+NY%2C+11238%2C+US%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.5,
+          "count": 48,
+          "checked_at": "2026-09-05T16:24:05.379000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Grimm+Tavern%2C+659+Vanderbilt+Ave%2C+Brooklyn%2C+NY%2C+11238%2C+US%2C+Brooklyn%2C+New+York",
+          "matched_name": "Grimm Tavern",
+          "matched_address": "659 Vanderbilt Ave, Brooklyn, NY 11238",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-531dee5f85564ffb": {
+        "target": {
+          "id": "place-531dee5f85564ffb",
+          "name": "Frenzie",
+          "address": "129 Atlantic Avenue, Brooklyn, New York 11201, United States",
+          "borough": "Brooklyn",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Frenzie%2C+129+Atlantic+Avenue%2C+Brooklyn%2C+New+York+11201%2C+United+States%2C+Brooklyn%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Frenzie&find_loc=129+Atlantic+Avenue%2C+Brooklyn%2C+New+York+11201%2C+United+States%2C+Brooklyn%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.9,
+          "count": 66,
+          "checked_at": "2026-09-05T16:24:06.514000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Frenzie%2C+129+Atlantic+Avenue%2C+Brooklyn%2C+New+York+11201%2C+United+States%2C+Brooklyn%2C+New+York",
+          "matched_name": "Frenzie Wine & Pizza",
+          "matched_address": "129 Atlantic Ave, Brooklyn, NY 11201",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-cd19e54fbfe8f6c0": {
+        "target": {
+          "id": "place-cd19e54fbfe8f6c0",
+          "name": "Xiaozhan Rice Noodle",
+          "address": "135-38 39th Avenue, Flushing, New York 11354, United States",
+          "borough": "Queens",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Xiaozhan+Rice+Noodle%2C+135-38+39th+Avenue%2C+Flushing%2C+New+York+11354%2C+United+States%2C+Queens%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Xiaozhan+Rice+Noodle&find_loc=135-38+39th+Avenue%2C+Flushing%2C+New+York+11354%2C+United+States%2C+Queens%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "unavailable",
+          "attempted_at": "2026-09-05T16:24:07.607Z",
+          "detail": "No confidently matched public rating"
+        }
+      },
+      "place-d2902cdd744a106b": {
+        "target": {
+          "id": "place-d2902cdd744a106b",
+          "name": "Tomoni",
+          "address": "65-25 Roosevelt Ave, Woodside, NY, 11377, US",
+          "borough": "Queens",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Tomoni%2C+65-25+Roosevelt+Ave%2C+Woodside%2C+NY%2C+11377%2C+US%2C+Queens%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Tomoni&find_loc=65-25+Roosevelt+Ave%2C+Woodside%2C+NY%2C+11377%2C+US%2C+Queens%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.9,
+          "count": 388,
+          "checked_at": "2026-09-05T16:24:08.799000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Tomoni%2C+65-25+Roosevelt+Ave%2C+Woodside%2C+NY%2C+11377%2C+US%2C+Queens%2C+New+York",
+          "matched_name": "Tomoni",
+          "matched_address": "65-25 Roosevelt Ave, Woodside, NY 11377",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-377fe1c52ad096c0": {
+        "target": {
+          "id": "place-377fe1c52ad096c0",
+          "name": "Zara Austin",
+          "address": "70-00 Austin Street, Forest Hills, New York 11375, United States",
+          "borough": "Queens",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Zara+Austin%2C+70-00+Austin+Street%2C+Forest+Hills%2C+New+York+11375%2C+United+States%2C+Queens%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Zara+Austin&find_loc=70-00+Austin+Street%2C+Forest+Hills%2C+New+York+11375%2C+United+States%2C+Queens%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.6,
+          "count": 343,
+          "checked_at": "2026-09-05T16:24:09.966000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Zara+Austin%2C+70-00+Austin+Street%2C+Forest+Hills%2C+New+York+11375%2C+United+States%2C+Queens%2C+New+York",
+          "matched_name": "Zara Austin - Mediterranean Restaurant",
+          "matched_address": "70-00 Austin St, Forest Hills, NY 11375",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-3ea3ea7924e694c9": {
+        "target": {
+          "id": "place-3ea3ea7924e694c9",
+          "name": "Registan Plov Center",
+          "address": "63-24 99th Street, Rego Park, New York 11374, United States",
+          "borough": "Queens",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Registan+Plov+Center%2C+63-24+99th+Street%2C+Rego+Park%2C+New+York+11374%2C+United+States%2C+Queens%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Registan+Plov+Center&find_loc=63-24+99th+Street%2C+Rego+Park%2C+New+York+11374%2C+United+States%2C+Queens%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "unavailable",
+          "attempted_at": "2026-09-05T16:24:11.135Z",
+          "detail": "No confidently matched public rating"
+        }
+      },
+      "place-b20a37e72f29c424": {
+        "target": {
+          "id": "place-b20a37e72f29c424",
+          "name": "Manhatta",
+          "address": "28 Liberty Street, 60th Floor, New York, NY 10005",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Manhatta%2C+28+Liberty+Street%2C+60th+Floor%2C+New+York%2C+NY+10005%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Manhatta&find_loc=28+Liberty+Street%2C+60th+Floor%2C+New+York%2C+NY+10005%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.7,
+          "count": 4033,
+          "checked_at": "2026-09-05T16:24:23.767000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Manhatta%2C+28+Liberty+Street%2C+60th+Floor%2C+New+York%2C+NY+10005%2C+Manhattan%2C+New+York",
+          "matched_name": "Manhatta",
+          "matched_address": "28 Liberty St 60th floor, New York, NY 10005",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-78d86ddb9bf7c89e": {
+        "target": {
+          "id": "place-78d86ddb9bf7c89e",
+          "name": "Le Rock",
+          "address": "45 Rockefeller Plaza, New York, NY 10111",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Le+Rock%2C+45+Rockefeller+Plaza%2C+New+York%2C+NY+10111%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Le+Rock&find_loc=45+Rockefeller+Plaza%2C+New+York%2C+NY+10111%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.3,
+          "count": 356,
+          "checked_at": "2026-09-05T16:24:24.920000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Le+Rock%2C+45+Rockefeller+Plaza%2C+New+York%2C+NY+10111%2C+Manhattan%2C+New+York",
+          "matched_name": "Le Rock",
+          "matched_address": "45 Rockefeller Plaza, New York, NY 10111",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-a4a4b1b288c9fdf5": {
+        "target": {
+          "id": "place-a4a4b1b288c9fdf5",
+          "name": "Mermaid Oyster Bar Times Square",
+          "address": "127 W 43rd Street, New York, NY 10036",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Mermaid+Oyster+Bar+Times+Square%2C+127+W+43rd+Street%2C+New+York%2C+NY+10036%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Mermaid+Oyster+Bar+Times+Square&find_loc=127+W+43rd+Street%2C+New+York%2C+NY+10036%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.5,
+          "count": 619,
+          "checked_at": "2026-09-05T16:24:26.229000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Mermaid+Oyster+Bar+Times+Square%2C+127+W+43rd+Street%2C+New+York%2C+NY+10036%2C+Manhattan%2C+New+York",
+          "matched_name": "Mermaid Oyster Bar Times Square",
+          "matched_address": "127 W 43rd St, New York, NY 10036",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-8b76d0a0991ea5f9": {
+        "target": {
+          "id": "place-8b76d0a0991ea5f9",
+          "name": "The Mermaid Inn Upper West Side",
+          "address": "335 Columbus Ave, New York, NY 10023",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=The+Mermaid+Inn+Upper+West+Side%2C+335+Columbus+Ave%2C+New+York%2C+NY+10023%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=The+Mermaid+Inn+Upper+West+Side&find_loc=335+Columbus+Ave%2C+New+York%2C+NY+10023%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.7,
+          "count": 560,
+          "checked_at": "2026-09-05T16:24:27.421000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=The+Mermaid+Inn+Upper+West+Side%2C+335+Columbus+Ave%2C+New+York%2C+NY+10023%2C+Manhattan%2C+New+York",
+          "matched_name": "The Mermaid Inn",
+          "matched_address": "335 Columbus Ave, New York, NY 10023",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-c81acfc5d4542b76": {
+        "target": {
+          "id": "place-c81acfc5d4542b76",
+          "name": "Marseille",
+          "address": "630 9th Ave, New York, NY 10036",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Marseille%2C+630+9th+Ave%2C+New+York%2C+NY+10036%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Marseille&find_loc=630+9th+Ave%2C+New+York%2C+NY+10036%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.7,
+          "count": 6205,
+          "checked_at": "2026-09-05T16:24:28.633000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Marseille%2C+630+9th+Ave%2C+New+York%2C+NY+10036%2C+Manhattan%2C+New+York",
+          "matched_name": "Marseille",
+          "matched_address": "630 9th Ave, New York, NY 10036",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-591319ac86915009": {
+        "target": {
+          "id": "place-591319ac86915009",
+          "name": "Hawksmoor New York",
+          "address": "109 E 22nd St, New York, NY 10010",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Hawksmoor+New+York%2C+109+E+22nd+St%2C+New+York%2C+NY+10010%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Hawksmoor+New+York&find_loc=109+E+22nd+St%2C+New+York%2C+NY+10010%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.4,
+          "count": 2224,
+          "checked_at": "2026-09-05T16:24:30.003000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Hawksmoor+New+York%2C+109+E+22nd+St%2C+New+York%2C+NY+10010%2C+Manhattan%2C+New+York",
+          "matched_name": "Hawksmoor NYC",
+          "matched_address": "109 E 22nd St, New York, NY 10010",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-e6a55757f6f417a1": {
+        "target": {
+          "id": "place-e6a55757f6f417a1",
+          "name": "Greywind",
+          "address": "451 Tenth Ave, New York, NY 10018",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Greywind%2C+451+Tenth+Ave%2C+New+York%2C+NY+10018%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Greywind&find_loc=451+Tenth+Ave%2C+New+York%2C+NY+10018%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.6,
+          "count": 417,
+          "checked_at": "2026-09-05T16:24:31.256000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Greywind%2C+451+Tenth+Ave%2C+New+York%2C+NY+10018%2C+Manhattan%2C+New+York",
+          "matched_name": "Greywind",
+          "matched_address": "451 10th Ave, New York, NY 10018",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-39aa0231a5f69b34": {
+        "target": {
+          "id": "place-39aa0231a5f69b34",
+          "name": "Spygold",
+          "address": "451 Tenth Ave, New York, NY 10018",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Spygold%2C+451+Tenth+Ave%2C+New+York%2C+NY+10018%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Spygold&find_loc=451+Tenth+Ave%2C+New+York%2C+NY+10018%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.4,
+          "count": 79,
+          "checked_at": "2026-09-05T16:24:32.516000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Spygold%2C+451+Tenth+Ave%2C+New+York%2C+NY+10018%2C+Manhattan%2C+New+York",
+          "matched_name": "Spygold",
+          "matched_address": "451 10th Ave, New York, NY 10018",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-424e695669539abd": {
+        "target": {
+          "id": "place-424e695669539abd",
+          "name": "Crown Shy",
+          "address": "70 Pine St, New York, NY 10005",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=Crown+Shy%2C+70+Pine+St%2C+New+York%2C+NY+10005%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=Crown+Shy&find_loc=70+Pine+St%2C+New+York%2C+NY+10005%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.5,
+          "count": 1947,
+          "checked_at": "2026-09-05T16:24:33.717000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=Crown+Shy%2C+70+Pine+St%2C+New+York%2C+NY+10005%2C+Manhattan%2C+New+York",
+          "matched_name": "Crown Shy",
+          "matched_address": "70 Pine St, New York, NY 10005",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      },
+      "place-9faf185d1861d506": {
+        "target": {
+          "id": "place-9faf185d1861d506",
+          "name": "The Fulton",
+          "address": "89 South St, New York, NY 10038",
+          "borough": "Manhattan",
+          "links": {
+            "google": "https://www.google.com/maps/search/?api=1&query=The+Fulton%2C+89+South+St%2C+New+York%2C+NY+10038%2C+Manhattan%2C+New+York",
+            "yelp": "https://www.yelp.com/search?find_desc=The+Fulton&find_loc=89+South+St%2C+New+York%2C+NY+10038%2C+Manhattan%2C+New+York"
+          }
+        },
+        "google": {
+          "status": "ok",
+          "rating": 4.1,
+          "count": 1367,
+          "checked_at": "2026-09-05T16:24:34.960000+00:00",
+          "url": "https://www.google.com/maps/search/?api=1&query=The+Fulton%2C+89+South+St%2C+New+York%2C+NY+10038%2C+Manhattan%2C+New+York",
+          "matched_name": "The Fulton by Jean-Georges",
+          "matched_address": "Northeast corner of Pier 17, 89 South St, New York, NY 10038",
+          "method": "Public browser check",
+          "business_status": ""
+        }
+      }
+    },
+    "providers": {
+      "yelp": {
+        "status": "blocked",
+        "attempted_at": "2026-09-05T16:30:02+00:00",
+        "detail": "Public request returned HTTP 403; no bypass attempted"
+      }
+    },
+    "attempted_this_run": 0
   }
 }
