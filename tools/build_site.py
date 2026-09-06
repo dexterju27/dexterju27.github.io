@@ -4,7 +4,7 @@ from pathlib import Path
 from string import Template
 from html import escape
 from urllib.parse import urlsplit
-import argparse,json,re
+import argparse,hashlib,json,re
 ROOT=Path(__file__).resolve().parents[1]
 TOPICS={'safety':'Safety & alignment','planning':'Reasoning & planning','dialogue':'Dialogue','evaluation':'Evaluation','architectures':'Architectures'}
 DESCRIPTION='Da (Dexter) Ju works on AI safety and reasoning at Microsoft AI. Previously Meta Superintelligence Labs (MSL) and FAIR (Facebook AI Research). Research, publications, and personal projects.'
@@ -77,9 +77,11 @@ def build(check=False):
     contact=(ROOT/'tools/templates/contact.html').read_text()
     person={'@context':'https://schema.org','@type':'Person','name':'Da (Dexter) Ju','alternateName':['Dexter Ju','Da Ju'],'url':'https://dexterju.me/','jobTitle':'Member of Technical Staff','worksFor':{'@type':'Organization','name':'Microsoft AI'},'sameAs':['https://github.com/dexterju27','https://scholar.google.com/citations?user=YW5jp5QAAAAJ','https://www.linkedin.com/in/dexter-da-j-37101976/']}
     layout=Template((ROOT/'tools/templates/layout.html').read_text())
+    style_version=hashlib.sha256((ROOT/'assets/css/personal.css').read_bytes()).hexdigest()[:12]
+    script_version=hashlib.sha256((ROOT/'assets/js/personal.js').read_bytes()).hexdigest()[:12]
     outputs={}
     for path,body,title,url in [('index.html',home,'Da (Dexter) Ju — AI Safety & Reasoning','https://dexterju.me/'),('contact.html',contact,'Contact — Dexter Ju','https://dexterju.me/contact/'),('contact/index.html',contact,'Contact — Dexter Ju','https://dexterju.me/contact/')]:
-        outputs[path]=layout.substitute(body=body,page_title=escape(title),canonical=url,description=escape(DESCRIPTION),person_json=json.dumps(person,ensure_ascii=False).replace('<','\\u003c'))
+        outputs[path]=layout.substitute(body=body,page_title=escape(title),canonical=url,description=escape(DESCRIPTION),person_json=json.dumps(person,ensure_ascii=False).replace('<','\\u003c'),style_version=style_version,script_version=script_version)
     outputs['sitemap.xml']='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://dexterju.me/</loc></url><url><loc>https://dexterju.me/contact/</loc></url><url><loc>https://dexterju.me/nyc/</loc></url></urlset>\n'
     for name,text in outputs.items():
         path=ROOT/name

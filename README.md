@@ -13,7 +13,7 @@ guide. No framework, analytics, external fonts or runtime API keys are required.
 - `tools/templates/`: homepage, contact page and shared layout.
 - `assets/css/personal.css` and `assets/js/personal.js`: styling and enhancement.
 
-After editing content:
+After editing content, templates, or assets:
 
 ```sh
 python3 tools/build_site.py
@@ -24,6 +24,8 @@ npm run dev
 
 The builder writes `index.html`, `contact.html`, `contact/index.html` and
 `sitemap.xml`. Commit these generated files along with the source changes.
+CSS and JavaScript URLs include content hashes so a new page loads matching
+assets instead of a cached older design.
 GitHub Pages serves them as static files. The legacy `/contact` route remains
 available. All publications and contact links work without JavaScript.
 

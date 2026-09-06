@@ -5,7 +5,7 @@ const root=path.resolve(__dirname,'..'),source=fs.readFileSync(path.join(root,'a
 const papers=JSON.parse(fs.readFileSync(path.join(root,'_data/publications.json'),'utf8'));
 function setup(file='index.html'){
   const errors=[],vc=new VirtualConsole();vc.on('jsdomError',e=>{if(e.type!=='css parsing')errors.push(e.message)});
-  const html=fs.readFileSync(path.join(root,file),'utf8').replace('<script src="/assets/js/personal.js" defer></script>','').replace('</body>','<script>'+source+'</script></body>');
+  const html=fs.readFileSync(path.join(root,file),'utf8').replace(/<script src="\/assets\/js\/personal\.js(?:\?v=[a-f0-9]+)?" defer><\/script>/,'').replace('</body>','<script>'+source+'</script></body>');
   const dom=new JSDOM(html,{url:'https://dexterju.me/'+(file==='index.html'?'':file),runScripts:'dangerously',virtualConsole:vc,beforeParse(w){w.IntersectionObserver=class{observe(){}disconnect(){}};}});
   assert.deepEqual(errors,[]);return {dom,w:dom.window,d:dom.window.document};
 }
@@ -56,7 +56,10 @@ const allIds=[...d.querySelectorAll('[id]')].map(n=>n.id);assert.equal(new Set(a
 for(const a of d.querySelectorAll('a[target="_blank"]')){assert.ok(a.rel.includes('noopener'));assert.ok(a.rel.includes('noreferrer'));}
 for(const a of d.querySelectorAll('a[href^="#"]'))assert.ok(d.querySelector(a.getAttribute('href')),a.href);
 for(const a of d.querySelectorAll('a[href^="/#"]'))assert.ok(d.querySelector(a.hash),a.href);
-for(const a of d.querySelectorAll('[src^="/assets"],[href^="/assets"]'))assert.ok(fs.existsSync(path.join(root,a.getAttribute('src')||a.getAttribute('href'))));
+for(const a of d.querySelectorAll('[src^="/assets"],[href^="/assets"]'))assert.ok(fs.existsSync(path.join(root,new URL(a.getAttribute('src')||a.getAttribute('href'),'https://dexterju.me').pathname)));
+const hash=asset=>require('node:crypto').createHash('sha256').update(fs.readFileSync(path.join(root,asset))).digest('hex').slice(0,12);
+assert.equal(d.querySelector('link[rel="stylesheet"]').getAttribute('href'),'/assets/css/personal.css?v='+hash('assets/css/personal.css'));
+assert.ok(fs.readFileSync(path.join(root,'index.html'),'utf8').includes('/assets/js/personal.js?v='+hash('assets/js/personal.js')));
 const contact=setup('contact.html');
 for(const page of ['index.html','contact.html','contact/index.html']){
   const html=fs.readFileSync(path.join(root,page),'utf8');

@@ -134,3 +134,7 @@ Supporting text is now 15px in the intro, 14px in highlight descriptions,
 venues, credits and bibliography notes. These sizes do not shrink on phones.
 The browser harness now checks those minimum sizes as well as overflow,
 accessibility and tap targets at every tested width.
+
+The live browser exposed stale stylesheet caching after the copy release.
+The builder now versions CSS/JavaScript URLs with content hashes, with regression
+tests ensuring each generated page points at its current assets.
