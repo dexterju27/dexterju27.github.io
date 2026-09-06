@@ -33,6 +33,7 @@ d.getElementById('clear-papers').click();assert.equal(visible().length,22);
 assert.equal(d.querySelectorAll('.paper-team').length,2);assert.equal(d.querySelector('link[rel="canonical"]').href,'https://dexterju.me/');
 assert.ok(d.querySelector('meta[name="description"]').content.length>50);assert.ok(d.querySelector('img').alt.includes('Dexter'));
 assert.ok(d.querySelector('.hero-bio').textContent.includes('Meta Superintelligence Labs (MSL)'));
+assert.ok(d.querySelector('.hero-bio').textContent.includes('FAIR (Facebook AI Research)'));
 assert.ok(d.querySelector('.background-list').textContent.includes('Meta Superintelligence Labs (MSL)'));
 assert.ok(!d.querySelector('img').src.includes('profil-photo.jpg'));assert.ok(fs.statSync(path.join(root,'assets/images/dexter-portrait-960.webp')).size<200000);
 assert.ok(d.querySelector('a[href="/nyc/"]'));assert.ok(d.querySelector('a[href="/bachelor-thesis.pdf"]'));

@@ -7,7 +7,7 @@ from urllib.parse import urlsplit
 import argparse,json,re
 ROOT=Path(__file__).resolve().parents[1]
 TOPICS={'safety':'Safety & alignment','planning':'Reasoning & planning','dialogue':'Dialogue','evaluation':'Evaluation','architectures':'Architectures'}
-DESCRIPTION='Da (Dexter) Ju works on AI safety and reasoning at Microsoft AI. Previously Meta Superintelligence Labs (MSL) and FAIR. Research, publications, and personal projects.'
+DESCRIPTION='Da (Dexter) Ju works on AI safety and reasoning at Microsoft AI. Previously Meta Superintelligence Labs (MSL) and FAIR (Facebook AI Research). Research, publications, and personal projects.'
 
 
 def external(url,text,cls='',label=''):
