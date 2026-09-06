@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Personal-site browser audit — local only</title>
+<style>body{margin:20px;font:14px/1.5 system-ui}pre{white-space:pre-wrap}iframe{display:block;border:1px solid #888;height:740px;margin-top:16px}select{font:inherit;padding:8px;margin-right:16px}details{margin-bottom:16px}</style>
+<h1>Rendered accessibility and layout audit</h1>
+<p>Development-only checks. No requests to external services.</p>
+<details><summary>Audit results</summary><pre id="results" role="status" data-status="running">Running…</pre></details>
+<label>Preview width <select id="preview-width" disabled><option>390</option><option>320</option><option>768</option><option>1512</option></select></label>
+<label>Section <select id="preview-route" disabled><option value="/#main">Introduction</option><option value="/#research">Selected work</option><option value="/#publications">Publications</option><option value="/#about">About</option><option value="/#contact">Contact</option><option value="/contact/">Contact page</option></select></label>
+<iframe title="Page under test"></iframe>
+<script>
+(async()=>{
+  const output=document.querySelector('#results'),frame=document.querySelector('iframe'),results=[];
+  if(!['localhost','127.0.0.1','::1'].includes(location.hostname))throw Error('Run this audit locally.');
+  const loadScript=(doc,url)=>new Promise((resolve,reject)=>{const script=doc.createElement('script');script.src=url;script.onload=resolve;script.onerror=reject;doc.head.append(script)});
+  for(const width of [1512,768,390,320])for(const route of ['/','/contact/']){
+    frame.style.width=width+'px';
+    await new Promise(resolve=>{frame.onload=resolve;frame.src=route});
+    const win=frame.contentWindow,doc=win.document;
+    await doc.fonts.ready;
+    await Promise.all([...doc.images].map(img=>img.decode().catch(()=>{})));
+    await loadScript(doc,'/node_modules/axe-core/axe.min.js');
+    const audit=await win.axe.run(doc);
+    const targets=[...doc.querySelectorAll('.paper-resource,.topic-filters button,.main-nav a')].filter(el=>el.getBoundingClientRect().width>0);
+    const compact={route,width,overflow:doc.documentElement.scrollWidth>width,smallTargets:targets.filter(el=>el.getBoundingClientRect().height<44).map(el=>el.textContent.trim()),violations:audit.violations.map(v=>({id:v.id,impact:v.impact,nodes:v.nodes.map(n=>({target:n.target,summary:n.failureSummary}))})),incomplete:audit.incomplete.map(v=>({id:v.id,nodes:v.nodes.map(n=>({target:n.target,summary:n.failureSummary}))})),passes:audit.passes.length};
+    results.push(compact);output.textContent=JSON.stringify(results,null,2);
+  }
+  output.dataset.status=results.some(r=>r.overflow||r.smallTargets.length||r.violations.length)?'fail':'pass';
+  output.textContent=output.dataset.status.toUpperCase()+'\n'+JSON.stringify(results,null,2);
+  const widthControl=document.querySelector('#preview-width'),routeControl=document.querySelector('#preview-route');
+  const preview=()=>{frame.style.width=widthControl.value+'px';frame.src=routeControl.value};
+  for(const control of [widthControl,routeControl]){control.disabled=false;control.addEventListener('change',preview)}
+  preview();
+})().catch(error=>{const output=document.querySelector('#results');output.dataset.status='error';output.textContent=error.stack});
+</script>
+</html>

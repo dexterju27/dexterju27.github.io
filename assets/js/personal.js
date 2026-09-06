@@ -21,7 +21,7 @@
     document.querySelector('#clear-papers').hidden = !(query || topic || year.value);
     document.querySelector('#paper-empty').hidden = count !== 0;
   }
-  function reset() { topic = ''; search.value = ''; year.value = ''; filter(); }
+  function reset() { topic = ''; search.value = ''; year.value = ''; filter(); search.focus({preventScroll: true}); }
   if (search) {
     search.addEventListener('input', filter);
     year.addEventListener('change', filter);

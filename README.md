@@ -8,6 +8,8 @@ guide. No framework, analytics, external fonts or runtime API keys are required.
 
 - `_data/publications.json`: the bibliography and selected-work cards.
 - `_data/scholar-audit.json`: provenance and the last Scholar comparison.
+- `_data/publication-resources.json`: verified conference, presentation/video,
+  and official research-blog links. Resources are omitted when not verified.
 - `tools/templates/`: homepage, contact page and shared layout.
 - `assets/css/personal.css` and `assets/js/personal.js`: styling and enhancement.
 
@@ -24,6 +26,12 @@ The builder writes `index.html`, `contact.html`, `contact/index.html` and
 `sitemap.xml`. Commit these generated files along with the source changes.
 GitHub Pages serves them as static files. The legacy `/contact` route remains
 available. All publications and contact links work without JavaScript.
+
+`npm test` includes structural accessibility checks. With the local server
+running, open `http://127.0.0.1:8770/tests/browser-audit.html` for rendered axe,
+responsive-overflow and tap-target checks, plus an interactive width/section
+preview. Review any incomplete contrast checks manually. Tests and dependencies
+are excluded from the published site.
 
 Contact uses profile links only. Do not add an email address to the pages,
 `mailto:` URLs, metadata or copy-button attributes.
