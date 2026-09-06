@@ -63,7 +63,10 @@ The live pages no longer contain an email address, mailto link or copy-email
 button. Contact uses the existing public profile links; older Git history was
 not rewritten.
 
-Llama 4 is included in the five highlighted works. To the Globe is explicitly
+Llama 4 is included in the five highlighted works. Its highlight describes the
+model family and the user's stated contribution to reinforcement learning and
+reasoning, not the release announcement. The bibliography retains Meta AI's
+collective report authorship. To the Globe is explicitly
 labeled agentic research. Staircase Attention adds only one requested sentence
 making the chronology explicit: looped-transformer ideas were explored in the
 2021 preprint. This does not claim first-ever priority over all recurrent models.

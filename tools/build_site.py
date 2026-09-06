@@ -48,7 +48,7 @@ def build(check=False):
         if p.get('featured'):
             credit=p.get('feature_credit') or ('Team-authored report' if team else p.get('note') or 'Research paper')
             featured.append('<article class="feature-card" data-feature-id="%s"><div><p class="feature-meta">%s / %s</p><h3>%s</h3><p>%s</p><p class="feature-credit">%s · %s</p></div><div class="feature-graphic">%s</div></article>'%(
-                p['id'],year,venue,external(p['url'],escape(p.get('short_title') or p['title'])),escape(p['summary']),escape(credit),escape(p['feature_label']),graphic(p.get('motif') or p['topics'][0])))
+                p['id'],year,escape(p.get('feature_venue') or p['venue']),external(p['url'],escape(p.get('short_title') or p['title'])),escape(p['summary']),escape(credit),escape(p['feature_label']),graphic(p.get('motif') or p['topics'][0])))
         authors=escape(p['authors']).replace('Da Ju','<strong>Da Ju</strong>')
         foot=[]
         if team:foot.append('<span class="paper-team">Team-authored report</span>')

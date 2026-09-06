@@ -12,7 +12,12 @@ function setup(file='index.html'){
 async function main(){
 const {dom,w,d}=setup();const visible=()=>[...d.querySelectorAll('.paper')].filter(p=>!p.hidden);
 assert.equal(papers.length,22);assert.equal(d.querySelectorAll('.paper').length,22);assert.equal(d.querySelectorAll('.feature-card').length,5);assert.equal(visible().length,22);
-assert.ok(d.querySelector('[data-feature-id="llama-4"]'));
+const llamaHighlight=d.querySelector('[data-feature-id="llama-4"]');
+assert.ok(llamaHighlight.textContent.includes('I worked on reinforcement learning and reasoning for Llama 4.'));
+assert.ok(llamaHighlight.querySelector('.feature-credit').textContent.includes('RL & reasoning'));
+assert.ok(!/team-authored|release report/i.test(llamaHighlight.textContent));
+assert.ok(d.getElementById('paper-llama-4').dataset.topics.split(' ').includes('planning'));
+assert.equal(d.querySelector('#paper-llama-4 .paper-authors').textContent,'Meta AI');
 assert.ok(d.querySelector('[data-feature-id="to-the-globe"] .feature-credit').textContent.startsWith('Agentic research'));
 assert.ok(d.querySelector('[data-feature-id="staircase-attention"]').textContent.includes('We explored looped-transformer ideas in our 2021 preprint.'));
 assert.equal(d.querySelectorAll('.paper-open').length,0,'No redundant outbound-arrow tab stops');
