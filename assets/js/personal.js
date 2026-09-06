@@ -30,14 +30,6 @@
     document.querySelector('#reset-papers').addEventListener('click', reset);
     filter();
   }
-  let toastTimer;
-  document.querySelectorAll('[data-copy-email]').forEach(button => button.addEventListener('click', async () => {
-    const toast = document.querySelector('#toast');
-    try { await navigator.clipboard.writeText(button.dataset.copyEmail); toast.textContent = 'Email address copied.'; }
-    catch (_) { toast.textContent = 'Copy is unavailable here. You can select the email address or open the email link.'; }
-    toast.classList.add('visible'); clearTimeout(toastTimer);
-    toastTimer = setTimeout(() => toast.classList.remove('visible'), 4000);
-  }));
   const navigation = [...document.querySelectorAll('.main-nav a[href^="/#"]')];
   if ('IntersectionObserver' in window && search) {
     const sections = [...document.querySelectorAll('main section[id]')];

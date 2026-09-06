@@ -25,6 +25,9 @@ The builder writes `index.html`, `contact.html`, `contact/index.html` and
 GitHub Pages serves them as static files. The legacy `/contact` route remains
 available. All publications and contact links work without JavaScript.
 
+Contact uses profile links only. Do not add an email address to the pages,
+`mailto:` URLs, metadata or copy-button attributes.
+
 The profile photo is the original image, cropped and compressed—not an
 AI-generated replacement. `tools/optimize_portrait.py` rebuilds its WebP/JPEG
 derivatives using Pillow. The original image and bachelor's thesis stay intact.

@@ -2,14 +2,14 @@ const {JSDOM,VirtualConsole}=require('jsdom');
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
 const root=path.resolve(__dirname,'..'),source=fs.readFileSync(path.join(root,'assets/js/personal.js'),'utf8');
 const papers=JSON.parse(fs.readFileSync(path.join(root,'_data/publications.json'),'utf8'));
-function setup(file='index.html',clipboard=true){
+function setup(file='index.html'){
   const errors=[],vc=new VirtualConsole();vc.on('jsdomError',e=>{if(e.type!=='css parsing')errors.push(e.message)});
   const html=fs.readFileSync(path.join(root,file),'utf8').replace('<script src="/assets/js/personal.js" defer></script>','').replace('</body>','<script>'+source+'</script></body>');
-  let copied='';const dom=new JSDOM(html,{url:'https://dexterju.me/'+(file==='index.html'?'':file),runScripts:'dangerously',virtualConsole:vc,beforeParse(w){w.IntersectionObserver=class{observe(){}disconnect(){}};w.navigator.clipboard={writeText:async value=>{if(!clipboard)throw Error('Unavailable');copied=value;}};}});
-  assert.deepEqual(errors,[]);return {dom,w:dom.window,d:dom.window.document,copied:()=>copied};
+  const dom=new JSDOM(html,{url:'https://dexterju.me/'+(file==='index.html'?'':file),runScripts:'dangerously',virtualConsole:vc,beforeParse(w){w.IntersectionObserver=class{observe(){}disconnect(){}};}});
+  assert.deepEqual(errors,[]);return {dom,w:dom.window,d:dom.window.document};
 }
 async function main(){
-const {dom,w,d,copied}=setup();const visible=()=>[...d.querySelectorAll('.paper')].filter(p=>!p.hidden);
+const {dom,w,d}=setup();const visible=()=>[...d.querySelectorAll('.paper')].filter(p=>!p.hidden);
 assert.equal(papers.length,22);assert.equal(d.querySelectorAll('.paper').length,22);assert.equal(d.querySelectorAll('.feature-card').length,4);assert.equal(visible().length,22);
 assert.equal(new Set(papers.map(p=>p.id)).size,22);assert.equal(papers.filter(p=>p.id==='blenderbot-3').length,1);
 for(const id of ['mai-thinking-1','llama-4','open-domain-progress','growing-up-together'])assert.ok(d.getElementById('paper-'+id));
@@ -31,10 +31,15 @@ for(const a of d.querySelectorAll('a[target="_blank"]')){assert.ok(a.rel.include
 for(const a of d.querySelectorAll('a[href^="#"]'))assert.ok(d.querySelector(a.getAttribute('href')),a.href);
 for(const a of d.querySelectorAll('a[href^="/#"]'))assert.ok(d.querySelector(a.hash),a.href);
 for(const a of d.querySelectorAll('[src^="/assets"],[href^="/assets"]'))assert.ok(fs.existsSync(path.join(root,a.getAttribute('src')||a.getAttribute('href'))));
-d.querySelector('[data-copy-email]').click();await new Promise(resolve=>setImmediate(resolve));assert.equal(copied(),'da.ju.fr@gmail.com');assert.equal(d.getElementById('toast').textContent,'Email address copied.');
-const contact=setup('contact.html',false);assert.ok(contact.d.querySelector('a[href="mailto:da.ju.fr@gmail.com"]'));contact.d.querySelector('[data-copy-email]').click();await new Promise(resolve=>setImmediate(resolve));assert.ok(contact.d.getElementById('toast').textContent.includes('unavailable'));
+const contact=setup('contact.html');
+for(const page of ['index.html','contact.html','contact/index.html']){
+  const html=fs.readFileSync(path.join(root,page),'utf8');
+  assert.ok(!/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i.test(html),'No email address in public HTML');
+  assert.ok(!/mailto:|data-copy-email/.test(html),'No hidden email link or copy data');
+}
+assert.ok(contact.d.querySelector('a[href^="https://www.linkedin.com/"]'));
 const nojs=new JSDOM(fs.readFileSync(path.join(root,'index.html'),'utf8'));assert.equal(nojs.window.document.querySelectorAll('.paper:not([hidden])').length,22);assert.equal(nojs.window.document.querySelector('.publication-tools').hidden,true);
 for(const x of [dom,contact.dom,nojs])x.window.close();
-console.log('PASS: 22 unique works, four Scholar additions, team attribution, search/topic/year filters, empty/reset states, clipboard/fallback, SEO, assets, safe links, no-JS content, and contact page');
+console.log('PASS: publications, filters, SEO, assets, safe links, no-JS content, contact profiles, and no email exposure in public pages');
 }
 main().catch(e=>{console.error(e);process.exitCode=1});
