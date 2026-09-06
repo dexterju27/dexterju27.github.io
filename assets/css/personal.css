@@ -66,3 +66,24 @@
   .hero-copy{padding-bottom:0;max-width:650px}
 }
 @media print{.hero{grid-template-columns:minmax(0,1fr);gap:20px;padding-block:0 30px}.hero h1{font-size:48px}}
+
+/* Keep supporting copy readable instead of shrinking it on phones. */
+@media screen{
+  .eyebrow,.hero .eyebrow{font-size:11px}
+  .hero-bio,.contact-intro{font-size:15px}
+  .publishing-name,.focus-strip p{font-size:13px}
+  .section-heading>p{font-size:14px}
+  .feature-meta{font-size:11px}
+  .feature-credit{font-size:12px}
+  .feature-card p:not(.feature-meta):not(.feature-credit){font-size:14px;text-wrap:pretty}
+  .paper-authors,.paper-foot .paper-resource{font-size:13px}
+  .paper-venue,.paper-note,.paper-team,.bibliography-note,.library-note{font-size:12px}
+  .about-copy>p:not(.eyebrow),.project-copy>p:not(.eyebrow){font-size:14px}
+  .background-item p{font-size:13px}
+  .background-item .small,.thesis-details{font-size:12px}
+  .background-label{font-size:10px}
+  .contact-grid span{font-size:11px}
+  .contact-grid small,.footer-bottom{font-size:12px}
+  .social-links{font-size:13px}
+  .main-nav,.hero-actions .text-link,.hero-actions .button{font-size:12px}
+}

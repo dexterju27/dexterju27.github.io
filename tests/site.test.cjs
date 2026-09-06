@@ -12,6 +12,14 @@ function setup(file='index.html'){
 async function main(){
 const {dom,w,d}=setup();const visible=()=>[...d.querySelectorAll('.paper')].filter(p=>!p.hidden);
 assert.equal(papers.length,22);assert.equal(d.querySelectorAll('.paper').length,22);assert.equal(d.querySelectorAll('.feature-card').length,5);assert.equal(visible().length,22);
+assert.ok(d.querySelector('.hero-statement').textContent.includes('RL, reasoning & agents.'));
+assert.ok(!d.body.textContent.includes('More capable models.'));
+const maiHighlight=d.querySelector('[data-feature-id="mai-thinking-1"]');
+assert.ok(maiHighlight.textContent.includes('trained from scratch for math, coding, and tool use'));
+assert.equal(maiHighlight.querySelector('.feature-credit').textContent,'My focus at Microsoft AI · Foundation-model safety');
+assert.ok(!/team-authored|technical report/i.test(maiHighlight.textContent));
+assert.equal(d.querySelector('#paper-mai-thinking-1 .paper-authors').textContent,'Microsoft AI Team');
+for(const paper of papers.filter(p=>p.featured))assert.ok(paper.summary.split(/\s+/).length<=40,'Keep highlight descriptions concise');
 const llamaHighlight=d.querySelector('[data-feature-id="llama-4"]');
 assert.ok(llamaHighlight.textContent.includes('I worked on reinforcement learning and reasoning for Llama 4.'));
 assert.ok(llamaHighlight.querySelector('.feature-credit').textContent.includes('RL & reasoning'));

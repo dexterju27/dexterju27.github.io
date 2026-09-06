@@ -114,3 +114,23 @@ These automated checks are not a claim of complete WCAG certification.
 The browser-audit harness and axe dependency are development-only and excluded
 from GitHub Pages. There are still no analytics, external fonts, runtime API
 keys, embedded videos, or exposed email addresses in the personal pages.
+
+## Research-specific copy and supporting type
+
+Replaced the generic hero slogan with “AI safety. RL, reasoning & agents.”
+The research-interest strip and background now name the actual models and
+research areas. Highlight descriptions use first-person work/authorship where
+established; the requested Llama 4 contribution and short Staircase sentence
+remain intact.
+
+The MAI report's abstract/introduction and citation appendix were text-extracted
+and visually reviewed. It supports the math/coding/tool-use model description
+and collective Microsoft AI authorship, but gives no individual contribution
+breakdown. The card therefore explicitly labels foundation-model safety as
+“My focus at Microsoft AI,” not ownership of a particular MAI component.
+
+Supporting text is now 15px in the intro, 14px in highlight descriptions,
+13px for publication authors/resources and background details, and 12px for
+venues, credits and bibliography notes. These sizes do not shrink on phones.
+The browser harness now checks those minimum sizes as well as overflow,
+accessibility and tap targets at every tested width.
