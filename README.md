@@ -9,7 +9,9 @@ guide. No framework, analytics, external fonts or runtime API keys are required.
 - `_data/publications.json`: the bibliography and selected-work cards.
 - `_data/scholar-audit.json`: provenance and the last Scholar comparison.
 - `_data/publication-resources.json`: verified conference, presentation/video,
-  and official research-blog links. Resources are omitted when not verified.
+  official research-blog, code and dataset links. Resources are omitted when not verified.
+- `_data/code-release-audit.json`: paper-to-repository evidence, archive status,
+  license notes and coverage of all 22 works. Code/data links must match this audit.
 - `tools/templates/`: homepage, contact page and shared layout.
 - `assets/css/personal.css` and `assets/js/personal.js`: styling and enhancement.
 
@@ -50,6 +52,12 @@ The repeated BlenderBot 3 citation is one work, not two. Collective Microsoft AI
 and Meta AI reports retain team authorship. Final proceedings/journal years are
 used when available, with earlier preprint years noted. Source links and audit
 notes are retained; no citation-count claims are embedded in the homepage.
+
+Code links are shown for 14 verified releases and surfaced on four highlights.
+FLORES-101 has a separate dataset link. Prefer paper-specific project folders or
+README anchors, and preserve required release versions (e.g. ParlAI 1.4.1 for
+multi-modal dialogue). A public code link does not imply an OSI-approved license,
+released training data, or that an entire RL training pipeline is available.
 
 ## Keep the NYC guide independent
 

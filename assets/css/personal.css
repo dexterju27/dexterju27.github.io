@@ -87,3 +87,14 @@
   .social-links{font-size:13px}
   .main-nav,.hero-actions .text-link,.hero-actions .button{font-size:12px}
 }
+
+/* Direct code links stay above each card's stretched paper link. */
+.feature-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.feature-code{position:relative;z-index:1;display:inline-flex;align-items:center;gap:12px;min-height:44px;padding:8px 12px;border:1px solid var(--line);border-radius:3px;background:var(--white);color:var(--blue);font-size:13px;text-decoration:none}
+.feature-code:hover{border-color:var(--blue);background:var(--blue-soft);color:var(--blue)}
+.paper-foot .paper-code{border-color:#aebfc0;color:var(--blue)}
+@media(max-width:360px){
+  .hero-actions{gap:12px}
+  .hero-actions .button{gap:12px;padding-inline:12px;white-space:nowrap}
+  .hero-actions .text-link{gap:6px;white-space:nowrap}
+}

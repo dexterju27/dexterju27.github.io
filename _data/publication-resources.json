@@ -1,28 +1,244 @@
 {
   "checked": "2026-09-05",
-  "scope": "Conference/proceedings pages, presentation resources and publication-specific official research posts. Omitted resources were not verified; omission does not claim that no resource exists.",
+  "scope": "Verified paper/presentation resources, official research posts, and released code or datasets. Missing links mean no matching release was verified, not that none exists. Repository licenses and archive status apply.",
   "works": {
-    "mai-thinking-1": {"links": []},
-    "llama-4": {"links": []},
-    "domain-regeneration": {"links": [{"label":"ACL Anthology","url":"https://aclanthology.org/2025.findings-acl.120/"}]},
-    "sense-sensitivity": {"links": []},
-    "full-delegation": {"links": []},
-    "to-the-globe": {"links": [{"label":"ACL Anthology","url":"https://aclanthology.org/2024.emnlp-demo.25/"}]},
-    "blue-bananas": {"links": [{"label":"ACL Anthology","url":"https://aclanthology.org/2024.findings-acl.253/"}]},
-    "organic-interactions": {"links": []},
-    "staircase-attention": {"links": [{"label":"NeurIPS presentation","url":"https://neurips.cc/virtual/2022/poster/52965"},{"label":"Meta AI research","url":"https://ai.meta.com/research/publications/staircase-attention-for-recurrent-processing-of-sequences/"}]},
-    "helpers-trolls": {"links": []},
-    "blenderbot-3": {"links": []},
-    "flores-101": {"links": [{"label":"ACL Anthology","url":"https://aclanthology.org/2022.tacl-1.30/"},{"label":"Presentation video","url":"https://aclanthology.org/2022.tacl-1.30.mp4"},{"label":"Meta AI blog","url":"https://ai.meta.com/blog/the-flores-101-data-set-helping-build-better-translation-systems-around-the-world/"}]},
-    "bot-adversarial": {"links": [{"label":"ACL Anthology","url":"https://aclanthology.org/2021.naacl-main.235/"},{"label":"Presentation video","url":"https://aclanthology.org/2021.naacl-main.235.mp4"}]},
-    "expiring-memory": {"links": [{"label":"ICML presentation","url":"https://icml.cc/virtual/2021/oral/10742"},{"label":"Meta AI blog","url":"https://ai.meta.com/blog/teaching-ai-how-to-forget-at-scale/"}]},
-    "recipes-safety": {"links": [{"label":"Meta AI research","url":"https://ai.meta.com/research/publications/recipes-for-safety-in-open-domain-chatbots/"}]},
-    "multimodal-dialogue": {"links": [{"label":"ACL Anthology","url":"https://aclanthology.org/2021.emnlp-main.398/"},{"label":"Presentation video","url":"https://aclanthology.org/2021.emnlp-main.398.mp4"}]},
-    "recipes-chatbot": {"links": [{"label":"ACL Anthology","url":"https://aclanthology.org/2021.eacl-main.24/"}]},
-    "open-domain-progress": {"links": []},
-    "all-in-one": {"links": []},
-    "dialogue-dodecathlon": {"links": [{"label":"ACL Anthology","url":"https://aclanthology.org/2020.acl-main.222/"},{"label":"Presentation video","url":"https://slideslive.com/38928890/the-dialogue-dodecathlon-opendomain-knowledge-and-image-grounded-conversational-agents"},{"label":"Meta AI blog","url":"https://ai.meta.com/blog/facebook-research-at-acl-2020/"}]},
-    "growing-up-together": {"links": []},
-    "starcraft-strategy": {"links": [{"label":"Meta AI research","url":"https://ai.meta.com/research/publications/high-level-strategy-selection-under-partial-observability-in-starcraft-brood-war/"}]}
+    "mai-thinking-1": {
+      "links": []
+    },
+    "llama-4": {
+      "links": [
+        {
+          "label": "Model code",
+          "url": "https://github.com/meta-llama/llama-models/tree/main/models/llama4",
+          "kind": "code"
+        }
+      ]
+    },
+    "domain-regeneration": {
+      "links": [
+        {
+          "label": "ACL Anthology",
+          "url": "https://aclanthology.org/2025.findings-acl.120/"
+        }
+      ]
+    },
+    "sense-sensitivity": {
+      "links": []
+    },
+    "full-delegation": {
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/facebookresearch/travel_planner_oss",
+          "kind": "code"
+        }
+      ]
+    },
+    "to-the-globe": {
+      "links": [
+        {
+          "label": "ACL Anthology",
+          "url": "https://aclanthology.org/2024.emnlp-demo.25/"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/facebookresearch/travel_planner_oss",
+          "kind": "code"
+        }
+      ]
+    },
+    "blue-bananas": {
+      "links": [
+        {
+          "label": "ACL Anthology",
+          "url": "https://aclanthology.org/2024.findings-acl.253/"
+        }
+      ]
+    },
+    "organic-interactions": {
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/bb3x",
+          "kind": "code"
+        }
+      ]
+    },
+    "staircase-attention": {
+      "links": [
+        {
+          "label": "NeurIPS presentation",
+          "url": "https://neurips.cc/virtual/2022/poster/52965"
+        },
+        {
+          "label": "Meta AI research",
+          "url": "https://ai.meta.com/research/publications/staircase-attention-for-recurrent-processing-of-sequences/"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/facebookresearch/transformer-sequential#staircase",
+          "kind": "code"
+        }
+      ]
+    },
+    "helpers-trolls": {
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/trollhunting",
+          "kind": "code"
+        }
+      ]
+    },
+    "blenderbot-3": {
+      "links": [
+        {
+          "label": "Code & models",
+          "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/bb3",
+          "kind": "code"
+        }
+      ]
+    },
+    "flores-101": {
+      "links": [
+        {
+          "label": "ACL Anthology",
+          "url": "https://aclanthology.org/2022.tacl-1.30/"
+        },
+        {
+          "label": "Presentation video",
+          "url": "https://aclanthology.org/2022.tacl-1.30.mp4"
+        },
+        {
+          "label": "Meta AI blog",
+          "url": "https://ai.meta.com/blog/the-flores-101-data-set-helping-build-better-translation-systems-around-the-world/"
+        },
+        {
+          "label": "Dataset",
+          "url": "https://github.com/facebookresearch/flores/tree/main/previous_releases/flores101",
+          "kind": "data"
+        }
+      ]
+    },
+    "bot-adversarial": {
+      "links": [
+        {
+          "label": "ACL Anthology",
+          "url": "https://aclanthology.org/2021.naacl-main.235/"
+        },
+        {
+          "label": "Presentation video",
+          "url": "https://aclanthology.org/2021.naacl-main.235.mp4"
+        },
+        {
+          "label": "Code & models",
+          "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/safety_recipes",
+          "kind": "code"
+        }
+      ]
+    },
+    "expiring-memory": {
+      "links": [
+        {
+          "label": "ICML presentation",
+          "url": "https://icml.cc/virtual/2021/oral/10742"
+        },
+        {
+          "label": "Meta AI blog",
+          "url": "https://ai.meta.com/blog/teaching-ai-how-to-forget-at-scale/"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/facebookresearch/transformer-sequential#expire-span",
+          "kind": "code"
+        }
+      ]
+    },
+    "recipes-safety": {
+      "links": [
+        {
+          "label": "Meta AI research",
+          "url": "https://ai.meta.com/research/publications/recipes-for-safety-in-open-domain-chatbots/"
+        },
+        {
+          "label": "Code & models",
+          "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/safety_recipes",
+          "kind": "code"
+        }
+      ]
+    },
+    "multimodal-dialogue": {
+      "links": [
+        {
+          "label": "ACL Anthology",
+          "url": "https://aclanthology.org/2021.emnlp-main.398/"
+        },
+        {
+          "label": "Presentation video",
+          "url": "https://aclanthology.org/2021.emnlp-main.398.mp4"
+        },
+        {
+          "label": "Code · v1.4.1",
+          "url": "https://github.com/facebookresearch/ParlAI/tree/1.4.1/projects/multimodal_blenderbot",
+          "kind": "code"
+        }
+      ]
+    },
+    "recipes-chatbot": {
+      "links": [
+        {
+          "label": "ACL Anthology",
+          "url": "https://aclanthology.org/2021.eacl-main.24/"
+        },
+        {
+          "label": "Code & models",
+          "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/recipes",
+          "kind": "code"
+        }
+      ]
+    },
+    "open-domain-progress": {
+      "links": []
+    },
+    "all-in-one": {
+      "links": []
+    },
+    "dialogue-dodecathlon": {
+      "links": [
+        {
+          "label": "ACL Anthology",
+          "url": "https://aclanthology.org/2020.acl-main.222/"
+        },
+        {
+          "label": "Presentation video",
+          "url": "https://slideslive.com/38928890/the-dialogue-dodecathlon-opendomain-knowledge-and-image-grounded-conversational-agents"
+        },
+        {
+          "label": "Meta AI blog",
+          "url": "https://ai.meta.com/blog/facebook-research-at-acl-2020/"
+        },
+        {
+          "label": "Code & models",
+          "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/dodecadialogue",
+          "kind": "code"
+        }
+      ]
+    },
+    "growing-up-together": {
+      "links": []
+    },
+    "starcraft-strategy": {
+      "links": [
+        {
+          "label": "Meta AI research",
+          "url": "https://ai.meta.com/research/publications/high-level-strategy-selection-under-partial-observability-in-starcraft-brood-war/"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/TorchCraft/TorchCraftAI/tree/main/src/models/bos",
+          "kind": "code"
+        }
+      ]
+    }
   }
 }

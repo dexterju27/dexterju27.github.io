@@ -23,13 +23,20 @@
     await Promise.all([...doc.images].map(img=>img.decode().catch(()=>{})));
     await loadScript(doc,'/node_modules/axe-core/axe.min.js');
     const audit=await win.axe.run(doc);
-    const targets=[...doc.querySelectorAll('.paper-resource,.topic-filters button,.main-nav a')].filter(el=>el.getBoundingClientRect().width>0);
-    const minimumTextSizes={'.hero-bio':15,'.feature-card p:not(.feature-meta):not(.feature-credit)':14,'.feature-credit':12,'.paper-authors':13,'.paper-resource':13,'.paper-venue':12,'.library-note':12,'.background-item p:not(.small)':13,'.contact-grid small':12};
+    const targets=[...doc.querySelectorAll('.paper-resource,.feature-code,.topic-filters button,.main-nav a')].filter(el=>el.getBoundingClientRect().width>0);
+    const minimumTextSizes={'.hero-bio':15,'.feature-card p:not(.feature-meta):not(.feature-credit)':14,'.feature-credit':12,'.feature-code':13,'.paper-authors':13,'.paper-resource':13,'.paper-venue':12,'.library-note':12,'.background-item p:not(.small)':13,'.contact-grid small':12};
     const smallText=Object.entries(minimumTextSizes).flatMap(([selector,min])=>[...doc.querySelectorAll(selector)].filter(el=>el.getBoundingClientRect().width>0&&parseFloat(win.getComputedStyle(el).fontSize)<min).map(el=>({selector,size:win.getComputedStyle(el).fontSize,min})));
-    const compact={route,width,overflow:doc.documentElement.scrollWidth>width,smallText,smallTargets:targets.filter(el=>el.getBoundingClientRect().height<44).map(el=>el.textContent.trim()),violations:audit.violations.map(v=>({id:v.id,impact:v.impact,nodes:v.nodes.map(n=>({target:n.target,summary:n.failureSummary}))})),incomplete:audit.incomplete.map(v=>({id:v.id,nodes:v.nodes.map(n=>({target:n.target,summary:n.failureSummary}))})),passes:audit.passes.length};
+    const blockedCodeLinks=[];
+    for(const link of doc.querySelectorAll('.feature-code')){
+      link.scrollIntoView({block:'center',behavior:'instant'});
+      const rect=link.getBoundingClientRect(),hit=doc.elementFromPoint(rect.x+rect.width/2,rect.y+rect.height/2);
+      if(!link.contains(hit))blockedCodeLinks.push(link.getAttribute('href'));
+    }
+    win.scrollTo({top:0,behavior:'instant'});
+    const compact={route,width,overflow:doc.documentElement.scrollWidth>width,smallText,blockedCodeLinks,smallTargets:targets.filter(el=>el.getBoundingClientRect().height<44).map(el=>el.textContent.trim()),violations:audit.violations.map(v=>({id:v.id,impact:v.impact,nodes:v.nodes.map(n=>({target:n.target,summary:n.failureSummary}))})),incomplete:audit.incomplete.map(v=>({id:v.id,nodes:v.nodes.map(n=>({target:n.target,summary:n.failureSummary}))})),passes:audit.passes.length};
     results.push(compact);output.textContent=JSON.stringify(results,null,2);
   }
-  output.dataset.status=results.some(r=>r.overflow||r.smallText.length||r.smallTargets.length||r.violations.length)?'fail':'pass';
+  output.dataset.status=results.some(r=>r.overflow||r.smallText.length||r.blockedCodeLinks.length||r.smallTargets.length||r.violations.length)?'fail':'pass';
   output.textContent=output.dataset.status.toUpperCase()+'\n'+JSON.stringify(results,null,2);
   const widthControl=document.querySelector('#preview-width'),routeControl=document.querySelector('#preview-route');
   const preview=()=>{frame.style.width=widthControl.value+'px';frame.src=routeControl.value};

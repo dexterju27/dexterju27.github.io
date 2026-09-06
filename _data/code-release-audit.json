@@ -1,0 +1,184 @@
+{
+  "checked": "2026-09-05",
+  "scope": "Official releases only. Related dependencies, third-party reimplementations and unverified matches are excluded. Code is not a blanket claim of an OSI-approved license, released training data, or released RL training pipelines.",
+  "works": {
+    "mai-thinking-1": {
+      "status": "not_verified",
+      "note": "No paper-specific public release was verified in the checked organization/repository records and paper sources; no code link is displayed."
+    },
+    "llama-4": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "meta-llama/llama-models",
+      "url": "https://github.com/meta-llama/llama-models/tree/main/models/llama4",
+      "archived": false,
+      "license": "Llama 4 Community License",
+      "evidence_url": "https://github.com/meta-llama/llama-models/blob/main/README.md",
+      "note": "README lists Llama 4; the linked directory contains model, generation, tokenizer, MoE and vision code. This does not claim the RL training pipeline is released."
+    },
+    "domain-regeneration": {
+      "status": "not_verified",
+      "note": "No paper-specific public release was verified in the checked organization/repository records and paper sources; no code link is displayed."
+    },
+    "sense-sensitivity": {
+      "status": "not_verified",
+      "note": "No paper-specific public release was verified in the checked organization/repository records and paper sources; no code link is displayed."
+    },
+    "full-delegation": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "facebookresearch/travel_planner_oss",
+      "url": "https://github.com/facebookresearch/travel_planner_oss",
+      "archived": false,
+      "license": "MIT",
+      "evidence_url": "https://github.com/facebookresearch/travel_planner_oss/blob/main/README.md",
+      "note": "Repository README explicitly links arXiv 2411.13904 and contains solver, demo and training_script directories."
+    },
+    "to-the-globe": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "facebookresearch/travel_planner_oss",
+      "url": "https://github.com/facebookresearch/travel_planner_oss",
+      "archived": false,
+      "license": "MIT",
+      "evidence_url": "https://github.com/facebookresearch/travel_planner_oss/blob/main/README.md",
+      "note": "Repository README links arXiv 2410.16456, whose verified title is To the Globe; solver, demo and training scripts are present."
+    },
+    "blue-bananas": {
+      "status": "not_verified",
+      "note": "No paper-specific public release was verified in the checked organization/repository records and paper sources; no code link is displayed."
+    },
+    "organic-interactions": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "facebookresearch/ParlAI",
+      "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/bb3x",
+      "archived": true,
+      "license": "MIT code; model/data terms vary",
+      "evidence_url": "https://github.com/facebookresearch/ParlAI/blob/main/projects/bb3x/README.md",
+      "note": "Exact title, Da Ju and arXiv 2306.04707 appear in README; Code section points to released task implementations and training commands."
+    },
+    "staircase-attention": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "facebookresearch/transformer-sequential",
+      "url": "https://github.com/facebookresearch/transformer-sequential#staircase",
+      "archived": true,
+      "license": "CC-BY-NC (noncommercial)",
+      "evidence_url": "https://github.com/facebookresearch/transformer-sequential/blob/main/README.md",
+      "note": "README identifies the exact paper; models/staircase.py and experiments/staircase/algorithmic_3var.sh are present."
+    },
+    "helpers-trolls": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "facebookresearch/ParlAI",
+      "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/trollhunting",
+      "archived": true,
+      "license": "MIT code; data terms vary",
+      "evidence_url": "https://github.com/facebookresearch/ParlAI/blob/main/projects/trollhunting/README.md",
+      "note": "Exact title, authors and arXiv 2208.03295 match; project contains mutator code and multi-stage training instructions."
+    },
+    "blenderbot-3": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "facebookresearch/ParlAI",
+      "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/bb3",
+      "archived": true,
+      "license": "MIT code; model/data terms vary",
+      "evidence_url": "https://github.com/facebookresearch/ParlAI/blob/main/projects/bb3/README.md",
+      "note": "README explicitly links arXiv 2208.03188 and releases code, models and datasets; agents, tasks and tests are present."
+    },
+    "flores-101": {
+      "status": "verified",
+      "kind": "data",
+      "repository": "facebookresearch/flores",
+      "url": "https://github.com/facebookresearch/flores/tree/main/previous_releases/flores101",
+      "archived": true,
+      "license": "See dataset license and release terms",
+      "evidence_url": "https://github.com/facebookresearch/flores/blob/main/previous_releases/flores101/README.md",
+      "note": "Links the FLORES-101 release and evaluation instructions, with the matching paper citation. Labeled Dataset, not a standalone code implementation."
+    },
+    "bot-adversarial": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "facebookresearch/ParlAI",
+      "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/safety_recipes",
+      "archived": true,
+      "license": "MIT code; model/data terms vary",
+      "evidence_url": "https://aclanthology.org/2021.naacl-main.235/",
+      "note": "Published paper page 1 explicitly identifies the safety_recipes release; project README documents BAD models, training data and evaluation code."
+    },
+    "expiring-memory": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "facebookresearch/transformer-sequential",
+      "url": "https://github.com/facebookresearch/transformer-sequential#expire-span",
+      "archived": true,
+      "license": "CC-BY-NC (noncommercial)",
+      "evidence_url": "https://github.com/facebookresearch/transformer-sequential/blob/main/README.md",
+      "note": "Expire-Span section names the work and supplies experiment scripts; models/expire_span.py is present."
+    },
+    "recipes-safety": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "facebookresearch/ParlAI",
+      "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/safety_recipes",
+      "archived": true,
+      "license": "MIT code; model/data terms vary",
+      "evidence_url": "https://github.com/facebookresearch/ParlAI/blob/main/projects/safety_recipes/README.md",
+      "note": "Exact title, authors and arXiv 2010.07079 match; includes human_safety_evaluation code and released classifiers."
+    },
+    "multimodal-dialogue": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "facebookresearch/ParlAI",
+      "url": "https://github.com/facebookresearch/ParlAI/tree/1.4.1/projects/multimodal_blenderbot",
+      "archived": true,
+      "license": "MIT code; model/data terms vary",
+      "evidence_url": "https://github.com/facebookresearch/ParlAI/blob/main/projects/multimodal_blenderbot/README.md",
+      "note": "Exact title and arXiv 2010.01082 match. Main README requires ParlAI 1.4.1; linked release and agents.py verified via GitHub API."
+    },
+    "recipes-chatbot": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "facebookresearch/ParlAI",
+      "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/recipes",
+      "archived": true,
+      "license": "MIT code; model/data terms vary",
+      "evidence_url": "https://github.com/facebookresearch/ParlAI/blob/main/projects/recipes/README.md",
+      "note": "Exact title, authors and arXiv 2004.13637 match; README supplies model release and training/evaluation commands for the ParlAI implementation."
+    },
+    "open-domain-progress": {
+      "status": "not_verified",
+      "note": "No paper-specific public release was verified in the checked organization/repository records and paper sources; no code link is displayed."
+    },
+    "all-in-one": {
+      "status": "not_verified",
+      "note": "No paper-specific public release was verified in the checked organization/repository records and paper sources; no code link is displayed."
+    },
+    "dialogue-dodecathlon": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "facebookresearch/ParlAI",
+      "url": "https://github.com/facebookresearch/ParlAI/tree/main/projects/dodecadialogue",
+      "archived": true,
+      "license": "MIT code; model/data terms vary",
+      "evidence_url": "https://github.com/facebookresearch/ParlAI/blob/main/projects/dodecadialogue/README.md",
+      "note": "Exact title, authors and arXiv 1911.03768 match. Includes training instructions, parlai/zoo/dodecadialogue release code, image_seq2seq implementation and tests."
+    },
+    "growing-up-together": {
+      "status": "not_verified",
+      "note": "No paper-specific public release was verified in the checked organization/repository records and paper sources; no code link is displayed."
+    },
+    "starcraft-strategy": {
+      "status": "verified",
+      "kind": "code",
+      "repository": "TorchCraft/TorchCraftAI",
+      "url": "https://github.com/TorchCraft/TorchCraftAI/tree/main/src/models/bos",
+      "archived": true,
+      "license": "MIT",
+      "evidence_url": "https://github.com/TorchCraft/TorchCraftAI/blob/main/website/blog/2018-11-28-build-order-switch-retraining-has-arrived.md",
+      "note": "Official BOS release post links arXiv 1811.08568 directly; source directory contains LSTM build-order selection models, sample featurization and runners."
+    }
+  }
+}

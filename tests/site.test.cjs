@@ -3,6 +3,7 @@ const axe=require('axe-core');
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
 const root=path.resolve(__dirname,'..'),source=fs.readFileSync(path.join(root,'assets/js/personal.js'),'utf8');
 const papers=JSON.parse(fs.readFileSync(path.join(root,'_data/publications.json'),'utf8'));
+const codeAudit=JSON.parse(fs.readFileSync(path.join(root,'_data/code-release-audit.json'),'utf8')).works;
 function setup(file='index.html'){
   const errors=[],vc=new VirtualConsole();vc.on('jsdomError',e=>{if(e.type!=='css parsing')errors.push(e.message)});
   const html=fs.readFileSync(path.join(root,file),'utf8').replace(/<script src="\/assets\/js\/personal\.js(?:\?v=[a-f0-9]+)?" defer><\/script>/,'').replace('</body>','<script>'+source+'</script></body>');
@@ -12,6 +13,24 @@ function setup(file='index.html'){
 async function main(){
 const {dom,w,d}=setup();const visible=()=>[...d.querySelectorAll('.paper')].filter(p=>!p.hidden);
 assert.equal(papers.length,22);assert.equal(d.querySelectorAll('.paper').length,22);assert.equal(d.querySelectorAll('.feature-card').length,5);assert.equal(visible().length,22);
+assert.equal(d.querySelector('#intro-title').textContent,'Dexter Ju');
+assert.equal(d.querySelector('.wordmark').textContent,'Dexter Ju');
+assert.equal(d.querySelector('.footer-name').textContent,'Dexter Ju');
+assert.equal(d.querySelectorAll('.brand-dot').length,0);
+assert.equal(d.querySelectorAll('.paper-code').length,14);
+assert.equal(d.querySelectorAll('.paper-data').length,1);
+assert.equal(d.querySelectorAll('.feature-code').length,4);
+assert.deepEqual(Object.keys(codeAudit).sort(),papers.map(p=>p.id).sort());
+for(const paper of papers){
+  const audit=codeAudit[paper.id],links=[...d.querySelectorAll('#paper-'+paper.id+' .paper-code,#paper-'+paper.id+' .paper-data')];
+  assert.equal(links.length,audit.status==='verified'?1:0);
+  for(const link of links){assert.equal(link.href,audit.url);assert.ok(link.href.startsWith('https://github.com/'));assert.ok(audit.evidence_url&&audit.note&&audit.license);}
+}
+for(const link of d.querySelectorAll('.feature-code')){
+  const id=link.closest('.feature-card').dataset.featureId;assert.equal(link.href,codeAudit[id].url);assert.equal(codeAudit[id].kind,'code');
+}
+assert.ok(d.querySelector('#paper-multimodal-dialogue .paper-code').href.includes('/tree/1.4.1/'));
+assert.ok(!d.querySelector('[data-feature-id="mai-thinking-1"] .feature-code'));
 assert.ok(d.querySelector('.hero-statement').textContent.includes('RL, reasoning & agents.'));
 assert.ok(!d.body.textContent.includes('More capable models.'));
 const maiHighlight=d.querySelector('[data-feature-id="mai-thinking-1"]');

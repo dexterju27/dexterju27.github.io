@@ -138,3 +138,27 @@ accessibility and tap targets at every tested width.
 The live browser exposed stale stylesheet caching after the copy release.
 The builder now versions CSS/JavaScript URLs with content hashes, with regression
 tests ensuring each generated page points at its current assets.
+
+## Verified code releases and final handoff
+
+Added code links for 14 works, plus a separately labeled FLORES-101 dataset
+release. The four applicable highlight cards also have direct code buttons.
+The new code-release audit records evidence, repository archive status and
+license notes for every publication; the builder rejects mismatched or
+unverified code/data links. No placeholder code links were added to the other
+seven works.
+
+Verification used the authors' release READMEs, matching paper identifiers,
+actual source-tree files and official release posts. The travel-planner repo
+explicitly covers both travel papers. Staircase and Expire-Span link to their
+respective README sections. Multi-Modal Open-Domain Dialogue links to the
+documented ParlAI 1.4.1 release. The StarCraft link targets the BOS model source,
+corroborated by the official release post linking the exact paper. Llama 4 is
+labeled “Model code,” without implying the RL training pipeline is public.
+
+All 12 distinct destination URLs returned HTTP 200. The rendered homepage and
+contact audit passed at 1512, 768, 390 and 320px, including code-button hit tests,
+44px control heights, text-size minimums and horizontal overflow. Keyboard
+navigation to the highlight code button was checked at 320px. The decorative
+dots attached to the name were removed from the header, hero and footer.
+Photo/email privacy and the independent NYC guide remain unchanged.

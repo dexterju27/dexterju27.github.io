@@ -41,14 +41,23 @@ def build(check=False):
     papers=json.loads((ROOT/'_data/publications.json').read_text());validate(papers)
     resources=json.loads((ROOT/'_data/publication-resources.json').read_text())['works']
     if set(resources)!={p['id'] for p in papers}:raise ValueError('Resource audit must account for each publication')
+    code_audit=json.loads((ROOT/'_data/code-release-audit.json').read_text())['works']
+    if set(code_audit)!=set(resources):raise ValueError('Code audit must account for each publication')
+    for paper_id,work in resources.items():
+        releases=[r for r in work['links'] if r.get('kind') in ('code','data')]
+        audit=code_audit[paper_id]
+        if bool(releases)!=(audit['status']=='verified'):raise ValueError('Code audit mismatch: '+paper_id)
+        for release in releases:
+            if release['url']!=audit['url'] or release['kind']!=audit['kind']:raise ValueError('Unverified release: '+paper_id)
     papers=sorted(papers,key=lambda p:-p['year'])
     featured=[];rows=[]
     for p in papers:
         title=escape(p['title']);year=str(p['year']);venue=escape(p['venue']);team=p.get('kind')=='team'
         if p.get('featured'):
             credit=p.get('feature_credit') or ('Team-authored report' if team else p.get('note') or 'Research paper')
-            featured.append('<article class="feature-card" data-feature-id="%s"><div><p class="feature-meta">%s / %s</p><h3>%s</h3><p>%s</p><p class="feature-credit">%s · %s</p></div><div class="feature-graphic">%s</div></article>'%(
-                p['id'],year,escape(p.get('feature_venue') or p['venue']),external(p['url'],escape(p.get('short_title') or p['title'])),escape(p['summary']),escape(credit),escape(p['feature_label']),graphic(p.get('motif') or p['topics'][0])))
+            code_links=''.join(external(r['url'],escape(r['label'])+' <span aria-hidden="true">↗</span>','feature-code',r['label']+' — '+p['title']) for r in resources[p['id']]['links'] if r.get('kind')=='code')
+            featured.append('<article class="feature-card" data-feature-id="%s"><div><p class="feature-meta">%s / %s</p><h3>%s</h3><p>%s</p><p class="feature-credit">%s · %s</p>%s</div><div class="feature-graphic">%s</div></article>'%(
+                p['id'],year,escape(p.get('feature_venue') or p['venue']),external(p['url'],escape(p.get('short_title') or p['title'])),escape(p['summary']),escape(credit),escape(p['feature_label']),'<div class="feature-links">'+code_links+'</div>' if code_links else '',graphic(p.get('motif') or p['topics'][0])))
         authors=escape(p['authors']).replace('Da Ju','<strong>Da Ju</strong>')
         foot=[]
         if team:foot.append('<span class="paper-team">Team-authored report</span>')
@@ -66,7 +75,8 @@ def build(check=False):
             canonical=resource['url'].rstrip('/')
             if canonical in seen:continue
             seen.add(canonical)
-            foot.append(external(resource['url'],escape(resource['label'])+' ↗','paper-resource',resource['label']+' — '+p['title']))
+            resource_class='paper-resource'+(' paper-code' if resource.get('kind')=='code' else ' paper-data' if resource.get('kind')=='data' else '')
+            foot.append(external(resource['url'],escape(resource['label'])+' ↗',resource_class,resource['label']+' — '+p['title']))
         search=' '.join([p['title'],p['authors'],p['venue'],p['summary'],year]+[TOPICS[t] for t in p['topics']])
         rows.append('<article class="paper" id="paper-%s" data-year="%s" data-topics="%s" data-search="%s"><div class="paper-meta"><span class="paper-year">%s</span><span class="paper-venue">%s</span></div><div class="paper-main"><h3>%s</h3><p class="paper-authors">%s</p>%s</div></article>'%(
             p['id'],year,' '.join(p['topics']),escape(search,quote=True),year,venue,external(p['url'],title),authors,
