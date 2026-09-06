@@ -36,11 +36,13 @@ d.querySelector('[data-topic="safety"]').click();assert.ok(visible().length>1);a
 year.value='2026';year.dispatchEvent(new w.Event('change'));assert.equal(visible().length,1);assert.ok(d.getElementById('paper-status').textContent.startsWith('1 work '));
 d.getElementById('clear-papers').click();assert.equal(visible().length,22);
 assert.equal(d.querySelectorAll('.paper-team').length,2);assert.equal(d.querySelector('link[rel="canonical"]').href,'https://dexterju.me/');
-assert.ok(d.querySelector('meta[name="description"]').content.length>50);assert.ok(d.querySelector('img').alt.includes('Dexter'));
+assert.ok(d.querySelector('meta[name="description"]').content.length>50);
+assert.equal(d.querySelectorAll('.hero img,.portrait').length,0);
 assert.ok(d.querySelector('.hero-bio').textContent.includes('Meta Superintelligence Labs (MSL)'));
 assert.ok(d.querySelector('.hero-bio').textContent.includes('FAIR (Facebook AI Research)'));
 assert.ok(d.querySelector('.background-list').textContent.includes('Meta Superintelligence Labs (MSL)'));
-assert.ok(!d.querySelector('img').src.includes('profil-photo.jpg'));assert.ok(fs.statSync(path.join(root,'assets/images/dexter-portrait-960.webp')).size<200000);
+const config=fs.readFileSync(path.join(root,'_config.yml'),'utf8');
+for(const photo of ['profil-photo.jpg','assets/images/dexter-portrait.jpg','assets/images/dexter-portrait-480.webp','assets/images/dexter-portrait-960.webp'])assert.ok(config.includes(' - '+photo),'Photo excluded from Pages: '+photo);
 assert.ok(d.querySelector('a[href="/nyc/"]'));assert.ok(d.querySelector('a[href="/bachelor-thesis.pdf"]'));
 const allIds=[...d.querySelectorAll('[id]')].map(n=>n.id);assert.equal(new Set(allIds).size,allIds.length);
 for(const a of d.querySelectorAll('a[target="_blank"]')){assert.ok(a.rel.includes('noopener'));assert.ok(a.rel.includes('noreferrer'));}
@@ -53,6 +55,7 @@ for(const page of ['index.html','contact.html','contact/index.html']){
   assert.ok(!/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i.test(html),'No email address in public HTML');
   assert.ok(!/mailto:|data-copy-email/.test(html),'No hidden email link or copy data');
   assert.ok(!html.includes('Meta GenAI'),'Use the user-corrected MSL affiliation');
+  assert.ok(!/dexter-portrait|profil-photo|og:image|twitter:image/.test(html),'No photo in pages or social metadata');
 }
 assert.ok(contact.d.querySelector('a[href^="https://www.linkedin.com/"]'));
 const nojs=new JSDOM(fs.readFileSync(path.join(root,'index.html'),'utf8'));assert.equal(nojs.window.document.querySelectorAll('.paper:not([hidden])').length,22);assert.equal(nojs.window.document.querySelector('.publication-tools').hidden,true);

@@ -75,7 +75,7 @@ def build(check=False):
     years=''.join('<option value="%s">%s</option>'%(y,y) for y in sorted({p['year'] for p in papers},reverse=True))
     home=Template((ROOT/'tools/templates/home.html').read_text()).substitute(featured=''.join(featured),featured_layout='featured-grid--odd' if len(featured)%2 else '',publications=''.join(rows),work_count=len(papers),topic_filters=topics,year_options=years)
     contact=(ROOT/'tools/templates/contact.html').read_text()
-    person={'@context':'https://schema.org','@type':'Person','name':'Da (Dexter) Ju','alternateName':['Dexter Ju','Da Ju'],'url':'https://dexterju.me/','image':'https://dexterju.me/assets/images/dexter-portrait.jpg','jobTitle':'Member of Technical Staff','worksFor':{'@type':'Organization','name':'Microsoft AI'},'sameAs':['https://github.com/dexterju27','https://scholar.google.com/citations?user=YW5jp5QAAAAJ','https://www.linkedin.com/in/dexter-da-j-37101976/']}
+    person={'@context':'https://schema.org','@type':'Person','name':'Da (Dexter) Ju','alternateName':['Dexter Ju','Da Ju'],'url':'https://dexterju.me/','jobTitle':'Member of Technical Staff','worksFor':{'@type':'Organization','name':'Microsoft AI'},'sameAs':['https://github.com/dexterju27','https://scholar.google.com/citations?user=YW5jp5QAAAAJ','https://www.linkedin.com/in/dexter-da-j-37101976/']}
     layout=Template((ROOT/'tools/templates/layout.html').read_text())
     outputs={}
     for path,body,title,url in [('index.html',home,'Da (Dexter) Ju — AI Safety & Reasoning','https://dexterju.me/'),('contact.html',contact,'Contact — Dexter Ju','https://dexterju.me/contact/'),('contact/index.html',contact,'Contact — Dexter Ju','https://dexterju.me/contact/')]:

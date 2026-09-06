@@ -55,6 +55,11 @@ both returned HTTP 200.
 
 ## Follow-up content and privacy updates
 
+The user requested a photo-free homepage. The intro now uses a two-column text
+layout that stacks on smaller screens. Photo markup, social-image tags and the
+Person image field were removed. Original/optimized portrait files are retained
+in Git but excluded from Pages; no files or history were deleted.
+
 The user corrected the previous Meta affiliation to Meta Superintelligence Labs
 (MSL); biography, background and page descriptions now use that name. Collective
 publication authorship remains Meta AI where that is the report's credit.

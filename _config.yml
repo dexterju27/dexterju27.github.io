@@ -14,6 +14,10 @@ exclude:
  - package.json
  - package-lock.json
  - REDESIGN-AUDIT.md
+ - profil-photo.jpg
+ - assets/images/dexter-portrait.jpg
+ - assets/images/dexter-portrait-480.webp
+ - assets/images/dexter-portrait-960.webp
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"

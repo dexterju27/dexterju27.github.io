@@ -36,9 +36,10 @@ are excluded from the published site.
 Contact uses profile links only. Do not add an email address to the pages,
 `mailto:` URLs, metadata or copy-button attributes.
 
-The profile photo is the original image, cropped and compressed—not an
-AI-generated replacement. `tools/optimize_portrait.py` rebuilds its WebP/JPEG
-derivatives using Pillow. The original image and bachelor's thesis stay intact.
+The homepage is photo-free. Portrait files remain preserved in the repository,
+but are excluded from GitHub Pages and are not referenced in page markup,
+social-preview metadata or structured data. Do not reintroduce them without a
+request. The original image and bachelor's thesis stay intact.
 
 ## Publication policy
 
