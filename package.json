@@ -1,0 +1,11 @@
+{
+  "name": "dexter-personal-site",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "python3 tools/build_site.py",
+    "test": "python3 tools/build_site.py --check && node tests/site.test.cjs",
+    "dev": "python3 -m http.server 8770 --bind 127.0.0.1"
+  },
+  "devDependencies": {"jsdom": "26.1.0"}
+}

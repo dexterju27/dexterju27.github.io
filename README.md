@@ -1,60 +1,52 @@
-# Researcher
+# Dexter Ju — personal website
 
-### [Demo Website](http://ankitsultana.com/researcher)
+Live at **https://dexterju.me/**. A lightweight, static research profile with
+selected work, a searchable bibliography, background, contact links and the NYC
+guide. No framework, analytics, external fonts or runtime API keys are required.
 
-A clean, single column, monospace resume template built for jekyll
+## Editing
 
-### Installation
+- `_data/publications.json`: the bibliography and selected-work cards.
+- `_data/scholar-audit.json`: provenance and the last Scholar comparison.
+- `tools/templates/`: homepage, contact page and shared layout.
+- `assets/css/personal.css` and `assets/js/personal.js`: styling and enhancement.
 
-Simply fork the repository and edit away.
+After editing content:
 
-#### Installation via remote themes
-
-* Just setting `remote_theme: ankitsultana/researcher@gem` in `_config.yml` should work. Although in that case, I am not sure how
-you would build your site locally for testing. If you know how, open up an issue and let me know.
-* For more info, [refer this](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/).
-
-### Customization
-
-* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
-
-* You can of course remove `contact.md` if you don't want it
-
-* To set the heading, edit the `title` variable in `_config.yml`
-
-* To edit the `links` mentioned on the navigation bar, you can edit `_config.yml`. For example:
-
-```
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+```sh
+python3 tools/build_site.py
+npm install
+npm test
+npm run dev
 ```
 
-* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
+The builder writes `index.html`, `contact.html`, `contact/index.html` and
+`sitemap.xml`. Commit these generated files along with the source changes.
+GitHub Pages serves them as static files. The legacy `/contact` route remains
+available. All publications and contact links work without JavaScript.
 
-* You can setup google analytics, by setting `tracking_id` in `_config.yml`
+The profile photo is the original image, cropped and compressed—not an
+AI-generated replacement. `tools/optimize_portrait.py` rebuilds its WebP/JPEG
+derivatives using Pillow. The original image and bachelor's thesis stay intact.
 
-* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
+## Publication policy
 
-```html
-<img class="profile-picture" src="sherlock.jpg">
-```
+The September 5, 2026 audit found 23 Scholar rows representing 22 distinct works.
+The repeated BlenderBot 3 citation is one work, not two. Collective Microsoft AI
+and Meta AI reports retain team authorship. Final proceedings/journal years are
+used when available, with earlier preprint years noted. Source links and audit
+notes are retained; no citation-count claims are embedded in the homepage.
 
-* You can remove/customize the footer as you like by setting the
-appropriate variables in `_config.yml`
+## Keep the NYC guide independent
 
-* (New in v1.2.0) You can add institute logo at the top, by setting `ins_logo` in `_config.yml`. If you want
-to adjust the logo's size, try setting `max-height` in `#ins-logo` in file `./_sass/_style.scss` to the desired
-value
+`/nyc/` is generated on Azure and published independently. **Do not regenerate,
+replace or delete its files as part of a personal-site edit.** The homepage
+builder does not write under `nyc/`. Pull/rebase before pushing if the daily NYC
+publisher advanced the branch. Preserve `CNAME` and the Pages configuration.
 
-![Institute Logo Image Sample](https://github.com/ankitsultana/assets/raw/master/ins-logo-sample.png)
+## History and license
 
-**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
-
-### License
-
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+The old Markdown homepage and contact page remain recoverable in Git history.
+The original site used Ankit Sultana's Researcher Jekyll template; its legacy
+layout/Sass files and GNU GPL v3 license are preserved. The 2026 personal-page
+layout and lightweight static builder are a new implementation.

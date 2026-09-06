@@ -1,11 +1,19 @@
-title: Dexter JU's Home Page
-url: "https:://dexterju.github.io"
-baseurl: "/"
+title: "Da (Dexter) Ju — AI Safety & Reasoning"
+url: "https://dexterju.me"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
+
+exclude:
+ - tools
+ - tests
+ - node_modules
+ - package.json
+ - package-lock.json
+ - REDESIGN-AUDIT.md
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"

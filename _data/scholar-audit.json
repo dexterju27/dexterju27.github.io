@@ -1,0 +1,16 @@
+{
+  "profile": "https://scholar.google.com/citations?user=YW5jp5QAAAAJ&hl=en",
+  "checked": "2026-09-05",
+  "profile_name": "Dexter JU",
+  "listed_entries": 23,
+  "unique_works": 22,
+  "added": ["mai-thinking-1", "llama-4", "open-domain-progress", "growing-up-together"],
+  "merged_duplicates": [{"work":"blenderbot-3","scholar_ids":["WF5omc3nYNoC","hqOjcs7Dif8C"],"reason":"Same title and arXiv 2208.03188; duplicate trailing-year citation is not a separate work."}],
+  "notes": [
+    "Team-authored MAI and Llama reports retain collective credit; no individual leadership or authorship position is inferred.",
+    "Domain Regeneration updated from preprint to Findings of ACL 2025 with the official proceedings link.",
+    "Final conference/journal years are used when established; earlier preprint years remain in notes.",
+    "The MAI Scholar profile lists 2026 while a clustered citation says 2025. The official Microsoft announcement identifies the 2026 release.",
+    "Staircase Attention is NeurIPS 2022 (earlier preprint 2021); FLORES-101 has a 2022 TACL version and an earlier 2021 release."
+  ]
+}
