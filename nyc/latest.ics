@@ -5,539 +5,62 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:NYC What To Do
 BEGIN:VEVENT
-UID:evt_6febc090fc7827ed10a9@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T130000Z
-SUMMARY:New york city marathon
-LOCATION:See organizer for venue
-DESCRIPTION:New york city marathon. Listed by The Skint\; follow the orga
- nizer link for current details.
-URL:https://www.nyrr.org/tcsnycmarathon
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_7c2941cf7d39d607d650@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T140000Z
-DTEND:20261101T190000Z
-SUMMARY:Sunday Greenmarket at Bartel-Pritchard Square
-LOCATION:Bartel-Pritchard Square\, Prospect Park West and 15th Street\, B
- rooklyn\, NY\, Brooklyn
-DESCRIPTION:A neighborhood farmers market with regional produce\, fish an
- d baked goods at Prospect Park's southwest entrance. https://www.prospect
- park.org/event/sunday-greenmarket-at-bartel-pritchard-square-4/2026-11-01
- /
-URL:https://www.prospectpark.org/event/sunday-greenmarket-at-bartel-pritc
- hard-square-4/2026-11-01/
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_b095a279b1c2f066c903@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T150000Z
-DTEND:20261101T220000Z
-SUMMARY:Brooklyn Flea in DUMBO
-LOCATION:Brooklyn Flea\, 80 Pearl Street\, Brooklyn\, NY 11201\, Brooklyn
-DESCRIPTION:Vintage clothing\, antiques\, handmade goods and collectibles
-  beneath the Manhattan Bridge. https://www.brooklynflea.com/
-URL:https://www.brooklynflea.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_902dbf09a42c5fc7908f@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T150000Z
-DTEND:20261101T183000Z
-SUMMARY:First Sunday Birdwatching Outing
-LOCATION:Prospect Park Audubon Center at the Boathouse\, 101 East Drive\,
-  Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Brooklyn Bird Club leaders guide an easy-paced outing through
-  Prospect Park's habitats\, looking for resident birds and seasonal visit
- ors. https://www.prospectpark.org/event/birdwatching-first-sunday-outings
- -6/2026-11-01/
-URL:https://www.prospectpark.org/event/birdwatching-first-sunday-outings-
- 6/2026-11-01/
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_2bf0ea791369675c8895@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T160000Z
-SUMMARY:Free bike helmets
-LOCATION:See organizer for venue\, Manhattan
-DESCRIPTION:Free bike helmets. Listed by The Skint\; follow the organizer
-  link for current details.
-URL:https://www.nyc.gov/html/dot/html/bicyclists/bike-events.shtml
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_9fa47fea1680b65be2a0@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T160000Z
-DTEND:20261101T200000Z
-SUMMARY:Queens Botanical Garden Pumpkin Smash
-LOCATION:Queens Botanical Garden Compost Yard\, 43-50 Main Street\, Flush
- ing\, NY 11355\, Queens
-DESCRIPTION:Smash pumpkins\, jack-o'-lanterns and gourds\, then let the g
- arden's compost team turn the remains into soil-building material. https:
- //queensbotanical.org/event/pumpkin-smash-2026/
-URL:https://www.eventbrite.com/e/pumpkin-smash-2026-registration-19961000
- 68037
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_55ca32a6ca10079538f3@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T160000Z
-DTEND:20261101T230000Z
-SUMMARY:Smorgasburg Prospect Park
-LOCATION:Smorgasburg Prospect Park\, Breeze Hill\, Prospect Park (enter a
- t Lincoln Road)\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Brooklyn's open-air food market at Breeze Hill in Prospect Pa
- rk\, with dozens of independent vendors. Free to enter\; pay per stall. h
- ttps://www.smorgasburg.com/
-URL:https://www.smorgasburg.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_f647cdbb679c0d4ae619@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T170000Z
-DTEND:20261101T210000Z
-SUMMARY:Diwali Festival: The Indian Wedding
-LOCATION:Flushing Town Hall\, 137-35 Northern Boulevard\, Queens\, NY\, Q
- ueens
-DESCRIPTION:Abha B. Roy and Srijan Dance Company present an Indian-weddin
- g dance drama\, regional dances and a tassa procession within an afternoo
- n Diwali celebration. https://www.flushingtownhall.org/show-details/diwal
- i-festival-the-indian-wedding
-URL:https://www.flushingtownhall.org/show-details/diwali-festival-the-ind
- ian-wedding
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_94bc976e211f540140c3@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T170000Z
-SUMMARY:Halloween (1978): Restored Screening
-LOCATION:Nitehawk Cinema Prospect Park\, 188 Prospect Park West\, Brookly
- n\, NY 11215\, Brooklyn
-DESCRIPTION:John Carpenter's original Halloween returns in a restored dig
- ital presentation. https://nitehawkcinema.com/prospectpark/movies/hallowe
- en-1978/
-URL:https://nitehawkcinema.com/prospectpark/purchase/24743430/
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_2e63fd4c00e87d40d933@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T170000Z
-DTEND:20261101T230000Z
-SUMMARY:Joselia Rebekah Hughes: Masque On — Final Day
-LOCATION:Pioneer Works\, 159 Pioneer Street\, Brooklyn\, NY 11231\, Brook
- lyn
-DESCRIPTION:Final day of Hughes's Masque On: Y'all taking spiritual hits\
- ; I'm making plans\, a rotating presentation within Finnegan Shannon's ac
- cessible\, multisensory exhibition There's no me without you. https://pio
- neerworks.org/exhibitions/finnegan-shannon-there-is-no-me-without-you
-URL:https://pioneerworks.org/exhibitions/finnegan-shannon-there-is-no-me-
- without-you
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_33a357b5bdbd910f671c@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T170000Z
-DTEND:20261101T220000Z
-SUMMARY:Mano a Mano Día de Muertos Marketplace
-LOCATION:St. Mark's Church-in-the-Bowery grounds\, 131 East 10th Street\,
-  New York\, NY 10003\, Manhattan
-DESCRIPTION:An outdoor Mexican food and folk-art marketplace alongside Ma
- no a Mano's community ofrenda. Visitors can contribute photographs or let
- ters remembering loved ones. https://www.manoamano.nyc/day-of-the-dead-di
- a-de-muertos-nyc
-URL:https://www.manoamano.nyc/day-of-the-dead-dia-de-muertos-nyc
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_559e744bdb7d43ad9dce@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T180000Z
-DTEND:20261101T200000Z
-SUMMARY:Astoria Park Pumpkin Smash
-LOCATION:Astoria Park\, Near Ditmars Boulevard and 19th Street\, Astoria\
- , NY\, Queens
-DESCRIPTION:A community pumpkin-composting afternoon with smashing statio
- ns and a giant slingshot made by the Astoria Woodworkers Collective. http
- s://www.astoriaparkalliance.org/events/2026-11-01/astoria-park-pumpkin-sm
- ash-d2kfb-9pj47-lwadt-rm3wb
-URL:https://www.astoriaparkalliance.org/events/2026-11-01/astoria-park-pu
- mpkin-smash-d2kfb-9pj47-lwadt-rm3wb
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_fd9109a917513fd1dc99@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T190000Z
-SUMMARY:NYC Comedy Class Graduation Show
-LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
- ork\, NY 10024\, Manhattan
-DESCRIPTION:Stand-up comedy: NYC Comedy Class Graduation Show. New York C
- omedy Club Upper West Side\, Upper West Side. https://newyorkcomedyclub.c
- om/events/nyc-comedy-class-graduation-show-2026-11-01140000
-URL:https://newyorkcomedyclub.com/events/nyc-comedy-class-graduation-show
- -2026-11-01140000
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_bea5305cbaad4d18f1a1@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T193000Z
-SUMMARY:Video Art & Experimental Film Bingo
-LOCATION:Wonderville\, 1186 Broadway\, Brooklyn\, NY 11221\, Brooklyn
-DESCRIPTION:The Video Art & Experimental Film Festival team hosts a playf
- ul bingo competition\, with a 2026 festival pass for the winner. https://
- www.wonderville.nyc/events/video-art-experimental-film-bingo-11-1-26
-URL:https://pools.events/event/l3jdzUGi/video-art-experimental-film-bingo
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_c0530c1b610df508165c@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T200000Z
-SUMMARY:Roy Lichtenstein: Like New — Exhibition Tour
-LOCATION:Whitney Museum of American Art\, 99 Gansevoort Street\, New York
- \, NY 10014\, Manhattan
-DESCRIPTION:A guided introduction to the Whitney's Roy Lichtenstein: Like
-  New exhibition. https://whitney.org/events/exhibition-tour-lichtenstein
-URL:https://whitney.org/events/exhibition-tour-lichtenstein
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_4a7eabb4e3360fb2e187@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T203000Z
-DTEND:20261102T043000Z
-SUMMARY:OWL-O-WEEN PROM! Post Gutterween Rager
-LOCATION:The Gutter\, 200 North 14th Street\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:An afternoon-to-night post-Halloween live-band party. The Ski
- nt lists tributes to the Cranberries\, Violent Femmes\, David Bowie\, the
-  Strokes\, Blondie and The Rocky Horror Picture Show. https://gutterbarbo
- wl.com/spareroom/owl-o-ween-prom-post-gutterween-rager
-URL:https://gutterbarbowl.com/spareroom/owl-o-ween-prom-post-gutterween-r
- ager
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_6773362c24627d019ce7@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T210000Z
-DTEND:20261102T050000Z
-SUMMARY:40+ Years of REGGAE: To the Foundation by Sting International
-LOCATION:Xanadu\, 262 Starr Street\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Sting International leads a reggae dance party spanning roots
- \, reggae and dancehall. Brooklyn Magazine describes an all-vinyl celebra
- tion. https://dice.fm/event/ryopp5-40-years-of-reggae-to-the-foundation-b
- y-sting-international-dance-party-1st-nov-xanadu-new-york-city-tickets
-URL:https://dice.fm/event/ryopp5-40-years-of-reggae-to-the-foundation-by-
- sting-international-dance-party-1st-nov-xanadu-new-york-city-tickets
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_f40cf2a72195456d395a@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T211500Z
-SUMMARY:Laughing Buddha Comedy
-LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
- ork\, NY 10024\, Manhattan
-DESCRIPTION:Stand-up comedy: Laughing Buddha Comedy. New York Comedy Club
-  Upper West Side\, Upper West Side. https://newyorkcomedyclub.com/events/
- laughing-buddha-comedy-2026-11-01160000
-URL:https://newyorkcomedyclub.com/events/laughing-buddha-comedy-2026-11-0
- 1160000
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_9fefad3adb01c7953831@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T220000Z
-SUMMARY:Matinee with Ry Daddy ft: Daniel Simonsen\, Jenny Tian\, Subhah A
- garwal\, Alvin Kuai\, Amanda Gail\, Ryan Dacalos
-LOCATION:New York Comedy Club\, 241 East 24th Street\, New York\, NY 1001
- 0\, Manhattan
-DESCRIPTION:Stand-up comedy: Matinee with Ry Daddy ft: Daniel Simonsen\, 
- Jenny Tian\, Subhah Agarwal\, Alvin Kuai\, Amanda Gail\, Ryan Dacalos. Ne
- w York Comedy Club\, Gramercy. https://newyorkcomedyclub.com/events/matin
- ee-with-ry-daddy-ft-daniel-simonsen-jenny-tian-subhah-agarwal-alvin-kuai-
- amanda-gail-ryan-dacalos-1
-URL:https://newyorkcomedyclub.com/events/matinee-with-ry-daddy-ft-daniel-
- simonsen-jenny-tian-subhah-agarwal-alvin-kuai-amanda-gail-ryan-dacalos-1
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_ef30230bdcdf79dd9c12@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T223000Z
-SUMMARY:Comedy Mob Open Mic
-LOCATION:New York Comedy Club on 4th Street\, 85 East 4th Street\, New Yo
- rk\, NY 10003\, Manhattan
-DESCRIPTION:Stand-up comedy: Comedy Mob Open Mic. New York Comedy Club on
-  4th Street\, East Village. https://newyorkcomedyclub.com/events/comedy-m
- ob-open-mic-2026-11-01173000
-URL:https://newyorkcomedyclub.com/events/comedy-mob-open-mic-2026-11-0117
- 3000
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_98d05fad3e092822962d@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T230000Z
-SUMMARY:Casino with Nicholas Pileggi Q&A
-LOCATION:IFC Center\, 323 Sixth Avenue\, New York\, NY 10014\, Manhattan
-DESCRIPTION:Martin Scorsese's Casino screens with a conversation featurin
- g screenwriter and author Nicholas Pileggi. https://www.ifccenter.com/fil
- ms/casino/
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.asp
- x?evtinfo=586651~8722a542-64c1-4c0b-af02-c3e8a239d769
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_ac1dd480cf03ec2b9997@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T230000Z
-SUMMARY:Día de Muertos Celebration with Guachinangos
-LOCATION:David Rubenstein Atrium\, 1887 Broadway\, Manhattan\, NY\, Manha
- ttan
-DESCRIPTION:Guachinangos bring cumbia\, son jarocho\, champeta and ranche
- ras to a Día de Muertos celebration\, with a community ofrenda created w
- ith Mano a Mano. https://www.lincolncenter.org/series/lincoln-center-pres
- ents/dandiacutea-de-muertos-celebration-740
-URL:https://www.lincolncenter.org/series/lincoln-center-presents/dandiacu
- tea-de-muertos-celebration-740
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_985b77a3fe74811fe9d1@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T230000Z
-SUMMARY:Neurosis + High On Fire
-LOCATION:Saint Vitus\, 428 Troutman Street\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Neurosis and High On Fire share a heavy-music bill at Saint V
- itus. https://dice.fm/event/yoq59x-neurosis-high-on-fire-1st-nov-saint-vi
- tus-new-york-city-tickets
-URL:https://dice.fm/event/yoq59x-neurosis-high-on-fire-1st-nov-saint-vitu
- s-new-york-city-tickets
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_72f222dacbf6bbc11f74@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T230000Z
-SUMMARY:Nritya Arpan: Kathak & Kuchipudi
-LOCATION:Jamaica Performing Arts Center\, 153-10 Jamaica Avenue\, Queens\
- , NY\, Queens
-DESCRIPTION:Neela Dance Academy\, directed by Neela Zareen\, presents Kat
- hak and Kuchipudi with live Carnatic and Hindustani ensembles. The multig
- enerational cast includes emerging performers. https://www.flushingtownha
- ll.org/show-details/nritya-arpan-a-kathak-kuchipudi-classical-dance-prese
- ntation
-URL:https://www.flushingtownhall.org/show-details/nritya-arpan-a-kathak-k
- uchipudi-classical-dance-presentation
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_a4832d6e9f43fe9f6ef4@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261101T233000Z
-SUMMARY:James Davis\, Carolina Montesquieu\, J.P. Mcdade\, Andrew Collin
-LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
- ork\, NY 10024\, Manhattan
-DESCRIPTION:Stand-up comedy: James Davis\, Carolina Montesquieu\, J.P. Mc
- dade\, Andrew Collin. New York Comedy Club Upper West Side\, Upper West S
- ide. https://newyorkcomedyclub.com/events/james-davis-carolina-montesquie
- u-j-p-mcdade-andrew-collin
-URL:https://newyorkcomedyclub.com/events/james-davis-carolina-montesquieu
- -j-p-mcdade-andrew-collin
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_76f7cdc2d3f13d451442@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261102T000000Z
-SUMMARY:Ariel Elias\, Judah Friedlander\, Christine Berg\, Onika McLean
-LOCATION:New York Comedy Club\, 241 East 24th Street\, New York\, NY 1001
- 0\, Manhattan
-DESCRIPTION:Stand-up comedy: Ariel Elias\, Judah Friedlander\, Christine 
- Berg\, Onika McLean. New York Comedy Club\, Gramercy. https://newyorkcome
- dyclub.com/events/ariel-elias-judah-friedlander-christine-berg-onika-mcle
- an
-URL:https://newyorkcomedyclub.com/events/ariel-elias-judah-friedlander-ch
- ristine-berg-onika-mclean
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_ecd94a9a6d69b8fbb541@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261102T000000Z
-SUMMARY:New York Natives: An Indigenous Variety Show
-LOCATION:Upright Citizens Brigade Theatre\, 242 East 14th Street\, New Yo
- rk\, NY 10003\, Manhattan
-DESCRIPTION:Kaley Morrison and Kendall Davis host Indigenous comedy and v
- ariety with Larry Dorsey Jr.\, Kara Morrison\, Hózhó Harris and Isaiah 
- Del Welker. https://ucbcomedy.com/show/new-york-natives-an-indigenous-var
- iety-show-841006/
-URL:https://ucbcomedy.com/show/new-york-natives-an-indigenous-variety-sho
- w-841006/
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_fffaedb9e6ba693afd10@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261102T000000Z
-SUMMARY:OFFLINE Presents: Improvisers in the Round
-LOCATION:Brooklyn Comedy Collective at Eris\, 167 Graham Avenue\, Brookly
- n\, NY 11206\, Brooklyn
-DESCRIPTION:An in-the-round improv show featuring Hot Dog with Mustard an
- d Tupperware Party. https://www.brooklyncc.com/show-schedule/offline-11-1
-URL:https://www.eventbrite.com/e/offline-presents-improvisers-in-the-roun
- d-tickets-2003955255113
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_cc09f4a7e3a57a1ed32c@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261102T000000Z
-SUMMARY:PALEDUSK with Headwreck\, Slow Degrade and Dirt Helmet
-LOCATION:Le Poisson Rouge\, 158 Bleecker Street\, Manhattan\, NY\, Manhat
- tan
-DESCRIPTION:Japanese heavy band PALEDUSK headline a four-act bill with He
- adwreck\, Slow Degrade and Dirt Helmet. https://lpr.com/lpr_events/paledu
- sk26nyc/
-URL:https://kyd.to/vAXS3MJW
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_c1941f5917b066080961@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261102T003000Z
-DTEND:20261102T020000Z
-SUMMARY:Kevin McDonald: My Stupid Career
-LOCATION:Union Hall\, 702 Union Street\, Brooklyn\, NY 11215\, Brooklyn
-DESCRIPTION:The Kids in the Hall performer combines career stories\, stan
- d-up and a one-person show\, followed by an audience Q&A. https://unionha
- llny.com/calendar
-URL:https://www.eventbrite.com/e/kevin-mcdonald-my-stupid-career-tickets-
- 1997894136143
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_5ae38aa742c37e63f3d7@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261102T010000Z
-DTEND:20261102T040000Z
-SUMMARY:Carsie Blanton with The Burning Hell
-LOCATION:Littlefield\, 635 Sackett Street\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Songwriter Carsie Blanton shares the bill with Canadian indie
- -folk band The Burning Hell. https://littlefieldnyc.com/event/?wfea_eb_id
- =1992001143042
-URL:https://kyd.to/Ibp0DR0i
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_9d4fe7c641dec99b0c26@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261102T010000Z
-SUMMARY:Eeland Stribling\, Eric Neumann\, Carolina Montesquieu\, Shafi Ho
- ssain
-LOCATION:New York Comedy Club on 4th Street\, 85 East 4th Street\, New Yo
- rk\, NY 10003\, Manhattan
-DESCRIPTION:Stand-up comedy: Eeland Stribling\, Eric Neumann\, Carolina M
- ontesquieu\, Shafi Hossain. New York Comedy Club on 4th Street\, East Vil
- lage. https://newyorkcomedyclub.com/events/eeland-stribling-eric-neumann-
- carolina-montesquieu-shafi-hossain
-URL:https://newyorkcomedyclub.com/events/eeland-stribling-eric-neumann-ca
- rolina-montesquieu-shafi-hossain
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_a11dc541b68acd77c285@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261102T020000Z
-SUMMARY:Omer Adam: US Tour 2026
-LOCATION:Barclays Center\, 620 Atlantic Avenue\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Omer Adam brings his 2026 US tour to Barclays Center. https:/
- /www.barclayscenter.com/events/detail/omer-adam-2026
-URL:https://www.ticketmaster.com/omer-adam-brooklyn-new-york-11-01-2026/e
- vent/30006539AB226DB6
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_36f902ceef406ec1f2f2@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261102T020000Z
-SUMMARY:Runnin Late ft: Andre D Thompson\, Will Abeles\, Colin Cab Washin
- gton
-LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
- ork\, NY 10024\, Manhattan
-DESCRIPTION:Stand-up comedy: Runnin Late ft: Andre D Thompson\, Will Abel
- es\, Colin Cab Washington. New York Comedy Club Upper West Side\, Upper W
- est Side. https://newyorkcomedyclub.com/events/runnin-late-ft-andre-d-tho
- mpson-will-abeles-colin-cab-washington
-URL:https://newyorkcomedyclub.com/events/runnin-late-ft-andre-d-thompson-
- will-abeles-colin-cab-washington
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_03787f2966a268e10f52@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261102T021500Z
-SUMMARY:James Davis\, Christine Berg\, Caroline Hanes\, Eeland Stribling
-LOCATION:New York Comedy Club\, 241 East 24th Street\, New York\, NY 1001
- 0\, Manhattan
-DESCRIPTION:Stand-up comedy: James Davis\, Christine Berg\, Caroline Hane
- s\, Eeland Stribling. New York Comedy Club\, Gramercy. https://newyorkcom
- edyclub.com/events/james-davis-christine-berg-caroline-hanes-eeland-strib
- ling
-URL:https://newyorkcomedyclub.com/events/james-davis-christine-berg-carol
- ine-hanes-eeland-stribling
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_f16b8405769692be8802@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261102T024500Z
-SUMMARY:New Jokes & Newbies
-LOCATION:New York Comedy Club on 4th Street\, 85 East 4th Street\, New Yo
- rk\, NY 10003\, Manhattan
-DESCRIPTION:Stand-up comedy: New Jokes & Newbies. New York Comedy Club on
-  4th Street\, East Village. https://newyorkcomedyclub.com/events/new-joke
- s-newbies-2026-11-01214500
-URL:https://newyorkcomedyclub.com/events/new-jokes-newbies-2026-11-01214500
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_4cb7c01b7ea7d60550e5@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_68f3d1eaa7d19c14cded@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:Here There Are Blueberries — First Broadway Performance
+SUMMARY:Here There Are Blueberries: Broadway performances begin
 LOCATION:Ethel Barrymore Theatre\, 243 West 47th Street\, New York\, NY 1
  0036\, Manhattan
-DESCRIPTION:Moisés Kaufman and Amanda Gronich's play investigates a Holo
- caust-era photographic album and the people pictured in it. https://www.h
- erethereareblueberries.com/
+DESCRIPTION:Moisés Kaufman and Amanda Gronich's documentary play follows
+  the investigation of a Nazi-era photograph album received by the U.S. Ho
+ locaust Memorial Museum. https://www.herethereareblueberries.com/
 URL:https://www.herethereareblueberries.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_b09ace764010ad03f024@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261102T143000Z
 DTEND:20261102T170000Z
 SUMMARY:Compost Build Community Volunteer Day
 LOCATION:Queens Botanical Garden\, 43-50 Main Street\, Flushing\, NY 1135
  5\, Queens
-DESCRIPTION:Work with the QBG compost staff on their weekly compost build
-  and learn how community food scraps become nutrient-rich compost. https:
- //queensbotanical.org/event/compost-build-community-volunteer-days-34/202
- 6-11-02/
+DESCRIPTION:Work with the garden's compost staff to turn community food s
+ craps into nutrient-rich compost and learn how the process works. https:/
+ /queensbotanical.org/event/compost-build-community-volunteer-days-34/2026
+ -11-02/
 URL:https://queensbotanical.org/event/compost-build-community-volunteer-d
  ays-34/2026-11-02/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_055671a44e9e588b7e88@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261102T170000Z
-DTEND:20261102T214500Z
-SUMMARY:LeFrak Covered-Rink Monday Skate Special
-LOCATION:LeFrak Center at Lakeside\, 171 East Drive\, Brooklyn\, NY 11225
- \, Brooklyn
-DESCRIPTION:The covered rink's first Monday of the new ice season comes w
- ith discounted general admission. https://lakeside.prospectpark.org/activ
- ity/public-ice-skate/
-URL:https://lakeside.prospectpark.org/activity/public-ice-skate/
+UID:evt_b2f0c8f440c98747c169@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261102T190000Z
+SUMMARY:Exhibition Tour: The Lost World — The Art of Minnie Evans
+LOCATION:Whitney Museum of American Art\, 99 Gansevoort Street\, New York
+ \, NY 10014\, Manhattan
+DESCRIPTION:A docent-led tour of the Whitney's Minnie Evans exhibition. h
+ ttps://whitney.org/events/minnie-evans-tour
+URL:https://whitney.org/events/minnie-evans-tour
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_2a3bdfc4635d01197352@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_df17d10bedd6603929be@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261102T210000Z
 DTEND:20261103T000000Z
-SUMMARY:Green-Wood Day of the Dead Community Celebration
-LOCATION:Green-Wood Main Entrance Meadow and Historic Chapel\, 500 25th S
- treet\, Brooklyn\, NY 11232\, Brooklyn
-DESCRIPTION:A public Día de Muertos gathering with hands-on crafts\, foo
- d and activities exploring traditions of remembrance in the cemetery's en
- trance meadow and chapel area. https://www.green-wood.com/event/day-of-th
- e-dead-family-celebration-3/
+SUMMARY:Day of the Dead Family Celebration
+LOCATION:Green-Wood Cemetery\, 500 25th Street\, Brooklyn\, NY 11232\, Br
+ ooklyn
+DESCRIPTION:An all-ages gathering in the Main Entrance Meadow and Histori
+ c Chapel celebrating remembrance through Day of the Dead traditions\, cra
+ fts\, food and performances. https://www.green-wood.com/event/day-of-the-
+ dead-family-celebration-3/
 URL:https://www.eventbrite.com/e/day-of-the-dead-family-celebration-ticke
  ts-1998793496153
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_6d6bf6598b4f815eeb3f@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261102T211500Z
 SUMMARY:Movie musical mondays: meet me in st. louis
 LOCATION:See organizer for venue
@@ -548,60 +71,57 @@ URL:https://angelikafilmcenter.com/villageeast/signature-programming/musi
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_3147df4cd83bceb3bd3c@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261102T223000Z
 SUMMARY:WWE RAW & SmackDown: Two Shows\, One Night
 LOCATION:Barclays Center\, 620 Atlantic Avenue\, Brooklyn\, NY 11217\, Br
  ooklyn
-DESCRIPTION:A combined WWE RAW and SmackDown arena event\; the venue anno
- unces John Cena among the advertised participants. https://www.barclaysce
- nter.com/events/detail/wwe-monday-night-raw-112026
+DESCRIPTION:A combined evening of WWE RAW and SmackDown at Barclays Cente
+ r\, with wrestlers from both brands. https://www.barclayscenter.com/event
+ s/detail/wwe-monday-night-raw-112026
 URL:https://www.ticketmaster.com/event/300064EE97A74F47
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_3a650213823839812787@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261102T230000Z
 SUMMARY:Mike Clark Quartet
-LOCATION:Smalls Jazz Club\, 183 West 10th Street\, basement\, Manhattan\,
-  NY\, Manhattan
-DESCRIPTION:Drummer Mike Clark performs with Craig Handy on tenor saxopho
- ne\, Mike LeDonne on piano and Jeff Carney on bass. https://www.smallsliv
- e.com/events/34204-mike-clark-quartet/
+LOCATION:Smalls Jazz Club\, 183 West 10th Street\, Manhattan
+DESCRIPTION:Drummer Mike Clark leads Craig Handy\, Mike LeDonne and Jeff 
+ Carney in an early-evening quartet engagement. https://www.smallslive.com
+ /events/34204-mike-clark-quartet/
 URL:https://www.ticketweb.com/event/mike-clark-quartet-smalls-jazz-club-t
  ickets/14361434
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_d0e595131e7db822401a@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261102T230000Z
 SUMMARY:Spike Wilner Trio
-LOCATION:Mezzrow\, 163 West 10th Street\, basement\, Manhattan\, NY\, Man
- hattan
-DESCRIPTION:Pianist Spike Wilner leads a trio with bassist Paul Gill and 
- drummer Tony Leone. https://www.smallslive.com/events/34214-spike-wilner-
- trio/
+LOCATION:Mezzrow\, 163 West 10th Street\, Manhattan
+DESCRIPTION:Pianist Spike Wilner performs with bassist Paul Gill and drum
+ mer Tony Leone in Mezzrow's intimate piano room. https://www.smallslive.c
+ om/events/34214-spike-wilner-trio/
 URL:https://www.ticketweb.com/event/spike-wilner-trio-mezzrow-tickets/143
  57454
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_aee4ccbbd51c7ebac0a2@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261102T233000Z
 DTEND:20261103T010000Z
 SUMMARY:Cold Process Soap Making for Beginners
 LOCATION:Brooklyn Brainery\, 190 Underhill Avenue\, Brooklyn\, NY 11238\,
   Brooklyn
-DESCRIPTION:Learn lye safety\, oils\, scents and add-ins\, then make vega
- n soap in small groups and take home approximately five ounces to cure. h
- ttps://brooklynbrainery.com/courses/cold-process-soap-making-for-beginner
- s
+DESCRIPTION:Learn beginner cold-process soap making\, including lye safet
+ y\, and make a small batch of vegan soap to take home. https://brooklynbr
+ ainery.com/courses/cold-process-soap-making-for-beginners
 URL:https://brooklynbrainery.com/courses/cold-process-soap-making-for-beg
  inners/sessions/10873/signup
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_a5bd41018dba35799111@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261102T233000Z
 DTEND:20261103T023000Z
 SUMMARY:NYC Resistor Public Craft Night
@@ -615,7 +135,7 @@ URL:https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_bc0b1fdc303c25e2d3b3@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T000000Z
 SUMMARY:Backroom Comedy ft: Phoebe Robinson\, James Mattern\, Peter Liu\,
   Sam Kochman\, Michael Brigante
@@ -630,7 +150,7 @@ URL:https://newyorkcomedyclub.com/events/backroom-comedy-ft-phoebe-robins
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_1ee45e996bdfe756fd25@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T000000Z
 SUMMARY:Biology on tap:
 LOCATION:See organizer for venue\, Brooklyn
@@ -640,69 +160,92 @@ URL:https://www.instagram.com/biologyontap/
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_5e7b397ee250b40ecf98@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T000000Z
 SUMMARY:Blow My Mind LIVE! Fact-A-Thon
 LOCATION:Caveat\, 21A Clinton Street\, New York\, NY 10002\, Manhattan
-DESCRIPTION:Twenty people compete to present the best fact in a live know
- ledge-and-comedy competition. The official listing names Itai Yanai\, Sar
- ah Adelman and Brielle DeMirjian. https://caveat.nyc/events/caveat-presen
- ts-blow-my-mind-live-fact-a-thon-2026-11-02
+DESCRIPTION:Twenty participants compete to present the most compelling fa
+ ct in a live\, audience-facing competition hosted by Sarah Adelman. https
+ ://caveat.nyc/events/caveat-presents-blow-my-mind-live-fact-a-thon-2026-1
+ 1-02
 URL:https://caveat.nyc/events/caveat-presents-blow-my-mind-live-fact-a-th
  on-2026-11-02
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_3d877fee3d11dc92f144@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_7485283e9b1776e6f7ca@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T000000Z
-SUMMARY:Living Radio
+SUMMARY:Living Radio: November edition
 LOCATION:UNDER St. Marks\, 94 St. Marks Place\, New York\, NY 10009\, Man
  hattan
-DESCRIPTION:Living radio: contemporary radio drama\, with a revisionist t
- wist. Listed by The Skint\; follow the organizer link for current details
- . https://livingradionyc.com/
+DESCRIPTION:New radio plays respond to current events through speculative
+  and revisionist storytelling. https://livingradionyc.com
 URL:https://tickets.frigid.nyc/event/6897:556/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_dfbf1b17a5c84d8c5b1a@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_68b9207f055d9751301c@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T000000Z
-SUMMARY:Rim Battal Book Release
+SUMMARY:Living radio: contemporary radio drama\, with a revisionist twist
+LOCATION:See organizer for venue\, Manhattan
+DESCRIPTION:Living radio: contemporary radio drama\, with a revisionist t
+ wist. Listed by The Skint\; follow the organizer link for current details
+ .
+URL:https://livingradionyc.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_0a8395eed23af556c02c@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261103T000000Z
+SUMMARY:Maude Night: Fridge Magnet & First Wife
+LOCATION:Upright Citizens Brigade Theatre\, 242 East 14th Street\, New Yo
+ rk\, NY 10003\, Manhattan
+DESCRIPTION:Two UCB house sketch teams present new material\, with Fridge
+  Magnet and First Wife sharing the bill. https://ucbcomedy.com/show/maude
+ -night-fridge-magnet-first-wife-817451/
+URL:https://ucbcomedy.com/show/maude-night-fridge-magnet-first-wife-817451/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_291796e9e533a1566ee0@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261103T000000Z
+SUMMARY:Rim Battal: Book Release Event
 LOCATION:Anthology Film Archives\, 32 Second Avenue\, New York\, NY 10003
  \, Manhattan
-DESCRIPTION:A book-release program featuring writer Rim Battal at Antholo
- gy Film Archives. https://www.anthologyfilmarchives.org/film_screenings/c
+DESCRIPTION:A book-release event for Rim Battal\, listed on Anthology's N
+ ovember calendar. https://www.anthologyfilmarchives.org/film_screenings/c
  alendar?view=list&month=11&year=2026#showing-62170
-URL:https://ticketing.us.veezi.com/sessions/?siteToken=bsrxtagjxmgh2qy0b6
- p646xdcr
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
+ ist&month=11&year=2026#showing-62170
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_b57aff0eb7a181f3839f@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T001500Z
 SUMMARY:DarkRoom Screening & Salon
 LOCATION:Nitehawk Cinema Prospect Park\, 188 Prospect Park West\, Brookly
  n\, NY 11215\, Brooklyn
-DESCRIPTION:Non Films presents short films\, filmmaker Q&As and free zine
- s\, followed by a salon in Trees Lounge. https://nitehawkcinema.com/prosp
- ectpark/movies/darkroom-screening-salon-nov-2026/
+DESCRIPTION:Non Films presents international shorts\, filmmaker Q&As\, fr
+ ee zines and a post-screening salon in Trees Lounge. Filmmakers include P
+ hoebe Jane Hart\, Jess Magee and Xinhe Zhao. https://nitehawkcinema.com/p
+ rospectpark/movies/darkroom-screening-salon-nov-2026/
 URL:https://nitehawkcinema.com/prospectpark/purchase/24490078/
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_626d07e797e75ff05d94@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T003000Z
 DTEND:20261103T020000Z
 SUMMARY:Frankenstein's Baby
 LOCATION:Union Hall\, 702 Union Street\, Brooklyn\, NY 11215\, Brooklyn
-DESCRIPTION:Josh Gondelman and Alison Leiby host a stand-up lineup includ
- ing Liza Treyger\, Jonathan van Halem\, Shaun Anthony\, Nico Carney and D
- ave Ross. https://unionhallny.com/calendar
+DESCRIPTION:Josh Gondelman and Alison Leiby host Liza Treyger\, Jonathan 
+ van Halem\, Shaun Anthony\, Nico Carney and Dave Ross. https://www.eventb
+ rite.com/e/frankensteins-baby-tickets-2003308122522
 URL:https://www.eventbrite.com/e/frankensteins-baby-tickets-2003308122522
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_2085c8981d19b657a5b6@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T003000Z
 SUMMARY:Good Eggs ft: Mark Normand\, Gary Vider\, Dan Davies
 LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
@@ -715,33 +258,33 @@ URL:https://newyorkcomedyclub.com/events/good-eggs-ft-mark-normand-gary-v
  ider-dan-davies
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_1513bb86c80335163f28@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_93881c9b7c9596e6255f@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T003000Z
-SUMMARY:Miss Manhattan Non-Fiction Reading
+SUMMARY:Miss Manhattan Non-Fiction Reading Series
 LOCATION:Niagara\, 112 Avenue A\, New York\, NY 10009\, Manhattan
-DESCRIPTION:Miss manhattan non-fiction reading series. Listed by The Skin
- t\; follow the organizer link for current details. https://www.elyssamaxx
- goodman.com/miss-manhattan-nonfiction-reading-series
+DESCRIPTION:Elyssa Goodman's monthly nonfiction reading. The Skint lists 
+ Laurie Gwen Shapiro\, Terese Svoboda\, Beowulf Sheehan and Evan Silver fo
+ r this edition. https://www.elyssamaxxgoodman.com/miss-manhattan-nonficti
+ on-reading-series
 URL:https://www.elyssamaxxgoodman.com/miss-manhattan-nonfiction-reading-s
  eries
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_52e65d81f79dffc6df68@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T010000Z
 SUMMARY:Elena Pinderhughes
-LOCATION:Blue Note Jazz Club\, 131 West 3rd Street\, Manhattan\, NY\, Man
- hattan
-DESCRIPTION:Flutist\, composer and vocalist Elena Pinderhughes leads her 
- own project during a two-night Blue Note engagement. https://www.bluenote
+LOCATION:Blue Note Jazz Club\, 131 West 3rd Street\, Manhattan
+DESCRIPTION:Flutist\, vocalist and composer Elena Pinderhughes headlines 
+ the first night of a two-night Blue Note engagement. https://www.bluenote
  jazz.com/nyc/tm-event/elena-pinderhughes/
 URL:https://www.ticketweb.com/event/elena-pinderhughes-blue-note-jazz-clu
  b-tickets/15018583?pl=bluenoteny
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_553ebf48e2d6009e7a49@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T010000Z
 SUMMARY:Monroe Martin\, Simeon Goodson\, Jessica Levin\, Carolina Montesq
  uieu
@@ -756,7 +299,7 @@ URL:https://newyorkcomedyclub.com/events/monroe-martin-simeon-goodson-jes
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_c3d0b0d807c7b92769e1@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T010000Z
 SUMMARY:She Wants Revenge
 LOCATION:Webster Hall\, 125 E.11th Street\, New York\, NY 10003\, Manhattan
@@ -766,7 +309,7 @@ URL:https://www.axs.com/events/1442990/she-wants-revenge-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_c79e1f98765251ec6d6d@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T010000Z
 SUMMARY:Yana
 LOCATION:Music Hall of Williamsburg\, 66 North 6th Street\, Brooklyn\, NY
@@ -777,20 +320,31 @@ URL:https://www.axs.com/events/1541162/yana-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_ff2d6f1181d1b17e1f92@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T020000Z
 SUMMARY:Eric Lewis Trio
-LOCATION:Smalls Jazz Club\, 183 West 10th Street\, basement\, Manhattan\,
-  NY\, Manhattan
-DESCRIPTION:Pianist Eric Lewis performs with bassist Bar Filipowicz and d
- rummer David Hawkins. https://www.smallslive.com/events/34225-eric-lewis-
- trio/
+LOCATION:Smalls Jazz Club\, 183 West 10th Street\, Manhattan
+DESCRIPTION:Eric Lewis leads a piano trio with bassist Bar Filipowicz and
+  drummer David Hawkins. https://www.smallslive.com/events/34225-eric-lewi
+ s-trio/
 URL:https://www.ticketweb.com/event/eric-lewis-quartet-smalls-jazz-club-t
  ickets/14361414
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_031a4d4a0c2b4ae7f433@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261103T020000Z
+SUMMARY:Michael Kanan Trio
+LOCATION:Mezzrow\, 163 West 10th Street\, Manhattan
+DESCRIPTION:Pianist Michael Kanan joins guitarist Greg Ruggiero and bassi
+ st Neal Miner for a drummerless trio engagement. https://www.smallslive.c
+ om/events/34215-michael-kanan-trio/
+URL:https://www.ticketweb.com/event/michael-kanan-trio-mezzrow-tickets/14
+ 357534
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_c6d73d8832533700a86b@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T021500Z
 SUMMARY:Michael Brigante\, Simeon Goodson\, Monroe Martin\, Jatty Robinson
 LOCATION:New York Comedy Club\, 241 East 24th Street\, New York\, NY 1001
@@ -804,7 +358,7 @@ URL:https://newyorkcomedyclub.com/events/michael-brigante-simeon-goodson-
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_2e962a9f96dcc7bd3a86@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T023000Z
 SUMMARY:Hillbilly allegedly: an evening with the vice president
 LOCATION:Caveat\, Manhattan
@@ -815,7 +369,7 @@ URL:https://caveat.nyc/events/hillbilly-allegedly-an-evening-with-the-vic
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_1c2bdf5ffc90e20696e2@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T024500Z
 SUMMARY:New Jokes & Newbies
 LOCATION:New York Comedy Club on 4th Street\, 85 East 4th Street\, New Yo
@@ -827,7 +381,7 @@ URL:https://newyorkcomedyclub.com/events/new-jokes-newbies-2026-11-02214500
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_70d2bbf2c3aba743b574@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T030000Z
 SUMMARY:Gray West\, Simeon Goodson\, Jatty Robinson\, Lizzy Cassidy
 LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
@@ -840,97 +394,76 @@ URL:https://newyorkcomedyclub.com/events/gray-west-simeon-goodson-jatty-r
  obinson-lizzy-cassidy
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_3eab1efb402788decc08@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261103T043000Z
-DTEND:20261103T054500Z
-SUMMARY:Vinyl After Hours
-LOCATION:Mezzrow\, 163 West 10th Street\, basement\, Manhattan\, NY\, Man
- hattan
-DESCRIPTION:A dated\, no-cover vinyl-listening session after Mezzrow's li
- ve sets. https://www.smallslive.com/events/34446-vinyl-after-hours/
-URL:https://www.smallslive.com/events/34446-vinyl-after-hours/
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_ead2b9b15772f365de2a@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Yi Yi
-LOCATION:Metrograph\, 7 Ludlow Street\, New York\, NY 10002\, Manhattan
-DESCRIPTION:Edward Yang's 2000 family drama screens in a digital presenta
- tion. https://metrograph.com/film/9999001293-yi-yi/
-URL:https://metrograph.com/film/9999001293-yi-yi/
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_16b20533799e8cb60fae@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_110aac067c6875a2503f@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T143000Z
 DTEND:20261103T170000Z
-SUMMARY:QBG Farm Community Volunteer Day
-LOCATION:Queens Botanical Garden Farm\, 43-50 Main Street\, Flushing\, NY
-  11355\, Queens
-DESCRIPTION:Help prepare a working urban farm that supplies food pantries
- \, learning gardening basics and tackling seasonal projects with the farm
-  staff. https://queensbotanical.org/event/farm-community-volunteer-days-2
- 7/2026-11-03/
+SUMMARY:Farm Community Volunteer Day
+LOCATION:Queens Botanical Garden\, 43-50 Main Street\, Flushing\, NY 1135
+ 5\, Queens
+DESCRIPTION:Join farm staff for seasonal gardening projects that support 
+ produce grown for community food pantries. https://queensbotanical.org/ev
+ ent/farm-community-volunteer-days-27/2026-11-03/
 URL:https://queensbotanical.org/event/farm-community-volunteer-days-27/20
  26-11-03/
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_4cded368be72d3e093fe@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261103T160000Z
+DTEND:20261104T010000Z
+SUMMARY:Winter Village Holiday Shops
+LOCATION:Bryant Park\, Bryant Park\, between Fifth and Sixth Avenues and 
+ West 40th and 42nd Streets\, New York\, NY\, Manhattan
+DESCRIPTION:An open-air seasonal market of artisan goods\, gifts and food
+  vendors in kiosks along Bryant Park's paths and terraces. https://bryant
+ park.org/activities/holiday-shops
+URL:https://bryantpark.org/activities/holiday-shops
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_1658e0ca7b9ec20b60d6@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261103T170000Z
 SUMMARY:Afternoon Tea at Wave Hill
 LOCATION:Wave Hill House\, 4900 Independence Avenue\, Bronx\, NY 10471\, 
  Bronx
-DESCRIPTION:Tea sandwiches\, scones\, cakes and pastries served by Great 
- Performances in Wave Hill House's Tea Room or on the terrace when weather
-  permits. https://www.wavehill.org/calendar/afternoon-tea-2026
+DESCRIPTION:Traditional afternoon tea with sandwiches\, seasonal scones\,
+  pastries and specialty teas\, served in Wave Hill House or on its terrac
+ e when weather permits. https://www.wavehill.org/calendar/afternoon-tea-2
+ 026
 URL:https://wavehilltea.square.site/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_e7bef901540892d6555f@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261103T170000Z
-DTEND:20261103T214500Z
-SUMMARY:LeFrak Covered-Rink Tuesday Public Skate
-LOCATION:LeFrak Center at Lakeside\, 171 East Drive\, Brooklyn\, NY 11225
- \, Brooklyn
-DESCRIPTION:Daytime public skating on Lakeside's covered ice rink during 
- the opening week of the winter season. https://lakeside.prospectpark.org/
- activity/public-ice-skate/
-URL:https://lakeside.prospectpark.org/activity/public-ice-skate/
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_0b153cfa7b6f8bd4a780@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T000000Z
 DTEND:20261104T020000Z
 SUMMARY:A Whole Lotta History: Jason Lipshutz with Brittany Spanos
 LOCATION:POWERHOUSE Arena\, 28 Adams Street\, Brooklyn\, NY 11201\, Brook
  lyn
-DESCRIPTION:Jason Lipshutz celebrates A Whole Lotta History in conversati
- on with music journalist Brittany Spanos. https://powerhousearena.com/eve
- nts/book-launch-a-whole-lotta-history-by-jason-lipshutz/
+DESCRIPTION:Billboard journalist Jason Lipshutz discusses his cultural hi
+ story of One Direction with music journalist Brittany Spanos. https://pow
+ erhousearena.com/events/book-launch-a-whole-lotta-history-by-jason-lipshu
+ tz/
 URL:https://events.ticketleap.com/tickets/powerhousebookstores/book-launc
  h-a-whole-lotta-history-by-jason-lipshutz
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_e287e4ed259938d7b3ba@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_8e2bde894cb452b67d08@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T000000Z
-SUMMARY:Home Teams: Pig Teams
+DTEND:20261104T011500Z
+SUMMARY:Home Teams: ¿Qué?\, Tupperware Party and Rent-A-Friend
 LOCATION:Brooklyn Comedy Collective at Eris\, 167 Graham Avenue\, Brookly
  n\, NY 11206\, Brooklyn
-DESCRIPTION:BCC's November 3 house-team rotation features ¿Qué?\, Tuppe
- rware Party and Rent-A-Friend. https://www.brooklyncc.com/show-schedule/h
- ometeams-11-3
+DESCRIPTION:BCC's rotating house-improv showcase presents its Pig Teams: 
+ ¿Qué?\, Tupperware Party and Rent-A-Friend. https://www.brooklyncc.com/
+ show-schedule/hometeams-11-3
 URL:https://www.eventbrite.com/e/home-teams-tickets-2000614549974
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_0888d82fafcb765a75db@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T000000Z
 SUMMARY:Reg Thomas\, Kevin Dombrowski\, Ophira Eisenberg\, Jill Weiner
 LOCATION:New York Comedy Club\, 241 East 24th Street\, New York\, NY 1001
@@ -942,32 +475,21 @@ URL:https://newyorkcomedyclub.com/events/reg-thomas-kevin-dombrowski-ophi
  ra-eisenberg-jill-weiner
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_4b4c130625caf7a814a2@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261104T000000Z
-SUMMARY:Rhythm & Dance Games Night
-LOCATION:Wonderville\, 1186 Broadway\, Brooklyn\, NY 11221\, Brooklyn
-DESCRIPTION:Play independent rhythm games\, including Scrapeboard\, Young
-  Cathedral and Sound of Smog\, with a late-evening Scrapeboard tournament
- . https://www.wonderville.nyc/events/rhythm-dance-games-night-11-3-26
-URL:https://pools.events/event/qxEsxYf5/rhythm-dance-games-night
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_4e38024ea345bfc2005e@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T000000Z
+DTEND:20261104T011500Z
 SUMMARY:The Dog Show: Come. Sit. Stay.
 LOCATION:Triad Theater\, 158 West 72nd Street\, New York\, NY 10023\, Man
  hattan
-DESCRIPTION:David Javerbaum's canine-perspective monologues feature Seth 
- Rudetsky\, Gizel Jimenez\, Julia Murney and Scott Adsit in this performan
- ce. https://www.dogshownyc.com/
-URL:https://www.instantseats.com/index.cfm?fuseaction=home.event&eventID=
- 86BD2E78-ECF9-98AA-D2F060DD1EFB26E0
+DESCRIPTION:David Javerbaum's staged comedy gives dogs imagined inner liv
+ es through a series of actor-performed monologues\, directed by Richard I
+ srael. https://www.dogshownyc.com/
+URL:https://www.viewcy.com/event/the_dog_show_come_s
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_da5073739c9645633f09@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T000000Z
 SUMMARY:The Wrecks - Finally : OUTSIDE Tour
 LOCATION:Webster Hall\, 125 E.11th Street\, New York\, NY 10003\, Manhattan
@@ -979,7 +501,7 @@ URL:https://www.axs.com/events/1493858/the-wrecks-finally-outside-tour-ti
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_4f93c00e14386d93aec6@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T003000Z
 SUMMARY:Good Bits ft: Brittany Schmitt\, Andre D Thompson\, Shaun Murphy\
  , Lisa Curry\, Collin Chamberlin
@@ -995,30 +517,30 @@ URL:https://newyorkcomedyclub.com/events/good-bits-ft-brittany-schmitt-an
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_f028d56bec880e17441e@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T003000Z
 DTEND:20261104T020000Z
 SUMMARY:Michael Longfellow
 LOCATION:Union Hall\, 702 Union Street\, Brooklyn\, NY 11215\, Brooklyn
-DESCRIPTION:A headline stand-up performance by Michael Longfellow. https:
- //unionhallny.com/calendar
+DESCRIPTION:Stand-up from Michael Longfellow\, whose credits include Satu
+ rday Night Live and Conan. https://www.eventbrite.com/e/michael-longfello
+ w-tickets-2002955092600
 URL:https://www.eventbrite.com/e/michael-longfellow-tickets-2002955092600
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_90e772d55b160392638c@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_0e234e095da027d20414@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T003000Z
-SUMMARY:The Music of Hey Arnold! Live!
-LOCATION:Le Poisson Rouge\, 158 Bleecker Street\, Manhattan\, NY\, Manhat
- tan
-DESCRIPTION:Composer Jim Lang and the PS118 AllStars perform music from H
- ey Arnold! for its 30th anniversary\, with creator Craig Bartlett appeari
- ng as a guest. https://lpr.com/lpr_events/hey26nyc/
+SUMMARY:The Music of Hey Arnold! Live! — Early Show
+LOCATION:Le Poisson Rouge\, 158 Bleecker Street\, Manhattan
+DESCRIPTION:Composer Jim Lang and the PS 118 AllStars perform the series'
+  jazz\, funk\, blues and hip-hop-inflected music\, with visuals\, stories
+  and guest creator Craig Bartlett. https://lpr.com/lpr_events/hey26nyc/
 URL:https://kyd.to/MCxUIPmM
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_e6c387b990f978dbd8a7@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T003000Z
 SUMMARY:The Women’s Game Live! in NYC
 LOCATION:Racket\, 431 West 16th Street\, New York\, NY 10011\, Manhattan
@@ -1029,33 +551,31 @@ URL:https://www.axs.com/events/1633740/the-womens-game-live-in-nyc-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_b08b77a9995aa2b71bc2@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T010000Z
 SUMMARY:Cecilia Lopez's Filter Four // Melissa Almaguer
-LOCATION:Roulette\, 509 Atlantic Avenue\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Cecilia Lopez joins Ingrid Laubrock\, Trevor Dunn and Dan Pec
- k in Filter Four. Melissa Almaguer opens with an experimental tap-and-per
- cussion solo. https://roulette.org/event/cecilia-lopez-trevor-dunn-dan-pe
- ck-ingrid-laubrock/
+LOCATION:Roulette\, 509 Atlantic Avenue\, Brooklyn
+DESCRIPTION:Cecilia Lopez performs with Trevor Dunn\, Dan Peck and Ingrid
+  Laubrock. Melissa Almaguer opens with solo tap and percussion. https://r
+ oulette.org/event/cecilia-lopez-trevor-dunn-dan-peck-ingrid-laubrock/
 URL:https://ci.ovationtix.com/36368/production/1282032?performanceId=1183
  6633
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_6e5f7efac28b0c69a62a@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_8a6bb97a425723fba09b@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T010000Z
-SUMMARY:Elena Pinderhughes
-LOCATION:Blue Note Jazz Club\, 131 West 3rd Street\, Manhattan\, NY\, Man
- hattan
-DESCRIPTION:Flutist\, composer and vocalist Elena Pinderhughes continues 
- her two-night engagement leading her own project. https://www.bluenotejaz
- z.com/nyc/tm-event/elena-pinderhughes/
+SUMMARY:Elena Pinderhughes — Second Night
+LOCATION:Blue Note Jazz Club\, 131 West 3rd Street\, Manhattan
+DESCRIPTION:Flutist\, vocalist and composer Elena Pinderhughes closes her
+  two-night Blue Note engagement. https://www.bluenotejazz.com/nyc/tm-even
+ t/elena-pinderhughes/
 URL:https://www.ticketweb.com/event/elena-pinderhughes-blue-note-jazz-clu
  b-tickets/15018613?pl=bluenoteny
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_ec80ae3c6433a2950bba@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T010000Z
 SUMMARY:Ethan Regan
 LOCATION:Music Hall of Williamsburg\, 66 North 6th Street\, Brooklyn\, NY
@@ -1066,7 +586,7 @@ URL:https://www.axs.com/events/1471574/ethan-regan-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_6d76ee44e83e347ff9d9@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T010000Z
 SUMMARY:Nice Try ft: Michael Kosta\, Ashley Austin Morris\, Kevin Dombrow
  ski\, Jack Finnegan
@@ -1081,52 +601,43 @@ URL:https://newyorkcomedyclub.com/events/nice-try-ft-michael-kosta-ashley
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_5de26d33940d9ec1efd3@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T010000Z
-SUMMARY:Pickup on South Street — NYC in Transit
+SUMMARY:Pickup on South Street: NYC in Transit
 LOCATION:Film Forum\, 209 West Houston Street\, New York\, NY 10014\, Man
  hattan
-DESCRIPTION:Samuel Fuller's subway-centered noir screens in Film Forum's 
- NYC in Transit series. https://filmforum.org/series/nyc-in-transit
+DESCRIPTION:Samuel Fuller's noir screens in Film Forum's series celebrati
+ ng the New York Transit Museum's 50th anniversary. https://filmforum.org/
+ series/nyc-in-transit
 URL:https://filmforum.org/series/nyc-in-transit
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_cfb3f72c94ad85f9f4e3@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T010000Z
 DTEND:20261104T030000Z
 SUMMARY:Spin Out With Me: An Educational Experience
 LOCATION:littlefield\, 635 Sackett Street\, Brooklyn\, NY 11217\, Brooklyn
-DESCRIPTION:Devin O'Neill delivers a character-driven\, mock-serious lect
- ure about anxiety spirals\, with special guest Marty Miller. https://litt
- lefieldnyc.com/event/?wfea_eb_id=1997169974155
+DESCRIPTION:Devin O'Neill presents an Election Day character-comedy lectu
+ re about anxiety\, with special guest Marty Miller. https://littlefieldny
+ c.com/event/?wfea_eb_id=1997169974155
 URL:https://littlefieldnyc.com/event/?wfea_eb_id=1997169974155
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_9784beac8420c86a9c1a@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_1acc884a62216d625464@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T014500Z
-SUMMARY:Bringing Out the Dead — 35mm
+SUMMARY:Bringing Out the Dead in 35mm
 LOCATION:Nitehawk Cinema Prospect Park\, 188 Prospect Park West\, Brookly
  n\, NY 11215\, Brooklyn
-DESCRIPTION:Martin Scorsese's nocturnal New York paramedic drama screens 
- on 35mm. https://nitehawkcinema.com/prospectpark/showtimes/bringing-out-t
- he-dead-11-3-26-845-pm/
+DESCRIPTION:Martin Scorsese's nocturnal New York paramedic drama\, starri
+ ng Nicolas Cage and Patricia Arquette\, screens on 35mm. https://nitehawk
+ cinema.com/prospectpark/showtimes/bringing-out-the-dead-11-3-26-845-pm/
 URL:https://nitehawkcinema.com/prospectpark/purchase/24618418/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_77dd1b47895b6bf93aed@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261104T020000Z
-SUMMARY:Omer Adam: US Tour 2026
-LOCATION:Barclays Center\, 620 Atlantic Avenue\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Omer Adam performs a second listed Brooklyn date on his 2026 
- US tour. https://www.barclayscenter.com/events/detail/omer-adam-2026
-URL:https://www.ticketmaster.com/event/30006541D4DA94D1
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_6b2b5b3217e6aca86ec0@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T021500Z
 SUMMARY:Mike Cannon\, Dean Edwards\, Kevin Dombrowski\, Jack Finnegan
 LOCATION:New York Comedy Club\, 241 East 24th Street\, New York\, NY 1001
@@ -1138,8 +649,21 @@ URL:https://newyorkcomedyclub.com/events/mike-cannon-dean-edwards-kevin-d
  ombrowski-jack-finnegan
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_95c6eec8736ba0a32c24@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261104T023000Z
+SUMMARY:Midterms Tonight! An Electoral Late Night Show
+LOCATION:Upright Citizens Brigade Theatre\, 242 East 14th Street\, New Yo
+ rk\, NY 10003\, Manhattan
+DESCRIPTION:Greg Iwinski\, John Thibodeaux and Liz Hynes turn live electi
+ on-night developments into a late-night-style comedy show. https://ucbcom
+ edy.com/show/midterms-tonight-an-electoral-late-night-show-841071/
+URL:https://ucbcomedy.com/show/midterms-tonight-an-electoral-late-night-s
+ how-841071/
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_685dd144e0380efd3f57@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T024500Z
 SUMMARY:Nore Davis\, Mike Cannon\, Reg Thomas\, Jill Weiner
 LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
@@ -1153,7 +677,7 @@ URL:https://newyorkcomedyclub.com/events/nore-davis-mike-cannon-reg-thoma
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_f8335736244225e8b005@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T033000Z
 SUMMARY:Caitlin Peluffo\, Mike Cannon\, Dean Edwards\, Ashley Austin Morris
 LOCATION:New York Comedy Club on 4th Street\, 85 East 4th Street\, New Yo
@@ -1167,117 +691,131 @@ URL:https://newyorkcomedyclub.com/events/caitlin-peluffo-mike-cannon-dean
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_3d1a73d43da60f641c0b@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T130000Z
 DTEND:20261104T190000Z
 SUMMARY:Wednesday Greenmarket at Bartel-Pritchard Square
 LOCATION:Bartel-Pritchard Square\, Prospect Park West and 15th Street\, B
  rooklyn\, NY\, Brooklyn
-DESCRIPTION:A weekday farmers market for regional produce and other farm 
- goods beside Prospect Park. https://www.prospectpark.org/event/wednesday-
- greenmarket-at-bartel-pritchard-square/2026-11-04/
+DESCRIPTION:A neighborhood greenmarket offering regional produce\, baked 
+ goods\, plants\, flowers and fresh-caught fish at Prospect Park's southwe
+ st corner. https://www.prospectpark.org/event/wednesday-greenmarket-at-ba
+ rtel-pritchard-square/2026-11-04/
 URL:https://www.prospectpark.org/event/wednesday-greenmarket-at-bartel-pr
  itchard-square/2026-11-04/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_c16a54f01ab8a35989ae@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261104T170000Z
-DTEND:20261104T230000Z
-SUMMARY:Alex Dolores Salerno at There's no me without you — First Day
-LOCATION:Pioneer Works\, 159 Pioneer Street\, Brooklyn\, NY 11231\, Brook
- lyn
-DESCRIPTION:Alex Dolores Salerno's presentation begins within Finnegan Sh
- annon's accessible installation\, engaging coffee\, commodity crops and c
- olonial histories. https://pioneerworks.org/exhibitions/finnegan-shannon-
- there-is-no-me-without-you
-URL:https://pioneerworks.org/exhibitions/finnegan-shannon-there-is-no-me-
- without-you
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_f88f70b6d4474f71ea9d@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T190000Z
 DTEND:20261104T220000Z
 SUMMARY:Queens Botanical Garden Farm Stand
-LOCATION:Queens Botanical Garden Visitor and Administration Building Terr
- ace\, 43-50 Main Street\, Flushing\, NY 11355\, Queens
-DESCRIPTION:Pick up produce grown on the garden's urban farm using organi
- c and regenerative practices\, offered through sliding-scale donations. h
- ttps://queensbotanical.org/event/farm-stand-2/2026-11-04/
+LOCATION:Queens Botanical Garden\, Visitor and Administration Building Te
+ rrace\, 43-50 Main Street\, Flushing\, NY 11355\, Queens
+DESCRIPTION:Buy produce grown onsite using organic and regenerative pract
+ ices\, offered on a sliding-scale donation basis. https://queensbotanical
+ .org/event/farm-stand-2/2026-11-04/
 URL:https://queensbotanical.org/event/farm-stand-2/2026-11-04/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_43141cdf925c1eb1ad77@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_79c6fda801c2d3532a5a@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T200000Z
-SUMMARY:Christmas Spectacular Starring the Radio City Rockettes
-LOCATION:Radio City Music Hall\, 1260 Avenue of the Americas\, Manhattan\
- , NY\, Manhattan
-DESCRIPTION:The Rockettes' seasonal precision-dance production returns to
-  Radio City Music Hall. https://www.msg.com/events-tickets/christmas-spec
- tacular-starring-the-radio-city-rockettes-radio-city-music-hall-november-
- 2026/3C006457CDE41EB8
+SUMMARY:Christmas Spectacular Starring the Radio City Rockettes — Wedne
+ sday Matinee
+LOCATION:Radio City Music Hall\, 1260 Avenue of the Americas\, Manhattan
+DESCRIPTION:The Rockettes' precision-dance holiday production returns to 
+ Radio City\, with an afternoon performance in the first listed week. http
+ s://www.msg.com/events-tickets/christmas-spectacular-starring-the-radio-c
+ ity-rockettes-radio-city-music-hall-november-2026/3C006457CDE41EB8
 URL:https://www.ticketmaster.com/christmas-spectacular-starring-the-radio
- -city-new-york-new-york-11-04-2026/event/3C006457CDE41EB8
+ -city-new-york-new-york-11-04-2026/event/3C006457CDE41EB8?camefrom=CFC_MS
+ G
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_4742c4031b8e8d205e64@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T200000Z
 DTEND:20261104T213000Z
-SUMMARY:Math in Bloom: Fibonacci Stepping-Stone Creation
+SUMMARY:Math in Bloom: Fibonacci Stepping Stone Creation
 LOCATION:Queens Botanical Garden\, 43-50 Main Street\, Flushing\, NY 1135
  5\, Queens
-DESCRIPTION:Create a stepping stone with natural garden materials for a s
- hared pathway around the garden's Fibonacci spiral. The community-making 
- session welcomes all ages. https://queensbotanical.org/event/math-in-bloo
- m-community-art-fibonacci-stepping-stone-creation/2026-11-04/
+DESCRIPTION:Make a stepping stone using natural garden materials for a sh
+ ared pathway around the garden's Fibonacci spiral. Neighbors of all ages 
+ are welcome. https://queensbotanical.org/event/math-in-bloom-community-ar
+ t-fibonacci-stepping-stone-creation/2026-11-04/
 URL:https://www.eventbrite.com/e/community-art-fibonacci-stepping-stone-c
  reation-registration-2003237364884
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_105f7f9b88a1f98a8d44@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_8ff4f326650e9a38a5d3@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T223000Z
 SUMMARY:Canstruction Educational Tour
+LOCATION:Brookfield Place Winter Garden\, 230 Vesey Street\, New York\, N
+ Y 10281\, Manhattan
+DESCRIPTION:Explore an architecture and engineering competition whose lar
+ ge structures are built entirely from unopened food cans\, later donated 
+ to City Harvest. https://www.bfplny.com/events/canstruction/
+URL:https://www.eventbrite.com/e/tours-of-canstruction-2026-tickets-20034
+ 33011067
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_4a5e7ed02022c068ff8d@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261104T223000Z
+SUMMARY:Canstruction: Guided exhibition tour
 LOCATION:Brookfield Place\, 230 Vesey Street\, New York\, NY 10281\, Manh
  attan
-DESCRIPTION:Explore a design competition in which architects and engineer
- s build enormous structures entirely from unopened food cans\, later dona
- ted to City Harvest. https://www.bfplny.com/events/canstruction/
+DESCRIPTION:An educational tour of large sculptures built entirely from u
+ nopened food cans by architecture and engineering teams. https://www.bfpl
+ ny.com/events/canstruction/
 URL:https://www.eventbrite.com/e/tours-of-canstruction-2026-tickets-20034
  33011067
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_2a9d50411bbca42a46c9@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T230000Z
 DTEND:20261105T010000Z
 SUMMARY:Intro to Fabric Painting
 LOCATION:Brooklyn Brainery\, 190 Underhill Avenue\, Brooklyn\, NY 11238\,
   Brooklyn
-DESCRIPTION:Learn fabric-painting techniques with Diana Kuan and decorate
-  a cotton tote supplied for the class. https://brooklynbrainery.com/cours
- es/intro-to-fabric-painting
+DESCRIPTION:Learn fabric-painting techniques with Diana Kuan and create a
+  painted cotton tote. Beginners are welcome. https://brooklynbrainery.com
+ /courses/intro-to-fabric-painting
 URL:https://brooklynbrainery.com/courses/intro-to-fabric-painting/session
  s/10890/signup
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_743fd652051b713dc647@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_8b4fbb4dea8a573fd454@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261104T233000Z
-SUMMARY:Birds of War with Filmmaker Q&A — Azmat Khan Moderates
+SUMMARY:Birds of War: Opening screening and filmmaker Q&A
 LOCATION:IFC Center\, 323 Sixth Avenue\, New York\, NY 10014\, Manhattan
-DESCRIPTION:Birds of War screens with directors Janay Boulos and Abd Alka
- der Habak and producer Sonja Henrici. Azmat Khan moderates the conversati
- on. https://www.ifccenter.com/films/birds-of-war/
+DESCRIPTION:Janay Boulos and Abd Alkader Habak's documentary traces 13 ye
+ ars of war reporting\, exile and their relationship. The directors and pr
+ oducer Sonja Henrici attend. https://www.ifccenter.com/films/birds-of-war
+ /
 URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.asp
  x?evtinfo=585862~8722a542-64c1-4c0b-af02-c3e8a239d769
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_2b4f0c2948ca56f269f7@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261104T234500Z
+SUMMARY:Bored Teenagers: German Punk
+LOCATION:Anthology Film Archives\, 32 Second Avenue\, New York\, NY 10003
+ \, Manhattan
+DESCRIPTION:Wolfgang Büld's 1979 film screens in the German Punk series\
+ , transferred from 16mm to DCP. https://www.anthologyfilmarchives.org/fil
+ m_screenings/calendar?view=list&month=11&year=2026#showing-62255
+URL:https://ticketing.us.veezi.com/sessions/?siteToken=bsrxtagjxmgh2qy0b6
+ p646xdcr
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_69a3f4c7fdb2c25f06f2@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T000000Z
 SUMMARY:Ashton Womack\, Vannessa Jackson\, Kunal C. Arora\, Abby Washuta 
  + Surprise Guest
@@ -1292,117 +830,131 @@ URL:https://newyorkcomedyclub.com/events/ashton-womack-vannessa-jackson-k
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_e0c92e0e3afecd3bd18a@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T000000Z
 DTEND:20261105T020000Z
 SUMMARY:Phrased & Confused: Eli Burnstein
 LOCATION:POWERHOUSE Arena\, 28 Adams Street\, Brooklyn\, NY 11201\, Brook
  lyn
-DESCRIPTION:Eli Burnstein launches Phrased & Confused\, exploring familia
- r quotations and the ways they are misunderstood. https://powerhousearena
- .com/events/book-launch-phrased-and-confused-by-eli-burnstein/
+DESCRIPTION:Humor writer Eli Burnstein launches his collection unpacking 
+ the meanings and histories of familiar quotations. https://powerhousearen
+ a.com/events/book-launch-phrased-and-confused-by-eli-burnstein/
 URL:https://events.ticketleap.com/tickets/powerhousebookstores/book-launc
  h-phrased-and-confused-by-eli-burnstein
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_bc527f6ae3894f267fd2@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T000000Z
+DTEND:20261105T011500Z
 SUMMARY:Rec Room Sketch Show
 LOCATION:Brooklyn Comedy Collective at Eris\, 167 Graham Avenue\, Brookly
  n\, NY 11206\, Brooklyn
-DESCRIPTION:An ensemble sketch-comedy performance on the Eris Mainstage. 
- https://www.brooklyncc.com/show-schedule/rec-room-sketch-show-11-4
+DESCRIPTION:An ensemble sketch-and-character show featuring Jenn Coen\, T
+ homas Sinclair\, Gabe Corser\, Danny Clark\, Chloe Pan-Kita and other per
+ formers. https://www.brooklyncc.com/show-schedule/rec-room-sketch-show-11
+ -4
 URL:https://www.eventbrite.com/e/rec-room-sketch-show-tickets-2003794195379
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_a29fff62cf8865930a3d@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T000000Z
+DTEND:20261105T011500Z
 SUMMARY:The Dog Show: Come. Sit. Stay.
 LOCATION:Triad Theater\, 158 West 72nd Street\, New York\, NY 10023\, Man
  hattan
-DESCRIPTION:Seth Rudetsky\, Gizel Jimenez\, Julia Murney and Scott Adsit 
- perform David Javerbaum's monologues imagining dogs' thoughts and obsessi
- ons. https://www.dogshownyc.com/
-URL:https://www.instantseats.com/index.cfm?fuseaction=home.event&eventID=
- 874F77FF-0745-D9DD-EC1F58724EAF67D9
+DESCRIPTION:David Javerbaum's comedy of imagined canine monologues\, dire
+ cted by Richard Israel. https://www.dogshownyc.com/
+URL:https://www.viewcy.com/event/the_dog_show_come_s
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_dbd7e01c3d19b616cefb@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261105T000000Z
+SUMMARY:The Drawing Center Presents: Form\, Shadow\, Motion
+LOCATION:Anthology Film Archives\, 32 Second Avenue\, New York\, NY 10003
+ \, Manhattan
+DESCRIPTION:A free screening presented by The Drawing Center at Anthology
+  Film Archives. https://www.anthologyfilmarchives.org/film_screenings/cal
+ endar?view=list&month=11&year=2026#showing-62166
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=l
+ ist&month=11&year=2026#showing-62166
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_fdb151eecf2a483c61ed@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261105T000000Z
+SUMMARY:Trauma Or\, Monsters All: Opening night with Larry Fessenden
+LOCATION:IFC Center\, 323 Sixth Avenue\, New York\, NY 10014\, Manhattan
+DESCRIPTION:Larry Fessenden's creature feature follows a writer whose inv
+ estigation of a town's past revives fears of lurking monsters. https://ww
+ w.ifccenter.com/films/trauma-or-monsters-all/
+URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.asp
+ x?evtinfo=585460~8722a542-64c1-4c0b-af02-c3e8a239d769
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_2a4baaff91bcfd727ae3@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T000000Z
 SUMMARY:You Can Color Outside the Lines: The Story of the Big Boys
 LOCATION:Nitehawk Cinema Prospect Park\, 188 Prospect Park West\, Brookly
  n\, NY 11215\, Brooklyn
-DESCRIPTION:Joe Salinas's documentary explores Austin's punk\, funk and s
- kateboarding band the Big Boys\, with narration by Damian Abraham. https:
- //nitehawkcinema.com/prospectpark/showtimes/you-can-color-outside-the-lin
- es-the-story-of-the-big-boys-11-4-26-700-pm/
+DESCRIPTION:Joe Salinas's documentary explores the Austin band Big Boys a
+ nd its intersection of punk\, funk\, skateboarding and performance art. h
+ ttps://nitehawkcinema.com/prospectpark/showtimes/you-can-color-outside-th
+ e-lines-the-story-of-the-big-boys-11-4-26-700-pm/
 URL:https://nitehawkcinema.com/prospectpark/purchase/24537051/
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_fc3140b15db4b0aab791@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T003000Z
 SUMMARY:Brooklyn Nets vs. Charlotte Hornets: AAPI Night
 LOCATION:Barclays Center\, 620 Atlantic Avenue\, Brooklyn\, NY 11217\, Br
  ooklyn
-DESCRIPTION:The Nets host the Charlotte Hornets on the venue's advertised
-  AAPI Night. https://www.barclayscenter.com/events/detail/brooklyn-nets-v
- s-charlotte-hornets-20261104
+DESCRIPTION:The Nets host the Charlotte Hornets for a home game designate
+ d AAPI Night. https://www.barclayscenter.com/events/detail/brooklyn-nets-
+ vs-charlotte-hornets-20261104
 URL:https://www.ticketmaster.com/event/300064FBC4BC4A65
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_c6116cfcdeef974f1182@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T003000Z
 DTEND:20261105T020000Z
 SUMMARY:Cold Plunge with Kurt Braunohler
 LOCATION:Union Hall\, 702 Union Street\, Brooklyn\, NY 11215\, Brooklyn
 DESCRIPTION:Kurt Braunohler hosts Adam Pally\, Ahamed Weinberg\, Nonye Br
- own-West and Isabel Hagen. https://unionhallny.com/calendar
+ own-West and Isabel Hagen. https://www.eventbrite.com/e/cold-plunge-with-
+ kurt-braunohler-tickets-1999807338583
 URL:https://www.eventbrite.com/e/cold-plunge-with-kurt-braunohler-tickets
  -1999807338583
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_a3070f547a1444c3c43a@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261105T003000Z
-DTEND:20261105T013500Z
-SUMMARY:Cynthia Oliver: Turn. Turning. TURNT.
-LOCATION:BAM Fisher\, Fishman Space\, 321 Ashland Place\, Brooklyn\, NY\,
-  Brooklyn
-DESCRIPTION:Cynthia Oliver's six-dancer program brings together Tether\, 
- Fallow and Summon.Sow.Reap. as part of BAM's Next Wave 2026. https://www.
- bam.org/dance/2026/turn-turning-turnt
-URL:https://commerce.bam.org/booking/production/55623
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_6a3a41d5f3ee76fcf1b4@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T003000Z
 SUMMARY:Dawn Richard with Alex Vaughn
-LOCATION:Le Poisson Rouge\, 158 Bleecker Street\, Manhattan\, NY\, Manhat
- tan
-DESCRIPTION:Dawn Richard headlines with Alex Vaughn on the bill. https://
- lpr.com/lpr_events/dr26nyc/
+LOCATION:Le Poisson Rouge\, 158 Bleecker Street\, Manhattan
+DESCRIPTION:Dawn Richard headlines an alternative-pop and R&B bill with A
+ lex Vaughn. https://lpr.com/lpr_events/dr26nyc/
 URL:https://kyd.to/4b2MhEMb
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_632097014b29d72c042a@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T003000Z
 SUMMARY:Francisca Valenzuela
-LOCATION:National Sawdust\, 80 North 6th Street\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Chilean singer-songwriter and pianist Francisca Valenzuela br
- ings her confessional\, Spanish-language alternative pop to National Sawd
- ust. https://www.nationalsawdust.org/event/francisca-valenzuela
+LOCATION:National Sawdust\, 80 North 6th Street\, Brooklyn
+DESCRIPTION:The Chilean singer-songwriter presents confessional\, piano-b
+ ased Spanish-language alternative art-pop. https://www.nationalsawdust.or
+ g/event/francisca-valenzuela
 URL:https://ci.ovationtix.com/36490/production/1277795
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_0c5d0c6a5fe1305cc7c6@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T003000Z
 SUMMARY:Jeff Tweedy (Solo) with special guest Case Oats
 LOCATION:Music Hall of Williamsburg\, 66 North 6th Street\, Brooklyn\, NY
@@ -1415,19 +967,19 @@ URL:https://www.axs.com/events/1496408/jeff-tweedy-solo-with-special-gues
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_2dee994f5c0beced1cd0@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T003000Z
 DTEND:20261105T033000Z
 SUMMARY:Las Migas
-LOCATION:Littlefield\, 635 Sackett Street\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Flamenco quartet Las Migas\, led by Marta Robles\, perform on
-  their Flamencas tour. https://littlefieldnyc.com/event/?wfea_eb_id=19975
- 71593409
+LOCATION:Littlefield\, 635 Sackett Street\, Brooklyn
+DESCRIPTION:The flamenco group brings its Flamencas-era repertoire to an 
+ intimate Brooklyn room during its 20th-anniversary period. https://little
+ fieldnyc.com/event/?wfea_eb_id=1997571593409
 URL:https://kyd.to/tSiZW0Vs
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_cc22da42ae511b540e38@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T004500Z
 SUMMARY:Dan St. Germain\, Ismael Loutfi\, Alex Castagne\, Eeland Striblin
  g\, Katie Hannigan
@@ -1442,19 +994,19 @@ URL:https://newyorkcomedyclub.com/events/dan-st-germain-ismael-loutfi-ale
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_af3fae4e9b39c8619d1d@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T010000Z
 SUMMARY:AACM NYC: Celebrating 61 Years of Creative Music
-LOCATION:Roulette\, 509 Atlantic Avenue\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Adegoke Steve Colson and Iqua Colson perform with Steven Bern
- stein\, Luke Stewart and Chris Beck. JD Parran & Spirit Stage 3 also appe
- ar\, with Richarda Abrams as MC. https://roulette.org/event/aacm-celebrat
- ing-61-years-of-creative-music/
+LOCATION:Roulette\, 509 Atlantic Avenue\, Brooklyn
+DESCRIPTION:An anniversary program featuring Adegoke Steve Colson and Iqu
+ a Colson's ensemble\, plus JD Parran and Spirit Stage 3\, with MC Richard
+ a Abrams. https://roulette.org/event/aacm-celebrating-61-years-of-creativ
+ e-music/
 URL:https://ci.ovationtix.com/36368/production/1291311
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_f3fde309c3fefb60bac6@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T010000Z
 SUMMARY:Bad Gyal
 LOCATION:Terminal 5\, 610 West 56th Street\, New York\, NY 10019\, Manhat
@@ -1465,7 +1017,7 @@ URL:https://www.axs.com/events/1415798/bad-gyal-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_434031d094ba94403a05@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T010000Z
 SUMMARY:Good Eggs Presented by Mark Normand\, Gary Vider\, Matt Ruby
 LOCATION:New York Comedy Club on 4th Street\, 85 East 4th Street\, New Yo
@@ -1479,7 +1031,7 @@ URL:https://newyorkcomedyclub.com/events/good-eggs-presented-by-mark-norm
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_0db94ac3f9eab19d0cad@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T010000Z
 SUMMARY:Hovvdy
 LOCATION:Webster Hall\, 125 E.11th Street\, New York\, NY 10003\, Manhattan
@@ -1488,8 +1040,18 @@ DESCRIPTION:Live concert: Hovvdy. Webster Hall · Christian Lee Hutson ht
 URL:https://www.axs.com/events/1445749/hovvdy-tickets
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_7846a6f33183c33ee49d@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261105T010000Z
+SUMMARY:Mýa at Blue Note
+LOCATION:Blue Note Jazz Club\, 131 West 3rd Street\, Manhattan
+DESCRIPTION:R&B singer Mýa appears in Blue Note's intimate club setting 
+ rather than an arena. https://www.bluenotejazz.com/nyc/tm-event/mya/
+URL:https://www.bluenotejazz.com/nyc/tm-event/mya/
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_a7825bfaf0e32ac46f6d@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T010000Z
 SUMMARY:Ólafur Arnalds
 LOCATION:The Town Hall\, 123 West 43rd Street\, New York\, NY 10036\, Man
@@ -1499,20 +1061,8 @@ DESCRIPTION:Live concert: Ólafur Arnalds. The Town Hall https://www.axs.
 URL:https://www.ticketmaster.com/event/03006428F84B282B
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_9238b6cea0a4ff2a1461@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261105T013000Z
-SUMMARY:Killer Queen Open Hive Tournament
-LOCATION:Wonderville\, 1186 Broadway\, Brooklyn\, NY 11221\, Brooklyn
-DESCRIPTION:An all-levels competition on the ten-player Killer Queen arca
- de game. Organizers build balanced teams\, so solo arrivals do not need a
- n existing team. https://www.wonderville.nyc/events/kq-open-hive-night-11
- -4-26
-URL:https://www.wonderville.nyc/events/kq-open-hive-night-11-4-26
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_a24f0294a52095ec88b8@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T021500Z
 SUMMARY:Nick Griffin\, Rick Younger\, Juan Nicolón\, Rosey Catherine
 LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
@@ -1526,7 +1076,7 @@ URL:https://newyorkcomedyclub.com/events/nick-griffin-rick-younger-juan-n
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_6ab85a8229a02b383f35@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T030000Z
 SUMMARY:Kunal C. Arora\, JC Mendoza\, Rick Younger + Surprise Guest
 LOCATION:New York Comedy Club\, 241 East 24th Street\, New York\, NY 1001
@@ -1539,7 +1089,7 @@ URL:https://newyorkcomedyclub.com/events/kunal-c-arora-jc-mendoza-rick-yo
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_b1421fba5d6340efd2ea@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T033000Z
 SUMMARY:Calise Hawkins\, Ashton Womack\, Max Manticof + Surprise Guest
 LOCATION:New York Comedy Club on 4th Street\, 85 East 4th Street\, New Yo
@@ -1552,87 +1102,126 @@ URL:https://newyorkcomedyclub.com/events/calise-hawkins-ashton-womack-max
  -manticof-surprise-guest
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_1184df58d786c2fac88c@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_299026356c1a6d424dfa@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Deerhoof\, Mercy\, My Trio
-LOCATION:Elsewhere\, The Hall\, 599 Johnson Avenue\, Brooklyn\, NY\, Broo
- klyn
-DESCRIPTION:Deerhoof headline a live bill with Mercy and My Trio in Elsew
- here's Hall. https://www.elsewhere.club/events/1992954959934
+SUMMARY:Deerhoof\, Mercy & My Trio
+LOCATION:Elsewhere — The Hall\, 599 Johnson Avenue\, Brooklyn
+DESCRIPTION:Deerhoof headlines a three-act bill with Mercy and My Trio in
+  Elsewhere's main room. https://www.elsewhere.club/events/1992954959934
 URL:https://www.eventbrite.com/e/deerhoof-mercy-my-trio-tickets-199295495
  9934
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_64e7ef782f483e06a971@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_26a12447d4e9fb6b82a4@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T134500Z
 DTEND:20261105T160000Z
-SUMMARY:QBG Horticulture Community Volunteer Day
+SUMMARY:Horticulture Community Volunteer Day
 LOCATION:Queens Botanical Garden\, 43-50 Main Street\, Flushing\, NY 1135
  5\, Queens
-DESCRIPTION:Join horticulture staff for seasonal gardening work such as w
- eeding\, pruning\, planting or mulching while learning practical gardenin
- g skills. https://queensbotanical.org/event/horticulture-community-volunt
- eer-days-2026/2026-11-05/
-URL:https://www.eventbrite.com/e/horticulture-community-volunteer-days-20
- 26-registration-1984063618693
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_fc7a9c0e9bdac760e46b@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261105T150000Z
-DTEND:20261105T170000Z
-SUMMARY:QBG Farm Open Hours
-LOCATION:Queens Botanical Garden Farm\, 43-50 Main Street\, Flushing\, NY
-  11355\, Queens
-DESCRIPTION:Explore the working farm\, examine what is growing and ask st
- aff questions without committing to a volunteer shift. https://queensbota
- nical.org/event/open-farm-hours-7/2026-11-05/
-URL:https://queensbotanical.org/event/open-farm-hours-7/2026-11-05/
+DESCRIPTION:Work with the horticulture team on seasonal gardening tasks s
+ uch as planting\, pruning\, watering\, weeding and mulching. https://quee
+ nsbotanical.org/event/horticulture-community-volunteer-days-2026/2026-11-
+ 05/
+URL:https://queensbotanical.org/event/horticulture-community-volunteer-da
+ ys-2026/2026-11-05/
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_f74fb8d252d32a4c8478@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T170000Z
 SUMMARY:Afternoon Tea at Wave Hill
 LOCATION:Wave Hill House\, 4900 Independence Avenue\, Bronx\, NY 10471\, 
  Bronx
-DESCRIPTION:A traditional tea service with sandwiches\, scones and pastri
- es\, provided by Great Performances in Wave Hill's historic house. https:
- //www.wavehill.org/calendar/afternoon-tea-2026
+DESCRIPTION:A traditional tea service with sandwiches\, scones\, pastries
+  and specialty teas in historic Wave Hill House. https://www.wavehill.org
+ /calendar/afternoon-tea-2026
 URL:https://wavehilltea.square.site/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_7bf85603de6fba249252@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_360c7c84b492a30863e0@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T170000Z
 SUMMARY:Canstruction Educational Tour
-LOCATION:Brookfield Place\, 230 Vesey Street\, New York\, NY 10281\, Manh
- attan
-DESCRIPTION:Take a guided look at the engineering and design behind giant
-  structures built from food cans for the annual City Harvest-benefiting c
- ompetition. https://www.bfplny.com/events/canstruction/
+LOCATION:Brookfield Place Winter Garden\, 230 Vesey Street\, New York\, N
+ Y 10281\, Manhattan
+DESCRIPTION:A guided look at giant structures engineered from unopened fo
+ od cans for the annual Canstruction charity competition. https://www.bfpl
+ ny.com/events/canstruction/
 URL:https://www.eventbrite.com/e/tours-of-canstruction-2026-tickets-20034
  33011067
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_ffe31cc308ca555f45d2@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_dcfd20fecb3637d5a352@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261105T170000Z
+SUMMARY:Canstruction: Lunchtime guided tour
+LOCATION:Brookfield Place\, 230 Vesey Street\, New York\, NY 10281\, Manh
+ attan
+DESCRIPTION:Explore the design and construction of sculptures made from u
+ nopened food cans. https://www.bfplny.com/events/canstruction/
+URL:https://www.eventbrite.com/e/tours-of-canstruction-2026-tickets-20034
+ 33011067
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_561260947359ca4b49b8@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T170000Z
 DTEND:20261105T230000Z
-SUMMARY:Hard Art — Opening Day
-LOCATION:MoMA PS1\, 22-25 Jackson Avenue\, Long Island City\, NY 11101\, 
- Queens
-DESCRIPTION:An exhibition tracing Black abstraction from 1969 to the pres
- ent through more than 40 artists. https://www.momaps1.org/en/programs/744
- -hard-art
-URL:https://www.momaps1.org/en/visit
+SUMMARY:Hard Art: Exhibition opening day
+LOCATION:MoMA PS1\, 22-25 Jackson Avenue\, Queens\, NY 11101\, Queens
+DESCRIPTION:A major exhibition examining abstraction by Black artists in 
+ the United States from 1969 to today\, featuring more than 40 artists. ht
+ tps://www.momaps1.org/en/programs/744-hard-art
+URL:https://www.momaps1.org/en/programs/744-hard-art
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_a7f5792affdbe4da00e3@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261105T180000Z
+SUMMARY:Innocent Eyes: A Workshop Presentation — public ticket release
+LOCATION:BAM Fisher\, Fishman Space\, 321 Ashland Place\, Brooklyn\, NY 1
+ 1217\, Brooklyn
+DESCRIPTION:Catapult Opera presents a first-look performance of David Her
+ tzberg's chamber opera about Joan Crawford\, set around an uncanny dinner
+  party between her MGM years and Mildred Pierce comeback. https://www.bam
+ .org/events/stage/2027/ws27/innocent-eyes-a-workshop-presentation/
+URL:https://commerce.bam.org/production/58720
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_48d86fecbe78fec578e2@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261105T180000Z
+DTEND:20261105T185500Z
+SUMMARY:Mark Morris: Dido and Aeneas — public ticket release
+LOCATION:BAM Howard Gilman Opera House\, 30 Lafayette Avenue\, Brooklyn\,
+  NY 11217\, Brooklyn
+DESCRIPTION:Mark Morris conducts Purcell's opera with Trinity Choir\, the
+  MMDG Music Ensemble and vocal soloists while his company performs the ch
+ oreography. The production runs 55 minutes without intermission. https://
+ www.bam.org/events/stage/2027/ws27/dido-and-aeneas/
+URL:https://commerce.bam.org/production/58744
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_9f632a31b625ec57f89c@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261105T200000Z
+SUMMARY:Christmas Spectacular Starring the Radio City Rockettes — Thurs
+ day Matinee
+LOCATION:Radio City Music Hall\, 1260 Avenue of the Americas\, Manhattan
+DESCRIPTION:An alternative weekday date for the Rockettes' precision-danc
+ e holiday production. https://www.msg.com/events-tickets/christmas-specta
+ cular-starring-the-radio-city-rockettes-radio-city-music-hall-november-20
+ 26/3C006457CDEF1EC4
+URL:https://www.ticketmaster.com/christmas-spectacular-starring-the-radio
+ -city-new-york-new-york-11-05-2026/event/3C006457CDEF1EC4?camefrom=CFC_MS
+ G
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_e165aa42d443f9bb7ebf@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T230000Z
 SUMMARY:Comedy Mob Presents: The Lineup
 LOCATION:New York Comedy Club\, 241 East 24th Street\, New York\, NY 1001
@@ -1645,21 +1234,21 @@ URL:https://newyorkcomedyclub.com/events/comedy-mob-presents-the-lineup-2
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_35495eab8fe12ae3b2ec@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T230000Z
 DTEND:20261106T010000Z
 SUMMARY:Painting Flowers with Watercolor
 LOCATION:Brooklyn Brainery\, 190 Underhill Avenue\, Brooklyn\, NY 11238\,
   Brooklyn
-DESCRIPTION:An evening workshop exploring floral subjects in watercolor\,
-  with materials supplied. https://brooklynbrainery.com/courses/painting-f
- lowers-with-watercolor
+DESCRIPTION:Practice watercolor techniques while learning to paint eight 
+ kinds of flowers with instructor Diana Kuan. https://brooklynbrainery.com
+ /courses/painting-flowers-with-watercolor
 URL:https://brooklynbrainery.com/courses/painting-flowers-with-watercolor
  /sessions/10906/signup
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_fe408b1280f055f767c4@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261105T233000Z
 DTEND:20261106T023000Z
 SUMMARY:NYC Resistor Public Craft Night
@@ -1672,34 +1261,8 @@ URL:https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays
  -tickets-162729866411
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_8e8ec3026cb71b8ecba0@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261106T000000Z
-SUMMARY:Asilah Oui: Melehi + A Thousand and One Berber Nights
-LOCATION:Anthology Film Archives\, 32 Second Avenue\, New York\, NY 10003
- \, Manhattan
-DESCRIPTION:A paired program of Asilah Oui: Melehi and A Thousand and One
-  Berber Nights. https://www.anthologyfilmarchives.org/film_screenings/cal
- endar?view=list&month=11&year=2026#showing-62172
-URL:https://ticketing.us.veezi.com/sessions/?siteToken=bsrxtagjxmgh2qy0b6
- p646xdcr
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_30fb40060b4a24ab8512@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261106T000000Z
-DTEND:20261106T020000Z
-SUMMARY:Gallo/Flórez
-LOCATION:Americas Society\, 680 Park Avenue\, Manhattan\, NY\, Manhattan
-DESCRIPTION:Ricardo Gallo on piano and Alejandro Flórez on guitar\, band
- ola and tiple bridge Colombian Andean folk music\, contemporary jazz and 
- improvisation. https://www.as-coa.org/events/galloflorez
-URL:https://ascoa.my.site.com/LightningMemberPortal/s/lt-event?id=a1YTO00
- 000WEzu1
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_ff08661e120509b7747a@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T000000Z
 SUMMARY:Hudson Westbrook
 LOCATION:Terminal 5\, 610 West 56th Street\, New York\, NY 10019\, Manhat
@@ -1711,97 +1274,72 @@ URL:https://www.axs.com/events/1521759/hudson-westbrook-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_eef34f2e9e33cc04db96@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T000000Z
 DTEND:20261106T020000Z
-SUMMARY:Hungry for Connection: Author Panel
+SUMMARY:Hungry for Connection: Author panel
 LOCATION:POWERHOUSE Arena\, 28 Adams Street\, Brooklyn\, NY 11201\, Brook
  lyn
-DESCRIPTION:Kathryn Garland and Vanessa Scaringi discuss Hungry for Conne
- ction with Dr. Alexis Conason. https://powerhousearena.com/events/book-pa
- nel-hungry-for-connection-by-kathryn-garland-and-vanessa-scaringi-in-conv
- ersation-with-dr-alexis-conason/
+DESCRIPTION:Kathryn Garland and Vanessa Scaringi discuss their book about
+  attachment and relationships with food with psychologist Alexis Conason.
+  https://powerhousearena.com/events/book-panel-hungry-for-connection-by-k
+ athryn-garland-and-vanessa-scaringi-in-conversation-with-dr-alexis-conaso
+ n/
 URL:https://events.ticketleap.com/tickets/powerhousebookstores/book-panel
  -hungry-for-connection-by-kathryn-garland-and-vanessa-scaringi-in-convers
  ation-with-dr-alexis-conason
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_d14eaf96133f923084a3@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261106T000000Z
-SUMMARY:Red Parry NYC vs. Wonderville
-LOCATION:Wonderville\, 1186 Broadway\, Brooklyn\, NY 11221\, Brooklyn
-DESCRIPTION:Red Parry NYC hosts a free Street Fighter V tournament for pe
- ople interested in retro fighting-game culture and community arcade play.
-  https://www.wonderville.nyc/events/red-parry-11-5-26
-URL:https://pools.events/event/94DhRIfU/red-parry-nyc-vs-wonderville
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_ab0ccb2e9bbaa5d5b2c9@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T000000Z
+DTEND:20261106T011500Z
 SUMMARY:The Good Time with The Letdown
 LOCATION:Brooklyn Comedy Collective at Eris\, 167 Graham Avenue\, Brookly
  n\, NY 11206\, Brooklyn
-DESCRIPTION:Chicago improv veterans build a fully improvised show from an
-  audience suggestion\, with opening team The Letdown. https://www.brookly
- ncc.com/show-schedule/thegoodtime-11-5
+DESCRIPTION:Chicago improv veterans build a show from one audience sugges
+ tion. The Letdown opens. https://www.brooklyncc.com/show-schedule/thegood
+ time-11-5
 URL:https://www.eventbrite.com/e/1116168894209
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_ea77ede373fae5d0e1aa@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_637a606abf78f929ee7a@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T000000Z
-SUMMARY:Trauma Or\, Monsters All with Larry Fessenden Q&A
+SUMMARY:Trauma Or\, Monsters All: Larry Fessenden Q&A
 LOCATION:IFC Center\, 323 Sixth Avenue\, New York\, NY 10014\, Manhattan
-DESCRIPTION:Trauma Or\, Monsters All screens with Larry Fessenden appeari
- ng for a post-film conversation. https://www.ifccenter.com/films/trauma-o
- r-monsters-all/
+DESCRIPTION:A second opportunity to see Larry Fessenden's new creature fe
+ ature with the director in person. https://www.ifccenter.com/films/trauma
+ -or-monsters-all/
 URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.asp
  x?evtinfo=587328~8722a542-64c1-4c0b-af02-c3e8a239d769
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_a0b3f9a490ef3c58d088@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T003000Z
 SUMMARY:Carsie Blanton with The Burning Hell
-LOCATION:Le Poisson Rouge\, 158 Bleecker Street\, Manhattan\, NY\, Manhat
- tan
-DESCRIPTION:Carsie Blanton and The Burning Hell bring their songwriter-fo
- cused double bill to Manhattan. https://lpr.com/lpr_events/carsie26nyc/
+LOCATION:Le Poisson Rouge\, 158 Bleecker Street\, Manhattan
+DESCRIPTION:Songwriter Carsie Blanton headlines with Canadian indie-folk 
+ act The Burning Hell. https://lpr.com/lpr_events/carsie26nyc/
 URL:https://kyd.to/iAFIhjiT
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_6b8dd5931f50360111d9@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261106T003000Z
-DTEND:20261106T013500Z
-SUMMARY:Cynthia Oliver: Turn. Turning. TURNT.
-LOCATION:BAM Fisher\, Fishman Space\, 321 Ashland Place\, Brooklyn\, NY\,
-  Brooklyn
-DESCRIPTION:Six dancers perform Cynthia Oliver's Tether\, Fallow and Summ
- on.Sow.Reap. in this Next Wave 2026 program. https://www.bam.org/dance/20
- 26/turn-turning-turnt
-URL:https://commerce.bam.org/booking/production/55624
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_c8b601c25ba4c160e372@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T003000Z
-SUMMARY:New York Classical Players: Brahms & Puts—A Journey to Belief
-LOCATION:Flushing Town Hall\, 137-35 Northern Boulevard\, Queens\, NY\, Q
- ueens
-DESCRIPTION:Dongmin Kim conducts Larsson's Concertino for Double Bass\, K
- evin Puts's Credo and Brahms's Double Concerto\, with soloists Kyung Sun 
- Lee\, Clive Greensmith and Milad Daniari. https://www.flushingtownhall.or
- g/show-details/new-york-classical-players-presents-brahms-puts-a-journey-
- to-belief
+SUMMARY:New York Classical Players: Brahms & Puts — A Journey to Belief
+LOCATION:Flushing Town Hall\, 137-35 Northern Boulevard\, Queens
+DESCRIPTION:Dongmin Kim conducts Larsson's Double Bass Concertino\, Kevin
+  Puts's Credo and Brahms's Double Concerto\, with Kyung Sun Lee\, Clive G
+ reensmith and Milad Daniari. https://www.flushingtownhall.org/show-detail
+ s/new-york-classical-players-presents-brahms-puts-a-journey-to-belief
 URL:https://www.flushingtownhall.org/show-details/new-york-classical-play
  ers-presents-brahms-puts-a-journey-to-belief
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_a61f49de03358100ae76@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T003000Z
 SUMMARY:New York Comedy Club Presents
 LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
@@ -1813,8 +1351,34 @@ URL:https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-20
  26-11-05190000
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_1d02754cebeedd1d7276@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261106T003000Z
+SUMMARY:Soul Patrol: Sneak preview and Q&A
+LOCATION:IFC Center\, 323 Sixth Avenue\, New York\, NY 10014\, Manhattan
+DESCRIPTION:J.M. Harper's documentary about the Vietnam War's first Black
+  special-operations team screens with Harper and documentary subject Ed E
+ manuel. https://www.ifccenter.com/films/soul-patrol/
+URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.asp
+ x?evtinfo=586022~8722a542-64c1-4c0b-af02-c3e8a239d769
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_baa68d4aa24e07b8a266@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261106T003000Z
+SUMMARY:Voices of a People's History: Howard Zinn
+LOCATION:David Rubenstein Atrium\, 1887 Broadway\, New York\, NY 10023\, 
+ Manhattan
+DESCRIPTION:Readings inspired by Howard Zinn and Dave Zirin's biography\,
+  featuring Wallace Shawn\, Jessica Hecht\, Arian Moayed\, Hari Kondabolu 
+ and Staceyann Chin. https://www.lincolncenter.org/series/lincoln-center-p
+ resents/voices-of-a-peopleand39s-history-145
+URL:https://www.lincolncenter.org/series/lincoln-center-presents/voices-o
+ f-a-peopleand39s-history-145
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_eeec1c371bdb59520557@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T010000Z
 SUMMARY:Avalon Emerson & the Charm
 LOCATION:Music Hall of Williamsburg\, 66 North 6th Street\, Brooklyn\, NY
@@ -1826,7 +1390,7 @@ URL:https://www.axs.com/events/1570049/avalon-emerson-the-charm-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_7b74b1891d2291fe2421@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T010000Z
 SUMMARY:Boy Harsher
 LOCATION:Knockdown Center\, 52-19 Flushing Ave\, Queens\, NY 11378\, Queens
@@ -1836,7 +1400,7 @@ URL:https://link.dice.fm/BoyHarsher-KDC-NYC
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_7bcb3bc9dd7792195e49@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T010000Z
 SUMMARY:Madds Buckley 2026/2027 North American Tour
 LOCATION:Racket\, 431 West 16th Street\, New York\, NY 10011\, Manhattan
@@ -1847,20 +1411,46 @@ URL:https://www.axs.com/events/1536708/madds-buckley-20262027-north-ameri
  can-tour-tickets
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_058218d12eb793faf701@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_7266ab7d9ae80155c0fc@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T010000Z
-SUMMARY:Sahba Motallebi & Ensemble: Persian Music
-LOCATION:Roulette\, 509 Atlantic Avenue\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Tar virtuoso Sahba Motallebi performs solo and with an ensemb
- le featuring vocalist Marjan Vahdat\, Reza Mohsenipour and Hamid Mohsenip
- our. https://roulette.org/event/sahba-motallebi-persian-rba/
+SUMMARY:Sahba Motallebi & Ensemble: An Evening of Solidarity and Harmony
+LOCATION:Roulette\, 509 Atlantic Avenue\, Brooklyn
+DESCRIPTION:Persian tar virtuoso Sahba Motallebi performs solo and with M
+ arjan Vahdat\, Reza Mohsenipour and Hamid Mohsenipour. https://roulette.o
+ rg/event/sahba-motallebi-persian-rba/
 URL:https://ci.ovationtix.com/36368/performance/11846565?performanceId=11
  846565
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_9fa347ad8dd21dd42a6f@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261106T010000Z
+SUMMARY:Salón Parcha: Gabriel Garzón Montano with Music Director Ella B
+ ric
+LOCATION:National Sawdust\, 80 North 6th Street\, Brooklyn
+DESCRIPTION:Gabriel Garzón Montano performs classic and original boleros
+  and salsa with Ella Bric's band. El Garo supplies vinyl selections throu
+ ghout the night. https://www.nationalsawdust.org/event/salon-parcha-featu
+ ring-gabriel-garzon-montano-music-director-ella-bric
+URL:https://ci.ovationtix.com/36490/production/1293828
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_1463b5cce99b5e1b5e37@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261106T010000Z
+SUMMARY:Sid Sriram with Julius Rodriguez & Austin Williamson
+LOCATION:Blue Note Jazz Club\, 131 West 3rd Street\, Manhattan
+DESCRIPTION:Sid Sriram brings his Carnatic-informed vocal approach and co
+ ntemporary soul sensibility to a collaboration with Julius Rodriguez and 
+ Austin Williamson. https://www.bluenotejazz.com/nyc/tm-event/sid-sriram-3
+ /
+URL:https://www.ticketweb.com/event/sid-sriram-blue-note-jazz-club-ticket
+ s/14900393?pl=bluenoteny
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_3e41d30e04ea2570c9c8@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T010000Z
 SUMMARY:Ólafur Arnalds
 LOCATION:The Town Hall\, 123 West 43rd Street\, New York\, NY 10036\, Man
@@ -1870,94 +1460,157 @@ DESCRIPTION:Live concert: Ólafur Arnalds. The Town Hall https://www.axs.
 URL:https://www.ticketmaster.com/event/03006428F84E282E
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_783018a2153582ea5a74@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261106T020000Z
+DTEND:20261106T040000Z
+SUMMARY:Singing the Alan Lomax Archive: Benefit Concert
+LOCATION:St. Ann & the Holy Trinity Church\, 157 Montague Street\, Brooklyn
+DESCRIPTION:Dom Flemons hosts Peter Stampfel\, Kyp Malone\, Catherine Rus
+ sell\, Luther Dickinson\, Laura Cantrell\, Grace Bergere and Stephanie Je
+ nkins interpreting songs from the Lomax archive. https://www.viewcy.com/e
+ vent/singingthealanlomaxarchive
+URL:https://www.viewcy.com/event/singingthealanlomaxarchive
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_460fc82b868f81f5e7e1@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T021500Z
 SUMMARY:Spoons Toons & Booze After Dark
 LOCATION:Nitehawk Cinema Prospect Park\, 188 Prospect Park West\, Brookly
  n\, NY 11215\, Brooklyn
-DESCRIPTION:Michael Austin and Nell Casey host audience-selected adult an
- d cult cartoons with an included cereal bar. https://nitehawkcinema.com/p
- rospectpark/special_events/stb-after-dark-november-2026/
+DESCRIPTION:SecretFormula hosts audience-selected cult and late-night car
+ toons\, contests and an all-you-can-eat cereal bar. https://nitehawkcinem
+ a.com/prospectpark/special_events/stb-after-dark-november-2026/
 URL:https://nitehawkcinema.com/prospectpark/purchase/24611442/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_b6d8614bce851dec4bc0@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261106T030000Z
-DTEND:20261106T043000Z
-SUMMARY:Jessie 'Jetski' Johnson
-LOCATION:Union Hall\, 702 Union Street\, Brooklyn\, NY 11215\, Brooklyn
-DESCRIPTION:A late-evening stand-up performance by Jessie 'Jetski' Johnso
- n. https://unionhallny.com/calendar
-URL:https://www.eventbrite.com/e/jessie-jetski-johnson-tickets-2001894311
- 776
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_cad2c6ccb081813c7d6c@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:22 Years of FIXED: Kelly Lee Owens DJ Set\, JDH & Dave P
-LOCATION:Good Room\, 98 Meserole Avenue\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:FIXED marks 22 years with a Kelly Lee Owens DJ set alongside 
- JDH and Dave P. Ivan Berko plays all night in the Bad Room. https://goodr
- oombk.com/
+LOCATION:Good Room\, 98 Meserole Avenue\, Brooklyn
+DESCRIPTION:FIXED celebrates 22 years with Kelly Lee Owens DJing alongsid
+ e JDH and Dave P\; Ivan Berko plays all night in the Bad Room. https://go
+ odroombk.com/
 URL:https://ra.co/events/2537429
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_c992bf55bd9b30fc0c9c@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_4879f271f973f17f32f7@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:AEREA\, Alex Farell
-LOCATION:Elsewhere\, 599 Johnson Avenue\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:AEREA and Alex Farell headline a full-venue club night. https
- ://www.elsewhere.club/events/1989844748207
+SUMMARY:AEREA & Alex Farell
+LOCATION:Elsewhere — Full Venue\, 599 Johnson Avenue\, Brooklyn
+DESCRIPTION:AEREA and Alex Farell headline Elsewhere's Friday full-venue 
+ electronic club program. https://www.elsewhere.club/events/1989844748207
 URL:https://www.eventbrite.com/e/aerea-alex-farell-tickets-1989844748207
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_73b8978089064e693e90@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_49fa1084ccba5d6cc7ab@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Chatroom: OSGEMEOS
-LOCATION:Elsewhere\, 599 Johnson Avenue\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Chatroom hosts OSGEMEOS for a free-with-RSVP Friday night. ht
- tps://www.elsewhere.club/events/2004032654617
+SUMMARY:Chatroom: OSGEMEOS — Free with RSVP
+LOCATION:Elsewhere — Chatroom\, 599 Johnson Avenue\, Brooklyn
+DESCRIPTION:OSGEMEOS appears in Elsewhere's Chatroom for a free\, RSVP-ba
+ sed club night. https://www.elsewhere.club/events/2004032654617
 URL:https://www.eventbrite.com/e/chatroom-osgemeos-free-w-rsvp-tickets-20
  04032654617
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_a3a7591a75dc96ef3b68@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_a97cf0157c2245ea81e7@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Emancipator\, Shrimpnose & Lapa
+LOCATION:Elsewhere — The Hall\, 599 Johnson Avenue\, Brooklyn
+DESCRIPTION:Emancipator headlines a three-act electronic bill with Shrimp
+ nose and Lapa. https://www.elsewhere.club/events/1995465318484
+URL:https://www.elsewhere.club/events/1995465318484
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_577549e6664237467b64@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Lime Garden with Nine Perfect Lives
+LOCATION:Elsewhere — Zone One\, 599 Johnson Avenue\, Brooklyn
+DESCRIPTION:Lime Garden and Nine Perfect Lives share Elsewhere's smaller 
+ Zone One room. https://www.elsewhere.club/events/1985145677159
+URL:https://www.eventbrite.com/e/lime-garden-nine-perfect-lives-tickets-1
+ 985145677159
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_65967cf20282bd412a6b@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:zi: Kogonada and cast Q&A
+LOCATION:Metrograph\, 7 Ludlow Street\, New York\, NY 10002\, Manhattan
+DESCRIPTION:Kogonada's Hong Kong-set experimental drama screens with a Q&
+ A featuring the director\, Michelle Mao\, Haley Lu Richardson\, Jin Ha an
+ d producer Christopher Radcliff. https://metrograph.com/film/9999005068-z
+ i/
+URL:https://metrograph.com/film/9999005068-zi/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_51cc7eb64fd09b9cfd12@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T150000Z
 DTEND:20261107T000000Z
-SUMMARY:Canstruction: Self-Guided Friday Visit
+SUMMARY:Canstruction: Self-Guided Visit
 LOCATION:Brookfield Place\, 230 Vesey Street\, New York\, NY 10281\, Manh
  attan
-DESCRIPTION:See the annual architectural can-building competition at your
-  own pace\, with large structures assembled from unopened food destined f
- or City Harvest. https://www.bfplny.com/events/canstruction/
+DESCRIPTION:Browse the annual competition's structures made entirely from
+  unopened food cans. The installations become a donation to City Harvest 
+ after the display. https://www.bfplny.com/events/canstruction/
 URL:https://www.bfplny.com/events/canstruction/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_ff2867b5f9b1de3c1b4d@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261106T180000Z
-DTEND:20261106T191500Z
-SUMMARY:Historic Richmond Town: Two Centuries Walking Tour
-LOCATION:Historic Richmond Town\, 441 Clarke Avenue\, Staten Island\, NY 
- 10306\, Staten Island
-DESCRIPTION:An interpreter-led historic-village walk connecting the Nativ
- e Encampment\, Voorlezer's House\, Christopher House and Guyon-Lake-Tysen
-  House across two centuries of Staten Island history. https://www.histori
- crichmondtown.org/events/april/guided-tours
-URL:https://www.historicrichmondtown.org/events/april/guided-tours
+UID:evt_79f3ebec29df33877479@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261106T150000Z
+DTEND:20261106T210000Z
+SUMMARY:Kiku: Spotlight on Tradition
+LOCATION:New York Botanical Garden\, Nolen Greenhouses\, 2900 Southern Bo
+ ulevard\, Bronx\, NY 10458\, Bronx
+DESCRIPTION:See Japanese chrysanthemums trained over eleven months into e
+ laborate forms\, including the many-flowered ozukuri grown from a single 
+ stem. https://www.nybg.org/event/kiku/
+URL:https://www.nybg.org/visit/admission/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_3a3cac7f2342d07d0fa0@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261106T160000Z
+DTEND:20261107T010000Z
+SUMMARY:Winter Village Holiday Shops
+LOCATION:Bryant Park\, Bryant Park\, between Fifth and Sixth Avenues and 
+ West 40th and 42nd Streets\, New York\, NY\, Manhattan
+DESCRIPTION:Browse artisan gifts\, crafts and food at the seasonal outdoo
+ r Holiday Shops. https://bryantpark.org/activities/holiday-shops
+URL:https://bryantpark.org/activities/holiday-shops
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e69fd6f1ec5c4568fc7c@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261106T200000Z
+DTEND:20261106T220000Z
+SUMMARY:Environmental Education Center Open Hours
+LOCATION:Brooklyn Bridge Park Environmental Education Center\, 99 Plymout
+ h Street\, Brooklyn\, NY 11201\, Brooklyn
+DESCRIPTION:Investigate East River ecology through a 250-gallon aquarium\
+ , a scale model of Brooklyn Bridge Park and self-led exploration supporte
+ d by educators. https://brooklynbridgepark.org/event/open-hours-at-the-en
+ vironmental-education-center-november-6/
+URL:https://brooklynbridgepark.org/event/open-hours-at-the-environmental-
+ education-center-november-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_f2f3b16c4901adcf81e5@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T210000Z
 DTEND:20261107T010000Z
 SUMMARY:MoMA free Friday evening
@@ -1969,19 +1622,8 @@ DESCRIPTION:MoMA offers free admission on Friday evenings. Free tickets a
 URL:https://www.moma.org/visit/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_309b62cc0a4a27535208@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261106T220000Z
-SUMMARY:Bunna Cafe Ethiopian Coffee Ceremony
-LOCATION:Bunna Cafe\, 1084 Flushing Avenue\, Brooklyn\, NY 11237\, Brooklyn
-DESCRIPTION:Watch Bunna's traditional Ethiopian coffee preparation\, from
-  roasting beans to brewing and serving\, in a restaurant built around com
- munal hospitality. https://www.bunnaethiopia.net/thecoffeeceremony
-URL:https://www.bunnaethiopia.net/thecoffeeceremony
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_897f8eaf9e383137234a@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T220000Z
 DTEND:20261107T030000Z
 SUMMARY:Whitney Museum free Friday evening
@@ -1993,8 +1635,20 @@ DESCRIPTION:The Whitney is free to all every Friday evening from 5 to 10p
 URL:https://whitney.org/visit
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_ddc1c60e722be32f352e@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261106T230000Z
+DTEND:20261107T030000Z
+SUMMARY:Herbert Holler's Freedom Party NYC: Annual '90s Night
+LOCATION:Le Poisson Rouge\, 158 Bleecker Street\, Manhattan
+DESCRIPTION:Herbert Holler and host Savior Elmundo lead an early-evening 
+ edition centered on '90s sounds\, also celebrating Elmundo's birthday. ht
+ tps://lpr.com/lpr_events/hhnov26nyc/
+URL:https://kyd.to/Ri5ltSHa
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_fcfd57b220e30bc9a46d@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T230000Z
 SUMMARY:Tokyo Kanpai Boys Presented by the New York Comedy Festival
 LOCATION:New York Comedy Club on 4th Street\, 85 East 4th Street\, New Yo
@@ -2008,7 +1662,7 @@ URL:https://newyorkcomedyclub.com/events/tokyo-kanpai-boys-presented-by-t
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_8abfa7b6998a74d206df@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T231500Z
 SUMMARY:New York Comedy Club Presents
 LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
@@ -2020,127 +1674,112 @@ URL:https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-20
  26-11-06181500
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_7fdc96159aba62accbdd@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261106T233000Z
-SUMMARY:Birds of War with Filmmaker Q&A — Tia Lessin Moderates
-LOCATION:IFC Center\, 323 Sixth Avenue\, New York\, NY 10014\, Manhattan
-DESCRIPTION:Directors Janay Boulos and Abd Alkader Habak and producer Son
- ja Henrici discuss Birds of War with moderator Tia Lessin. https://www.if
- ccenter.com/films/birds-of-war/
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.asp
- x?evtinfo=587663~8722a542-64c1-4c0b-af02-c3e8a239d769
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_bc91ea5742c1fb08fc49@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261106T233000Z
-SUMMARY:Girls Bite Back + Road Movie — Gudrun Gut in Person
+SUMMARY:Girls Bite Back + Road Movie: Gudrun Gut in person
 LOCATION:Anthology Film Archives\, 32 Second Avenue\, New York\, NY 10003
  \, Manhattan
-DESCRIPTION:A paired screening of Girls Bite Back and Road Movie with Gud
- run Gut appearing in person\, within Anthology's German punk programming.
-  https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list
- &month=11&year=2026#showing-62266
+DESCRIPTION:A paired program in Anthology's German Punk series with Gudru
+ n Gut attending. https://www.anthologyfilmarchives.org/film_screenings/ca
+ lendar?view=list&month=11&year=2026#showing-62266
 URL:https://ticketing.us.veezi.com/sessions/?siteToken=bsrxtagjxmgh2qy0b6
  p646xdcr
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_bd3404bdf259648ebaa1@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261106T233000Z
-DTEND:20261107T015000Z
-SUMMARY:LeFrak Covered-Rink Friday Evening Skate
-LOCATION:LeFrak Center at Lakeside\, 171 East Drive\, Brooklyn\, NY 11225
- \, Brooklyn
-DESCRIPTION:An evening public-skating session on Lakeside's covered rink 
- in the first full week of the ice season. https://lakeside.prospectpark.o
- rg/activity/public-ice-skate/
-URL:https://lakeside.prospectpark.org/activity/public-ice-skate/
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_85ccaf960093b09c5059@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T000000Z
 DTEND:20261107T020000Z
 SUMMARY:Bodega Cats of New York: Dan Rimada
 LOCATION:POWERHOUSE Arena\, 28 Adams Street\, Brooklyn\, NY 11201\, Brook
  lyn
-DESCRIPTION:Dan Rimada celebrates Bodega Cats of New York\, a photographi
- c tribute to the city's feline shopkeepers. https://powerhousearena.com/e
- vents/book-launch-bodega-cats-of-new-york-by-dan-rimada/
+DESCRIPTION:Dan Rimada launches a book documenting neighborhood-store cat
+ s and the families behind their businesses\, with photographs by Gulce Ki
+ lkis. https://powerhousearena.com/events/book-launch-bodega-cats-of-new-y
+ ork-by-dan-rimada/
 URL:https://events.ticketleap.com/tickets/powerhousebookstores/book-launc
  h-bodega-cats-of-new-york-by-dan-rimada
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_c4867d3e559e6a4aae2d@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261107T000000Z
+DTEND:20261107T045500Z
+SUMMARY:Brooklyn Folk Festival — Friday
+LOCATION:St. Ann & the Holy Trinity Church\, 157 Montague Street\, Brooklyn
+DESCRIPTION:Opening night includes Feral Foster\, Gamelan Yowana Sari\, L
+ onnie Holley\, Mama's Broke and The Deslondes\, with additional music and
+  square dancing in other rooms. https://www.brooklynfolkfest.com/schedule
+URL:https://www.viewcy.com/event/the_2026_brooklyn_fol/select?ticketType=
+ in-person
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_a6a254eb733303ba6700@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T003000Z
 SUMMARY:ALBA Musik: Contemporary Flamenco
-LOCATION:David Rubenstein Atrium\, 1887 Broadway\, Manhattan\, NY\, Manha
- ttan
-DESCRIPTION:ALBA Musik pairs vocalist Bárbara Martínez and guitarist Al
- bert Alabedra with flamenco dancing in a program presented with Pasculano
-  Contemporary Dance. https://www.lincolncenter.org/series/lincoln-center-
- presents/alba-musik-contemporary-flamenco-767
+LOCATION:David Rubenstein Atrium\, 1887 Broadway\, Manhattan
+DESCRIPTION:Bárbara Martínez and Albert Alabedra's ALBA project brings 
+ contemporary flamenco music and dance to Lincoln Center's Atrium. https:/
+ /www.lincolncenter.org/series/lincoln-center-presents/alba-musik-contempo
+ rary-flamenco-767
 URL:https://www.lincolncenter.org/series/lincoln-center-presents/alba-mus
  ik-contemporary-flamenco-767
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_faf6e718617d16bd2695@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_d7035d673909179055de@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T003000Z
-DTEND:20261107T013500Z
-SUMMARY:Cynthia Oliver: Turn. Turning. TURNT.
-LOCATION:BAM Fisher\, Fishman Space\, 321 Ashland Place\, Brooklyn\, NY\,
-  Brooklyn
-DESCRIPTION:Cynthia Oliver's six-dancer program presents Tether\, Fallow 
- and Summon.Sow.Reap. within BAM's Next Wave 2026. https://www.bam.org/dan
- ce/2026/turn-turning-turnt
-URL:https://commerce.bam.org/booking/production/55625
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_bb62d3cb3777dbfc5223@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261107T003000Z
-SUMMARY:Daniela Mack: SUR—Songs of Astor Piazzolla\, with JP Jofre Quin
- tet
-LOCATION:National Sawdust\, 80 North 6th Street\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Mezzo-soprano Daniela Mack launches SUR with Piazzolla songs 
- arranged by bandoneonist JP Jofre. The quintet includes Siwoo Kim\, Micha
- el Nicolas\, Chris Johnson and Sohee Kwon. https://www.nationalsawdust.or
- g/event/daniela-mack-sur-album-release-co-produced-by-national-sawdust-an
- d-sarah-williams
+SUMMARY:Daniela Mack: SUR — Songs of Astor Piazzolla
+LOCATION:National Sawdust\, 80 North 6th Street\, Brooklyn
+DESCRIPTION:Mezzo-soprano Daniela Mack celebrates SUR with bandoneonist J
+ P Jofre and his quintet\, interpreting Astor Piazzolla's songs. https://w
+ ww.nationalsawdust.org/event/daniela-mack-sur-album-release-co-produced-b
+ y-national-sawdust-and-sarah-williams
 URL:https://ci.ovationtix.com/36490/production/1294000
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_22d4d4a19df3bda6f807@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261107T003000Z
+SUMMARY:Joanna Kotze: this is the beginning\, this is the end — Friday
+LOCATION:New York Live Arts Theater\, 219 West 19th Street\, Manhattan
+DESCRIPTION:Joanna Kotze's world premiere brings six dancers and two live
+  musicians together to explore history\, agency and collective forces. ht
+ tps://newyorklivearts.org/event/this-is-the-beginning-this-is-the-end/
+URL:https://newyorklivearts.my.salesforce-sites.com/ticket/#/events/a0SVt
+ 00000Y2HvdMAF
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_e12de32b5419c37ebdba@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T003000Z
 DTEND:20261107T020000Z
 SUMMARY:Skintag and Friends
 LOCATION:Union Hall\, 702 Union Street\, Brooklyn\, NY 11215\, Brooklyn
-DESCRIPTION:A New York Comedy Festival showcase featuring Cigi Farmer\, C
- arly Kane\, Grace Johnson\, Rima Parikh\, Molly Kearney and Maddie Connor
- s. https://unionhallny.com/calendar
+DESCRIPTION:Cigi Farmer\, Carly Kane\, Grace Johnson\, Rima Parikh\, Moll
+ y Kearney and Maddie Connors appear in this New York Comedy Festival show
+ . https://www.eventbrite.com/e/skintag-and-friends-tickets-2003468314661
 URL:https://www.eventbrite.com/e/skintag-and-friends-tickets-2003468314661
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_9bde9d7fa30860cb0dd0@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T003000Z
+DTEND:20261107T020000Z
 SUMMARY:TGIF with Duchovny & Olestra
 LOCATION:Brooklyn Comedy Collective at Eris\, 167 Graham Avenue\, Brookly
  n\, NY 11206\, Brooklyn
-DESCRIPTION:Improv teams Duchovny and Olestra perform a Friday show prese
- nted as part of the New York Comedy Festival. https://www.brooklyncc.com/
- show-schedule/tgif-nycf-11-6
+DESCRIPTION:New York Comedy Festival improv pairing Duchovny and Olestra.
+  Performers include Tami Sagher\, Yoni Lotan\, Devin Bockrath and Nick Me
+ stad. https://www.brooklyncc.com/show-schedule/tgif-nycf-11-6
 URL:https://www.eventbrite.com/e/new-york-comedy-festival-tgif-with-ducho
  vny-olestra-tickets-1997875501406
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_61b0a6ca22d1609a6e00@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T010000Z
 SUMMARY:Blu DeTiger
 LOCATION:Music Hall of Williamsburg\, 66 North 6th Street\, Brooklyn\, NY
@@ -2151,20 +1790,32 @@ URL:https://www.axs.com/events/1566329/blu-detiger-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_5279d7d294bedbf2367b@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T010000Z
 DTEND:20261107T030000Z
 SUMMARY:Putería con PAPIROSSA: Celebration of Life
 LOCATION:littlefield\, 635 Sackett Street\, Brooklyn\, NY 11217\, Brooklyn
-DESCRIPTION:A queer BIPOC drag-variety program with sketches\, stand-up a
- nd character performances. This eighth installment centers mental health 
- and donates part of its proceeds to supporting organizations. https://lit
- tlefieldnyc.com/event/?wfea_eb_id=1998383402552
+DESCRIPTION:A drag variety program combining taped sketches\, stand-up an
+ d character performances\, with proceeds partly supporting LGBTQ+ mental-
+ health organizations. https://littlefieldnyc.com/event/?wfea_eb_id=199838
+ 3402552
 URL:https://littlefieldnyc.com/event/?wfea_eb_id=1998383402552
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_a35bf5cc3c0339bbfccf@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261107T010000Z
+SUMMARY:Sid Sriram with Julius Rodriguez & Austin Williamson — Friday
+LOCATION:Blue Note Jazz Club\, 131 West 3rd Street\, Manhattan
+DESCRIPTION:The second night of Sid Sriram's collaboration with Julius Ro
+ driguez and Austin Williamson. https://www.bluenotejazz.com/nyc/tm-event/
+ sid-sriram-3/
+URL:https://www.ticketweb.com/event/sid-sriram-blue-note-jazz-club-ticket
+ s/14266424?pl=bluenoteny
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_365f68aef186a570c3f8@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T010000Z
 SUMMARY:This is Lorelei
 LOCATION:Webster Hall\, 125 E.11th Street\, New York\, NY 10003\, Manhattan
@@ -2174,7 +1825,7 @@ URL:https://www.axs.com/events/1438453/this-is-lorelei-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_6d2a66dd8ec4a310c2b6@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T013000Z
 SUMMARY:Tobiahs
 LOCATION:Brooklyn Steel\, 319 Frost Street\, Brooklyn\, NY 11222\, Brooklyn
@@ -2183,21 +1834,33 @@ DESCRIPTION:Live concert: Tobiahs. Brooklyn Steel https://www.axs.com/eve
 URL:https://www.axs.com/events/1556250/tobiahs-tickets
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_6ad3066832c41e9655cc@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261107T020000Z
+SUMMARY:Einstürzende Neubauten: Liebeslieder — Gudrun Gut in person
+LOCATION:Anthology Film Archives\, 32 Second Avenue\, New York\, NY 10003
+ \, Manhattan
+DESCRIPTION:Johanna Schenkel and Klaus Maeck's 1993 film screens in Germa
+ n Punk\, with Gudrun Gut in person. https://www.anthologyfilmarchives.org
+ /film_screenings/calendar?view=list&month=11&year=2026#showing-62268
+URL:https://ticketing.us.veezi.com/sessions/?siteToken=bsrxtagjxmgh2qy0b6
+ p646xdcr
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_08d3d728e13742b01046@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T023000Z
+DTEND:20261107T034500Z
 SUMMARY:The Dog Show: Come. Sit. Stay.
 LOCATION:Triad Theater\, 158 West 72nd Street\, New York\, NY 10023\, Man
  hattan
-DESCRIPTION:Scott Adsit\, Todd Cerveris\, Gizel Jimenez and Julia Murney 
- perform the Friday late show of David Javerbaum's canine-perspective come
- dy. https://www.dogshownyc.com/
-URL:https://www.instantseats.com/index.cfm?fuseaction=home.event&eventID=
- 874F7924-978B-DA1A-87AAD4514030AC9F
+DESCRIPTION:David Javerbaum's staged comic monologues imagine the thought
+ s and preoccupations of dogs. https://www.dogshownyc.com/
+URL:https://www.viewcy.com/event/the_dog_show_come_s
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_189463a624c1586c3390@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T030000Z
 SUMMARY:Punchis Punchis: Banda Rave Experience
 LOCATION:Terminal 5\, 610 West 56th Street\, New York\, NY 10019\, Manhat
@@ -2210,212 +1873,265 @@ URL:https://www.axs.com/events/1598774/punchis-punchis-banda-rave-experie
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_72592ebb42ba0f68b2ed@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T040000Z
 DTEND:20261107T090000Z
 SUMMARY:AFROVRSE
-LOCATION:Littlefield\, 635 Sackett Street\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:What's The Motive presents a dance party spanning Afrobeats\,
-  Amapiano\, Afro-house\, Francophone sounds and Afro-dancehall. https://l
- ittlefieldnyc.com/event/?wfea_eb_id=2003872310022
+LOCATION:Littlefield\, 635 Sackett Street\, Brooklyn
+DESCRIPTION:A dance party spanning Afrobeats\, amapiano\, Afro-house\, Fr
+ ancophone sounds and Afro-dancehall. https://littlefieldnyc.com/event/?wf
+ ea_eb_id=2003872310022
 URL:https://littlefieldnyc.com/event/?wfea_eb_id=2003872310022
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_6ed89f0d8a65c2aff7dc@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261107T040000Z
+SUMMARY:Y2K Party with DJ K Styles
+LOCATION:Le Poisson Rouge\, 158 Bleecker Street\, Manhattan
+DESCRIPTION:DJ K Styles leads a 2000s-themed late-night party presented b
+ y P91 and LPR. https://lpr.com/lpr_events/y2knov626nyc/
+URL:https://kyd.to/YfKiadM9
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_759869f8d4e093a261a4@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Ami Taf Ra + Kamasi Washington
-LOCATION:Elsewhere\, The Hall\, 599 Johnson Avenue\, Brooklyn\, NY\, Broo
- klyn
-DESCRIPTION:Ami Taf Ra and Kamasi Washington share a Saturday live bill i
- n Elsewhere's Hall. https://www.elsewhere.club/events/2000207327962
-URL:https://www.eventbrite.com/e/ami-taf-ra-kamasi-washington-tickets-200
- 0207327962
+LOCATION:Elsewhere — The Hall\, 599 Johnson Avenue\, Brooklyn
+DESCRIPTION:Ami Taf Ra and Kamasi Washington share the advertised bill in
+  Elsewhere's Hall. https://www.elsewhere.club/events/2000207327962
+URL:https://www.elsewhere.club/events/2000207327962
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_819349e8cdb1b79d9192@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_d31337c3551919647709@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:Far From Heaven — 35mm
-LOCATION:Metrograph\, 7 Ludlow Street\, New York\, NY 10002\, Manhattan
-DESCRIPTION:Todd Haynes's 2002 melodrama screens on 35mm. https://metrogr
- aph.com/film/9999003994-far-from-heaven/
-URL:https://metrograph.com/film/9999003994-far-from-heaven/
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_8bbb60392fb8b6ea7f0d@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Flava D\; Made to Order: Dendi's Dad\, EJWIZE\, Imbueless
-LOCATION:Elsewhere\, 599 Johnson Avenue\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Flava D headlines a full-venue Saturday club night\, with Mad
- e to Order featuring Dendi's Dad\, EJWIZE and Imbueless. https://www.else
- where.club/events/2001018252459
+SUMMARY:Flava D with Made to Order: Dendi's Dad\, EJWIZE & Imbueless
+LOCATION:Elsewhere — Full Venue\, 599 Johnson Avenue\, Brooklyn
+DESCRIPTION:Flava D leads the Saturday full-venue club bill\, with Made t
+ o Order's Dendi's Dad\, EJWIZE and Imbueless. https://www.elsewhere.club/
+ events/2001018252459
 URL:https://www.eventbrite.com/e/flava-d-made-to-order-dendis-dad-ejwize-
  imbueless-tickets-2001018252459
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_651ed3ffc22558cece33@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:MoMA PS1 November Open House
+LOCATION:MoMA PS1\, 22-25 Jackson Avenue\, Queens\, NY 11101\, Queens
+DESCRIPTION:A free all-ages open house celebrating Hard Art\, Masao Gozu\
+ , New York Fashion at PS1 and Fred Wilson\, with exhibition access and ar
+ tist conversations. https://www.momaps1.org/en/events/879-open-house
+URL:https://www.eventbrite.com/e/open-house-tickets-2003576358824
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_1bc0c01d4437df6e1fb1@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:zi + Way of Ozu: Kogonada and cast Q&A
+LOCATION:Metrograph\, 7 Ludlow Street\, New York\, NY 10002\, Manhattan
+DESCRIPTION:Kogonada's zi is paired with his six-minute Way of Ozu. The d
+ irector\, Michelle Mao\, Haley Lu Richardson\, Jin Ha and Christopher Rad
+ cliff are advertised for a Q&A. https://metrograph.com/film/9999005068-zi
+ /
+URL:https://metrograph.com/film/9999005068-zi/
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_203c3eb252b3a9144575@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T123000Z
 DTEND:20261107T133000Z
 SUMMARY:FIDO Coffee Bark
-LOCATION:Prospect Park\, south of the Picnic House\, Near 40 West Drive\,
-  Brooklyn\, NY 11215\, Brooklyn
-DESCRIPTION:A free early-morning gathering for neighborhood dog owners\, 
- with coffee and pastries for people and biscuits for dogs. https://www.pr
- ospectpark.org/event/fido-coffee-bark-3/2026-11-07/
+LOCATION:Prospect Park\, south of the Picnic House\, Prospect Park Long M
+ eadow\, near the Picnic House\, Brooklyn\, NY\, Brooklyn
+DESCRIPTION:A neighborhood gathering for dog owners with coffee and pastr
+ ies for people\, biscuits for dogs and conversation about off-leash park 
+ life. https://www.prospectpark.org/event/fido-coffee-bark-3/2026-11-07/
 URL:https://www.prospectpark.org/event/fido-coffee-bark-3/2026-11-07/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_01292384b62ad0da009a@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_476d099e1e404ed5ef94@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T130000Z
 DTEND:20261107T210000Z
 SUMMARY:Grand Army Plaza Greenmarket
-LOCATION:Grand Army Plaza Greenmarket\, Grand Army Plaza at Prospect Park
- 's northwest entrance\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:A large Saturday farmers market for seasonal regional produce
-  and other farm goods beside Prospect Park. https://www.prospectpark.org/
- event/greenmarket-at-grand-army-plaza-2/2026-11-07/
+LOCATION:Grand Army Plaza\, Grand Army Plaza\, Brooklyn\, NY 11238\, Broo
+ klyn
+DESCRIPTION:Brooklyn's flagship greenmarket brings regional food producer
+ s to the north entrance of Prospect Park. https://www.prospectpark.org/ev
+ ent/greenmarket-at-grand-army-plaza-2/2026-11-07/
 URL:https://www.prospectpark.org/event/greenmarket-at-grand-army-plaza-2/
  2026-11-07/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_5f24b9f5d26bbf688ac3@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_9cd3d8dba3ed01ee6d8e@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T150000Z
 DTEND:20261107T220000Z
 SUMMARY:Brooklyn Flea in DUMBO
-LOCATION:Brooklyn Flea\, 80 Pearl Street\, Brooklyn\, NY 11201\, Brooklyn
-DESCRIPTION:Shop vintage clothing\, furniture\, collectibles and handmade
-  goods beneath the Manhattan Bridge. https://www.brooklynflea.com/
+LOCATION:DUMBO Archway\, 80 Pearl Street\, Brooklyn\, NY 11201\, Brooklyn
+DESCRIPTION:Browse vintage clothing\, antiques\, handmade goods and colle
+ ctibles beneath the Manhattan Bridge. https://www.brooklynflea.com/
 URL:https://www.brooklynflea.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_8217f4909b842c058f40@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_50b7878b706f26819353@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261107T150000Z
+DTEND:20261107T160000Z
+SUMMARY:Colonial Culinary: Colonial Vegetable Pottage
+LOCATION:Queens County Farm Museum\, 73-50 Little Neck Parkway\, Floral P
+ ark\, NY 11004\, Queens
+DESCRIPTION:A hands-on colonial cooking class exploring how seasonal gard
+ en vegetables became a sustaining one-pot pottage\, with historical conte
+ xt for the ingredients and techniques. https://www.queensfarm.org/event/c
+ olonial-culinary-colonial-vegetable-pottage/
+URL:https://www.queensfarm.org/event/colonial-culinary-colonial-vegetable
+ -pottage/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_ca484381500f32e43fee@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T150000Z
 DTEND:20261107T170000Z
 SUMMARY:Introduction to Birdwatching
-LOCATION:Prospect Park Audubon Center at the Boathouse\, 101 East Drive\,
-  Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Learn birding basics on a relaxed Brooklyn Bird Club outing t
- hrough Prospect Park. All experience levels are welcome. https://www.pros
- pectpark.org/event/introduction-to-birdwatching-outings-3-2/2026-11-07/
+LOCATION:Prospect Park Audubon Center\, Prospect Park Boathouse\, near Li
+ ncoln Road and Ocean Avenue entrance\, Brooklyn\, NY\, Brooklyn
+DESCRIPTION:Join a Brooklyn Bird Club leader for a relaxed beginner-frien
+ dly outing looking for seasonal birds across Prospect Park. https://www.p
+ rospectpark.org/event/introduction-to-birdwatching-outings-3-2/2026-11-07
+ /
 URL:https://www.prospectpark.org/event/introduction-to-birdwatching-outin
  gs-3-2/2026-11-07/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_997e49abadb8a90b5004@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261107T150000Z
-DTEND:20261107T160000Z
-SUMMARY:Mindful Movement with UrbanYoga Foundation
-LOCATION:Queens Botanical Garden\, 43-50 Main Street\, Flushing\, NY 1135
- 5\, Queens
-DESCRIPTION:A guided movement and breath practice drawing on Kemetic and 
- Hatha yoga and Tao healing arts\, presented by UrbanYoga Foundation. http
- s://queensbotanical.org/event/wellness-at-the-garden-mindful-movement-wit
- h-urbanyoga-foundation-2/
-URL:https://www.eventbrite.com/e/wellness-at-the-garden-mindful-movement-
- with-urbanyoga-foundation-tickets-2003237261575
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_f57af328d12c4a7efdba@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_a33b4b1e1d3ebf99137b@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T160000Z
 SUMMARY:Canstruction Educational Tour
+LOCATION:Brookfield Place Winter Garden\, 230 Vesey Street\, New York\, N
+ Y 10281\, Manhattan
+DESCRIPTION:Take the week's final scheduled educational tour of the engin
+ eering competition built from unopened food cans. https://www.bfplny.com/
+ events/canstruction/
+URL:https://www.eventbrite.com/e/tours-of-canstruction-2026-tickets-20034
+ 33011067
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_3eeb89a0b3ae7f995564@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261107T160000Z
+SUMMARY:Canstruction: Saturday guided tour
 LOCATION:Brookfield Place\, 230 Vesey Street\, New York\, NY 10281\, Manh
  attan
-DESCRIPTION:Learn how teams of architects\, engineers and contractors tur
- n unopened cans into large-scale competition structures before the food i
- s donated. https://www.bfplny.com/events/canstruction/
+DESCRIPTION:A guided look at the annual architecture-and-engineering comp
+ etition's sculptures built from canned food. https://www.bfplny.com/event
+ s/canstruction/
 URL:https://www.eventbrite.com/e/tours-of-canstruction-2026-tickets-20034
  33011067
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_2edd5d8480e47d5d3708@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T160000Z
 DTEND:20261107T230000Z
 SUMMARY:Smorgasburg Williamsburg
 LOCATION:Marsha P. Johnson State Park\, 90 Kent Avenue\, Brooklyn\, NY 11
  249\, Brooklyn
-DESCRIPTION:The Williamsburg edition of the open-air food market brings a
-  broad range of independent vendors to the East River waterfront. https:/
- /smorgasburg.com/new-york
+DESCRIPTION:Sample food from independent vendors at Smorgasburg's William
+ sburg waterfront market. https://smorgasburg.com/new-york
 URL:https://smorgasburg.com/new-york
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_40280d38a27515e36b01@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261107T170000Z
+DTEND:20261108T040000Z
+SUMMARY:Brooklyn Folk Festival — Saturday
+LOCATION:St. Ann & the Holy Trinity Church\, 157 Montague Street\, Brooklyn
+DESCRIPTION:Saturday includes Allison de Groot and Tatiana Hargreaves\, t
+ he Down Hill Strugglers\, a Steve James tribute\, Bruce Molsky/Tony Trisc
+ hka/Michael Daves\, Agalisiga Mackey and Louis Cato. https://www.brooklyn
+ folkfest.com/schedule
+URL:https://www.viewcy.com/event/the_2026_brooklyn_fol
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e8d402ba04ec1eff6ffc@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261107T170000Z
+DTEND:20261107T210000Z
+SUMMARY:Kiku Highlight Weekend
+LOCATION:New York Botanical Garden\, Nolen Greenhouses\, 2900 Southern Bo
+ ulevard\, Bronx\, NY 10458\, Bronx
+DESCRIPTION:Explore expertly trained Japanese chrysanthemums\, join a beh
+ ind-the-scenes horticultural tour or try beginner sumi-e chrysanthemum pa
+ inting with materials supplied. https://www.nybg.org/event/kiku/
+URL:https://www.nybg.org/visit/admission/
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_717f75f205325e6d5345@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T170000Z
 DTEND:20261107T190000Z
 SUMMARY:Medieval Embroidered Bug Patches
 LOCATION:Brooklyn Brainery\, 190 Underhill Avenue\, Brooklyn\, NY 11238\,
   Brooklyn
-DESCRIPTION:Make embroidered patches inspired by the strange creatures of
-  illuminated manuscripts with instructor Rhiannon Platt. https://brooklyn
- brainery.com/courses/medieval-embroidered-bug-patches
+DESCRIPTION:Make an embroidered insect patch inspired by bugs in medieval
+  illuminated manuscripts\, with instructor Rhiannon Platt. https://brookl
+ ynbrainery.com/courses/medieval-embroidered-bug-patches
 URL:https://brooklynbrainery.com/courses/medieval-embroidered-bug-patches
  /sessions/10907/signup
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_40b4287f67d5010c75d0@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T171500Z
-SUMMARY:My Brother's Wedding — 4K Restoration
+SUMMARY:My Brother's Wedding: 4K restoration
 LOCATION:Nitehawk Cinema Prospect Park\, 188 Prospect Park West\, Brookly
  n\, NY 11215\, Brooklyn
-DESCRIPTION:Charles Burnett's 1983 film screens in a 4K restoration. http
- s://nitehawkcinema.com/prospectpark/movies/my-brothers-wedding/
+DESCRIPTION:Charles Burnett's 1983 tragicomedy follows Pierce Mundy throu
+ gh family obligations\, friendships and stalled ambitions in South Centra
+ l Los Angeles. https://nitehawkcinema.com/prospectpark/movies/my-brothers
+ -wedding/
 URL:https://nitehawkcinema.com/prospectpark/purchase/24743504/
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_9cbfe656b0adeb5dcab9@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T190000Z
 SUMMARY:A Fashion Alternative
-LOCATION:MoMA PS1\, 22-25 Jackson Avenue\, Long Island City\, NY 11101\, 
- Queens
-DESCRIPTION:Marco Pecorari\, Matthew Linde and Kari Rittenbach discuss fa
- shion within PS1's open-house programming. https://www.momaps1.org/en/eve
- nts/880-a-fashion-alternative
+LOCATION:MoMA PS1\, 22-25 Jackson Avenue\, Queens\, NY 11101\, Queens
+DESCRIPTION:Marco Pecorari discusses fashion exhibitions and PS1's 1980s 
+ experimentation\, followed by conversation with Matthew Linde and curator
+  Kari Rittenbach. https://www.momaps1.org/en/events/880-a-fashion-alterna
+ tive
 URL:https://www.eventbrite.com/e/talk-a-fashion-alternative-tickets-20035
  80910438
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_9f444baf2cfe38649905@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261107T193000Z
-SUMMARY:Dragon Dance: Pokémon Champions Tournament
-LOCATION:Wonderville\, 1186 Broadway\, Brooklyn\, NY 11221\, Brooklyn
-DESCRIPTION:A free\, low-stakes Pokémon Champions tournament welcoming c
- ompetitive newcomers and experienced players\, with help available for as
- sembling a team. https://www.wonderville.nyc/events/dragon-dance-11-7-26
-URL:https://pools.events/event/rMoo10T1/dragon-dance
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_91d8629ff38c70fc0f09@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261107T193000Z
-DTEND:20261107T223000Z
-SUMMARY:Tapestry Weaving for Beginners
-LOCATION:Brooklyn Brainery\, 190 Underhill Avenue\, Brooklyn\, NY 11238\,
-  Brooklyn
-DESCRIPTION:An introductory tapestry-weaving class with the loom and yarn
-  supplied. https://brooklynbrainery.com/courses/tapestry-weaving-for-begi
- nners-ca14b9f2-7a96-4207-8279-b6a9f29f7ffb
-URL:https://brooklynbrainery.com/courses/tapestry-weaving-for-beginners-c
- a14b9f2-7a96-4207-8279-b6a9f29f7ffb/sessions/10908/signup
+UID:evt_8a5622b4fe987ad009de@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261107T190000Z
+DTEND:20261107T203000Z
+SUMMARY:Battle of Brooklyn Walking Tour
+LOCATION:Lefferts Historic House\, Prospect Park\, 452 Flatbush Avenue\, 
+ Brooklyn\, NY 11225\, Brooklyn
+DESCRIPTION:Walk from Lefferts Historic House to Battle Pass\, examining 
+ the Revolutionary War battle and its consequences for soldiers\, Flatbush
+  residents and Africans enslaved by the Lefferts family. https://www.pros
+ pectpark.org/event/battle-of-brooklyn-walking-tour/
+URL:https://www.bklynlibrary.org/calendar/battle-brooklyn-walking-flatbus
+ h-library-20261107-0200pm
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_e0bac68830e08f8da881@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T200000Z
 SUMMARY:"We Should Date" Live Presented by the New York Comedy Festival
 LOCATION:New York Comedy Club on 4th Street\, 85 East 4th Street\, New Yo
@@ -2428,49 +2144,49 @@ URL:https://newyorkcomedyclub.com/events/we-should-date-live-presented-by
  -the-new-york-comedy-festival
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_11a6c1964a247d82fda3@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_840d56956e3d6f1eb56c@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T200000Z
 DTEND:20261107T220000Z
-SUMMARY:Green-Wood: Secrets in Stone
-LOCATION:Green-Wood\, 500 25th Street\, Brooklyn\, NY 11232\, Brooklyn
+SUMMARY:Secrets in Stone
+LOCATION:Green-Wood Cemetery\, 500 25th Street\, Brooklyn\, NY 11232\, Br
+ ooklyn
 DESCRIPTION:Decode Victorian funerary symbols\, carved flowers\, angels a
- nd emblems on a guided walk through Green-Wood. https://www.green-wood.co
- m/event/secrets-in-stone-13/2026-11-07/
+ nd emblems on a walking tour of Green-Wood's monuments. https://www.green
+ -wood.com/event/secrets-in-stone-13/2026-11-07/
 URL:https://www.green-wood.com/event/secrets-in-stone-13/2026-11-07/
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_4502b1e6ea631ac66dd0@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T203000Z
 DTEND:20261107T220000Z
 SUMMARY:Revisiting PS1's Afro-American Abstraction (1980)
-LOCATION:MoMA PS1\, 22-25 Jackson Avenue\, Long Island City\, NY 11101\, 
- Queens
-DESCRIPTION:Connie Butler speaks with Howardena Pindell and James Little 
- about PS1's 1980 Afro-American Abstraction exhibition and its continuing 
- significance. https://www.momaps1.org/en/events/881-revisiting-ps1-s-afro
- -american-abstraction-1980
+LOCATION:MoMA PS1\, 22-25 Jackson Avenue\, Queens\, NY 11101\, Queens
+DESCRIPTION:Connie Butler moderates a discussion with Howardena Pindell a
+ nd James Little about their practices and PS1's landmark 1980 exhibition.
+  https://www.momaps1.org/en/events/881-revisiting-ps1-s-afro-american-abs
+ traction-1980
 URL:https://www.eventbrite.com/e/revisiting-ps1s-afro-american-abstractio
  n-1980-tickets-2003581146143
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_1f0c43133456166d0ec2@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_02e667f21c247286884e@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T203000Z
 DTEND:20261107T230000Z
-SUMMARY:Revolutionary Spirits: Green-Wood and Fort Hamilton Distillery
-LOCATION:Green-Wood\, continuing to Fort Hamilton Distillery\, Meet at 50
- 0 25th Street\, Brooklyn\, NY 11232\, Brooklyn
-DESCRIPTION:A cemetery trolley tour about Revolutionary-era figures and d
- istillers\, followed by a distillery visit with four whiskey tastings and
-  barrel-aged maple syrup. https://www.green-wood.com/event/revolutionary-
- spirits-7/2026-11-07/
+SUMMARY:Revolutionary Spirits
+LOCATION:Green-Wood Cemetery and Fort Hamilton Distillery\, Meet at 500 2
+ 5th Street\, Brooklyn\, NY 11232\, Brooklyn
+DESCRIPTION:Combine a cemetery trolley tour about Revolutionary War figur
+ es and distillers with four whiskey tastings\, barrel-aged maple syrup an
+ d a look at spirits production. https://www.green-wood.com/event/revoluti
+ onary-spirits-7/2026-11-07/
 URL:https://www.green-wood.com/event/revolutionary-spirits-7/2026-11-07/
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_d5d90579a6af0e627753@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T210000Z
 SUMMARY:Matinee with Ry Daddy
 LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
@@ -2483,33 +2199,34 @@ URL:https://newyorkcomedyclub.com/events/matinee-with-ry-daddy-2026-11-07
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_23ae65cd1e3df7a7126e@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T220000Z
 DTEND:20261107T233000Z
-SUMMARY:Charlie Flynn Live at Union Hall
+SUMMARY:Charlie Flynn: Live at Union Hall
 LOCATION:Union Hall\, 702 Union Street\, Brooklyn\, NY 11215\, Brooklyn
-DESCRIPTION:Charlie Flynn combines stand-up and oral-history-style storyt
- elling in a New York Comedy Festival performance. https://unionhallny.com
- /calendar
+DESCRIPTION:Charlie Flynn headlines with an hour combining pseudo-academi
+ c stand-up and oral history. https://www.eventbrite.com/e/charlie-flynn-l
+ ive-at-union-hall-tickets-1997940209951
 URL:https://www.eventbrite.com/e/charlie-flynn-live-at-union-hall-tickets
  -1997940209951
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_23a31dc948c83beb66ad@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_0adcbaaf1b19d448ae97@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T220000Z
 DTEND:20261108T000000Z
 SUMMARY:Green-Wood After Hours
-LOCATION:Green-Wood\, 500 25th Street\, Brooklyn\, NY 11232\, Brooklyn
-DESCRIPTION:An after-dark guided walk through cemetery history and legend
- s\, including access to the normally locked Catacombs. https://www.green-
- wood.com/event/green-wood-after-hours-58/2026-11-07/1/
+LOCATION:Green-Wood Cemetery\, 500 25th Street\, Brooklyn\, NY 11232\, Br
+ ooklyn
+DESCRIPTION:Walk through Green-Wood after dark and enter the Catacombs\, 
+ a space normally locked to the public. https://www.green-wood.com/event/g
+ reen-wood-after-hours-58/2026-11-07/1/
 URL:https://www.green-wood.com/event/green-wood-after-hours-58/2026-11-07
  /1/
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_15806426d92f41a3dcb7@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T220000Z
 SUMMARY:New York Comedy Club Presents
 LOCATION:New York Comedy Club\, 241 East 24th Street\, New York\, NY 1001
@@ -2521,7 +2238,7 @@ URL:https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-25
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_f85c436b5642eee01dfe@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T231500Z
 SUMMARY:Tony Dabas Presented by the New York Comedy Festival
 LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
@@ -2535,7 +2252,7 @@ URL:https://newyorkcomedyclub.com/events/tony-dabas-presented-by-the-new-
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_c310d6de809b76c3dfc8@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261107T233000Z
 SUMMARY:Saosin
 LOCATION:Webster Hall\, 125 E.11th Street\, New York\, NY 10003\, Manhattan
@@ -2544,21 +2261,8 @@ DESCRIPTION:Live concert: Saosin. Webster Hall · Silent Planet\, Like Mo
 URL:https://www.axs.com/events/1431904/saosin-tickets
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_a969a60387d118312e93@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261108T000000Z
-SUMMARY:Bucket TV: Scary November
-LOCATION:Brooklyn Comedy Collective at Eris\, 167 Graham Avenue\, Brookly
- n\, NY 11206\, Brooklyn
-DESCRIPTION:Cameron Burger\, Frank Garland and Nate Krieger improvise a s
- cary movie in Eris Deep Space. https://www.brooklyncc.com/show-schedule/b
- ucket-tv-11-7
-URL:https://www.eventbrite.com/e/bucket-tv-scary-november-tickets-2004171
- 548051
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_c43e1550f65d10a65265@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261108T000000Z
 SUMMARY:Disney Worlds Collide Concert Tour
 LOCATION:Barclays Center\, 620 Atlantic Avenue\, Brooklyn\, NY 11217\, Br
@@ -2570,21 +2274,20 @@ URL:https://www.ticketmaster.com/event/30006468C3F95F45
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_f93c6937644a68b518cd@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261108T000000Z
 SUMMARY:M³ Festival 2026
-LOCATION:Roulette\, 509 Atlantic Avenue\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Mutual Mentorship for Musicians presents a one-day marathon o
- f 11 sets and 33 musicians. Announced participants include Terri Lyne Car
- rington\, William Parker\, Patricia Nicholson\, Theo Bleckmann\, Martha R
- edbone\, Marta Sánchez\, Alexandria DeWalt and Mama Dee. https://roulett
- e.org/event/m3-festival-2026/
+LOCATION:Roulette\, 509 Atlantic Avenue\, Brooklyn
+DESCRIPTION:Mutual Mentorship for Musicians presents 11 sets and 33 music
+ ians\, including Terri Lyne Carrington\, William Parker and Patricia Nich
+ olson\, Theo Bleckmann\, Martha Redbone and Marta Sánchez. https://roule
+ tte.org/event/m3-festival-2026/
 URL:https://secure.qgiv.com/for/mutualmentorshipofmusicians/event/m3fest2
  026/
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_99f049578fc850a311ee@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261108T003000Z
 SUMMARY:Boston Manor
 LOCATION:Music Hall of Williamsburg\, 66 North 6th Street\, Brooklyn\, NY
@@ -2595,47 +2298,71 @@ URL:https://www.axs.com/events/1463164/boston-manor-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_1e63852d1a19e27a972c@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261108T003000Z
+DTEND:20261108T020000Z
 SUMMARY:Can You Take Our Picture? Now a Silly One
 LOCATION:Brooklyn Comedy Collective at Eris\, 167 Graham Avenue\, Brookly
  n\, NY 11206\, Brooklyn
-DESCRIPTION:A sketch revue from the troupe's 2026 residency\, presented o
- n the Eris Mainstage during the New York Comedy Festival. https://www.bro
- oklyncc.com/show-schedule/can-you-take-our-picture-nycf-11-7
+DESCRIPTION:BCC's 2026 residency ensemble returns with sketch comedy\, fe
+ aturing Nikki Denton\, Richie Raymond\, Noa Rosenberg\, Kendra Singh and 
+ fellow cast members. https://www.brooklyncc.com/show-schedule/can-you-tak
+ e-our-picture-nycf-11-7
 URL:https://www.eventbrite.com/e/can-you-take-our-picture-now-a-silly-one
  -tickets-1997856857642
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_1478d8ebafd03334238c@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_b44ba5ae73e37711275e@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261108T003000Z
-DTEND:20261108T013500Z
-SUMMARY:Cynthia Oliver: Turn. Turning. TURNT.
-LOCATION:BAM Fisher\, Fishman Space\, 321 Ashland Place\, Brooklyn\, NY\,
-  Brooklyn
-DESCRIPTION:Six dancers perform Cynthia Oliver's Tether\, Fallow and Summ
- on.Sow.Reap. in the final listed night of this Next Wave program. https:/
- /www.bam.org/dance/2026/turn-turning-turnt
-URL:https://commerce.bam.org/booking/production/55626
+SUMMARY:Joanna Kotze: this is the beginning\, this is the end — Saturday
+LOCATION:New York Live Arts Theater\, 219 West 19th Street\, Manhattan
+DESCRIPTION:The second night of Joanna Kotze's world-premiere work for si
+ x dancers and two live musicians. https://newyorklivearts.org/event/this-
+ is-the-beginning-this-is-the-end/
+URL:https://newyorklivearts.my.salesforce-sites.com/ticket/#/events/a0SVt
+ 00000Y2HvdMAF
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_7908627243ecb99e86c6@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_3ecc4f6ea130bb2f1029@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261108T003000Z
-SUMMARY:Morley: Meditations on The Gift of Awe—Record Premiere Celebrat
- ion
-LOCATION:National Sawdust\, 80 North 6th Street\, Brooklyn\, NY\, Brooklyn
-DESCRIPTION:Morley celebrates Meditations on The Gift of Awe with a vocal
-  trio and chamber ensemble\, featuring Chris Bruce\, Daniel Mintseris\, J
- ack DeBoe\, Chris St. Hilaire\, Levon Henry\, Arun Ramamurthy\, Trina Bas
- u\, Kenita Miller and Justin Hicks. https://www.nationalsawdust.org/event
- /morley-meditations-on-the-gift-of-awe-record-release-celebration
+SUMMARY:Morley: Meditations on The Gift of Awe — Record Premiere
+LOCATION:National Sawdust\, 80 North 6th Street\, Brooklyn
+DESCRIPTION:Morley premieres a genre-crossing song cycle with vocal trio 
+ and chamber ensemble\, joined by Chris Bruce\, Arun Ramamurthy\, Trina Ba
+ su\, Kenita Miller\, Justin Hicks and others. https://www.nationalsawdust
+ .org/event/morley-meditations-on-the-gift-of-awe-record-release-celebrati
+ on
 URL:https://ci.ovationtix.com/36490/production/1280597
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_591a065dc6c57cf92533@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T003000Z
+SUMMARY:White Snail
+LOCATION:Anthology Film Archives\, 32 Second Avenue\, New York\, NY 10003
+ \, Manhattan
+DESCRIPTION:Elsa Kremser and Levin Peter's 2025 feature screens on DCP. h
+ ttps://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&m
+ onth=11&year=2026#showing-62186
+URL:https://ticketing.us.veezi.com/sessions/?siteToken=bsrxtagjxmgh2qy0b6
+ p646xdcr
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_7b7d4c657b2f06b32f3c@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T003000Z
+SUMMARY:the olllam with faiith
+LOCATION:Le Poisson Rouge\, 158 Bleecker Street\, Manhattan
+DESCRIPTION:the olllam connects Irish traditional instrumentation with po
+ st-rock\, groove and progressive jazz\, with faiith opening. https://lpr.
+ com/lpr_events/olllam26nyc/
+URL:https://kyd.to/CTEl5gO3
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_f85d8f26f2d440daef3a@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261108T010000Z
 SUMMARY:BOYNEXTDOOR
 LOCATION:Infosys Theater at Madison Square Garden\, 4 Pennsylvania Plaza\
@@ -2646,18 +2373,18 @@ URL:https://www.ticketmaster.com/event/3B0064CA94C8393A
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_3763ccd4b6a601c8da9c@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261108T010000Z
 SUMMARY:Ginuwine with Special Guest Ro James
 LOCATION:Lehman Center for the Performing Arts\, 250 Bedford Park Bouleva
- rd West\, Bronx\, NY\, Bronx
-DESCRIPTION:Ginuwine headlines an R&B concert with special guest Ro James
- . https://www.lehmancenter.org/events/ginuwine
+ rd West\, Bronx
+DESCRIPTION:Ginuwine headlines a Bronx R&B concert with special guest Ro 
+ James. https://www.lehmancenter.org/events/ginuwine
 URL:https://www.lehmancenter.org/events/ginuwine
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_dd37c832fd55a6b64c09@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261108T010000Z
 SUMMARY:Jesse Gold
 LOCATION:Racket\, 431 West 16th Street\, New York\, NY 10011\, Manhattan
@@ -2667,21 +2394,20 @@ URL:https://www.axs.com/events/1476250/jesse-gold-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_e0ffc16532a1ad13f9a5@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261108T010000Z
 SUMMARY:Queens Jazz Orchestra: The Jimmy Heath Centennial Concert
-LOCATION:Flushing Town Hall\, 137-35 Northern Boulevard\, Queens\, NY\, Q
- ueens
-DESCRIPTION:Antonio Hart directs the Queens Jazz Orchestra in a Jimmy Hea
- th centennial tribute\, including Heath compositions not previously perfo
- rmed publicly. https://www.flushingtownhall.org/show-details/queens-jazz-
- orchestra-the-jimmy-heath-centennial-concert
+LOCATION:Flushing Town Hall\, 137-35 Northern Boulevard\, Queens
+DESCRIPTION:Antonio Hart leads the Queens Jazz Orchestra in a Jimmy Heath
+  centennial celebration including previously unperformed Heath compositio
+ ns. https://www.flushingtownhall.org/show-details/queens-jazz-orchestra-t
+ he-jimmy-heath-centennial-concert
 URL:https://www.flushingtownhall.org/show-details/queens-jazz-orchestra-t
  he-jimmy-heath-centennial-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_3e7d3b1445adab6eb74b@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261108T010000Z
 SUMMARY:The Blasting Company plays Over The Garden Wall
 LOCATION:Brooklyn Steel\, 319 Frost Street\, Brooklyn\, NY 11222\, Brooklyn
@@ -2693,7 +2419,7 @@ URL:https://www.axs.com/events/1542146/the-blasting-company-plays-over-th
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_fd4bb7a1dc879f439d0e@nyc-week-planner
-DTSTAMP:20261101T172113Z
+DTSTAMP:20261102T104413Z
 DTSTART:20261108T020000Z
 SUMMARY:nimino
 LOCATION:Terminal 5\, 610 West 56th Street\, New York\, NY 10019\, Manhat
@@ -2703,153 +2429,504 @@ DESCRIPTION:Live concert: nimino. Terminal 5 https://www.axs.com/events/1
 URL:https://www.axs.com/events/1480996/nimino-tickets
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_42eac0b3533d772ae6fa@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_629d6aa511ddebd1e06c@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T040000Z
+SUMMARY:Gimme Gimme Disco
+LOCATION:Le Poisson Rouge\, 158 Bleecker Street\, Manhattan
+DESCRIPTION:An ABBA-inspired DJ dance party spanning disco and '70s/'80s 
+ favorites\, with Soni withaneye listed on the event page. https://lpr.com
+ /lpr_events/ggd12412/
+URL:https://kyd.to/qst8JQlY
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_97a23ebde27a69c429b3@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Arde Bogotá
+LOCATION:Elsewhere — The Hall\, 599 Johnson Avenue\, Brooklyn
+DESCRIPTION:Spanish rock band Arde Bogotá headlines Elsewhere's Hall. ht
+ tps://www.elsewhere.club/events/1990883722808
+URL:https://www.elsewhere.club/events/1990883722808
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_005c0bc1888d03b92db9@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Kyle Hume with sammy rash
+LOCATION:Elsewhere — Zone One\, 599 Johnson Avenue\, Brooklyn
+DESCRIPTION:Kyle Hume and sammy rash share a Sunday bill in the smaller Z
+ one One room. https://www.elsewhere.club/events/1985726645852
+URL:https://www.elsewhere.club/events/1985726645852
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e74d7d5b9610ce42e9cc@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:zi + What Is Neorealism?: Kogonada and Haley Lu Richardson introd
+ uction
+LOCATION:Metrograph\, 7 Ludlow Street\, New York\, NY 10002\, Manhattan
+DESCRIPTION:Kogonada's zi is preceded by his five-minute What Is Neoreali
+ sm?\, with an introduction by the filmmaker and actor Haley Lu Richardson
+ . https://metrograph.com/film/9999005068-zi/
+URL:https://metrograph.com/film/9999005068-zi/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_477b1256e25b9b75c082@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T113000Z
+DTEND:20261108T130000Z
+SUMMARY:Birding in Peace
+LOCATION:Green-Wood Cemetery\, 500 25th Street\, Brooklyn\, NY 11232\, Br
+ ooklyn
+DESCRIPTION:Look for overwintering birds\, waterfowl and raptors during a
+  quiet early-morning birding walk. https://www.green-wood.com/event/birdi
+ ng-in-peace-32/2026-11-08/
+URL:https://www.green-wood.com/event/birding-in-peace-32/2026-11-08/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_d543e9d2e0b69584e9e8@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T140000Z
+DTEND:20261108T153000Z
+SUMMARY:Math in Bloom: Fibonacci Stepping Stone Creation
+LOCATION:Queens Botanical Garden\, 43-50 Main Street\, Flushing\, NY 1135
+ 5\, Queens
+DESCRIPTION:Create an individual stepping stone from natural garden mater
+ ials for a community pathway around the garden's Fibonacci spiral. https:
+ //queensbotanical.org/event/math-in-bloom-community-art-fibonacci-steppin
+ g-stone-creation/2026-11-08/
+URL:https://www.eventbrite.com/e/community-art-fibonacci-stepping-stone-c
+ reation-registration-2003237364884
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_bda0117ee59a0dbdd2b6@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T140000Z
+DTEND:20261108T190000Z
+SUMMARY:Sunday Greenmarket at Bartel-Pritchard Square
+LOCATION:Bartel-Pritchard Square\, Prospect Park West and 15th Street\, B
+ rooklyn\, NY\, Brooklyn
+DESCRIPTION:Shop for regional produce\, baked goods\, flowers and other l
+ ocal food at Prospect Park's southwest entrance. https://www.prospectpark
+ .org/event/sunday-greenmarket-at-bartel-pritchard-square-4/2026-11-08/
+URL:https://www.prospectpark.org/event/sunday-greenmarket-at-bartel-pritc
+ hard-square-4/2026-11-08/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_390e4ab5dbf9541035f7@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T143000Z
+DTEND:20261108T160000Z
+SUMMARY:Fall Birding at Wave Hill
+LOCATION:Wave Hill\, 4900 Independence Avenue\, Bronx\, NY 10471\, Bronx
+DESCRIPTION:Explore Wave Hill's gardens\, woodland and skies with natural
+ ist Gabriel Willow during fall migration. https://www.wavehill.org/calend
+ ar/fall-birding-11-26
+URL:https://176.blackbaudhosting.com/176/Birding-08Nov2026
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_fd940ab48a6968953575@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T150000Z
+DTEND:20261108T220000Z
+SUMMARY:Brooklyn Flea in DUMBO
+LOCATION:DUMBO Archway\, 80 Pearl Street\, Brooklyn\, NY 11201\, Brooklyn
+DESCRIPTION:Explore vintage finds\, handmade goods and collectibles at th
+ e market beneath the Manhattan Bridge. https://www.brooklynflea.com/
+URL:https://www.brooklynflea.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_28177a21f270611af6a5@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T150000Z
+DTEND:20261108T160000Z
+SUMMARY:Fall Bird Tour with NYC Bird Alliance
+LOCATION:Queens Botanical Garden\, 43-50 Main Street\, Flushing\, NY 1135
+ 5\, Queens
+DESCRIPTION:Learn to identify birds and discover how water\, native plant
+ s\, shelter and insects make the garden useful habitat. https://queensbot
+ anical.org/event/fall-bird-tour-with-nyc-bird-alliance/
+URL:https://www.eventbrite.com/e/bird-tour-with-nyc-bird-alliance-tickets
+ -2003240127146
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_b9fd7933d74aa0bd48b9@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T160000Z
+DTEND:20261108T170000Z
+SUMMARY:Fantastic Fungi Mushroom ID Hike
+LOCATION:Prospect Park Audubon Center\, Prospect Park Boathouse\, near Li
+ ncoln Road and Ocean Avenue entrance\, Brooklyn\, NY\, Brooklyn
+DESCRIPTION:Join Urban Park Rangers for a forest hike identifying fungi a
+ nd learning how mushrooms support ecosystems through decomposition. https
+ ://www.prospectpark.org/event/urban-park-rangers-fantastic-fungi-mushroom
+ -id-hike/
+URL:https://www.prospectpark.org/event/urban-park-rangers-fantastic-fungi
+ -mushroom-id-hike/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_cf47ee92edfab7829332@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T160000Z
+SUMMARY:Grave Beginnings: Green-Wood by Trolley
+LOCATION:Green-Wood Cemetery\, 500 25th Street\, Brooklyn\, NY 11232\, Br
+ ooklyn
+DESCRIPTION:A free introductory trolley tour connecting Green-Wood's land
+ scape with notable figures in science\, industry and civic life\, includi
+ ng John Draper and William Colgate. https://www.green-wood.com/event/grav
+ e-beginnings-green-wood-by-trolley-6/
+URL:https://www.green-wood.com/event/grave-beginnings-green-wood-by-troll
+ ey-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_81d6007c7f031a556429@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T160000Z
+DTEND:20261108T230000Z
+SUMMARY:Whitney Museum free second Sunday
+LOCATION:Whitney Museum of American Art\, 99 Gansevoort St\, New York\, N
+ Y 10014\, Manhattan
+DESCRIPTION:The Whitney offers free admission to everyone on the second S
+ unday of every month. https://whitney.org/visit
+URL:https://whitney.org/visit
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_1c0c471996db4fd9d9ce@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T170000Z
+DTEND:20261108T210000Z
+SUMMARY:Kiku Highlight Weekend
+LOCATION:New York Botanical Garden\, Nolen Greenhouses\, 2900 Southern Bo
+ ulevard\, Bronx\, NY 10458\, Bronx
+DESCRIPTION:Explore the garden's trained chrysanthemums with special hort
+ icultural tours and beginner Japanese ink-painting sessions. https://www.
+ nybg.org/event/kiku/
+URL:https://www.nybg.org/visit/admission/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_896bf208025558fbf604@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T170000Z
+SUMMARY:Sundays on Fire: Secret Hong Kong 35mm Feature
+LOCATION:Nitehawk Cinema Prospect Park\, 188 Prospect Park West\, Brookly
+ n\, NY 11215\, Brooklyn
+DESCRIPTION:A deliberately secret Hong Kong action feature screens on 35m
+ m in Nitehawk's Sundays on Fire series. https://nitehawkcinema.com/prospe
+ ctpark/movies/sunday-on-fire-november-2026/
+URL:https://nitehawkcinema.com/prospectpark/purchase/24455805/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_6e61f2cc7ffc08d128b6@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T190000Z
+DTEND:20261109T030000Z
+SUMMARY:Brooklyn Folk Festival — Sunday
+LOCATION:St. Ann & the Holy Trinity Church\, 157 Montague Street\, Brooklyn
+DESCRIPTION:Closing-day music includes the Clover Valley Boys\, Twain\, J
+ ustin Robinson\, Sheila Kay Adams with Donna Ray Norton\, a Judee Sill tr
+ ibute\, Bonnie 'Prince' Billy and Dolunay. https://www.brooklynfolkfest.c
+ om/schedule
+URL:https://www.viewcy.com/event/the_2026_brooklyn_fol
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_35cf7c4e76454e5106b4@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T200000Z
+DTEND:20261108T213000Z
+SUMMARY:Hot Guy Draft: A Comedy Fantasy Draft
+LOCATION:littlefield\, 635 Sackett Street\, Brooklyn\, NY 11217\, Brooklyn
+DESCRIPTION:Kenice Mobley\, Jay Jurden and James Hamilton host an interac
+ tive fantasy draft of celebrities and fictional characters\, with trivia 
+ and audience participation. https://littlefieldnyc.com/event/?wfea_eb_id=
+ 1998384216988
+URL:https://littlefieldnyc.com/event/?wfea_eb_id=1998384216988
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_146358950d96ec7314bd@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T203000Z
+SUMMARY:The Battle of Tuntenhaus
+LOCATION:Anthology Film Archives\, 32 Second Avenue\, New York\, NY 10003
+ \, Manhattan
+DESCRIPTION:A Sunday-afternoon screening in Anthology's German Punk serie
+ s. https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&month=11&year=2026#showing-62277
+URL:https://ticketing.us.veezi.com/sessions/?siteToken=bsrxtagjxmgh2qy0b6
+ p646xdcr
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_15af53ba609508d27d1c@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T220000Z
+SUMMARY:Matinee with Ry Daddy
+LOCATION:New York Comedy Club\, 241 East 24th Street\, New York\, NY 1001
+ 0\, Manhattan
+DESCRIPTION:Stand-up comedy: Matinee with Ry Daddy. New York Comedy Club\
+ , Gramercy. https://newyorkcomedyclub.com/events/matinee-with-ry-daddy-20
+ 26-11-08170000
+URL:https://newyorkcomedyclub.com/events/matinee-with-ry-daddy-2026-11-08
+ 170000
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_7e5e41f6702362826a9c@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T221500Z
+SUMMARY:Sharief Johnson: I Wish That Was a Joke Too (Album Recording) Pre
+ sented by the New York Comedy Festival
+LOCATION:New York Comedy Club Upper West Side\, 236 W 78th Street\, New Y
+ ork\, NY 10024\, Manhattan
+DESCRIPTION:Stand-up comedy: Sharief Johnson: I Wish That Was a Joke Too 
+ (Album Recording) Presented by the New York Comedy Festival. New York Com
+ edy Club Upper West Side\, Upper West Side. https://newyorkcomedyclub.com
+ /events/sharief-johnson-i-wish-that-was-a-joke-too-album-recording-presen
+ ted-by-the-new-york-comedy-festival
+URL:https://newyorkcomedyclub.com/events/sharief-johnson-i-wish-that-was-
+ a-joke-too-album-recording-presented-by-the-new-york-comedy-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_7b337ec5cbaf4d3808d8@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261108T223000Z
+SUMMARY:RUMBLE Presented by the New York Comedy Festival ft: Reg Thomas\,
+  Maddy Smith\, Brendan Sagalow\, Ben DeMarco\, Remy Kassimir
+LOCATION:New York Comedy Club on 4th Street\, 85 East 4th Street\, New Yo
+ rk\, NY 10003\, Manhattan
+DESCRIPTION:Stand-up comedy: RUMBLE Presented by the New York Comedy Fest
+ ival ft: Reg Thomas\, Maddy Smith\, Brendan Sagalow\, Ben DeMarco\, Remy 
+ Kassimir. New York Comedy Club on 4th Street\, East Village. https://newy
+ orkcomedyclub.com/events/rumble-presented-by-the-new-york-comedy-festival
+ -ft-reg-thomas-maddy-smith-brendan-sagalow-ben-demarco-remy-kassimir
+URL:https://newyorkcomedyclub.com/events/rumble-presented-by-the-new-york
+ -comedy-festival-ft-reg-thomas-maddy-smith-brendan-sagalow-ben-demarco-re
+ my-kassimir
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_67e01a28f12f72097d57@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261109T000000Z
+SUMMARY:KINO
+LOCATION:Terminal 5\, 610 West 56th Street\, New York\, NY 10019\, Manhat
+ tan
+DESCRIPTION:Live concert: KINO. Terminal 5 https://www.axs.com/events/140
+ 7900/kino-tickets
+URL:https://www.axs.com/events/1407900/kino-tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_1e45f58e5b56cfc99e30@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261109T000000Z
+SUMMARY:New York Comedy Club Presents
+LOCATION:New York Comedy Club\, 241 East 24th Street\, New York\, NY 1001
+ 0\, Manhattan
+DESCRIPTION:Stand-up comedy: New York Comedy Club Presents. New York Come
+ dy Club\, Gramercy. https://newyorkcomedyclub.com/events/new-york-comedy-
+ club-presents-2026-11-08190000
+URL:https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-20
+ 26-11-08190000
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_d9cc02dc997e0e4332ce@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261109T003000Z
+SUMMARY:Olivia Barton with Stone Cold Grace
+LOCATION:Le Poisson Rouge\, 158 Bleecker Street\, Manhattan
+DESCRIPTION:Olivia Barton headlines with Stone Cold Grace opening. https:
+ //lpr.com/lpr_events/ob26nyc/
+URL:https://kyd.to/UVyC0tUy
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_293b0771764231b39f79@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261109T003000Z
+DTEND:20261109T020000Z
+SUMMARY:Rainbow Riot
+LOCATION:Brooklyn Comedy Collective at Eris\, 167 Graham Avenue\, Brookly
+ n\, NY 11206\, Brooklyn
+DESCRIPTION:Terrence Lambert hosts a celebration of Blackness and queerne
+ ss in comedy\, with Jay Jurden\, Jess Henderson\, Sheria Mattis\, Devon A
+ rnold and others. https://www.brooklyncc.com/show-schedule/rainbow-riot-n
+ ycf-11-8
+URL:https://www.eventbrite.com/e/new-york-comedy-festival-rainbow-riot-ti
+ ckets-1997879202476
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_f5b312b4a0fcec53510a@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261109T003000Z
+DTEND:20261109T030000Z
+SUMMARY:Trixie Whitley
+LOCATION:Littlefield\, 635 Sackett Street\, Brooklyn
+DESCRIPTION:Trixie Whitley performs in a small Brooklyn room during the D
+ ragon of Everything EP period. https://littlefieldnyc.com/event/?wfea_eb_
+ id=1997018848133
+URL:https://kyd.to/RTQdTL0W
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_d1a6c9bbdbf7d76e9bfc@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261109T004500Z
+SUMMARY:Nina Hagen = Punk + Glory
+LOCATION:Anthology Film Archives\, 32 Second Avenue\, New York\, NY 10003
+ \, Manhattan
+DESCRIPTION:Peter Sempel's 1999 film screens in German Punk\, presented f
+ rom a 16mm-to-DCP transfer. https://www.anthologyfilmarchives.org/film_sc
+ reenings/calendar?view=list&month=11&year=2026#showing-62282
+URL:https://ticketing.us.veezi.com/sessions/?siteToken=bsrxtagjxmgh2qy0b6
+ p646xdcr
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_ded5e7f22378d1973f16@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261109T010000Z
+SUMMARY:Angelo Colina (En Español) Presented by The New York Comedy Fest
+ ival
+LOCATION:New York Comedy Club on 4th Street\, 85 East 4th Street\, New Yo
+ rk\, NY 10003\, Manhattan
+DESCRIPTION:Stand-up comedy: Angelo Colina (En Español) Presented by The
+  New York Comedy Festival. New York Comedy Club on 4th Street\, East Vill
+ age. https://newyorkcomedyclub.com/events/angelo-colina-presented-by-the-
+ new-york-comedy-festival-11-08-26-08-00-pm
+URL:https://newyorkcomedyclub.com/events/angelo-colina-presented-by-the-n
+ ew-york-comedy-festival-11-08-26-08-00-pm
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_11a7861e1fddba69b425@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261109T010000Z
+SUMMARY:The Blasting Company plays Over The Garden Wall
+LOCATION:Brooklyn Steel\, 319 Frost Street\, Brooklyn\, NY 11222\, Brooklyn
+DESCRIPTION:Live concert: The Blasting Company plays Over The Garden Wall
+ . Brooklyn Steel https://www.axs.com/events/1493870/the-blasting-company-
+ plays-over-the-garden-wall-tickets
+URL:https://www.axs.com/events/1493870/the-blasting-company-plays-over-th
+ e-garden-wall-tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_9516faac05eb32987daf@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261109T013000Z
+SUMMARY:Allan Rayman | HOTEL ALLAN - The 10 Year Anniversary Tour
+LOCATION:Racket\, 431 West 16th Street\, New York\, NY 10011\, Manhattan
+DESCRIPTION:Live concert: Allan Rayman | HOTEL ALLAN - The 10 Year Annive
+ rsary Tour. Racket https://www.axs.com/events/1482492/allan-rayman-hotel-
+ allan-the-10-year-anniversary-tour-tickets
+URL:https://www.axs.com/events/1482492/allan-rayman-hotel-allan-the-10-ye
+ ar-anniversary-tour-tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_36b339b216332ba047ac@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261109T024500Z
+SUMMARY:New Jokes & Newbies
+LOCATION:New York Comedy Club on 4th Street\, 85 East 4th Street\, New Yo
+ rk\, NY 10003\, Manhattan
+DESCRIPTION:Stand-up comedy: New Jokes & Newbies. New York Comedy Club on
+  4th Street\, East Village. https://newyorkcomedyclub.com/events/new-joke
+ s-newbies-2026-11-08214500
+URL:https://newyorkcomedyclub.com/events/new-jokes-newbies-2026-11-08214500
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_c327722ce063ded7f24f@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261112T190000Z
 DTEND:20261112T230000Z
-SUMMARY:Felix the Cat — final free Thursday
+SUMMARY:Felix the Cat — final exhibition day
 LOCATION:Museum of the Moving Image\, Tut's Fever Movie Palace\, 36-01 35
  th Avenue\, Astoria\, NY 11106\, Queens
 DESCRIPTION:Four restored Felix the Cat cartoons from 1927–28 screen in
- side Red Grooms and Lysiane Luong's working movie-theater artwork. The pr
- ogram totals 36 minutes. https://movingimage.org/event/felix-the-cat/
-URL:https://movingimage.org/event/felix-the-cat/
+ side Red Grooms and Lysiane Luong's working movie-theater installation. T
+ he program includes Comicalamities\, Felix Dines and Pines\, Felix Plays 
+ Romeow and Flim Flam Films. https://movingimage.org/event/felix-the-cat/
+URL:https://movingimage.org/visit/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_721c4fef514f9cdbb1fb@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_062d50b0df2428abcd19@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART:20261113T190000Z
-SUMMARY:Lisa Sanditz: Missing Mountain — artist walkthrough before clos
- ing
-LOCATION:Alexandre Gallery\, 25 East 73rd Street\, third floor\, New York
- \, NY 10021\, Manhattan
-DESCRIPTION:Lisa Sanditz's first New York solo exhibition in over a decad
- e presents paintings and works on paper shaped by Hudson Valley landscape
- s\, disappearing Catskill views and wildfire smoke. https://www.alexandre
- gallery.com/exhibitions/lisa-sanditz
+SUMMARY:Lisa Sanditz: Missing Mountain — closing weekend and artist wal
+ kthrough
+LOCATION:Alexandre Gallery\, 25 East 73rd Street\, 3rd floor\, New York\,
+  NY 10021\, Manhattan
+DESCRIPTION:Sanditz's first New York solo exhibition in more than a decad
+ e brings together paintings and works on paper about altered landscapes\,
+  including Catskill views obscured by Canadian wildfire smoke. https://ww
+ w.alexandregallery.com/exhibitions/lisa-sanditz
 URL:https://www.alexandregallery.com/exhibitions/lisa-sanditz
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_b8d22bc42c592e83630e@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261108T160000Z
-DTEND:20261108T230000Z
-SUMMARY:Reframing the Slasher: Teenage Sex and Death at Camp Miasma — f
- inal day
-LOCATION:Museum of the Moving Image\, Founders Hall\, 36-01 35th Avenue\,
-  Astoria\, NY 11106\, Queens
-DESCRIPTION:Approximately 35 objects pair screen-used props from Jane Sch
- oenbrun's fictional Camp Miasma franchise with horror posters selected by
-  the filmmaker\, exploring the slasher genre's representations of gender 
- and desire. https://movingimage.org/event/camp-miasma/
-URL:https://movingimage.org/event/camp-miasma/
+UID:evt_346ec02f98490f5ca8ff@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261111T231500Z
+SUMMARY:Everytime — exclusive advance run ends November 12
+LOCATION:Film at Lincoln Center\, Manhattan
+DESCRIPTION:Sandra Wollner's German-language drama follows a family and a
+  boyfriend after a teenage girl's accident. Film at Lincoln Center presen
+ ts an exclusive November 6–12 engagement before a theatrical return in 
+ February 2027. https://www.filmlinc.org/films/everytime/
+URL:https://www.filmlinc.org/films/everytime/
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_b9cc3bb92ce2a5032fd3@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261109T231500Z
-SUMMARY:Everytime — exclusive early engagement ends November 12
-LOCATION:Francesca Beale Theater\, Elinor Bunin Munroe Film Center\, 144 
- West 65th Street\, New York\, NY 10023\, Manhattan
-DESCRIPTION:Sandra Wollner's German-language drama follows a family suspe
- nded in grief after an accident. The Cannes Un Certain Regard prizewinner
-  plays an exclusive November 6–12 engagement before returning theatrica
- lly in February 2027. https://www.filmlinc.org/films/everytime/
-URL:https://purchase.filmlinc.org/84927/85079
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_b4e863af5a6cc2254ba2@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20270205T010000Z
-DTEND:20270205T015500Z
-SUMMARY:Mark Morris: Dido and Aeneas — November 5 public on-sale
-LOCATION:BAM Howard Gilman Opera House\, 30 Lafayette Avenue\, Brooklyn\,
-  NY 11217\, Brooklyn
-DESCRIPTION:Mark Morris conducts Purcell's opera with the Mark Morris Dan
- ce Group and Music Ensemble\, Trinity Choir\, and soloists Sarah Couden\,
-  Enrico Lagasca and Sherezade Panthaki. https://www.bam.org/events/stage/
- 2027/ws27/dido-and-aeneas/
-URL:https://commerce.bam.org/booking/production/58745
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_d47cc6b1e203cfc8538f@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20261122T170000Z
-DTEND:20261122T230000Z
-SUMMARY:Tuomas A. Laitinen: Siphon — closing November 22
-LOCATION:Pioneer Works\, 159 Pioneer Street\, Brooklyn\, NY 11231\, Brook
- lyn
-DESCRIPTION:A multimedia installation combines octopus sleep and camoufla
- ge footage\, blown-glass sculptures activated by Kosen Ohtsubo's ikebana\
- , and directional sound incorporating Nyokabi Kariuki's vocals. https://p
- ioneerworks.org/exhibitions/tuomas-a-laitinen-siphon
-URL:https://pioneerworks.org/exhibitions/tuomas-a-laitinen-siphon
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_b66d2991ce348c23ab03@nyc-week-planner
-DTSTAMP:20261101T172113Z
+UID:evt_5a40163a09d0b8f0d502@nyc-week-planner
+DTSTAMP:20261102T104413Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:Tristan & Yseult — St. Ann's engagement ends November 22
+SUMMARY:Tristan & Yseult — engagement ends November 22
 LOCATION:St. Ann's Warehouse\, 45 Water Street\, Brooklyn\, NY 11201\, Br
  ooklyn
-DESCRIPTION:Emma Rice's original Kneehigh production retells the lovers' 
- story with a live band\, irreverent comedy and low-fi aerial acrobatics. 
- The Brooklyn engagement runs November 1–22. https://stannswarehouse.org
- /show/tristan-yseult-2/
+DESCRIPTION:Emma Rice's production of the Cornish love story returns with
+  live music\, irreverent comedy and aerial stagecraft. St. Ann's announce
+ s the engagement for November 1–22. https://stannswarehouse.org/show/tr
+ istan-yseult-2/
 URL:https://stannswarehouse.org/calendar/month/2026-11/?tribe-bar-search=
  TRISTAN+%26+YSEULT
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_21c2a0008db160bd7c49@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20270108T003000Z
-SUMMARY:Netta Yerushalmy: MOVEMENT — November 4 public on-sale
-LOCATION:Alice Tully Hall\, 1941 Broadway\, New York\, NY 10023\, Manhattan
-DESCRIPTION:Netta Yerushalmy's evening-length work combines more than 100
-  dance citations across genres and cultures\, with a score by Paula Matth
- usen and an international ensemble. https://www.lincolncenter.org/series/
- lincoln-center-presents/netta-yerushalmy-895
-URL:https://www.lincolncenter.org/series/lincoln-center-presents/netta-ye
- rushalmy-895
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_0506da77b7a0b1ee38f4@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20270115T003000Z
-DTEND:20270115T013900Z
-SUMMARY:Urban Bush Women: THIS IS RISK — November 5 public on-sale
-LOCATION:BAM Fisher\, 321 Ashland Place\, Brooklyn\, NY 11217\, Brooklyn
-DESCRIPTION:Urban Bush Women returns to BAM for the first time since 2015
-  with Jawole Willa Jo Zollar's Shelter\, Batty Moves and I Live in Music.
-  https://www.bam.org/events/stage/2027/ws27/this-is-risk/
-URL:https://commerce.bam.org/booking/production/58759
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_5aad178fe47932620d69@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART:20270119T003000Z
-SUMMARY:Shamel Pitts / TRIBE: Marks of RED — November 4 public on-sale
-LOCATION:Alice Tully Hall\, 1941 Broadway\, New York\, NY 10023\, Manhattan
-DESCRIPTION:The New York premiere of Shamel Pitts's multidisciplinary wor
- k explores Black embodiment and human connection through six women's view
- points\, with scenic design by Mimi Lien and production by TRIBE. https:/
- /www.lincolncenter.org/series/lincoln-center-presents/shamel-pitts-or-tri
- be
-URL:https://www.lincolncenter.org/series/lincoln-center-presents/shamel-p
- itts-or-tribe
+UID:evt_573fc39281b11612870a@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:The Imaginary Invalid — Broadway closing date
+LOCATION:Todd Haimes Theatre\, 227 West 42nd Street\, New York\, NY 10036
+ \, Manhattan
+DESCRIPTION:Bill Irwin stars in his adaptation of Molière's comedy about
+  a hypochondriac scheming to marry his daughter to a doctor. Brandon J. D
+ irden directs an ensemble including Rachel Bloom and Dylan Baker. https:/
+ /www.roundabouttheatre.org/production/2026-2027-season/the-imaginary-inva
+ lid/
+URL:https://www.roundabouttheatre.org/production/2026-2027-season/the-ima
+ ginary-invalid/
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_98464a3055b146f7c23a@nyc-week-planner
-DTSTAMP:20261101T172113Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
+DTSTAMP:20261102T104413Z
+DTSTART:20261129T160000Z
+DTEND:20261129T230000Z
 SUMMARY:Tsai Ming-liang: It's a Dream — installation closes November 29
 LOCATION:Museum of the Moving Image\, Jane Henson Amphitheater\, 36-01 35
  th Avenue\, Astoria\, NY 11106\, Queens
-DESCRIPTION:Tsai Ming-liang's 22-minute installation draws on childhood m
- oviegoing in Malaysia\, with family members and Lee Kang-sheng inhabiting
-  a worn\, nearly empty cinema. https://movingimage.org/event/its-a-dream/
+DESCRIPTION:Tsai Ming-liang's expanded 2007 film evokes memories of Malay
+ sian movie theaters through red seats\, drifting light and small gestures
+ . It features members of his family and longtime collaborator Lee Kang-sh
+ eng. https://movingimage.org/event/its-a-dream/
 URL:https://movingimage.org/visit/
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_91ec70bc4b8d2ed78e55@nyc-week-planner
+DTSTAMP:20261102T104413Z
+DTSTART:20261122T170000Z
+DTEND:20261122T230000Z
+SUMMARY:Tuomas A. Laitinen: Siphon — final exhibition day
+LOCATION:Pioneer Works\, 159 Pioneer Street\, Brooklyn\, NY 11231\, Brook
+ lyn
+DESCRIPTION:An immersive installation combines octopus imagery\, blown-gl
+ ass forms arranged by ikebana artist Kosen Ohtsubo and directional sound 
+ incorporating Nyokabi Kariuki's vocals. The work draws on research into o
+ ctopus sleep and intelligence. https://pioneerworks.org/exhibitions/tuoma
+ s-a-laitinen-siphon
+URL:https://pioneerworks.org/exhibitions/tuomas-a-laitinen-siphon
 END:VEVENT
 END:VCALENDAR
