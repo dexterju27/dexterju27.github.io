@@ -1,6 +1,6 @@
 # NYC picks, 2026-11-11 to 2026-11-17
 
-Rated 0-10 against Dexter's taste profile; updated 2026-11-11T20:09:14+00:00.
+Rated 0-10 against Dexter's taste profile; updated 2026-11-11T20:21:39+00:00.
 Listings are not live availability: confirm time and tickets with the venue.
 Full guide with every listing: https://dexterju.me/nyc/
 
