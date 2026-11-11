@@ -126,7 +126,7 @@ Five short films supported by the Displacement Film Fund, hosted by Cate Blanche
 
 7:00 PM · festival · $59.74 all-in listed ticket. · Public Records · Gowanus · Brooklyn · Score 60.0  
 William Basinski presents music from Passing the Cup of Sorrows and archival material, joined by composer and interdisciplinary sound artist Chantal Michelle.
-**Timing:** DICE lists 7pm doors and a 10pm event end; individual performance times are not published. Date re-verified against the venue: moved from 2026-11-11 to 2026-11-11.
+**Timing:** DICE lists 7pm doors and a 10pm event end; individual performance times are not published.
 **Practical note:** 21+. A standalone ticket for this festival program is offered; a full festival pass is not required.
 **Why now:** A dated November 11 program within DURATIONS, November 9–15.
 [Official](https://www.durations.world/) · [Tickets / booking](https://link.dice.fm/V1e99becf1b8) · [Discovered via Gothamist](https://gothamist.com/arts-entertainment/yes-stevie-wonder-is-playing-msg-no-you-cant-afford-tickets-see-these-shows-instead)
@@ -222,8 +222,9 @@ Six rounds of team trivia cover general knowledge, music, top tens and visual id
 
 #### [Endless Forms](https://lamama.org/endless-forms/)
 
-Opening date verified for the November 11–14 run; performance time was not available in readable ticketing. · theater · La MaMa · East Village · Manhattan · Score 57.0  
+Time to confirm · theater · La MaMa · East Village · Manhattan · Score 57.0  
 Monica Lerch and Jeshua Bratman's world-premiere science-fiction puppet work follows a person altering her body to survive. Tabletop puppetry, shadows and projections combine in a 70-minute production.
+**Timing:** Opening date verified for the November 11–14 run; performance time was not available in readable ticketing.
 **Practical note:** No late seating. Confirm showtime and theater building before traveling; map pin represents the East Fourth Street campus.
 **Why now:** The four-day Puppet Festival engagement begins November 11.
 [Official](https://lamama.org/endless-forms/) · [Tickets / booking](https://ci.ovationtix.com/42/production/1284054) · [Discovered via The Skint](https://theskint.com/)
@@ -232,7 +233,7 @@ Monica Lerch and Jeshua Bratman's world-premiere science-fiction puppet work fol
 
 7:00 PM · music · Tickets advertised from $22; final total not verified. · Elsewhere — Zone One · Bushwick · Brooklyn · Score 57.0  
 A three-act indie bill featuring Internet Girl, Sipper and Godly the Ruler in Elsewhere's smaller live room.
-**Timing:** Performance time unconfirmed; 7pm is explicitly doors. Ticket listing ends at 10pm. Date re-verified against the venue: moved from 2026-11-11 to 2026-11-11.
+**Timing:** Performance time unconfirmed; 7pm is explicitly doors. Ticket listing ends at 10pm.
 **Practical note:** 16+; physical government-issued ID or foreign passport required.
 **Why now:** Confirmed November 11 three-act booking.
 [Official](https://www.elsewhere.club/events/1996815850963) · [Tickets / booking](https://www.eventbrite.com/e/internet-girl-sipper-godly-the-ruler-tickets-1996815850963)
@@ -386,7 +387,7 @@ A free reading of Miranda Ferriss Jones's feminist musical, featuring Laura Bena
 
 8:00 PM · festival · Pioneer Works — Main Hall · Red Hook · Brooklyn · Score 63.0  
 Eiko Ishibashi performs a live score alongside Ryusuke Hamaguchi's film GIFT in Pioneer Works' Main Hall. Retained as a live music performance, not a standalone screening.
-**Timing:** November 12 confirmed by Pioneer Works' calendar; performance and doors times were not exposed. Date re-verified against the venue: moved from 2026-11-12 to 2026-11-12.
+**Timing:** November 12 confirmed by Pioneer Works' calendar; performance and doors times were not exposed.
 **Practical note:** The official page links a DURATIONS pass. Standalone-ticket availability and price were not verified.
 **Why now:** A November 12 live-score presentation within the November 9–15 festival.
 [Official](https://pioneerworks.org/programs/eiko-ishibashi) · [Tickets / booking](https://dice.fm/event/l87q9r-durations-2026-festival-pass-9th-nov-public-records-new-york-tickets?lng=en-US) · [Discovered via Gothamist](https://gothamist.com/arts-entertainment/yes-stevie-wonder-is-playing-msg-no-you-cant-afford-tickets-see-these-shows-instead)
@@ -395,7 +396,7 @@ Eiko Ishibashi performs a live score alongside Ryusuke Hamaguchi's film GIFT in 
 
 7:00 PM · festival · $37.08 all-in listed ticket. · Public Records · Gowanus · Brooklyn · Score 62.1  
 An experimental showcase featuring buttechno's live audiovisual work, Klein, Matana Roberts with Lesley Mok, and Significant Other's live audiovisual set. Ballet is the showcase name, not a dance-production claim.
-**Timing:** 7pm is the published doors time; individual set times are unconfirmed. Listed event end is midnight. Date re-verified against the venue: moved from 2026-11-12 to 2026-11-12.
+**Timing:** 7pm is the published doors time; individual set times are unconfirmed. Listed event end is midnight.
 **Practical note:** 21+. Standalone admission to this festival program is offered.
 **Why now:** November 12 festival showcase includes the US debut presentation of buttechno's endless Xpire.
 [Official](https://www.durations.world/) · [Tickets / booking](https://link.dice.fm/Uf3b609e4a5b) · [Discovered via Gothamist](https://gothamist.com/arts-entertainment/yes-stevie-wonder-is-playing-msg-no-you-cant-afford-tickets-see-these-shows-instead)
@@ -546,7 +547,7 @@ Caitlin Dullea, Sophie Zucker, Caroline Yost, Kelly Cooper and Maya Sharma perfo
 
 7:00 PM · music · Advertised from $22; final total not verified. · Elsewhere — Zone One · Bushwick · Brooklyn · Score 57.0  
 The Bones of J.R. Jones and Chris Kasper share a folk-and-rock bill in Elsewhere's intimate Zone One.
-**Timing:** 7pm is doors, not a confirmed performance start; ticket listing ends at 10pm. Date re-verified against the venue: moved from 2026-11-12 to 2026-11-12.
+**Timing:** 7pm is doors, not a confirmed performance start; ticket listing ends at 10pm.
 **Practical note:** 16+; physical government-issued ID or foreign passport required.
 **Why now:** Confirmed November 12 double bill.
 [Official](https://www.elsewhere.club/events/1993711008295) · [Tickets / booking](https://www.eventbrite.com/e/the-bones-of-jr-jones-chris-kasper-tickets-1993711008295)
@@ -713,8 +714,9 @@ British stand-up comedian Jake Lambert performs his New York show at Union Hall.
 
 #### [DURATIONS: Suzanne Ciani and Courtney Bailey](https://www.durations.world/)
 
-7pm doors; individual performance times unconfirmed. DICE lists a 10pm event end. · festival · $44.29 all-in listed ticket. · Public Records · Gowanus · Brooklyn · Score 60.0  
+Doors 7:00 PM · festival · $44.29 all-in listed ticket. · Public Records · Gowanus · Brooklyn · Score 60.0  
 Electronic-music pioneer Suzanne Ciani shares a live program with Courtney Bailey, whose set draws on In Dream and new compositions.
+**Timing:** 7pm doors; individual performance times unconfirmed. DICE lists a 10pm event end.
 **Practical note:** 21+. A standalone ticket to this DURATIONS program is offered.
 **Why now:** A specific November 13 pairing within the week-long festival.
 [Official](https://www.durations.world/) · [Tickets / booking](https://link.dice.fm/N27939e25678) · [Discovered via Gothamist](https://gothamist.com/arts-entertainment/yes-stevie-wonder-is-playing-msg-no-you-cant-afford-tickets-see-these-shows-instead)
@@ -723,7 +725,7 @@ Electronic-music pioneer Suzanne Ciani shares a live program with Courtney Baile
 
 9:00 PM · nightlife · Free with RSVP. · Elsewhere — Chatroom · Bushwick · Brooklyn · Score 59.4  
 A listening-session booking with CLASSICNEWWAVE and Mtali Banda in Elsewhere's Chatroom.
-**Timing:** 9pm is the published doors time; set times are not confirmed. Date re-verified against the venue: moved from 2026-11-13 to 2026-11-13.
+**Timing:** 9pm is the published doors time; set times are not confirmed.
 **Practical note:** 21+; free with RSVP. Physical government-issued ID or foreign passport required.
 **Why now:** A named November 13 listening-session bill.
 [Official](https://www.elsewhere.club/events/2004443927746) · [Tickets / booking](https://www.eventbrite.com/e/chatroom-listening-session-classicnewwave-mtali-banda-free-w-rsvp-tickets-2004443927746)
@@ -786,8 +788,9 @@ Live concert: Electric Feels. Webster Hall
 
 #### [Omni, Saudi Oil and Boyscoutmarie](https://www.elsewhere.club/events/1999542593724)
 
-7pm doors; performance time unpublished. Official venue and ticket header agree on November 13 despite a November 12 typo in ticket-description prose. · music · Advertised from $20; final total not verified. · Elsewhere — Zone One · Bushwick · Brooklyn · Score 57.0  
+Doors 7:00 PM · music · Advertised from $20; final total not verified. · Elsewhere — Zone One · Bushwick · Brooklyn · Score 57.0  
 Post-punk group Omni headline a three-band Zone One bill with Saudi Oil and Boyscoutmarie.
+**Timing:** 7pm doors; performance time unpublished. Official venue and ticket header agree on November 13 despite a November 12 typo in ticket-description prose.
 **Practical note:** 16+; physical ID required. Recheck the ticket date because its descriptive text contains a typo.
 **Why now:** November 13 is confirmed by the event-specific venue listing and ticket header.
 [Official](https://www.elsewhere.club/events/1999542593724) · [Tickets / booking](https://www.eventbrite.com/e/omni-saudi-oil-boyscoutmarie-tickets-1999542593724)
@@ -803,8 +806,9 @@ Matt Reeves's 2008 found-footage monster movie screens on 35mm as part of IFC Ce
 
 #### [Godzilla vs. Destoroyah — movie screening and Comixcon](https://stgeorgetheatre.com/events/godzilla-vs-destoroyah-movie-screening/)
 
-The official homepage verified Friday, November 13. Screening and lobby-event times could not be verified. · film · St. George Theatre · St. George · Staten Island · Score 56.0  
+Time to confirm · film · St. George Theatre · St. George · Staten Island · Score 56.0  
 A screening of the 1995 Godzilla film, paired with a Comixcon lobby event.
+**Timing:** The official homepage verified Friday, November 13. Screening and lobby-event times could not be verified.
 **Practical note:** Confirm the actual film start before traveling. The event-detail and Ticketmaster pages returned access blocks; the previously readable official homepage supplied the date.
 **Why now:** The theater advertises this film event specifically for November 13.
 [Official](https://stgeorgetheatre.com/events/godzilla-vs-destoroyah-movie-screening/) · [Tickets / booking](https://www.ticketmaster.com/event/000064FF2632F87F) · [Source: St. George Theatre](https://stgeorgetheatre.com/)
@@ -820,8 +824,9 @@ Screening and conversation with Sean Ono Lennon and threeASFOUR's Gabi Asfour, A
 
 #### [Anastazja and Honey Bun / Royal Male and LOLO](https://goodroombk.com/)
 
-Date and room lineups confirmed; hours unavailable because the linked RA page could not be read. · nightlife · Good Room · Greenpoint · Brooklyn · Score 55.3  
+Time to confirm · nightlife · Good Room · Greenpoint · Brooklyn · Score 55.3  
 Anastazja and Honey Bun play Good Room while Royal Male of Red Laser Records and LOLO take the Bad Room.
+**Timing:** Date and room lineups confirmed; hours unavailable because the linked RA page could not be read.
 **Practical note:** Confirm hours, age policy and ticket price through the venue before planning arrival.
 **Why now:** The official calendar publishes this specific November 13 lineup.
 [Official](https://goodroombk.com/) · [Tickets / booking](https://ra.co/events/2559200)
@@ -830,7 +835,7 @@ Anastazja and Honey Bun play Good Room while Royal Male of Red Laser Records and
 
 10:30 PM · nightlife · Advertised from $22; final total not verified. · Elsewhere · Bushwick · Brooklyn · Score 55.3  
 Cut Copy appear as DJs, not a live band. Rachel joins the Hall bill; Disco Bambino and Kristine Barilli take Zone One, with Gravitational in the Loft.
-**Timing:** 10:30pm is doors/event opening; individual DJ set times are not published. Date re-verified against the venue: moved from 2026-11-13 to 2026-11-13.
+**Timing:** 10:30pm is doors/event opening; individual DJ set times are not published.
 **Practical note:** 21+; physical ID required. The event continues into Saturday morning.
 **Why now:** November 13 full-venue club booking with distinct room lineups.
 [Official](https://www.elsewhere.club/events/1998379149832) · [Tickets / booking](https://www.eventbrite.com/e/cut-copy-dj-rachel-disco-bambino-kristine-barilli-gravitational-tickets-1998379149832) · [Source: Elsewhere](https://www.elsewhere.club/events)
@@ -943,8 +948,9 @@ A bilingual English-Spanish mushroom program combines drawing with a guided fung
 
 #### [Master of the Flying Guillotine — after-midnight screening](https://nitehawkcinema.com/williamsburg/movies/master-of-the-flying-guillotine/)
 
-The venue labels this Friday's late show, but 11:55pm is seating only. The movie begins after midnight on Saturday; exact screening time was not published. · film · Nitehawk Cinema Williamsburg · Williamsburg · Brooklyn · Score 63.0  
+Fri night · doors 11:55 PM · film · Nitehawk Cinema Williamsburg · Williamsburg · Brooklyn · Score 63.0  
 A 4K restoration of the 1976 martial-arts film, presented in Mandarin with English subtitles.
+**Timing:** The venue labels this Friday's late show, but 11:55pm is seating only. The movie begins after midnight on Saturday; exact screening time was not published.
 **Practical note:** Arrive Friday night for the Saturday-after-midnight film. Runtime is 81 minutes.
 **Why now:** A dated late-night restoration screening, with seating and actual screening dates distinguished.
 [Official](https://nitehawkcinema.com/williamsburg/movies/master-of-the-flying-guillotine/) · [Tickets / booking](https://nitehawkcinema.com/williamsburg/purchase/24665137/)
@@ -1019,8 +1025,9 @@ The Slaysians, a queer Asian improv team, host a slumber-party-themed mix of imp
 
 #### [DURATIONS: DJ Sprinkles, [g], Naone, Abby Echiverri and Eden Aurelius](https://www.durations.world/)
 
-10pm doors/event opening; individual DJ set times are unpublished. Event ends at 4am. · nightlife · From $23.69 all-in. · Public Records · Gowanus · Brooklyn · Score 59.1  
+Doors 10:00 PM · nightlife · From $23.69 all-in. · Public Records · Gowanus · Brooklyn · Score 59.1  
 DJ Sprinkles and [g] explore deep house, Naone and Abby Echiverri take the Atrium, and Eden Aurelius supplies an ambient-inflected upstairs set.
+**Timing:** 10pm doors/event opening; individual DJ set times are unpublished. Event ends at 4am.
 **Practical note:** 21+. Standalone tickets are offered for this festival club night.
 **Why now:** A November 14 multi-room night programmed as part of DURATIONS.
 [Official](https://www.durations.world/) · [Tickets / booking](https://link.dice.fm/Ye298e3c1c37) · [Discovered via Gothamist](https://gothamist.com/arts-entertainment/yes-stevie-wonder-is-playing-msg-no-you-cant-afford-tickets-see-these-shows-instead)
@@ -1083,16 +1090,18 @@ Live concert: Juelz. Terminal 5 · Romance Planet, Beebo, Squired
 
 #### [Freak Slug, Mila Degray and Lucky](https://www.elsewhere.club/events/1992976963748)
 
-7pm doors; actual performance start unconfirmed. Ticket listing ends at 10:30pm. · music · Advertised from $22; final total not verified. · Elsewhere — The Hall · Bushwick · Brooklyn · Score 57.0  
+Doors 7:00 PM · music · Advertised from $22; final total not verified. · Elsewhere — The Hall · Bushwick · Brooklyn · Score 57.0  
 Freak Slug headline an indie-rock bill with Mila Degray and Lucky in Elsewhere's Hall.
+**Timing:** 7pm doors; actual performance start unconfirmed. Ticket listing ends at 10:30pm.
 **Practical note:** 16+; physical government-issued ID or foreign passport required.
 **Why now:** Confirmed November 14 three-act live booking.
 [Official](https://www.elsewhere.club/events/1992976963748) · [Tickets / booking](https://www.eventbrite.com/e/freak-slug-mila-degray-lucky-tickets-1992976963748)
 
 #### [The Undercity — opening date](https://lamama.org/the-undercity/)
 
-November 14–16 run verified; the opening-date performance time was not available in readable ticketing. · theater · La MaMa · East Village · Manhattan · Score 57.0  
+Time to confirm · theater · La MaMa · East Village · Manhattan · Score 57.0  
 Gaby FeBland and Sammy Zeisel's 50-minute puppet pageant imagines rats, ecological upheaval and empire beneath the city.
+**Timing:** November 14–16 run verified; the opening-date performance time was not available in readable ticketing.
 **Practical note:** Confirm showtime and theater building before traveling. Map pin represents the East Fourth Street campus.
 **Why now:** The three-day Puppet Festival engagement opens November 14.
 [Official](https://lamama.org/the-undercity/) · [Tickets / booking](https://ci.ovationtix.com/42/production/1284062) · [Discovered via The Skint](https://theskint.com/)
@@ -1131,8 +1140,9 @@ Dominican bachata artists Luis Vargas and Monchy share a concert celebrating the
 
 #### [240 Months of Riotvan / Mike Simonetti All Night](https://goodroombk.com/)
 
-November 14 confirmed; start, doors and end times were not exposed. · nightlife · Good Room · Greenpoint · Brooklyn · Score 55.3  
+Time to confirm · nightlife · Good Room · Greenpoint · Brooklyn · Score 55.3  
 Panthera Krause, Peter Invasion and Timo Lee celebrate 240 Months of Riotvan in Good Room; Mike Simonetti plays all night in the Bad Room.
+**Timing:** November 14 confirmed; start, doors and end times were not exposed.
 **Practical note:** Linked RA details were inaccessible; confirm hours, age policy and pricing before arrival.
 **Why now:** A specifically billed Riotvan anniversary celebration on November 14.
 [Official](https://goodroombk.com/) · [Tickets / booking](https://ra.co/events/2557802)
@@ -1148,8 +1158,9 @@ Spanish singer-songwriter and former Héroes del Silencio frontman Enrique Bunbu
 
 #### [X-Coast, 6 SENSE and PAN!C ROOM](https://www.elsewhere.club/events/1996459381754)
 
-10:30pm doors/event opening; individual set times unconfirmed. · nightlife · Advertised from $22; final total not verified. · Elsewhere · Bushwick · Brooklyn · Score 54.4  
+Doors 10:30 PM · nightlife · Advertised from $22; final total not verified. · Elsewhere · Bushwick · Brooklyn · Score 54.4  
 X-Coast and 6 SENSE play the Hall; PAN!C ROOM brings WADDLE, Y2AURA, NIJEII and DUCO to the Loft.
+**Timing:** 10:30pm doors/event opening; individual set times unconfirmed.
 **Practical note:** 21+; physical government-issued ID or foreign passport required.
 **Why now:** November 14 club booking with a published room-by-room lineup.
 [Official](https://www.elsewhere.club/events/1996459381754) · [Tickets / booking](https://www.eventbrite.com/e/x-coast-6-sense-panc-room-waddle-y2aura-nijeii-duco-tickets-1996459381754)
@@ -1198,8 +1209,9 @@ A live edition of the comedy-trivia podcast with guests Kate Micucci and Dean No
 
 #### [Gibney Company Showing at Community Day](https://gibneydance.org/event/gibney-community-day-2026/)
 
-Company showing confirmed within Community Day, 10:30am–5:45pm; the showing's individual time is unpublished. · dance · Free; RSVP required. · Gibney 280 Broadway · Civic Center · Manhattan · Score 66.0  
+Time to confirm · dance · Free; RSVP required. · Gibney 280 Broadway · Civic Center · Manhattan · Score 66.0  
 Gibney explicitly announces a company showing as part of its free Community Day. This entry is for that performance component, not a claim that the day's classes are dance performances.
+**Timing:** Company showing confirmed within Community Day, 10:30am–5:45pm; the showing's individual time is unpublished.
 **Practical note:** Free with RSVP. Confirm the showing's slot before planning a performance-only visit.
 **Why now:** An explicitly announced Gibney Company showing on November 15.
 [Official](https://gibneydance.org/event/gibney-community-day-2026/) · [Tickets / booking](https://go.mindbodyonline.com/book/app/classes/31459?date=2026-11-15&mbo_src=links-shortcuts)
@@ -1272,8 +1284,9 @@ Learn to cut and etch designs on a laser cutter, complete a project and obtain t
 
 #### [Terence Tao: Six Math Essentials](https://pioneerworks.org/programs/terence-tao-six-math-essentials)
 
-November 15 is verified; the public page did not expose a program start time. · books · Free RSVP; book purchase separate · Pioneer Works · Red Hook · Brooklyn · Score 58.7  
+Time to confirm · books · Free RSVP; book purchase separate · Pioneer Works · Red Hook · Brooklyn · Score 58.7  
 Mathematician Terence Tao discusses Six Math Essentials with Janna Levin, followed by a book signing.
+**Timing:** November 15 is verified; the public page did not expose a program start time.
 **Practical note:** Free RSVP; seating is limited and first-come. Confirm time before traveling. Optional garden astronomy is weather-dependent.
 **Why now:** A dated author conversation on November 15.
 [Official](https://pioneerworks.org/programs/terence-tao-six-math-essentials)
@@ -1312,8 +1325,9 @@ Live concert: Stella Lefty: Lefty Live. Webster Hall · Grace Enger
 
 #### [Colleen Green and Sad13](https://www.elsewhere.club/events/1999616564974)
 
-7pm doors; performance time unconfirmed. Ticket listing ends at 10pm. · music · Advertised from $17; final total not verified. · Elsewhere — Zone One · Bushwick · Brooklyn · Score 57.0  
+Doors 7:00 PM · music · Advertised from $17; final total not verified. · Elsewhere — Zone One · Bushwick · Brooklyn · Score 57.0  
 Colleen Green and Sad13 share an indie and alternative bill in Elsewhere's Zone One.
+**Timing:** 7pm doors; performance time unconfirmed. Ticket listing ends at 10pm.
 **Practical note:** 16+; physical government-issued ID or foreign passport required.
 **Why now:** Confirmed November 15 Sunday-night pairing.
 [Official](https://www.elsewhere.club/events/1999616564974) · [Tickets / booking](https://www.eventbrite.com/e/colleen-green-sad13-tickets-1999616564974)
@@ -1354,8 +1368,9 @@ Al Sweigart teaches an introductory Python class for people with no programming 
 
 #### [718 Sessions 24th Anniversary with Danny Krivit](https://goodroombk.com/)
 
-November 15 confirmed; party hours were not exposed. · nightlife · Good Room · Greenpoint · Brooklyn · Score 55.9  
+Time to confirm · nightlife · Good Room · Greenpoint · Brooklyn · Score 55.9  
 Danny Krivit headlines the twenty-fourth anniversary of 718 Sessions, with Go Kiryu and Hirame in the Bad Room.
+**Timing:** November 15 confirmed; party hours were not exposed.
 **Practical note:** Do not assume usual 718 Sessions hours; confirm this edition's schedule, age policy and price.
 **Why now:** A specifically announced twenty-fourth-anniversary edition on November 15.
 [Official](https://goodroombk.com/) · [Tickets / booking](https://ra.co/events/2565925)
@@ -1501,8 +1516,9 @@ Neue Galerie marks its 25th anniversary with a full day of free admission to its
 
 #### [The Undercity — closing date](https://lamama.org/the-undercity/)
 
-November 16 is the published final date; the performance time was not available in readable ticketing. · theater · La MaMa · East Village · Manhattan · Score 60.0  
+Time to confirm · theater · La MaMa · East Village · Manhattan · Score 60.0  
 The final date of Gaby FeBland and Sammy Zeisel's short puppet-theater engagement about rats, ecology and empire.
+**Timing:** November 16 is the published final date; the performance time was not available in readable ticketing.
 **Practical note:** Confirm showtime and theater building before traveling. Map pin represents the East Fourth Street campus.
 **Why now:** Last published date of the November 14–16 run.
 [Official](https://lamama.org/the-undercity/) · [Tickets / booking](https://ci.ovationtix.com/42/production/1284062) · [Discovered via The Skint](https://theskint.com/)
@@ -1558,8 +1574,9 @@ Open craft night at the NYC Resistor hacker collective: bring a project, use the
 
 #### [sahn](https://www.elsewhere.club/events/2002953848880)
 
-Venue labels 7pm as doors; performance start unconfirmed. Ticket listing ends at 10pm. · music · Advertised from $20; final total not verified. · Elsewhere — Zone One · Bushwick · Brooklyn · Score 57.0  
+Doors 7:00 PM · music · Advertised from $20; final total not verified. · Elsewhere — Zone One · Bushwick · Brooklyn · Score 57.0  
 A Monday-night pop and R&B performance by sahn in Elsewhere's Zone One.
+**Timing:** Venue labels 7pm as doors; performance start unconfirmed. Ticket listing ends at 10pm.
 **Practical note:** 16+; physical government-issued ID or foreign passport required.
 **Why now:** Official November 16 booking supplies a verified Brooklyn Monday option.
 [Official](https://www.elsewhere.club/events/2002953848880) · [Tickets / booking](https://www.eventbrite.com/e/sahn-tickets-2002953848880)
@@ -1720,8 +1737,9 @@ Live concert: Rio Amor & Friends LIVE!. Racket
 
 #### [Rachel Cusk: Life of M](https://pioneerworks.org/programs/rachel-cusk-life-of-m)
 
-November 17 is verified; the public page did not expose a program start time. · books · Pioneer Works · Red Hook · Brooklyn · Score 58.0  
+Time to confirm · books · Pioneer Works · Red Hook · Brooklyn · Score 58.0  
 Rachel Cusk discusses Life of M with Meghan O'Rourke in a program presented with The Yale Review. Signed-book bundles are advertised.
+**Timing:** November 17 is verified; the public page did not expose a program start time.
 **Practical note:** Confirm the program time and ticket options before traveling; regular Tuesday gallery closure does not cancel this separately listed event.
 **Why now:** The organizer describes this November 17 conversation as Cusk's only US event.
 [Official](https://pioneerworks.org/programs/rachel-cusk-life-of-m)
@@ -2389,8 +2407,9 @@ Clare Barron's world-premiere play, directed by Anne Kauffman, explores a thirty
 
 #### [LCD Soundsystem — last announced night of the 2026 NYC residency](https://youarehere.bowerypresents.com/)
 
-2026-12-13 · Date verified; performance and doors times were not accessible. · music · Knockdown Center · Maspeth · Queens · Score 57.0  
+2026-12-13 · Time to confirm · music · Knockdown Center · Maspeth · Queens · Score 57.0  
 LCD Soundsystem's announced NYC residency spans twelve dates at Knockdown Center and Brooklyn Steel, with its last listed performance at Knockdown Center on December 13.
+**Timing:** Date verified; performance and doors times were not accessible.
 **Practical note:** The promoter labels December 13 Best Availability. This is an ending-date watch, not a scarcity claim. AXS returned HTTP 403, so price, seat or admission type, and live inventory remain unverified.
 **Why now:** Keep the residency's final announced date in advance plans rather than treating an already-open sale as breaking ticket news.
 **On-sale watch:** December 13 is the last date on the promoter's published 2026 residency schedule. Tickets are already on sale; the actionable fact is the residency's announced ending, not an approaching sale or presumed sellout.
