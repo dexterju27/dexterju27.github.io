@@ -1,1780 +1,1284 @@
 # NYC What To Do
 
-**Rolling window:** 2026-11-23 through 2026-11-29  
-**Updated:** 2026-11-23T10:52:48+00:00  
-**Book-ahead watch:** through 2027-03-23
+**Rolling window:** 2026-11-24 through 2026-11-30  
+**Updated:** 2026-11-24T10:52:15+00:00  
+**Book-ahead watch:** through 2027-03-24
 
 ## Best date plans
 
-### 2026-11-24 — Briscola Trattoria + Network: 50th Anniversary Screening
+### 2026-11-29 — The Last Waltz: Sunday brunch screening + Lightscape Lodge at Yellow Magnolia Cafe
 
-**Dinner, then Network: 50th Anniversary Screening.** Italian at Briscola Trattoria. It is 1.3 miles from the venue, so budget a subway stop between the two. Network: 50th Anniversary Screening starts at 9:15 pm, so book the table early.
-[Walking directions](https://www.google.com/maps/dir/?api=1&origin=798A+Franklin+Avenue%2C+Brooklyn%2C+NY+11238&destination=188+Prospect+Park+West%2C+Brooklyn%2C+NY+11215&travelmode=walking) · [Event](https://nitehawkcinema.com/prospectpark/movies/network/) · [Event booking](https://nitehawkcinema.com/prospectpark/purchase/24849745/) · [Restaurant](https://briscolabrooklyn.com/) · [Reservations](https://resy.com/cities/new-york-ny/venues/briscola-trattoria)
+**The Last Waltz: Sunday brunch screening, then a meal.** Seasonal American at Lightscape Lodge at Yellow Magnolia Cafe. It is a 20-minute walk from the venue. It starts at 11 am, which leaves the evening for the table.
+[Walking directions](https://www.google.com/maps/dir/?api=1&origin=188+Prospect+Park+West%2C+Brooklyn%2C+NY+11215&destination=Brooklyn+Botanic+Garden%2C+990+Washington+Avenue+entrance%2C+Brooklyn%2C+NY+11225&travelmode=walking) · [Event](https://nitehawkcinema.com/prospectpark/movies/the-last-waltz/) · [Event booking](https://nitehawkcinema.com/prospectpark/purchase/24710567/) · [Restaurant](https://www.bbg.org/feature/lightscape/lightscape_lodge_dinners) · [Reservations](https://resy.com/cities/new-york-ny/venues/yellow-magnolia-cafe)
 
-### 2026-11-28 — Found Sound Nation: Mara Rosenbloom + Selendis S.A. Johnson + Ottava
+### 2026-11-28 — The Last Waltz: Saturday brunch screening + Lightscape Lodge at Yellow Magnolia Cafe
 
-**Found Sound Nation: Mara Rosenbloom + Selendis S.A. Johnson, then dinner.** Italian and pizza at Ottava. It is a 6-minute walk from the venue. It starts at 4 pm, so eat afterwards.
-[Walking directions](https://www.google.com/maps/dir/?api=1&origin=376+9th+Street%2C+Brooklyn%2C+NY&destination=1123+Eighth+Avenue%2C+Brooklyn%2C+NY+11215&travelmode=walking) · [Event](https://www.viewcy.com/event/found_sound_nation_pr_6) · [Restaurant](https://www.ottavabrooklyn.com/)
+**The Last Waltz: Saturday brunch screening, then a meal.** Seasonal American at Lightscape Lodge at Yellow Magnolia Cafe. It is a 20-minute walk from the venue. It starts at 11 am, which leaves the evening for the table.
+[Walking directions](https://www.google.com/maps/dir/?api=1&origin=188+Prospect+Park+West%2C+Brooklyn%2C+NY+11215&destination=Brooklyn+Botanic+Garden%2C+990+Washington+Avenue+entrance%2C+Brooklyn%2C+NY+11225&travelmode=walking) · [Event](https://nitehawkcinema.com/prospectpark/movies/the-last-waltz/) · [Event booking](https://nitehawkcinema.com/prospectpark/purchase/24710565/) · [Restaurant](https://www.bbg.org/feature/lightscape/lightscape_lodge_dinners) · [Reservations](https://resy.com/cities/new-york-ny/venues/yellow-magnolia-cafe)
 
-### 2026-11-23 — Rudy's Bar & Grill + Con C de Cuba - A Night A lo Cubano
+### 2026-11-30 — FAD Market Holiday Pop-Up: Opening-Day Mini Market + Threes Brewing Gowanus
 
-**Dinner, then Con C de Cuba - A Night A lo Cubano.** Dive bar and hot dogs at Rudy's Bar & Grill. It is a 4-minute walk from the venue. Doors 6 pm — eat first.
-[Walking directions](https://www.google.com/maps/dir/?api=1&origin=627+Ninth+Avenue%2C+New+York%2C+NY+10036&destination=235+West+46th+Street%2C+New+York%2C+NY&travelmode=walking) · [Event](https://sonyhall.com/shows/?eid=TWL1320046) · [Event booking](https://donyc.com/events/2026/11/23/con-c-de-cuba-a-night-a-lo-cubano-tickets) · [Restaurant](https://rudysbarnyc.com/)
+**FAD Market Holiday Pop-Up: Opening-Day Mini Market, then a meal.** Brewpub and American bar food at Threes Brewing Gowanus. It is 1.7 miles from the venue, so budget a subway stop between the two. It starts at 11 am, which leaves the evening for the table.
+[Walking directions](https://www.google.com/maps/dir/?api=1&origin=55+Water+Street%2C+Brooklyn%2C+NY+11201&destination=333+Douglass+Street%2C+Brooklyn%2C+NY+11217&travelmode=walking) · [Event](https://fadmarket.co/empirestores-holiday-market) · [Restaurant](https://threesbrewing.com/pages/gowanus)
 
-### 2026-11-28 — New York City Ballet: George Balanchine's The Nutcracker — Saturday matinee + Tatiana by Kwame Onwuachi
+### 2026-11-28 — Brooklyn Flea Holiday Market + Cafe Paulette
 
-**New York City Ballet: George Balanchine's The Nutcracker — Saturday matinee, then a meal.** Afro-Caribbean and New York-inspired at Tatiana by Kwame Onwuachi. It is a 1-minute walk from the venue. It starts at 2 pm, which leaves the evening for the table.
-[Walking directions](https://www.google.com/maps/dir/?api=1&origin=20+Lincoln+Center+Plaza%2C+New+York%2C+NY&destination=10+Lincoln+Center+Plaza%2C+inside+David+Geffen+Hall%2C+New+York%2C+NY+10023&travelmode=walking) · [Event](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker) · [Event booking](https://tickets.nycballet.com/booking/production/9532) · [Restaurant](https://www.tatiananyc.com/)
+**Brooklyn Flea Holiday Market, then a meal.** French bistro at Cafe Paulette. It is a 22-minute walk from the venue. It starts at 10 am, which leaves the evening for the table.
+[Walking directions](https://www.google.com/maps/dir/?api=1&origin=Manhattan+Bridge+Archway%2C+Water+Street+at+Anchorage+Place%2C+Brooklyn%2C+NY+11201&destination=1+South+Elliott+Place%2C+Brooklyn%2C+NY+11217&travelmode=walking) · [Event](https://dumbo.nyc/event/the-brooklyn-flea-holiday-market/2026-11-28/) · [Restaurant](https://www.cafepaulette.com/) · [Reservations](https://resy.com/cities/new-york-ny/venues/cafe-paulette)
 
-### 2026-11-27 — Columbus + The Dynamo Room
+### 2026-11-28 — Found Sound Nation: Mara Rosenbloom + Selendis S.A. Johnson + Threes Brewing Gowanus
 
-**Columbus, then dinner.** American steakhouse and seafood at The Dynamo Room. It is 2.5 miles from the venue, so budget a subway stop between the two. It starts at 6 pm, so eat afterwards.
-[Walking directions](https://www.google.com/maps/dir/?api=1&origin=7+Ludlow+Street%2C+New+York%2C+NY+10002&destination=2+Pennsylvania+Plaza%2C+New+York%2C+NY+10121&travelmode=walking) · [Event](https://metrograph.com/film/9999005076-columbus/) · [Event booking](https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31414) · [Restaurant](https://www.thedynamoroom.com/)
+**Found Sound Nation: Mara Rosenbloom + Selendis S.A. Johnson, then dinner.** Brewpub and American bar food at Threes Brewing Gowanus. It is a 17-minute walk from the venue. It starts at 4 pm, so eat afterwards.
+[Walking directions](https://www.google.com/maps/dir/?api=1&origin=376+9th+Street%2C+Brooklyn%2C+NY+11215&destination=333+Douglass+Street%2C+Brooklyn%2C+NY+11217&travelmode=walking) · [Event](https://www.viewcy.com/event/found_sound_nation_pr_6) · [Restaurant](https://threesbrewing.com/pages/gowanus)
 
-### 2026-11-23 — Alan Broadbent w. Harvie S + The Dynamo Room
+### 2026-11-28 — Forever Ray: Honoring the Music of Ray Charles + The Dynamo Room
 
-**Alan Broadbent w. Harvie S, then dinner.** American steakhouse and seafood at The Dynamo Room. It is 1.2 miles from the venue, so budget a subway stop between the two. It starts at 6 pm, so eat afterwards.
-[Walking directions](https://www.google.com/maps/dir/?api=1&origin=163+West+10th+Street%2C+New+York%2C+NY&destination=2+Pennsylvania+Plaza%2C+New+York%2C+NY+10121&travelmode=walking) · [Event](https://www.smallslive.com/events/34333-alan-broadbent-w-harvie-s/) · [Event booking](https://donyc.com/events/2026/11/23/alan-broadbent-w-harvie-s-tickets) · [Restaurant](https://www.thedynamoroom.com/)
+**Forever Ray: Honoring the Music of Ray Charles, then a meal.** American steakhouse at The Dynamo Room. It is 1.4 miles from the venue, so budget a subway stop between the two. It starts at 1:30 pm, which leaves the evening for the table.
+[Walking directions](https://www.google.com/maps/dir/?api=1&origin=131+W+3rd+Street%2C+New+York%2C+NY+10012&destination=2+Pennsylvania+Plaza%2C+New+York%2C+NY+10121&travelmode=walking) · [Event](https://www.bluenotejazz.com/nyc/tm-event/forever-ray-honoring-the-music-of-ray-charles-featuring-kenny-brawner-as-the-voice-of-ray-and-former-ray-charles-raelette-angela-workman/) · [Event booking](https://www.ticketweb.com/event/forever-ray-honoring-the-music-blue-note-jazz-club-tickets/14266594?pl=bluenoteny) · [Restaurant](https://www.thedynamoroom.com/) · [Reservations](https://resy.com/cities/new-york-ny/venues/the-dynamo-room)
 
-### 2026-11-27 — Cahoots + Sam Dillon Quartet
+### 2026-11-24 — SKATE at Domino Park + Altbau Bakery
 
-**Dinner, then Sam Dillon Quartet.** Cafe, sandwiches and cocktails at Cahoots. It is 1.3 miles from the venue, so budget a subway stop between the two. Sam Dillon Quartet starts at 7:30 pm, so book the table early.
-[Walking directions](https://www.google.com/maps/dir/?api=1&origin=422+East+9th+Street%2C+New+York%2C+NY+10009&destination=2+Avenue+of+the+Americas%2C+Roxy+Hotel+cellar%2C+New+York%2C+NY&travelmode=walking) · [Event](https://www.thedjangonyc.com/events/sam-dillon-30/?selected_date=2026-11-27) · [Event booking](https://resy.com/cities/new-york-ny/venues/the-django?date=2026-11-27&seats=2) · [Restaurant](https://www.cahootsnyc.com/)
+**SKATE at Domino Park, then a meal.** Bakery and cafe at Altbau Bakery. It is a 13-minute walk from the venue. It starts at 2:30 pm, which leaves the evening for the table.
+[Walking directions](https://www.google.com/maps/dir/?api=1&origin=South+3rd+Street+between+Kent+Avenue+and+River+Street%2C+Brooklyn%2C+NY+11249&destination=184+North+8th+Street%2C+Brooklyn%2C+NY+11211&travelmode=walking) · [Event](https://www.dominopark.com/ice-skating) · [Event booking](https://www.dominopark.com/ice-skating/buy-tickets) · [Restaurant](https://altbaubakery.com/)
 
-### 2026-11-23 — NYC Resistor Public Craft Night + Briscola Trattoria
+### 2026-11-30 — Monterey + Music Mondays: Ruckus with Keir GoGwilt and Fiona Gillespie
 
-**NYC Resistor Public Craft Night, then dinner.** Italian at Briscola Trattoria. It is 1.6 miles from the venue, so budget a subway stop between the two. It runs to 9:30 pm, so this is a late stop afterwards.
-[Walking directions](https://www.google.com/maps/dir/?api=1&origin=87+3rd+Ave%2C+4th+Floor%2C+Brooklyn%2C+NY+11217&destination=798A+Franklin+Avenue%2C+Brooklyn%2C+NY+11238&travelmode=walking) · [Event](https://www.nycresistor.com/) · [Event booking](https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-162729866411) · [Restaurant](https://briscolabrooklyn.com/) · [Reservations](https://resy.com/cities/new-york-ny/venues/briscola-trattoria)
+**Dinner, then Music Mondays: Ruckus with Keir GoGwilt and Fiona Gillespie.** American steakhouse at Monterey. It is 2.4 miles from the venue, so budget a subway stop between the two. Music Mondays: Ruckus with Keir GoGwilt and Fiona Gillespie starts at 7:30 pm, so book the table early.
+[Walking directions](https://www.google.com/maps/dir/?api=1&origin=37+East+50th+Street%2C+New+York%2C+NY+10022&destination=2504+Broadway%2C+New+York%2C+NY+10025&travelmode=walking) · [Event](https://www.musicmondays.org/november-2026) · [Restaurant](https://www.montereyny.com/) · [Reservations](https://www.opentable.com/r/monterey-new-york-1)
 
 ## What to do this week
 
-### 2026-11-23
-
-#### [Bryant Park Holiday Shops](https://bryantpark.org/activities/holiday-shops)
-
-11:00 AM · markets · Free entry; purchases extra. · Bryant Park · Midtown · Manhattan · Score 64.0  
-Seasonal small-business shops selling gifts, crafts and food around Bryant Park's winter village.
-**Timing:** Monday shop hours: 11am-8pm.
-**Practical note:** Outdoor browsing; individual vendor hours can vary. Skating requires a separate reservation.
-**Why now:** The 2026 holiday shops run through January 3.
-[Official](https://bryantpark.org/activities/holiday-shops) · [Discovered via Time Out New York](https://www.timeout.com/newyork/things-to-do/things-to-do-in-new-york-this-week)
-
-#### [Famous Last Words](https://www.eventbrite.com/e/famous-last-words-tickets-2003111432216)
-
-7:30 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 63.0  
-Stand-up with Michael Longfellow, Neel Ghosh, Katrina Davis and Zubi Ahmed; advertised guests include Shaunak Godkhindi, Nick Smith and Rachel Coster.
-**Timing:** Doors 7pm; show 7:30pm.
-**Practical note:** 21+. Lineup subject to change; tickets are nonrefundable.
-**Why now:** Named Monday lineup at a neighborhood venue.
-[Official](https://www.eventbrite.com/e/famous-last-words-tickets-2003111432216) · [Tickets / booking](https://www.eventbrite.com/e/famous-last-words-tickets-2003111432216) · [Source: Union Hall](https://unionhallny.com/calendar)
-
-#### [Bugsy in 35mm](https://nitehawkcinema.com/prospectpark/movies/bugsy/)
-
-9:00 PM · film · Nitehawk Cinema Prospect Park · Park Slope · Brooklyn · Score 63.0  
-Barry Levinson's 1991 gangster drama screens in 35mm as part of Nitehawk's Best Director, 1991 series.
-**Timing:** 136-minute film; arrive about 30 minutes early.
-**Practical note:** Reserved seating; generally 18+. Food and drinks cost extra.
-**Why now:** A dated repertory screening at the user's nearest independent cinema.
-[Official](https://nitehawkcinema.com/prospectpark/movies/bugsy/) · [Tickets / booking](https://nitehawkcinema.com/prospectpark/purchase/24516661/)
-
-#### [Alan Broadbent w. Harvie S](https://www.smallslive.com/events/34333-alan-broadbent-w-harvie-s/)
-
-6:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 62.0  
-Pianist Alan Broadbent and bassist Harvie S perform an intimate duo programme.
-**Timing:** First set 6pm; a separately ticketed 7:30pm set is also listed.
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-**Why now:** This specific duo is booked for Monday evening.
-[Official](https://www.smallslive.com/events/34333-alan-broadbent-w-harvie-s/) · [Tickets / booking](https://donyc.com/events/2026/11/23/alan-broadbent-w-harvie-s-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/alan-broadbent-w-harvie-s-tickets)
-
-#### [Con C de Cuba - A Night A lo Cubano](https://sonyhall.com/shows/?eid=TWL1320046)
-
-8:00 PM · music · $25–$42.5 · Sony Hall · Theater District · Manhattan · Score 62.0  
-Broadway voices celebrate Cuban music and identity in a cabaret-style concert.
-**Timing:** Doors 6pm; show 8pm.
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-**Why now:** A one-night Cuban programme on Monday.
-[Official](https://sonyhall.com/shows/?eid=TWL1320046) · [Tickets / booking](https://donyc.com/events/2026/11/23/con-c-de-cuba-a-night-a-lo-cubano-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/con-c-de-cuba-a-night-a-lo-cubano-tickets)
-
-#### [Tropical Vortex presents A.B.E.L.A](https://www.viewcy.com/event/tropical_vortex_prese_249)
-
-9:00 PM · music · Donation; amount unspecified · Barbès · Park Slope · Brooklyn · Score 62.0  
-Tropical Vortex hosts A.B.E.L.A; NYC Noise describes electronic Latin American percussion alongside resident DJs.
-**Timing:** Organizer listing gives 9pm–11:55pm.
-**Practical note:** Donation-based listing; no amount published. Do not assume free admission.
-**Why now:** This week's Tropical Vortex has a named live act.
-[Official](https://www.viewcy.com/event/tropical_vortex_prese_249) · [Tickets / booking](https://www.viewcy.com/event/tropical_vortex_prese_249) · [Discovered via NYC Noise](https://nyc-noise.com/)
-
-#### [Union Square Holiday Market 2026](https://urbanspacemarkets.com/pages/union-square)
-
-11:00 AM · markets · Free · Union Square Park: South Plaza · Union Square · Manhattan · Score 61.0  
-NYC permit data lists this special event organized through Parks Department. Confirm public hours on an organizer page before going.
-**Timing:** Monday market hours: 11am-8pm.
-**Practical note:** Outdoor market; entry is free, purchases extra. This occurrence uses Monday hours, not assumed Thanksgiving hours.
-**Why now:** A current city permit identifies this event date.
-[Official](https://urbanspacemarkets.com/pages/union-square) · [Discovered via The Skint](https://www.theskint.com/ongoing-events/)
-
-#### [Roebling Rink: skating beneath the Brooklyn Bridge](https://www.roeblingrink.com/)
-
-1:30 PM · sports · Admission not verified; skate rental listed separately at $8. · Roebling Rink · DUMBO · Brooklyn · Score 61.0  
-An outdoor ice rink beneath the Brooklyn Bridge with waterfront and Manhattan skyline views.
-**Timing:** Daily seasonal opening confirmed; exact Monday session times were not exposed. Select a session before traveling. Time re-verified against the venue.
-**Practical note:** Admission price requires checking the booking interface. Skate rental is additional; weather cancellations follow the rink's rescheduling policy.
-**Why now:** The rink explicitly operates daily November 14, 2026-January 31, 2027.
-**On-sale watch:** Tickets are sold for individual skating sessions.
-[Official](https://www.roeblingrink.com/) · [Tickets / booking](https://www.roeblingrink.com/) · [Discovered via The Skint](https://www.theskint.com/ongoing-events/)
+### 2026-11-24
 
 #### [SKATE at Domino Park](https://www.dominopark.com/ice-skating)
 
-2:30 PM · sports · Session price not exposed on the public information page. · Domino Square · Williamsburg · Brooklyn · Score 61.0  
-Seasonal outdoor ice skating at Domino Square near the Williamsburg waterfront.
-**Timing:** Operating window: 2:30-9pm; reserve an individual skating session.
-**Practical note:** Arrive at least 10 minutes before your reservation. Check ticket checkout for admission and rental charges.
-**Why now:** The 2026-27 skating season is open, with confirmed Monday hours.
-**On-sale watch:** Skating is organized into reserved sessions; availability was not verified.
-[Official](https://www.dominopark.com/ice-skating) · [Tickets / booking](https://www.dominopark.com/ice-skating/buy-tickets) · [Discovered via The Skint](https://www.theskint.com/ongoing-events/)
-
-#### [Lady Windermere's Fan: David Weir Introduction and Signing](https://filmforum.org/events/event/lady-windermeres-fan-november-23)
-
-6:30 PM · film · $18 general admission; $12 members · Film Forum · South Village · Manhattan · Score 60.0  
-Ernst Lubitsch's silent film screens in 35mm with an introduction by David Weir, who signs Decadence: A Very Short Introduction afterward.
-**Timing:** 6:30pm screening; book signing afterward.
-**Practical note:** Book purchase is separate from the screening ticket.
-**Why now:** Dated author introduction and signing, not an ordinary repeat screening.
-[Official](https://filmforum.org/events/event/lady-windermeres-fan-november-23) · [Tickets / booking](https://my.filmforum.org/events/lady-windermeres-fan)
-
-#### [NYC Resistor Public Craft Night](https://www.nycresistor.com/)
-
-6:30 PM · workshop · Free · NYC Resistor · Gowanus · Brooklyn · Score 59.0  
-Open craft night at the NYC Resistor hacker collective: bring a project, use the space, meet members. Free and open to the public, 18 and over.
-**Timing:** Mondays and Thursdays 6:30-9:30pm. Free, but 18+ only.
-**Practical note:** Fourth-floor walkup; confirm on Eventbrite since craft night is occasionally cancelled for private classes.
-**Why now:** Runs twice a week year-round and is one of the few genuinely free weeknight drop-in activities.
-[Official](https://www.nycresistor.com/) · [Tickets / booking](https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-162729866411)
-
-#### [The Fashion of the Gilded Age: Raissa Bretaña with Hilary Davidson](https://www.rizzolibookstore.com/fashion-gilded-age)
-
-6:00 PM · books · Rizzoli Bookstore · NoMad · Manhattan · Score 58.0  
-Fashion historian Raissa Bretaña discusses Gilded Age clothing, etiquette and women's social power with Hilary Davidson, followed by a signing.
-**Timing:** 6pm discussion and signing. Organizer and ticket page disagree on the end time: 7:30pm versus 7:45pm.
-**Practical note:** RSVP encouraged, not required. Seating is first come, first served. The listed $49.95 is the book price, not verified admission.
-**Why now:** Book-launch conversation on November 23.
-**On-sale watch:** Organizer states seating is limited.
-[Official](https://www.rizzolibookstore.com/fashion-gilded-age) · [Tickets / booking](https://www.eventbrite.com/e/the-fashion-of-the-gilded-age-by-raissa-bretana-tickets-2003781474330)
-
-#### [Tangles: Sneak Preview and Abbi Jacobson Q&A](https://www.ifccenter.com/films/tangles/)
-
-6:30 PM · film · IFC Center · Greenwich Village · Manhattan · Score 58.0  
-Leah Nelson's animated adaptation of Sarah Leavitt's graphic memoir about a family confronting Alzheimer's, with Abbi Jacobson in person.
-**Timing:** 102-minute film followed by Q&A. A separate 8:40pm screening has an extended introduction, not a Q&A.
-**Practical note:** Select the 6:30pm ticket for the Q&A.
-**Why now:** One-night guest appearance ahead of the special engagement.
-**On-sale watch:** Special guest appearance; availability not independently established.
-[Official](https://www.ifccenter.com/films/tangles/) · [Tickets / booking](https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588759~8722a542-64c1-4c0b-af02-c3e8a239d769)
-
-#### [Barbara](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62207)
-
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.0  
-With Jeanne Balibar, Mathieu Amalric, Vincent Peirani, Aurore Clement, and Grégoire Colin. Amalric’s seventh feature-length film as a director is both a heartfelt tribute to the legendary chanteuse Barbara (1930-97), and a vehicle for another peerlessly talented French luminary, the actress and singer Jeanne Balibar. Amalric’s films are remarkable for their intuitive freedom, and their emphasis o…
-[Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62207) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62207)
-
-#### [Cinématon, Program 1](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62302)
-
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.0  
-Gérard Courant CINÉMATON 1978-85, ca. 80 min selection, Super-8mm-or-video-to-digital “Since the 7th of February, 1978, I have made portraits on film of artistic and cultural personalities that I call CINÉMATON. There are ten rules for the cinematon, ten commandments that must not be deviated from: 1) A camera on a tripod; 2) A camera that does not move; 3) A close-up of a face; 4) No sound; 5) N…
-[Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62302) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62302)
-
-#### [Hold Me Tight / Serre Moi Fort](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62210)
-
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.0  
-With Vicky Krieps, Arieh Worthalter, Anne-Sophie Bowen-Chatet, and Sacha Ardilly. “Propelled by a fierce, tour-de-force performance by Vicky Krieps, who is fast becoming one of the most sought-after actors on the international scene, HOLD ME TIGHT is an ingenious memory piece exploring the grief of separation and the paradoxical comforts and claustrophobia of the domestic home. As Clarisse flees…
-[Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62210) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62210)
-
-#### [Portrait Studies](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62300)
-
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.0  
-This program gathers portrait studies by Stan Brakhage, Amy Halpern, Ernst Schmidt Jr., S. Pearl Sharp, Stuart Sherman, Joan Logue, Friedl vom Gröller, and Everlane Morães, with the subjects encompassing poets, artists, filmmakers, scholars, domestic workers, and fishermen. Stan Brakhage TWO: CREELEY/MCCLURE (1965, 3 min, 16mm, silent) Amy Halpern JANE, LOOKING (2020, 2 min, 16mm, silent) Ernst S…
-[Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62300) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62300)
-
-#### [Do Si Don'tcha: Y'all Stars Country Line Dancing](https://brooklyn.brooklynbowl.com/events/detail/do-si-don-tcha-y-all-stars-country-line-dancing-k7vgf_4m5vqd5)
-
-6:30 PM · music · Check current price · Brooklyn Bowl · Williamsburg · Brooklyn · Score 57.0  
-A country line-dancing evening with Y'all Stars; participatory dancing rather than a staged dance production.
-**Timing:** Calendar and event header say 6:30pm; body copy also mentions 8pm. Confirm the conflicting programme time.
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-**Why now:** A dated Monday dance programme.
-[Official](https://brooklyn.brooklynbowl.com/events/detail/do-si-don-tcha-y-all-stars-country-line-dancing-k7vgf_4m5vqd5) · [Tickets / booking](https://donyc.com/events/2026/11/23/do-si-don-tcha-y-all-stars-country-line-dancing-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/do-si-don-tcha-y-all-stars-country-line-dancing-tickets)
-
-#### [School Pictures](https://cherrylanetheatre.org/shows/school-pictures)
-
-7:00 PM · theater · Cherry Lane Theatre · West Village · Manhattan · Score 57.0  
-Milo Cramer performs a musical journal about tutoring, parenting, inequality and adolescence in New York City's school system, directed by Morgan Green.
-**Timing:** Published runtime: one hour.
-**Practical note:** Monday's time is explicitly published on the theater homepage.
-**Why now:** A dated performance within the October–November engagement.
-[Official](https://cherrylanetheatre.org/shows/school-pictures) · [Tickets / booking](https://cherrylanetheatre.org/shows?show=school-pictures)
-
-#### [The Pachelbel Rant 20th Anniversary Show](https://caveat.nyc/events/the-pachelbel-rant-20th-anniversary-show-2026-11-23)
-
-7:00 PM · comedy · $18.76–$20 · Caveat · Lower East Side · Manhattan · Score 57.0  
-Rob Paravonian revisits his viral Pachelbel Rant with comedy, stories, music and an updated version of the routine.
-**Timing:** Doors 6:30pm; show 7pm.
-**Practical note:** Prices here are for in-person attendance, not the separate livestream.
-**Why now:** A one-night twentieth-anniversary performance.
-[Official](https://caveat.nyc/events/the-pachelbel-rant-20th-anniversary-show-2026-11-23) · [Tickets / booking](https://caveat.nyc/events/the-pachelbel-rant-20th-anniversary-show-2026-11-23) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/) · [Discovered via The Skint](https://theskint.com/)
-
-#### [Good Eggs ft: Mark Normand, Gary Vider, Matt Ruby, Meghan Hanley, Kevin McCaffrey](https://newyorkcomedyclub.com/events/good-eggs-ft-mark-normand-gary-vider-matt-ruby-meghan-hanley-kevin-mccaffrey)
-
-7:30 PM · comedy · $25 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 57.0  
-**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
-[Official](https://newyorkcomedyclub.com/events/good-eggs-ft-mark-normand-gary-vider-matt-ruby-meghan-hanley-kevin-mccaffrey) · [Tickets / booking](https://newyorkcomedyclub.com/events/good-eggs-ft-mark-normand-gary-vider-matt-ruby-meghan-hanley-kevin-mccaffrey)
-
-#### [Glassjaw](https://www.axs.com/events/1610516/glassjaw-tickets)
-
-8:00 PM · music · Check current price · Music Hall of Williamsburg · Williamsburg · Brooklyn · Score 57.0  
-**Timing:** Doors 7:00 PM
-**Practical note:** Age policy: 18 & Over. Prices and availability can change.
-[Official](https://www.axs.com/events/1610516/glassjaw-tickets) · [Tickets / booking](https://www.axs.com/events/1610516/glassjaw-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/glassjaw-tickets)
-
-#### [Maddy Smith, Reg Thomas, Kevin Dombrowski, Justin Martindale, Samantha Santos](https://newyorkcomedyclub.com/events/maddy-smith-reg-thomas-kevin-dombrowski-justin-martindale-samantha-santos)
-
-8:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 57.0  
-**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
-[Official](https://newyorkcomedyclub.com/events/maddy-smith-reg-thomas-kevin-dombrowski-justin-martindale-samantha-santos) · [Tickets / booking](https://newyorkcomedyclub.com/events/maddy-smith-reg-thomas-kevin-dombrowski-justin-martindale-samantha-santos)
-
-#### [Rozzi](https://www.bluenotejazz.com/nyc/tm-event/rozzi/)
-
-8:00 PM · music · Check current price · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 57.0  
-Soul-pop vocalist Rozzi performs in Blue Note's intimate club setting.
-**Timing:** First show 8pm; separate second show 10:30pm.
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-**Why now:** Monday's named headliner rather than a generic recurring jazz night.
-[Official](https://www.bluenotejazz.com/nyc/tm-event/rozzi/) · [Tickets / booking](https://donyc.com/events/2026/11/23/rozzi-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/rozzi-tickets)
-
-#### [Talujon with Brian Chase and John Hollenbeck](https://roulette.org/event/talujon-brian-chase-john-hollenbeck/)
-
-8:00 PM · music · $20–$30 · Roulette · Downtown Brooklyn · Brooklyn · Score 57.0  
-Talujon premieres two percussion works with composers Brian Chase and John Hollenbeck joining the ensemble.
-**Timing:** Doors 7pm; performance 8pm.
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-**Why now:** Two world premieres, with their composers performing.
-[Official](https://roulette.org/event/talujon-brian-chase-john-hollenbeck/) · [Tickets / booking](https://donyc.com/events/2026/11/23/talujon-with-brian-chase-and-john-hollenbeck-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/talujon-with-brian-chase-and-john-hollenbeck-tickets) · [Discovered via NYC Noise](https://nyc-noise.com/)
-
-#### [Weebs Anonymous: a drag open set for weebs](https://www.wonderville.nyc/events/weebs-anonymous-a-drag-open-set-for-weebs-11-23-26)
-
-8:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 57.0  
-🩵 CRINGE COMP PRESENTS: Weebs Anonymous, an open set for weebs 🩵 November 23rd! Your favorite anime club presidents @maudeaddamsnyc & @mx.soursoursour are back with their last show of the year :(( BUT! We are bringing back the show that STARTED Cringe Comp™ and we have recruited members: ⭐️ @nero.divergency ⭐️ @robyndbanxx ⭐️ @rosiemeadows.vs.theworld ⭐️ @poppybluelucky ⭐️ @sock_eye_salmon ⭐️ @hi…
-[Official](https://www.wonderville.nyc/events/weebs-anonymous-a-drag-open-set-for-weebs-11-23-26) · [Tickets / booking](https://www.wonderville.nyc/events/weebs-anonymous-a-drag-open-set-for-weebs-11-23-26)
-
-#### [Two Girls](https://cherrylanetheatre.org/shows/two-girls)
-
-9:00 PM · theater · Cherry Lane Theatre · West Village · Manhattan · Score 57.0  
-Eliya Smith's darkly comic two-hander uses verbatim dialogue to examine a notorious viral video's relationship to sexuality, spectatorship and the body.
-**Timing:** Published runtime: one hour.
-**Practical note:** Recommended for ages 18+ because of mature sexual themes. Conflicting editorial closing dates are not treated as verified.
-**Why now:** The theater explicitly lists Monday's 9pm performance.
-[Official](https://cherrylanetheatre.org/shows/two-girls) · [Tickets / booking](https://cherrylanetheatre.org/shows?show=two-girls) · [Discovered via Time Out New York](https://www.timeout.com/newyork/things-to-do/things-to-do-in-new-york-this-week)
-
-#### [Jordan Rock, Reg Thomas, Kevin Dombrowski, Maddy Smith, Derek Humphrey](https://newyorkcomedyclub.com/events/jordan-rock-reg-thomas-kevin-dombrowski-maddy-smith-derek-humphrey)
-
-10:00 PM · comedy · Check current price · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 57.0  
-**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
-[Official](https://newyorkcomedyclub.com/events/jordan-rock-reg-thomas-kevin-dombrowski-maddy-smith-derek-humphrey) · [Tickets / booking](https://newyorkcomedyclub.com/events/jordan-rock-reg-thomas-kevin-dombrowski-maddy-smith-derek-humphrey)
-
-#### [Tim Kinsella, more eaze and Wendy Eisenberg](https://wl.eventim.us/event/tim-kinsella/708231?afflky=BabysAllRightBrooklyn)
-
-7:00 PM · music · $36.74 · Baby's All Right · Williamsburg · Brooklyn · Score 56.0  
-A three-artist bill bringing together experimental songwriting, electronics and adventurous guitar.
-**Timing:** Doors 6:30pm; show 7pm.
-**Practical note:** 21+. Listed ticket is $36.74; additional tax may apply.
-**Why now:** A distinctive one-night collaboration of artists.
-[Official](https://wl.eventim.us/event/tim-kinsella/708231?afflky=BabysAllRightBrooklyn) · [Tickets / booking](https://wl.eventim.us/event/tim-kinsella/708231?afflky=BabysAllRightBrooklyn) · [Discovered via NYC Noise](https://nyc-noise.com/) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/tim-kinsella-tickets)
-
-#### [Jacqueline Novak](https://donyc.com/events/2026/11/23/jacqueline-novak-tickets)
-
-7:00 PM · comedy · Check current price · The Bell House · Gowanus · Brooklyn · Score 54.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/jacqueline-novak-tickets)
-
-#### [Saks Fifth Avenue Holiday Light Show and Holiday Windows](https://www.timeout.com/newyork/news/saks-famous-fifth-avenue-holiday-light-show-is-officially-returning-next-monthheres-everything-to-know-102026)
-
-Time to confirm · unusual · Check current price · 611 Fifth Avenue · Midtown · Manhattan · Score 51.0  
-**Timing:** mon (time tba)
-**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
-[Tickets / booking](https://www.timeout.com/newyork/news/saks-famous-fifth-avenue-holiday-light-show-is-officially-returning-next-monthheres-everything-to-know-102026) · [Source: The Skint](https://theskint.com/)
-
-#### [Annie The Musical](https://donyc.com/events/2026/11/23/annie-the-musical-tickets)
-
-10:00 AM · music · Check current price · Tarrytown Music Hall · Washington Heights · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/annie-the-musical-tickets)
-
-#### [Eliot Zigmund Quintet](https://donyc.com/events/2026/11/23/eliot-zigmund-quintet-tickets)
-
-6:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/eliot-zigmund-quintet-tickets)
-
-#### [Vicente García Night 3](https://donyc.com/events/2026/11/23/vicente-garcia-night-3-tickets)
-
-6:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/vicente-garcia-night-3-tickets)
-
-#### [EGE TUREV, ABDIAS ARMENTEROS, DANIEL CRAWFORD, & More](https://donyc.com/events/2026/11/23/ege-turev-abdias-armenteros-daniel-crawford-more-tickets)
-
-7:00 PM · music · Check current price · Nublu 151 · Alphabet City · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/ege-turev-abdias-armenteros-daniel-crawford-more-tickets)
-
-#### [Nikki Sorrentino / TBD](https://donyc.com/events/2026/11/23/nikki-sorrentino-tbd-tickets)
-
-7:00 PM · music · Check current price · Arlene's Grocery · East Village · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/nikki-sorrentino-tbd-tickets)
-
-#### [Quantrell](https://donyc.com/events/2026/11/23/quantrell-tickets)
-
-7:00 PM · music · Check current price · Night Club 101 · Alphabet City · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/quantrell-tickets)
-
-#### [SOMBR - You Are The Reason Tour](https://donyc.com/events/2026/11/23/sombr-you-are-the-reason-tour-tickets)
-
-7:00 PM · music · Check current price · Madison Square Garden · Midtown · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/sombr-you-are-the-reason-tour-tickets)
-
-#### [Sophie B. Hawkins: One Night Only NYC](https://donyc.com/events/2026/11/23/sophie-b-hawkins-one-night-only-nyc-tickets)
-
-7:00 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/sophie-b-hawkins-one-night-only-nyc-tickets)
-
-#### [Shrines - 'The Wild' Single Release Show w/ A. Renee](https://donyc.com/events/2026/11/23/shrines-the-wild-single-release-show-w-a-renee-tickets)
-
-7:30 PM · nightlife · Check current price · C'mon Everybody · Bed-Stuy · Brooklyn · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/shrines-the-wild-single-release-show-w-a-renee-tickets)
-
-#### [Bull Thieves | Anni Rossi | Pearie Sol](https://donyc.com/events/2026/11/23/bull-thieves-anni-rossi-pearie-sol-tickets)
-
-8:00 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/bull-thieves-anni-rossi-pearie-sol-tickets)
-
-#### [Joe Farnsworth Quartet](https://donyc.com/events/2026/11/23/joe-farnsworth-quartet-tickets)
-
-8:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/joe-farnsworth-quartet-tickets)
-
-#### [Memories of Bill Monroe: Gaslight, '66!](https://donyc.com/events/2026/11/23/memories-of-bill-monroe-gaslight-66-tickets)
-
-8:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/memories-of-bill-monroe-gaslight-66-tickets)
-
-#### [The Peter Stewart Show! With Eagle Witt](https://donyc.com/events/2026/11/23/the-peter-stewart-show-with-eagle-witt-tickets)
-
-8:00 PM · comedy · Check current price · Comic Strip Live NYC · Upper East Side · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/the-peter-stewart-show-with-eagle-witt-tickets)
-
-#### [Alyssa Grace](https://donyc.com/events/2026/11/23/alyssa-grace-tickets)
-
-8:30 PM · music · Check current price · Bowery Ballroom · Chinatown · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/alyssa-grace-tickets)
-
-#### [GRAD SHOW: Level 4 Improv | Bareilles](https://donyc.com/events/2026/11/23/grad-show-level-4-improv-bareilles-tickets)
-
-8:30 PM · comedy · Check current price · The PIT Loft · Chelsea · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/grad-show-level-4-improv-bareilles-tickets)
-
-#### [Annalise & The Mother Underground](https://donyc.com/events/2026/11/23/annalise-the-mother-underground-tickets)
-
-9:00 PM · music · Check current price · Mercury Lounge · East Village · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/annalise-the-mother-underground-tickets)
-
-#### [Christeene](https://donyc.com/events/2026/11/23/christeene-tickets)
-
-9:30 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/christeene-tickets)
-
-#### [Rozzi (late show)](https://donyc.com/events/2026/11/23/rozzi-late-show-tickets)
-
-10:30 PM · music · Check current price · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/rozzi-late-show-tickets)
-
-#### [Akari Holiday Sale](https://donyc.com/events/2026/11/23/akari-holiday-sale-tickets)
-
-10:00 AM · markets · Check current price · Noguchi Museum · Long Island City · Queens · Score 50.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/akari-holiday-sale-tickets)
-
-#### [New York Islanders vs. Toronto Maple Leafs](https://donyc.com/events/2026/11/23/new-york-islanders-vs-toronto-maple-leafs-tickets)
-
-7:30 PM · sports · Check current price · UBS Arena · Forest Hills · Queens · Score 50.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/new-york-islanders-vs-toronto-maple-leafs-tickets)
-
-#### [Jessica Kirson Live in New York](https://newyorkcomedyclub.com/events/jessica-kirson-live-in-new-york-2026-11-24190000)
-
-7:00 PM · comedy · $35 + fees / club minimum · New York Comedy Club · Gramercy · Manhattan · Score 45.0  
-**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
-[Official](https://newyorkcomedyclub.com/events/jessica-kirson-live-in-new-york-2026-11-24190000) · [Tickets / booking](https://newyorkcomedyclub.com/events/jessica-kirson-live-in-new-york-2026-11-24190000) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/jessica-kirson-live-in-new-york-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/jessica-kirson-live-in-new-york-tickets-1ZEDZwR)
-
-#### [Compost Build Community Volunteer Day](https://queensbotanical.org/event/compost-build-community-volunteer-days-39-33/)
-
-9:30 AM · workshop · Fee not stated on the event page. · Queens Botanical Garden · Flushing · Queens · Score 44.0  
-Work with QBG compost staff and learn how community food scraps become nutrient-rich compost.
-**Timing:** 9:30am-noon.
-**Practical note:** Register through the organizer's linked page and check volunteer entrance instructions; wear clothes suitable for outdoor work.
-**Why now:** A dated Monday opportunity to learn practical composting.
-[Official](https://queensbotanical.org/event/compost-build-community-volunteer-days-39-33/) · [Tickets / booking](https://compostbuildvolunteerdays2025.eventbrite.com/?aff=website)
-
-#### [Christmas Spectacular Starring The Radio City Rockettes](https://www.msg.com/events-tickets/christmas-spectacular-starring-the-radio-city-rockettes-radio-city-music-hall-november-2026/3C006457CEDD1F3B)
-
-11:00 AM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 42.0  
-The Rockettes' holiday production combines precision dance and large-scale stage choreography.
-**Timing:** Verified 5pm performance; doors 3:30pm.
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-**Why now:** A verified Monday performance during the holiday run.
-[Official](https://www.msg.com/events-tickets/christmas-spectacular-starring-the-radio-city-rockettes-radio-city-music-hall-november-2026/3C006457CEDD1F3B) · [Tickets / booking](https://donyc.com/events/2026/11/23/christmas-spectacular-starring-the-radio-city-rockettes-tickets-qrwnkqr) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/christmas-spectacular-starring-the-radio-city-rockettes-tickets-qrwnkqr) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/christmas-spectacular-starring-the-radio-city-rockettes-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/christmas-spectacular-starring-the-radio-city-rockettes-tickets-MMmM7g7) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/christmas-spectacular-starring-the-radio-city-rockettes-tickets-0ZWZ0JK)
-
-#### [Exhibition Tour: Roy Lichtenstein: Like New](https://whitney.org/events/exhibition-tour-lichtenstein)
-
-12:00 PM · museums · Tour included with museum admission; admission price not verified · Whitney Museum of American Art · Meatpacking District · Manhattan · Score 42.0  
-A docent-led examination of the Lichtenstein exhibition in the fifth-floor galleries.
-**Timing:** Noon tour; another published tour is at 3pm.
-**Practical note:** Included with museum admission. First come, first served; capacity 20. Confirm the daily calendar before traveling.
-**Why now:** Explicitly scheduled for Monday, November 23.
-[Official](https://whitney.org/events/exhibition-tour-lichtenstein) · [Tickets / booking](https://whitney.org/general-admission)
-
-#### [the FORT90 BROADCAST SYSTEM presents: FORT90 TV](https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-23-26)
-
-8:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 42.0  
-Wonderville & THE FORT90 BROADCAST SYSTEM presents FORT90 TV! Get ready for another NINE HOUR LONG (?!?!?) re-broadcast of nearly lost transmissions from across the globe. And as a friendly reminder: the show is now happening over at https://punchi.tv/fortninety! WATCH ON FORT90.TV #block-149876593a6993084a26 { --sqs-block-content-flex: 0; } #block-149876593a6993084a26 { --opacity: 100%; --transl…
-[Official](https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-23-26) · [Tickets / booking](https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-23-26)
-
-#### [New Jokes & Newbies](https://newyorkcomedyclub.com/events/new-jokes-newbies-2026-11-23214500)
-
-9:45 PM · comedy · Check current price · New York Comedy Club on 4th Street · East Village · Manhattan · Score 42.0  
-**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
-[Official](https://newyorkcomedyclub.com/events/new-jokes-newbies-2026-11-23214500) · [Tickets / booking](https://newyorkcomedyclub.com/events/new-jokes-newbies-2026-11-23214500)
-
-#### [Juggling Class](https://donyc.com/events/2026/11/23/juggling-class-tickets)
-
-12:00 PM · workshop · Check current price · Bryant Park · Theater District · Manhattan · Score 39.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/juggling-class-tickets)
-
-#### [A True York Comedy Experience](https://donyc.com/events/2026/11/23/a-true-york-comedy-experience-tickets-qeDq7XV)
-
-7:00 PM · comedy · Check current price · St. Marks Comedy Club · East Village · Manhattan · Score 39.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/a-true-york-comedy-experience-tickets-qeDq7XV) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/23/a-true-york-comedy-experience-tickets)
-
-#### [Drag King Bingo with Cunning Stunt](https://donyc.com/events/2026/11/23/drag-king-bingo-with-cunning-stunt-tickets)
-
-7:00 PM · nightlife · Check current price · Club Cumming · Alphabet City · Manhattan · Score 39.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/drag-king-bingo-with-cunning-stunt-tickets)
-
-#### [New Moon Acoustic](https://donyc.com/events/2026/11/23/new-moon-acoustic-tickets)
-
-7:00 PM · music · Check current price · Terra Blues · Greenwich Village · Manhattan · Score 39.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/new-moon-acoustic-tickets)
-
-#### [New York Comedy Club Presents](https://donyc.com/events/2026/11/23/new-york-comedy-club-presents-tickets)
-
-8:00 PM · comedy · Check current price · NEW YORK COMEDY CLUB EAST VILLAGE · East Village · Manhattan · Score 39.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/new-york-comedy-club-presents-tickets)
-
-#### [Mike Ledonne Quartet](https://donyc.com/events/2026/11/23/mike-ledonne-quartet-tickets)
-
-9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 39.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/mike-ledonne-quartet-tickets)
-
-#### [Pasquale Grasso Trio](https://donyc.com/events/2026/11/23/pasquale-grasso-trio-tickets)
-
-9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 39.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/pasquale-grasso-trio-tickets)
-
-#### [T Blues Band | Mack / Crenshaw](https://donyc.com/events/2026/11/23/t-blues-band-mack-crenshaw-tickets)
-
-10:00 PM · music · Check current price · Terra Blues · Greenwich Village · Manhattan · Score 39.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/t-blues-band-mack-crenshaw-tickets)
-
-#### [Profit the DJ](https://donyc.com/events/2026/11/23/profit-the-dj-tickets)
-
-Time to confirm · music · Check current price · Shrine · Harlem · Manhattan · Score 36.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/profit-the-dj-tickets)
-
-#### [Le Carrousel](https://donyc.com/events/2026/11/23/le-carrousel-tickets)
-
-11:00 AM · outdoors · Check current price · Bryant Park · Theater District · Manhattan · Score 36.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/le-carrousel-tickets)
-
-#### [Park Tour](https://donyc.com/events/2026/11/23/park-tour-tickets)
-
-11:00 AM · outdoors · Check current price · Bryant Park · Theater District · Manhattan · Score 36.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/park-tour-tickets)
-
-#### [Paper Tiger](https://donyc.com/events/2026/11/23/paper-tiger-tickets)
-
-3:15 PM · film · Check current price · Nitehawk Cinema - Williamsburg · Williamsburg · Brooklyn · Score 36.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/paper-tiger-tickets)
-
-#### [Monday OPEN MIC! w/ Obi O’Brien](https://donyc.com/events/2026/11/23/monday-open-mic-w-obi-o-brien-tickets)
-
-4:30 PM · comedy · Check current price · The PIT Loft · Chelsea · Manhattan · Score 36.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/monday-open-mic-w-obi-o-brien-tickets)
-
-#### [Brooklyn Power Hour NOW ON A NEW NIGHT!](https://donyc.com/events/2026/11/23/brooklyn-power-hour-now-on-a-new-night-tickets)
-
-7:30 PM · comedy · Check current price · Eastville Comedy Club · Downtown Brooklyn · Brooklyn · Score 36.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/brooklyn-power-hour-now-on-a-new-night-tickets)
-
-#### [Random Strangers Jam](https://donyc.com/events/2026/11/23/random-strangers-jam-tickets)
-
-8:00 PM · music · Check current price · Shrine · Harlem · Manhattan · Score 36.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/random-strangers-jam-tickets)
-
-#### [Karaoke Mondays](https://donyc.com/events/2026/11/23/karaoke-mondays-tickets)
-
-8:30 PM · music · Check current price · Alphaville · Bushwick · Brooklyn · Score 36.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/karaoke-mondays-tickets)
-
-#### [Rev. Vince Anderson & The Love Choir!](https://donyc.com/events/2026/11/23/rev-vince-anderson-the-love-choir-tickets)
-
-8:30 PM · music · Check current price · Union Pool · Williamsburg · Brooklyn · Score 36.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/rev-vince-anderson-the-love-choir-tickets)
-
-#### [Mondays in the Club with Lance](https://donyc.com/events/2026/11/23/mondays-in-the-club-with-lance-tickets)
-
-9:30 PM · nightlife · Check current price · Club Cumming · Alphabet City · Manhattan · Score 36.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/mondays-in-the-club-with-lance-tickets)
-
-#### [Glimpse of Greatness](https://donyc.com/events/2026/11/23/glimpse-of-greatness-tickets)
-
-7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 33.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/23/glimpse-of-greatness-tickets)
-
-### 2026-11-24
-
-#### [Network: 50th Anniversary Screening](https://nitehawkcinema.com/prospectpark/movies/network/)
-
-9:15 PM · film · Nitehawk Cinema Prospect Park · Park Slope · Brooklyn · Score 68.0  
-Sidney Lumet's television-industry satire returns for its fiftieth anniversary, presented digitally.
-**Timing:** 121-minute film; arrive about 30 minutes early.
-**Practical note:** Reserved seating; food and drinks are additional.
-**Why now:** A dated fiftieth-anniversary repertory selection.
-[Official](https://nitehawkcinema.com/prospectpark/movies/network/) · [Tickets / booking](https://nitehawkcinema.com/prospectpark/purchase/24849745/)
-
-#### [Nelly and Monsieur Arnaud with Emmanuelle Béart](https://filmforum.org/events/event/nelly-and-monsieur-arnaud-november-24)
-
-6:10 PM · film · $18 general admission; $12 members · Film Forum · South Village · Manhattan · Score 64.0  
-Claude Sautet's 1995 drama screens with a post-film conversation featuring star Emmanuelle Béart, co-presented by Villa Albertine.
-**Timing:** 106-minute film followed by conversation.
-**Practical note:** French with English subtitles.
-**Why now:** Béart appears at this specific Tuesday screening.
-**On-sale watch:** Special guest appearance; live availability not verified.
-[Official](https://filmforum.org/events/event/nelly-and-monsieur-arnaud-november-24) · [Tickets / booking](https://my.filmforum.org/nelly-and-monsieur-arnaud)
-
-#### [Victoria Monét: Frequency of Love Tour](https://www.msg.com/events-tickets/victoria-monet-infosys-theater-at-madison-square-garden-november-2026/3B0065238AD32241)
-
-9:00 PM · music · Price unverified; budget fit unknown · Infosys Theater at Madison Square Garden · Midtown · Manhattan · Score 64.0  
-Victoria Monét brings the Frequency of Love Tour to MSG's theater.
+2:30 PM · sports · Session price not verified · Domino Park · Williamsburg · Brooklyn · Score 65.0  
+Seasonal outdoor skating beside the Williamsburg waterfront, with the former Domino Sugar complex and East River skyline around the rink.
+**Timing:** Tuesday opening is 14:30. The current hours panel says 22:00 closing, but the FAQ says 21:00; confirm the selected session.
+**Practical note:** Arrive ten minutes before a reserved session. Tuesday is forecast sunny; do not assume the separately advertised Thursday hours apply, as Thursday is marked closed for rain.
+**Why now:** The 2026-27 season is open, and Tuesday avoids the announced Thursday rain closure.
+[Official](https://www.dominopark.com/ice-skating) · [Tickets / booking](https://www.dominopark.com/ice-skating/buy-tickets) · [Discovered via The Skint](https://theskint.com/)
+
+#### [Victoria Monét: Frequency Of Love Tour](https://www.msg.com/events-tickets/victoria-monet-infosys-theater-at-madison-square-garden-november-2026/3B0065238AD32241)
+
+9:00 PM · music · Current ticket prices unverified · Infosys Theater at Madison Square Garden · Midtown · Manhattan · Score 64.0  
+Victoria Monét brings the Frequency Of Love Tour to the theater inside Madison Square Garden.
 **Timing:** Doors 8pm; show 9pm.
-**Practical note:** Official page says selling fast. Prices unavailable; confirm a ticket within $120.
-**Why now:** A Tuesday tour stop with an explicit availability warning.
-**Book soon:** The official MSG event page explicitly labels tickets selling fast.
-[Official](https://www.msg.com/events-tickets/victoria-monet-infosys-theater-at-madison-square-garden-november-2026/3B0065238AD32241) · [Tickets / booking](https://www.ticketmaster.com/event/3B0065238AD32241?camefrom=CFC_MSG)
-
-#### [Grand Central Terminal architecture and history tour](https://www.mas.org/events/grand-central-terminal-11-24-2026/)
-
-12:30 PM · other · $25 nonmember; $15 MAS member. · Grand Central Terminal · Midtown East · Manhattan · Score 63.0  
-A Municipal Art Society docent explores Grand Central's architecture, history and preservation, including lesser-known parts of the terminal.
-**Timing:** 12:30-2pm; organizer describes a 75-90 minute tour.
-**Practical note:** Exact meeting location arrives in the registration confirmation. No refunds or exchanges unless MAS cancels.
-**Why now:** This dated tour carries MAS's published $10 fall discount.
-**Book soon:** Online registration closes one hour before the tour.
-[Official](https://www.mas.org/events/grand-central-terminal-11-24-2026/) · [Tickets / booking](https://secure.mas.org/forms/grand-central-terminal-registration-26)
+**Practical note:** Price not exposed on the official page; affordability within $120 is unverified. Enter from Seventh Avenue between West 31st and 33rd Streets.
+**Why now:** One-night November 24 tour stop.
+**Book soon:** The official event page explicitly labels this performance 'SELLING FAST'; remaining inventory was not independently inspected.
+[Official](https://www.msg.com/events-tickets/victoria-monet-infosys-theater-at-madison-square-garden-november-2026/3B0065238AD32241) · [Tickets / booking](https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-new-york-new-york-11-24-2026/event/3B0065238AD32241?camefrom=CFC_MSG)
 
 #### [Holiday Tea at Wave Hill](https://www.wavehill.org/calendar/holiday-tea-2026)
 
-12:00 PM · food · $65 adult; includes garden admission. · Wave Hill House Cafe · Riverdale · Bronx · Score 62.4  
-Seasonal tea sandwiches, pastries and specialty teas served in historic Wave Hill House, with admission to the gardens included.
-**Timing:** Choose a noon, 1pm or 2pm seating. Meal duration is not published. Time re-verified against the venue.
-**Practical note:** The organizer strongly recommends booking seven days ahead because availability is limited; remaining tables were not verified. The house has accessible entry.
-**Why now:** November 24 is one of the explicitly listed Holiday Tea dates.
-**Book soon:** The organizer explicitly notes limited availability and recommends seven-day advance booking.
+12:00 PM · food · $65 adult; includes grounds admission · Wave Hill · Riverdale · Bronx · Score 63.0  
+Seasonal tea sandwiches, pastries and specialty teas served in the decorated historic Wave Hill House Cafe. Grounds admission is included.
+**Timing:** Separate seatings at noon, 13:00 and 14:00; noon is the first seating, not a continuous two-hour session.
+**Practical note:** The organizer strongly recommends booking seven days ahead. Last-minute availability for this date was not confirmed.
+**Why now:** November 24 is one of the explicitly published holiday-tea dates.
+**Book soon:** The organizer explicitly describes limited availability and recommends advance reservations.
 [Official](https://www.wavehill.org/calendar/holiday-tea-2026) · [Tickets / booking](https://wavehilltea.square.site/)
 
-#### [Bryant Park Holiday Shops](https://bryantpark.org/activities/holiday-shops)
+#### [Nelly and Monsieur Arnaud with Emmanuelle Béart](https://filmforum.org/events/event/nelly-and-monsieur-arnaud-november-24)
 
-11:00 AM · markets · Free entry; purchases extra. · Bryant Park · Midtown · Manhattan · Score 61.0  
-Independent seasonal shops and food stalls surrounding Bryant Park's winter village.
-**Timing:** Tuesday shop hours: 11am-8pm.
-**Practical note:** Outdoor market; purchases and skating are separate from free browsing.
-**Why now:** A confirmed Tuesday occurrence of the October 28-January 3 holiday market.
-[Official](https://bryantpark.org/activities/holiday-shops) · [Discovered via Time Out New York](https://www.timeout.com/newyork/things-to-do/things-to-do-in-new-york-this-week)
+6:10 PM · film · $18 general; $12 members · Film Forum · Hudson Square · Manhattan · Score 63.0  
+Claude Sautet's film followed by a conversation with star Emmanuelle Béart, co-presented by Villa Albertine.
+**Timing:** Post-film conversation moderated by Katherine Rosman.
+**Why now:** One-night screening with the film's star.
+[Official](https://filmforum.org/events/event/nelly-and-monsieur-arnaud-november-24) · [Tickets / booking](https://my.filmforum.org/nelly-and-monsieur-arnaud)
+
+#### [Network: anniversary screening](https://nitehawkcinema.com/prospectpark/movies/network/)
+
+9:15 PM · film · Nitehawk Cinema Prospect Park · Park Slope · Brooklyn · Score 63.0  
+Sidney Lumet's television-news satire screens in Nitehawk's anniversary series.
+**Practical note:** Dine-in cinema; food and drinks are additional.
+**Why now:** Dated repertory screening at the user's nearest independent cinema.
+[Official](https://nitehawkcinema.com/prospectpark/movies/network/) · [Tickets / booking](https://nitehawkcinema.com/prospectpark/purchase/24849745/)
+
+#### [Farmlink's Free Apple-Picking Pop-Up](https://luma.com/wdgdacg6)
+
+11:00 AM · unusual · Free · Farmlink Pop-Up · NoMad · Manhattan · Score 62.0  
+Farmlink brings a surplus-produce apple-picking experience to Fifth Avenue, with 35,000 free apples, cider and a petting zoo.
+**Timing:** The organizer's structured event data gives an 18:00 finish, rather than the later time in the discovery listing.
+**Practical note:** Apples are available while supplies last. Registration does not establish a guaranteed allocation.
+**Why now:** A one-day November 24 surplus-food activation.
+[Official](https://luma.com/wdgdacg6) · [Tickets / booking](https://luma.com/wdgdacg6) · [Discovered via The Skint](https://theskint.com/)
+
+#### [Karaoke Funhouse with Anna Copa Cabanna](https://wl.eventim.us/event/Karaoke-Funhouse/709119?afflky=TVEye)
+
+9:00 PM · nightlife · Free · TV Eye · Ridgewood · Queens · Score 61.0  
+Anna Copa Cabanna hosts TV Eye's free Karaoke Funhouse.
+**Timing:** Official ticket page lists a 9pm start.
+**Practical note:** 21+. A free RSVP is offered; no purchase was made.
+**Why now:** Event-specific November 24 listing confirms this week's edition.
+[Official](https://wl.eventim.us/event/Karaoke-Funhouse/709119?afflky=TVEye) · [Tickets / booking](https://wl.eventim.us/event/Karaoke-Funhouse/709119?afflky=TVEye)
 
 #### [Canceled Comedy ft: Keith Robinson, Matt Richards, Vik Saytha, Alex Babbitt, Natalie Cuomo, Olivia Carter](https://newyorkcomedyclub.com/events/keith-robinson-matt-richards-vik-saytha-alex-babbitt-natalie-cuomo-olivia-carter)
 
-7:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club · Gramercy · Manhattan · Score 58.6  
+7:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club · Gramercy · Manhattan · Score 60.0  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
 [Official](https://newyorkcomedyclub.com/events/keith-robinson-matt-richards-vik-saytha-alex-babbitt-natalie-cuomo-olivia-carter) · [Tickets / booking](https://newyorkcomedyclub.com/events/keith-robinson-matt-richards-vik-saytha-alex-babbitt-natalie-cuomo-olivia-carter)
 
+#### [I Hate Capitalism! Comedy Special Taping](https://www.fnlbk.com/upcoming/2026/12/1/i-hate-capitalism-w-marcela-onyango)
+
+7:30 PM · comedy · From $15 per listing; check conditions · Friends and Lovers · Crown Heights · Brooklyn · Score 60.0  
+**Timing:** tues 7:30pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://www.fnlbk.com/upcoming/2026/12/1/i-hate-capitalism-w-marcela-onyango) · [Source: The Skint](https://theskint.com/)
+
 #### [Dinner for One Presents: Friendsgiving](https://littlefieldnyc.com/event/?wfea_eb_id=2004028401897)
 
-8:00 PM · comedy · $18.71 listed · Littlefield · Gowanus · Brooklyn · Score 58.6  
-Dinner for One hosts Thanksgiving-themed sketch and stand-up with Gianmarco Soresi, Blake Wexler, Unisex and Super Crazy Fun Time.
-**Timing:** Doors 7pm; show 8pm. Venue listing ends at 11pm.
-**Practical note:** 21+. This is a comedy show, not a dinner reservation.
-**Why now:** A one-night holiday comedy bill.
+8:00 PM · comedy · $18.71 listed · littlefield · Gowanus · Brooklyn · Score 60.0  
+Dinner for One hosts a sketch-and-stand-up bill with Gianmarco Soresi, Blake Wexler, Unisex, and Super Crazy Fun Time.
+**Timing:** Venue lists an 8–11pm event window.
+**Practical note:** 21+.
+**Why now:** A distinct holiday lineup rather than a generic club showcase.
 [Official](https://littlefieldnyc.com/event/?wfea_eb_id=2004028401897) · [Tickets / booking](https://www.eventbrite.com/e/dinner-for-one-presents-friendsgiving-tickets-2004028401897)
+
+#### [Grand Central Terminal Architecture Tour](https://www.mas.org/events/grand-central-terminal-11-24-2026/)
+
+12:30 PM · other · $25 public; $15 MAS members · Grand Central Terminal · Midtown East · Manhattan · Score 59.0  
+A Municipal Art Society docent explores Grand Central's architecture, history and preservation, including details easily missed on a normal commute.
+**Practical note:** The exact meeting point is supplied in the registration confirmation. Coordinates identify the terminal, not the meeting spot.
+**Why now:** A dated November 24 tour with the published fall ticket discount.
+[Official](https://www.mas.org/events/grand-central-terminal-11-24-2026/) · [Tickets / booking](https://secure.mas.org/forms/grand-central-terminal-registration-26)
 
 #### [Instrumental Underground](https://www.ibeambrooklyn.com/home/2026/11/24/instrumental-underground)
 
-7:30 PM · music · $20 · Ibeam Brooklyn · Gowanus · Brooklyn · Score 57.4  
-Three exploratory ensembles feature Cheryl Pyle, Gene Coleman, Sylvain Leroux, Ayumi Ishito, Jeff Pearring, Zach Swanson, Michael T.A. Thompson, Rema Hasumi and Yuko Togami.
+7:30 PM · music · $20 · Ibeam Brooklyn · Gowanus · Brooklyn · Score 58.0  
+Three sets of improvised music: Beyond Flute Group; Jeff Pearring, Zach Swanson and Michael T.A. Thompson; and Farcadia with Ayumi Ishito, Rema Hasumi and Yuko Togami.
 **Timing:** Beyond Flute Group 7:30pm; Pearring/Swanson/Thompson 8:30pm; Farcadia 9:30pm.
-**Practical note:** $20 admission; no advance ticket link published.
-**Why now:** Three distinct groups share one Tuesday programme.
-[Official](https://www.ibeambrooklyn.com/home/2026/11/24/instrumental-underground) · [Discovered via NYC Noise](https://nyc-noise.com/)
-
-#### [Chicken Shop Date: The Final Series](https://www.ifccenter.com/films/chicken-shop-date-the-final-series/)
-
-7:00 PM · film · IFC Center · Greenwich Village · Manhattan · Score 57.0  
-Amelia Dimoldenberg's complete final series reaches the cinema with exclusive interviews and the final unreleased episode.
-**Timing:** 80-minute program.
-**Practical note:** No in-person appearance is advertised; do not assume the creator will attend.
-**Why now:** Officially advertised as a one-night-only cinema event.
-[Official](https://www.ifccenter.com/films/chicken-shop-date-the-final-series/) · [Tickets / booking](https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=587777~8722a542-64c1-4c0b-af02-c3e8a239d769)
-
-#### [Home Teams: Hooper, Horse Girls and Saw 2](https://www.brooklyncc.com/show-schedule/hometeams-11-24)
-
-7:00 PM · comedy · Brooklyn Comedy Collective at Eris · East Williamsburg · Brooklyn · Score 57.0  
-BCC's house improv showcase presents its explicitly scheduled Dog Teams block: Hooper, Horse Girls and Saw 2.
-**Timing:** Doors 6:30pm; show 7pm.
-**Practical note:** Eris Deep Space downstairs. 21+; 35 seats, first come, first served, then standing room.
-**Why now:** November 24 and its team lineup are individually published.
-[Official](https://www.brooklyncc.com/show-schedule/hometeams-11-24) · [Tickets / booking](https://www.eventbrite.com/e/home-teams-tickets-2000614549974)
-
-#### [The Kids Table: A Thanksgiving Show](https://www.brooklyncc.com/show-schedule/thekidstable-11-24)
-
-7:00 PM · comedy · Brooklyn Comedy Collective at Eris · East Williamsburg · Brooklyn · Score 57.0  
-Cigi Farmer hosts adult stand-up followed by Thanksgiving-themed improv, with advertised performers including Rachel Coster and Courtney O'Donnell.
-**Timing:** Doors 6:30pm; show 7pm.
-**Practical note:** Eris Mainstage. Despite the title, this is strictly 21+. First-come seating, then standing room.
-**Why now:** A specifically dated Thanksgiving show before the venue's holiday break.
-[Official](https://www.brooklyncc.com/show-schedule/thekidstable-11-24) · [Tickets / booking](https://www.eventbrite.com/e/the-kids-table-a-thanksgiving-show-tickets-2005104429324)
-
-#### [Reuben James: Performing Big People Music](https://www.bluenotejazz.com/nyc/tm-event/reuben-james-featuring-chris-dave-and-david-dj-ginyard/)
-
-8:00 PM · music · Ticket price unknown; $20 minimum additional · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 57.0  
-Pianist and vocalist Reuben James presents Big People Music.
-**Timing:** First show 8pm; separate late show 10:30pm.
-**Practical note:** $20 food/drink minimum additional; ticket price unverified. Tables all ages; bar 21+.
-**Why now:** A programme-specific Tuesday appearance.
-[Official](https://www.bluenotejazz.com/nyc/tm-event/reuben-james-featuring-chris-dave-and-david-dj-ginyard/) · [Tickets / booking](https://www.ticketweb.com/event/reuben-james-blue-note-jazz-club-tickets/15047083?pl=bluenoteny) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/reuben-james-featuring-chris-dave-and-david-dj-ginyard-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/reuben-james-featuring-ethan-farmer-and-eric-walls-tickets)
-
-#### [Boyz n the Hood](https://nitehawkcinema.com/williamsburg/movies/boyz-n-the-hood/)
-
-9:30 PM · film · Nitehawk Cinema Williamsburg · Williamsburg · Brooklyn · Score 57.0  
-John Singleton's 1991 debut, starring Cuba Gooding Jr., Laurence Fishburne and Ice Cube, screens in the Best Director, 1991 series.
-**Timing:** 112-minute film.
-**Practical note:** DCP presentation. This is the Williamsburg location, not Prospect Park.
-**Why now:** A specifically dated retrospective screening.
-[Official](https://nitehawkcinema.com/williamsburg/movies/boyz-n-the-hood/) · [Tickets / booking](https://nitehawkcinema.com/williamsburg/purchase/24516634/)
-
-#### [Moonlight Tour](https://www.green-wood.com/event/moonlight-tour-14/2026-11-24/)
-
-6:00 PM · outdoors · Green-Wood Cemetery · Greenwood Heights · Brooklyn · Score 56.4  
-, Credit: Evan Rabeck .stk-2be9b3b {margin-right:0px !important;margin-bottom:24px !important;margin-left:0px !important;}.stk-2be9b3b-column{--stk-column-gap:20px !important;} .stk-3717db9-container{margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !important;margin-left:0px !important;}.stk-3717db9 {margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !i…
-[Official](https://www.green-wood.com/event/moonlight-tour-14/2026-11-24/) · [Tickets / booking](https://www.green-wood.com/event/moonlight-tour-14/2026-11-24/)
-
-#### [Nice Try ft: Michael Kosta, Mike Cannon, Ashley Austin Morris, Sally Ann Hall](https://newyorkcomedyclub.com/events/nice-try-ft-michael-kosta-mike-cannon-ashley-austin-morris-sally-ann-hall)
-
-8:00 PM · comedy · $9 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 55.9  
-**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
-[Official](https://newyorkcomedyclub.com/events/nice-try-ft-michael-kosta-mike-cannon-ashley-austin-morris-sally-ann-hall) · [Tickets / booking](https://newyorkcomedyclub.com/events/nice-try-ft-michael-kosta-mike-cannon-ashley-austin-morris-sally-ann-hall)
-
-#### [Mike Cannon, Monroe Martin, Matt Bachus, Terry Thomas Jr., TaTa Sherise](https://newyorkcomedyclub.com/events/mike-cannon-monroe-martin-matt-bachus-terry-thomas-jr-tata-sherise)
-
-9:15 PM · comedy · $25 + fees / club minimum · New York Comedy Club · Gramercy · Manhattan · Score 55.9  
-**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
-[Official](https://newyorkcomedyclub.com/events/mike-cannon-monroe-martin-matt-bachus-terry-thomas-jr-tata-sherise) · [Tickets / booking](https://newyorkcomedyclub.com/events/mike-cannon-monroe-martin-matt-bachus-terry-thomas-jr-tata-sherise)
-
-#### [Nore Davis, Mike Cannon, Sally Ann Hall](https://newyorkcomedyclub.com/events/nore-davis-mike-cannon-sally-ann-hall)
-
-9:45 PM · comedy · $15 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 55.9  
-**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
-[Official](https://newyorkcomedyclub.com/events/nore-davis-mike-cannon-sally-ann-hall) · [Tickets / booking](https://newyorkcomedyclub.com/events/nore-davis-mike-cannon-sally-ann-hall)
-
-#### [Ashley Austin Morris, Gus Constantellis, TaTa Sherise](https://newyorkcomedyclub.com/events/ashley-austin-morris-gus-constantellis-tata-sherise)
-
-10:30 PM · comedy · $9 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 55.9  
-**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
-[Official](https://newyorkcomedyclub.com/events/ashley-austin-morris-gus-constantellis-tata-sherise) · [Tickets / booking](https://newyorkcomedyclub.com/events/ashley-austin-morris-gus-constantellis-tata-sherise)
+**Practical note:** Official listing publishes a $20 admission charge but no advance-ticket checkout.
+**Why now:** Three distinct ensembles on the November 24 program.
+[Official](https://www.ibeambrooklyn.com/home/2026/11/24/instrumental-underground) · [Discovered via NYC Noise](https://nyc-noise.com/event/14258)
 
 #### [Dynamic Portraits](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62306)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.0  
 This program gathers together films that combine sustained studies of the human face with dynamic formal strategies, including vertiginous camerawork, rapid editing, time-lapse effects, and superimposition. Tehching Hsieh TIME CLOCK PIECE (ONE YEAR PERFORMANCE 1980-1981) (1980-81, 7 min, 16mm, silent) Ludwig Schönherr FACE I UND II (1966-68, 8.5 min, 16mm-to-DCP, silent) Kurt Kren 28/73 TIME EXPO…
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62306) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62306)
 
 #### [Portraits of the Artist](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62309)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.0  
 Beginning with Gerard Malanga’s ANDY WARHOL (1964), in which the author of the SCREEN TESTS sits for his own extended portrait, this program finds the directors turning the camera on their fellow filmmakers, or even trading places for complementary films (as in the case of the Friedl vom Gröller and Christiana Perschon films that close the screening). Gerard Malanga ANDY WARHOL: PORTRAITS OF THE…
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62309) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62309)
 
 #### [Zorn I + II](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62197)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.0  
 Mathieu Amalric ZORN I (2010-2016) 2017, 54 min, DCP “The tense, but smiling face of maverick composer legend John Zorn listening to music might just restore your faith in human beauty. Every muscle moves in harmony with sounds and chords, it’s like seeing a soul wandering off into another realm. Mathieu Amalric has been filming this zestful musician for more than 12 years now. They first met whe…
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62197) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62197)
 
 #### [Jewel in the Crown: Old City Hall Station](https://www.nytransitmuseum.org/program/cityhall-11-24/)
 
-11:00 AM · unusual · $50 · Off-Site · Brooklyn · Score 55.6  
+11:00 AM · unusual · $50 · Off-Site · Brooklyn · Score 57.0  
 Museum members have the opportunity to explore this New York landmark through exclusive guided tours.
 [Official](https://www.nytransitmuseum.org/program/cityhall-11-24/) · [Tickets / booking](https://www.nytransitmuseum.org/program/cityhall-11-24/)
 
+#### [Moonlight Tour](https://www.green-wood.com/event/moonlight-tour-14/2026-11-24/)
+
+6:00 PM · outdoors · Green-Wood Cemetery · Greenwood Heights · Brooklyn · Score 57.0  
+, Credit: Evan Rabeck .stk-2be9b3b {margin-right:0px !important;margin-bottom:24px !important;margin-left:0px !important;}.stk-2be9b3b-column{--stk-column-gap:20px !important;} .stk-3717db9-container{margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !important;margin-left:0px !important;}.stk-3717db9 {margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !i…
+[Official](https://www.green-wood.com/event/moonlight-tour-14/2026-11-24/) · [Tickets / booking](https://www.green-wood.com/event/moonlight-tour-14/2026-11-24/)
+
+#### [The Kids Table: A Thanksgiving Show](https://www.brooklyncc.com/show-schedule/thekidstable-11-24)
+
+7:00 PM · comedy · Eris Mainstage · Williamsburg · Brooklyn · Score 57.0  
+Cigi Farmer hosts Thanksgiving-themed stand-up and improv, with performers including Courtney O'Donnell and Rachel Coster.
+**Practical note:** 21+. Despite its title, this is an adult comedy show. Seats are first come, first served.
+**Why now:** A holiday-specific show before BCC's Thanksgiving break.
+[Official](https://www.brooklyncc.com/show-schedule/thekidstable-11-24) · [Tickets / booking](https://www.eventbrite.com/e/the-kids-table-a-thanksgiving-show-tickets-2005104429324)
+
 #### [Action Bronson & Human Growth Hormone](https://lpr.com/lpr_events/abnov26nyc/)
 
-8:00 PM · music · $63–$73 · Le Poisson Rouge · Greenwich Village · Manhattan · Score 55.6  
-Action Bronson performs with Human Growth Hormone in LPR's comparatively intimate room.
-**Timing:** Doors 7pm; show 8pm.
+8:00 PM · music · $63–$73 · Le Poisson Rouge · Greenwich Village · Manhattan · Score 57.0  
+Action Bronson performs with Human Growth Hormone at LPR.
+**Timing:** Doors 7pm; performance 8pm, as distinguished on the event detail page.
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-**Why now:** A named live-band collaboration rather than a generic club night.
+**Why now:** Confirmed November 24 live-band concert.
 [Official](https://lpr.com/lpr_events/abnov26nyc/) · [Tickets / booking](https://donyc.com/events/2026/11/24/action-bronson-human-growth-hormone-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/action-bronson-human-growth-hormone-tickets)
 
 #### [Alyssa Grace](https://www.axs.com/events/1607312/alyssa-grace-tickets)
 
-8:00 PM · music · Check current price · Webster Hall · East Village · Manhattan · Score 55.6  
+8:00 PM · music · Check current price · Webster Hall · East Village · Manhattan · Score 57.0  
 Wanna Be Singer Tour.
 **Timing:** Doors 7:00 PM
-**Practical note:** Age policy: 16 & Over. Prices and availability can change.
+**Practical note:** Age policy: All Ages (under 16 with adult). Prices and availability can change.
 [Official](https://www.axs.com/events/1607312/alyssa-grace-tickets) · [Tickets / booking](https://www.axs.com/events/1607312/alyssa-grace-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/alyssa-grace-tickets)
 
 #### [Glassjaw](https://www.axs.com/events/1619533/glassjaw-tickets)
 
-8:00 PM · music · Check current price · Music Hall of Williamsburg · Williamsburg · Brooklyn · Score 55.6  
+8:00 PM · music · Check current price · Music Hall of Williamsburg · Williamsburg · Brooklyn · Score 57.0  
 **Timing:** Doors 7:00 PM
 **Practical note:** Age policy: 18 & Over. Prices and availability can change.
 [Official](https://www.axs.com/events/1619533/glassjaw-tickets) · [Tickets / booking](https://www.axs.com/events/1619533/glassjaw-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/glassjaw-tickets)
 
+#### [Nice Try ft: Michael Kosta, Mike Cannon, Ashley Austin Morris, Robby Slowik, Sally Ann Hall, Liz Glazer](https://newyorkcomedyclub.com/events/michael-kosta-mike-cannon-ashley-austin-morris-robby-slowik-sally-ann-hall-liz-glazer)
+
+8:00 PM · comedy · $9 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 57.0  
+**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
+[Official](https://newyorkcomedyclub.com/events/michael-kosta-mike-cannon-ashley-austin-morris-robby-slowik-sally-ann-hall-liz-glazer) · [Tickets / booking](https://newyorkcomedyclub.com/events/michael-kosta-mike-cannon-ashley-austin-morris-robby-slowik-sally-ann-hall-liz-glazer)
+
+#### [Reuben James: Performing Big People Music](https://www.bluenotejazz.com/nyc/tm-event/reuben-james-featuring-chris-dave-and-david-dj-ginyard/)
+
+8:00 PM · music · Ticket price unverified; additional $20 food/beverage minimum · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 57.0  
+Reuben James performs material from Big People Music. The current official title does not confirm the additional personnel named by some aggregators.
+**Timing:** Early set 8pm; separately ticketed late set 10:30pm, doors 10pm.
+**Practical note:** Ticket price unavailable; check the $120 budget before buying. Additional $20 food/beverage minimum; tables all ages, bar 21+.
+**Why now:** November 24 presentation of Big People Music.
+[Official](https://www.bluenotejazz.com/nyc/tm-event/reuben-james-featuring-chris-dave-and-david-dj-ginyard/) · [Tickets / booking](https://www.ticketweb.com/event/reuben-james-blue-note-jazz-club-tickets/15047083?pl=bluenoteny) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/reuben-james-featuring-chris-dave-and-david-dj-ginyard-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/reuben-james-featuring-ethan-farmer-and-eric-walls-tickets)
+
+#### [Mike Cannon, Monroe Martin, Matt Bachus, Terry Thomas Jr., TaTa Sherise](https://newyorkcomedyclub.com/events/mike-cannon-monroe-martin-matt-bachus-terry-thomas-jr-tata-sherise)
+
+9:15 PM · comedy · $25 + fees / club minimum · New York Comedy Club · Gramercy · Manhattan · Score 57.0  
+**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
+[Official](https://newyorkcomedyclub.com/events/mike-cannon-monroe-martin-matt-bachus-terry-thomas-jr-tata-sherise) · [Tickets / booking](https://newyorkcomedyclub.com/events/mike-cannon-monroe-martin-matt-bachus-terry-thomas-jr-tata-sherise)
+
+#### [Boyz n the Hood](https://nitehawkcinema.com/williamsburg/movies/boyz-n-the-hood/)
+
+9:30 PM · film · Nitehawk Cinema Williamsburg · Williamsburg · Brooklyn · Score 57.0  
+John Singleton's debut screens as part of Nitehawk's Best Director, 1991 series.
+**Practical note:** Dine-in screening; arrive early for seating.
+**Why now:** Special November 24 series screening.
+[Official](https://nitehawkcinema.com/williamsburg/movies/boyz-n-the-hood/) · [Tickets / booking](https://nitehawkcinema.com/williamsburg/purchase/24516634/)
+
+#### [Nore Davis, Mike Cannon, Robby Slowik, Jena Friedman, Sally Ann Hall](https://newyorkcomedyclub.com/events/nore-davis-mike-cannon-robby-slowik-jena-friedman-sally-ann-hall)
+
+9:45 PM · comedy · $15 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 57.0  
+**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
+[Official](https://newyorkcomedyclub.com/events/nore-davis-mike-cannon-robby-slowik-jena-friedman-sally-ann-hall) · [Tickets / booking](https://newyorkcomedyclub.com/events/nore-davis-mike-cannon-robby-slowik-jena-friedman-sally-ann-hall)
+
+#### [Ashley Austin Morris, Robby Slowik, Gus Constantellis, TaTa Sherise, Will Purpura](https://newyorkcomedyclub.com/events/ashley-austin-morris-robby-slowik-gus-constantellis-tata-sherise-will-purpura)
+
+10:30 PM · comedy · $9 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 57.0  
+**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
+[Official](https://newyorkcomedyclub.com/events/ashley-austin-morris-robby-slowik-gus-constantellis-tata-sherise-will-purpura) · [Tickets / booking](https://newyorkcomedyclub.com/events/ashley-austin-morris-robby-slowik-gus-constantellis-tata-sherise-will-purpura)
+
 #### [Zoe Bayani with Whisper Doll, Trash Rabbit and Whiskey Ginger](https://wl.eventim.us/event/zoe-bayani/709319?afflky=BabysAllRightBrooklyn)
 
-7:30 PM · music · $24.32 listed · Baby's All Right · Williamsburg · Brooklyn · Score 55.4  
-Zoe Bayani heads a four-act independent-music bill.
+7:30 PM · music · $28.46 listed day-of ticket; possible additional tax · Baby's All Right · Williamsburg · Brooklyn · Score 56.0  
+A four-act bill headed by Zoe Bayani, with Whisper Doll, Trash Rabbit and Whiskey Ginger.
 **Timing:** Doors 7pm; show 7:30pm.
-**Practical note:** 21+. Listed ticket $24.32; additional tax may apply.
-**Why now:** A specific four-act Tuesday bill.
+**Practical note:** 21+. Ticket page notes that taxes may be added at checkout.
+**Why now:** One-night November 24 bill.
 [Official](https://wl.eventim.us/event/zoe-bayani/709319?afflky=BabysAllRightBrooklyn) · [Tickets / booking](https://wl.eventim.us/event/zoe-bayani/709319?afflky=BabysAllRightBrooklyn)
+
+#### [Grand Central Thanksgiving Market: Dr. Edward W. Hardy, violin](https://donyc.com/events/2026/11/24/grand-central-thanksgiving-market-dr-edward-w-hardy-violin-tickets)
+
+1:00 PM · music · Check current price · Grand Central Terminal · Midtown · Manhattan · Score 54.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/24/grand-central-thanksgiving-market-dr-edward-w-hardy-violin-tickets)
 
 #### [Jacqueline Novak](https://donyc.com/events/2026/11/24/jacqueline-novak-tickets)
 
-7:00 PM · comedy · Check current price · The Bell House · Gowanus · Brooklyn · Score 52.6  
+7:00 PM · comedy · Check current price · The Bell House · Gowanus · Brooklyn · Score 54.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/jacqueline-novak-tickets)
 
+#### [Weird Era: How Pitchfork Changed Music Forever](https://booksaremagic.net/events/6664420261201)
+
+7:00 PM · music · From $15 per listing; check conditions · Public Records · Gowanus · Brooklyn · Score 54.0  
+**Timing:** tues 7pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://booksaremagic.net/events/6664420261201) · [Source: The Skint](https://theskint.com/)
+
 #### [Friendsgiving](https://donyc.com/events/2026/11/24/friendsgiving-tickets)
 
-8:00 PM · comedy · Check current price · Littlefield · Gowanus · Brooklyn · Score 52.6  
+8:00 PM · comedy · Check current price · Littlefield · Gowanus · Brooklyn · Score 54.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/friendsgiving-tickets)
 
-#### [Grown Folks Adult Skate ft. DJ Big Bob & Donna Edwards (skate)](https://donyc.com/events/2026/11/24/grown-folks-adult-skate-ft-dj-big-bob-skate-tickets)
-
-8:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 50.4  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/24/grown-folks-adult-skate-ft-dj-big-bob-skate-tickets)
-
-#### [Pretty Major Hosted by Jay Jurden](https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-2003946945258)
-
-7:30 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 49.9  
-Jay Jurden and cohost Tessa Belle welcome Shaunak Godkhindi, Maddy Kelly and Gianmarco Soresi.
-**Timing:** 7:30pm show. Overview says doors 7pm, but ticket metadata conflicts; confirm arrival time.
-**Practical note:** 21+. Lineup subject to change; no refunds.
-**Why now:** Named Tuesday lineup.
-[Official](https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-2003946945258) · [Tickets / booking](https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-2003946945258) · [Source: Union Hall](https://unionhallny.com/calendar)
-
 #### [Annie The Musical](https://donyc.com/events/2026/11/24/annie-the-musical-tickets)
 
-10:00 AM · music · Check current price · Tarrytown Music Hall · Washington Heights · Manhattan · Score 49.6  
+10:00 AM · music · Check current price · Tarrytown Music Hall · Washington Heights · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/annie-the-musical-tickets)
 
+#### [World Aids Day](https://www.nycaidsmemorial.org/wad2026)
+
+12:00 PM · unusual · Check current price · Father Duffy Square · Times Square · Manhattan · Score 51.0  
+**Timing:** tues 12pm-midnight
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://www.nycaidsmemorial.org/wad2026) · [Source: The Skint](https://theskint.com/)
+
 #### [Happy Hour with Vanisha Gould Trio](https://donyc.com/events/2026/11/24/happy-hour-with-vanisha-gould-trio-tickets)
 
-4:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 49.6  
+4:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/happy-hour-with-vanisha-gould-trio-tickets)
 
+#### [Bryant Park Tree Lighting Ceremony](https://bryantpark.org/calendar/event/tree-lighting/2024-12-03)
+
+5:30 PM · outdoors · Check current price · Bryant Park · Midtown · Manhattan · Score 51.0  
+**Timing:** tues 5:30-6:30pm (entry begins at 3:30pm)
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://bryantpark.org/calendar/event/tree-lighting/2024-12-03) · [Source: The Skint](https://theskint.com/)
+
 #### [Del Coda, Off the Hook, Dylan Taganas, and more!](https://donyc.com/events/2026/11/24/del-coda-off-the-hook-dylan-taganas-and-more-tickets)
 
-6:00 PM · music · Check current price · Mercury Lounge · East Village · Manhattan · Score 49.6  
+6:00 PM · music · Check current price · Mercury Lounge · East Village · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/del-coda-off-the-hook-dylan-taganas-and-more-tickets)
 
 #### [Milton Suggs Quartet](https://donyc.com/events/2026/11/24/milton-suggs-quartet-tickets)
 
-6:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 49.6  
+6:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/milton-suggs-quartet-tickets)
 
 #### [Rez Abbasi Quartet](https://donyc.com/events/2026/11/24/rez-abbasi-quartet-tickets)
 
-6:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 49.6  
+6:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/rez-abbasi-quartet-tickets)
 
 #### [: Danna The Bedroom Sessions Us Tour](https://donyc.com/events/2026/11/24/danna-the-bedroom-sessions-us-tour-tickets)
 
-7:00 PM · music · Check current price · Warsaw · Williamsburg · Brooklyn · Score 49.6  
+7:00 PM · music · Check current price · Warsaw · Williamsburg · Brooklyn · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/danna-the-bedroom-sessions-us-tour-tickets)
 
 #### [Baby Smoove](https://donyc.com/events/2026/11/24/baby-smoove-tickets)
 
-7:00 PM · music · Check current price · The Gramercy Theatre · Gramercy · Manhattan · Score 49.6  
+7:00 PM · music · Check current price · The Gramercy Theatre · Gramercy · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/baby-smoove-tickets)
 
 #### [Ghostwoman](https://donyc.com/events/2026/11/24/ghostwoman-tickets)
 
-7:00 PM · music · Check current price · Bowery Ballroom · Chinatown · Manhattan · Score 49.6  
+7:00 PM · music · Check current price · Bowery Ballroom · Chinatown · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/ghostwoman-tickets)
 
 #### [NY Gypsy All-Stars ft. Hüsnü Şenlendirici](https://donyc.com/events/2026/11/24/ny-gypsy-all-stars-ft-husnu-senlendirici-tickets)
 
-7:00 PM · music · Check current price · Drom · East Village · Manhattan · Score 49.6  
+7:00 PM · music · Check current price · Drom · East Village · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/ny-gypsy-all-stars-ft-husnu-senlendirici-tickets)
 
 #### [Nick Gianni w/ Ronnie Burrage, Alexis Marcelo, Dmitry Ishenko Dawn Drake & Zapote! Indeterminate Orchestra Tickets](https://donyc.com/events/2026/11/24/nick-gianni-w-ronnie-burrage-alexis-marcelo-dmitry-ishenko-dawn-drake-zapote-indeterminate-orchestra-tickets-tickets)
 
-7:00 PM · music · Check current price · Nublu 151 · Alphabet City · Manhattan · Score 49.6  
+7:00 PM · music · Check current price · Nublu 151 · Alphabet City · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/nick-gianni-w-ronnie-burrage-alexis-marcelo-dmitry-ishenko-dawn-drake-zapote-indeterminate-orchestra-tickets-tickets)
 
+#### [Pen America Presents: Writers in the Age of Ai](https://pen.org/event/writers-in-the-age-of-ai/)
+
+7:00 PM · unusual · From $15 per listing; check conditions · Goethe-Institut New York · Gramercy · Manhattan · Score 51.0  
+**Timing:** tues 7pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://pen.org/event/writers-in-the-age-of-ai/) · [Source: The Skint](https://theskint.com/)
+
 #### [SOMBR - You Are The Reason Tour](https://donyc.com/events/2026/11/24/sombr-you-are-the-reason-tour-tickets)
 
-7:00 PM · music · Check current price · Madison Square Garden · Midtown · Manhattan · Score 49.6  
+7:00 PM · music · Check current price · Madison Square Garden · Midtown · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/sombr-you-are-the-reason-tour-tickets)
 
+#### [Science Tonight: ‘Ooops All Reporter Sketches’ Edition](https://caveat.nyc/events/science-tonight-ooops-all-reporter-sketches-2026-11-24)
+
+7:00 PM · unusual · From $14.64 per listing; check conditions · Caveat · Lower East Side · Manhattan · Score 51.0  
+**Timing:** tues 7pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://caveat.nyc/events/science-tonight-ooops-all-reporter-sketches-2026-11-24) · [Source: The Skint](https://theskint.com/)
+
 #### [Torture Tuesday: Torture and the Desert Spiders](https://donyc.com/events/2026/11/24/torture-tuesday-torture-and-the-desert-spiders-tickets)
 
-7:00 PM · music · Check current price · Berlin · East Village · Manhattan · Score 49.6  
+7:00 PM · music · Check current price · Berlin · East Village · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/torture-tuesday-torture-and-the-desert-spiders-tickets)
 
 #### [Total Vocal with Deke Sharon: A Holiday Celebration](https://donyc.com/events/2026/11/24/total-vocal-with-deke-sharon-a-holiday-celebration-tickets)
 
-7:00 PM · music · Check current price · Carnegie Hall · Midtown · Manhattan · Score 49.6  
+7:00 PM · music · Check current price · Carnegie Hall · Midtown · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/total-vocal-with-deke-sharon-a-holiday-celebration-tickets)
 
 #### [Tylil's Friendsgiving Fest VIP M&G Add On](https://donyc.com/events/2026/11/24/tylil-s-friendsgiving-fest-vip-m-g-add-on-tickets)
 
-7:00 PM · music · Check current price · Brooklyn Paramount · Downtown Brooklyn · Brooklyn · Score 49.6  
+7:00 PM · music · Check current price · Brooklyn Paramount · Downtown Brooklyn · Brooklyn · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/tylil-s-friendsgiving-fest-vip-m-g-add-on-tickets)
 
 #### [Willie Nile](https://donyc.com/events/2026/11/24/willie-nile-tickets)
 
-7:00 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 49.6  
+7:00 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/willie-nile-tickets)
 
+#### [Pretty Major hosted by Jay Jurden](https://unionhallny.com/calendar)
+
+7:30 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 51.0  
+Jay Jurden and guest co-host Tessa Belle welcome Gianmarco Soresi, Shaunak Godkhindi, Maddy Kelly, and Haley Stiel.
+**Timing:** Overview says 7pm doors; a separate ticket-page field conflicts. Show time is consistently 7:30pm.
+**Practical note:** 21+; lineup subject to change.
+**Why now:** Named November 24 lineup.
+[Official](https://unionhallny.com/calendar) · [Tickets / booking](https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-2003946945258)
+
 #### [Zoe Bayani](https://donyc.com/events/2026/11/24/zoe-bayani-tickets)
 
-7:30 PM · music · Check current price · Baby's All Right · Williamsburg · Brooklyn · Score 49.6  
+7:30 PM · music · Check current price · Baby's All Right · Williamsburg · Brooklyn · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/zoe-bayani-tickets)
 
 #### [Factors Fest Week 4](https://donyc.com/events/2026/11/24/factors-fest-week-4-tickets)
 
-8:00 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 49.6  
+8:00 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/factors-fest-week-4-tickets)
 
+#### [Grown Folks Adult Skate ft. DJ Big Bob & Donna Edwards (skate)](https://donyc.com/events/2026/11/24/grown-folks-adult-skate-ft-dj-big-bob-skate-tickets)
+
+8:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/24/grown-folks-adult-skate-ft-dj-big-bob-skate-tickets)
+
+#### [Kool DJ Red Alert - The Red Alert Experience Gala](https://donyc.com/events/2026/11/24/kool-dj-red-alert-the-red-alert-experience-gala-tickets)
+
+8:00 PM · music · Check current price · Sony Hall · Theater District · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/24/kool-dj-red-alert-the-red-alert-experience-gala-tickets)
+
 #### [Ted Rosenthal Trio](https://donyc.com/events/2026/11/24/ted-rosenthal-trio-tickets)
 
-8:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 49.6  
+8:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/ted-rosenthal-trio-tickets)
 
 #### [The Ennui And The Ecstasy: A Madromantic Evening](https://donyc.com/events/2026/11/24/the-ennui-and-the-ecstasy-a-madromantic-evening-tickets)
 
-8:00 PM · nightlife · Check current price · C'mon Everybody · Bed-Stuy · Brooklyn · Score 49.6  
+8:00 PM · nightlife · Check current price · C'mon Everybody · Bed-Stuy · Brooklyn · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/the-ennui-and-the-ecstasy-a-madromantic-evening-tickets)
 
 #### [Tom Van Horn, Tobin Miller, Meghan Hanley, Jason Choi, Monroe Martin, more!](https://donyc.com/events/2026/11/24/tom-van-horn-tobin-miller-meghan-hanley-jason-choi-monroe-martin-more-tickets)
 
-8:00 PM · comedy · Check current price · Comic Strip Live NYC · Upper East Side · Manhattan · Score 49.6  
+8:00 PM · comedy · Check current price · Comic Strip Live NYC · Upper East Side · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/tom-van-horn-tobin-miller-meghan-hanley-jason-choi-monroe-martin-more-tickets)
 
 #### [Victoria Monet](https://donyc.com/events/2026/11/24/victoria-monet-tickets)
 
-8:00 PM · music · Check current price · Theater at Madison Square Garden · Midtown · Manhattan · Score 49.6  
+8:00 PM · music · Check current price · Theater at Madison Square Garden · Midtown · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/victoria-monet-tickets)
 
 #### [David Gibson Quartet](https://donyc.com/events/2026/11/24/david-gibson-quartet-tickets)
 
-9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 49.6  
+9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/david-gibson-quartet-tickets)
 
 #### [Tony Davis Trio](https://donyc.com/events/2026/11/24/tony-davis-trio-tickets)
 
-9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 49.6  
+9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/tony-davis-trio-tickets)
 
 #### [Richard Perez: I Have To Do This](https://donyc.com/events/2026/11/24/richard-perez-i-have-to-do-this-tickets)
 
-9:30 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 49.6  
+9:30 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/richard-perez-i-have-to-do-this-tickets)
 
+#### [Sagematch](https://caveat.nyc/events/sagematch)
+
+9:30 PM · unusual · From $13.61 per listing; check conditions · Caveat · Lower East Side · Manhattan · Score 51.0  
+**Timing:** tues 9:30pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://caveat.nyc/events/sagematch) · [Source: The Skint](https://theskint.com/)
+
 #### [Jam Session Hosted By Jason Clotter Trio](https://donyc.com/events/2026/11/24/jam-session-hosted-by-jason-clotter-trio-tickets)
 
-11:55 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 49.6  
+11:55 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/jam-session-hosted-by-jason-clotter-trio-tickets)
 
-#### [Kool DJ Red Alert - The Red Alert Experience Gala](https://sonyhall.com/shows/?eid=TWL1539578)
+#### [Vince Giordano and the Nighthawks](https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-23/)
 
-8:00 PM · music · $50–$155 · Sony Hall · Theater District · Manhattan · Score 48.6  
-Red Alert's 70th-birthday and 50-years-of-music celebration lists Teddy Riley, DJ Jazzy Jeff, Kid Capri, DJ Brucie B, DJ Spinna and additional guests.
-**Timing:** Doors 6pm; show 8pm.
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-**Why now:** A milestone birthday and career-anniversary gathering.
-[Official](https://sonyhall.com/shows/?eid=TWL1539578) · [Tickets / booking](https://donyc.com/events/2026/11/24/kool-dj-red-alert-the-red-alert-experience-gala-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/kool-dj-red-alert-the-red-alert-experience-gala-tickets)
+5:30 PM · music · $24.91-$45.76 admission, plus $20 food/beverage minimum · Birdland Theater · Hell's Kitchen · Manhattan · Score 50.0  
+Vince Giordano leads the Nighthawks in a program of vintage jazz and dance-band repertoire.
+**Timing:** Early set listed here; separately ticketed late set at 8:30pm, doors 7:30pm.
+**Practical note:** Ages 10+. Additional $20 food/beverage minimum per person per set.
+**Why now:** Confirmed November 24 performance.
+[Official](https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-23/) · [Tickets / booking](https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225164?REFID=clientsitewp)
+
+#### [Judy Gold](https://newyorkcomedyclub.com/events/judy-gold-2026-11-24193000)
+
+7:30 PM · comedy · $35 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 49.0  
+A headline stand-up appearance by Judy Gold.
+**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
+**Why now:** Dated headline engagement with limited displayed inventory.
+**Book soon:** The public page displayed only one remaining ticket in each individual seating tier.
+[Official](https://newyorkcomedyclub.com/events/judy-gold-2026-11-24193000) · [Tickets / booking](https://newyorkcomedyclub.com/events/judy-gold-2026-11-24193000) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/judy-gold-tickets)
 
 #### [Behind-the-Scenes @ Lincoln Center: Extended Tour Inside Iconic Halls](https://www.meetup.com/newyorkadventureclub/events/317251666/)
 
-2:45 PM · unusual · Score 47.1  
+2:45 PM · unusual · Score 48.0  
 New York Adventure Club Tickets: $55.80 (advance registration required) Click the link below to register for this event: [https://www.nyadventureclub.com/event/2003733944166](https://www.nyadventureclub.com/event/2003733944166) From the New York Philharmonic to the New York City Ballet, Lincoln Center's world-renowned institutions bring to life a 16-acre campus of architecturally significant venu…
 [Official](https://www.meetup.com/newyorkadventureclub/events/317251666/) · [Tickets / booking](https://www.meetup.com/newyorkadventureclub/events/317251666/)
 
 #### [Exclusive Tour Inside the Woolworth Building: NYC’s Cathedral of Commerce](https://www.meetup.com/newyorkadventureclub/events/317184057/)
 
-6:00 PM · unusual · Score 47.1  
+6:00 PM · unusual · Score 48.0  
 New York Adventure Club Tickets: $45.25 (advance registration required) Click the link below to officially register for this experience: [https://www.nyadventureclub.com/event/2003351034874](https://www.nyadventureclub.com/event/2003351034874) In the early 20th century, the Woolworth Building in downtown Manhattan not only dominated the NYC skyline, but also held the title of "tallest building in…
 [Official](https://www.meetup.com/newyorkadventureclub/events/317184057/) · [Tickets / booking](https://www.meetup.com/newyorkadventureclub/events/317184057/)
 
+#### [Farm Community Volunteer Day](https://queensbotanical.org/event/farm-community-volunteer-days-27-68/)
+
+9:30 AM · outdoors · Free; volunteer admission and parking included · Queens Botanical Garden · Flushing · Queens · Score 47.0  
+Learn gardening basics while helping the garden's farm grow produce for local food pantries. Seasonal tasks can include mulching, weeding, harvesting and bed maintenance.
+**Practical note:** Register first; meet at QBG Farm, map location 32. Allow extra walking time around construction. Wear closed-toe shoes and clothes suitable for physical work.
+**Why now:** The garden's calendar specifically lists this November 24 workday.
+[Official](https://queensbotanical.org/event/farm-community-volunteer-days-27-68/) · [Tickets / booking](https://farm-community-volunteer-days-2026.eventbrite.com)
+
 #### [Wonderville's Last Tuesday of the month PLAYTEST](https://www.wonderville.nyc/events/playtest-11-24-26)
 
-7:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 43.9  
+7:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 45.0  
 Playtest Night is EVERY last Tuesday of EVERY month at Wonderville! Come to Wonderville to playtest in production games! If you're a developer, bring your game! No signups required. RSVP #block-04b58139476d72487e0b { --sqs-block-content-flex: 0; } #block-04b58139476d72487e0b { --opacity: 100%; --translate-x: 0px; --translate-y: 0px; --rotation: 0deg; --scale-x: 100%; --scale-y: 100%; --skew-x: 0d…
 [Official](https://www.wonderville.nyc/events/playtest-11-24-26) · [Tickets / booking](https://www.wonderville.nyc/events/playtest-11-24-26)
 
-#### [Judy Gold](https://newyorkcomedyclub.com/events/judy-gold-2026-11-24193000)
+#### [Lincoln Square Bid Magical Lights Ceremony](https://www.lincolnsquarebid.org/holidays/)
 
-7:30 PM · comedy · $35 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 43.6  
-**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
-[Official](https://newyorkcomedyclub.com/events/judy-gold-2026-11-24193000) · [Tickets / booking](https://newyorkcomedyclub.com/events/judy-gold-2026-11-24193000) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/judy-gold-tickets)
+4:30 PM · unusual · Check current price · Score 42.0  
+**Timing:** tues 4:30pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://www.lincolnsquarebid.org/holidays/) · [Source: The Skint](https://theskint.com/)
 
-#### [Farm Community Volunteer Day](https://queensbotanical.org/event/farm-community-volunteer-days-27-68/)
+#### [Tavern on the Green’s Christmas Tree Lighting](https://www.instagram.com/p/Dfh92kIBqpa/)
 
-9:30 AM · outdoors · Fee not stated on the event page. · Queens Botanical Garden · Flushing · Queens · Score 43.4  
-Learn gardening basics while helping prepare QBG's farm, which grows produce for community food pantries.
-**Timing:** 9:30am-noon.
-**Practical note:** Register and check the volunteer meeting instructions. Wear sturdy shoes and clothes suitable for gardening.
-**Why now:** A specifically scheduled Tuesday session before the Thanksgiving closure.
-[Official](https://queensbotanical.org/event/farm-community-volunteer-days-27-68/) · [Tickets / booking](https://farm-community-volunteer-days-2026.eventbrite.com)
+5:30 PM · unusual · Check current price · Score 42.0  
+**Timing:** tues 5:30-8pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://www.instagram.com/p/Dfh92kIBqpa/) · [Source: The Skint](https://theskint.com/)
 
-#### [Pump Up: The Jam](https://www.brooklyncc.com/show-schedule/pumpup-11-24)
+#### [The Seaport’s Holiday Tree Lighting](https://theseaport.nyc/events/holiday-tree-lighting/)
 
-8:30 PM · comedy · Free; suggested donation to BCC's Diversity Scholarship fund · Brooklyn Comedy Collective at Eris · East Williamsburg · Brooklyn · Score 43.0  
-William Banks, Tej Khanna and Maya Sharma host an improv jam pairing participating comedians in mixed groups; spectators are welcome.
-**Timing:** Performer signups 8:15pm; show 8:30pm.
-**Practical note:** Eris Deep Space. 21+; first-come seating. Performing is optional.
-**Why now:** November 24 is individually confirmed, rather than inferred from a weekly recurrence.
-[Official](https://www.brooklyncc.com/show-schedule/pumpup-11-24)
-
-#### [Vince Giordano and the Nighthawks](https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-21/)
-
-5:30 PM · music · $24.91–$45.76 plus $20 minimum · Birdland Theater · Hell's Kitchen · Manhattan · Score 42.0  
-Vince Giordano's Nighthawks perform their vintage-jazz repertoire.
-**Timing:** First set 5:30pm; another separately ticketed set at 8:30pm.
-**Practical note:** Ages 10+. $20 food/drink minimum per person, per set, additional.
-**Why now:** A verified Tuesday booking with an early-evening option.
-[Official](https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-21/) · [Tickets / booking](https://www.ticketweb.com/event/vince-giordano-and-the-nighthawks-birdland-theater-tickets/14225164?REFID=clientsitewp)
-
-#### [The Fantasticks](https://2st.com/shows/the-fantasticks)
-
-7:00 PM · theater · Hayes Theater · Theater District · Manhattan · Score 42.0  
-Christopher Gattelli directs Tom Jones's revised version of the musical, following two boys and their mothers' plan to make them fall in love.
-**Timing:** 125 minutes including a 15-minute intermission.
-**Practical note:** Tuesday's 7pm performance is explicitly listed; no Thanksgiving Thursday performance is published.
-**Why now:** A notable new Broadway interpretation with a verified holiday-week schedule.
-[Official](https://2st.com/shows/the-fantasticks) · [Tickets / booking](https://cart.2st.com/6334/6486) · [Discovered via Playbill Productions](https://playbill.com/productions)
+6:00 PM · unusual · Check current price · Score 42.0  
+**Timing:** tues 6-8pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://theseaport.nyc/events/holiday-tree-lighting/) · [Source: The Skint](https://theskint.com/)
 
 #### [Wild Card Comedy Free Every Tuesday](https://donyc.com/events/2026/11/24/wild-card-comedy-free-every-tuesday-tickets)
 
-8:30 PM · music · Check current price · Alphaville · Bushwick · Brooklyn · Score 40.6  
+8:30 PM · music · Check current price · Alphaville · Bushwick · Brooklyn · Score 42.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/wild-card-comedy-free-every-tuesday-tickets)
 
 #### [Juggling Class](https://donyc.com/events/2026/11/24/juggling-class-tickets)
 
-12:00 PM · workshop · Check current price · Bryant Park · Theater District · Manhattan · Score 37.6  
+12:00 PM · workshop · Check current price · Bryant Park · Theater District · Manhattan · Score 39.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/juggling-class-tickets)
 
-#### [The Goated Mic](https://donyc.com/events/2026/11/24/the-goated-mic-tickets)
+#### [Live Band Karaoke at Arlene’s Grocery](https://www.arlenesgrocerynyc.com/upcoming-events)
 
-5:00 PM · comedy · Check current price · The PIT Loft · Chelsea · Manhattan · Score 36.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/24/the-goated-mic-tickets)
+8:00 PM · unusual · From $10 per listing; check conditions · Arlene’s Grocery · Lower East Side · Manhattan · Score 39.0  
+**Timing:** tues 8pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://www.arlenesgrocerynyc.com/upcoming-events) · [Source: The Skint](https://theskint.com/)
 
 #### [DJ Awesome](https://donyc.com/events/2026/11/24/dj-awesome-tickets)
 
-Time to confirm · music · Check current price · Shrine · Harlem · Manhattan · Score 34.9  
+Time to confirm · music · Check current price · Shrine · Harlem · Manhattan · Score 36.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/dj-awesome-tickets)
 
-#### [Paper Tiger](https://donyc.com/events/2026/11/24/paper-tiger-tickets)
-
-3:15 PM · film · Check current price · Nitehawk Cinema - Williamsburg · Williamsburg · Brooklyn · Score 34.9  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/24/paper-tiger-tickets)
-
 #### [Christmas Spectacular Starring The Radio City Rockettes](https://donyc.com/events/2026/11/24/christmas-spectacular-starring-the-radio-city-rockettes-tickets-3E7EV57)
 
-11:00 AM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 34.6  
+11:00 AM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 36.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/christmas-spectacular-starring-the-radio-city-rockettes-tickets-3E7EV57) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/christmas-spectacular-starring-the-radio-city-rockettes-tickets-lepeKzA) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/christmas-spectacular-starring-the-radio-city-rockettes-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/24/christmas-spectacular-starring-the-radio-city-rockettes-tickets-QrWrJ1g)
 
 #### [Le Carrousel](https://donyc.com/events/2026/11/24/le-carrousel-tickets)
 
-11:00 AM · outdoors · Check current price · Bryant Park · Theater District · Manhattan · Score 34.6  
+11:00 AM · outdoors · Check current price · Bryant Park · Theater District · Manhattan · Score 36.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/le-carrousel-tickets)
 
+#### [Paper Tiger](https://donyc.com/events/2026/11/24/paper-tiger-tickets)
+
+3:15 PM · film · Check current price · Nitehawk Cinema - Williamsburg · Williamsburg · Brooklyn · Score 36.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/24/paper-tiger-tickets)
+
 #### [Laughing Buddha Open Mic](https://donyc.com/events/2026/11/24/laughing-buddha-open-mic-tickets)
 
-4:30 PM · comedy · Check current price · St. Marks Comedy Club · East Village · Manhattan · Score 34.6  
+4:30 PM · comedy · Check current price · St. Marks Comedy Club · East Village · Manhattan · Score 36.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/laughing-buddha-open-mic-tickets)
 
 #### [Make It with Brini Maxwell](https://donyc.com/events/2026/11/24/make-it-with-brini-maxwell-tickets)
 
-6:00 PM · workshop · Check current price · Club Cumming · Alphabet City · Manhattan · Score 34.6  
+6:00 PM · workshop · Check current price · Club Cumming · Alphabet City · Manhattan · Score 36.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/make-it-with-brini-maxwell-tickets)
 
 #### [Live Weekly Bluegrass with Allison Kelly](https://donyc.com/events/2026/11/24/live-weekly-bluegrass-with-allison-kelly-tickets)
 
-8:00 PM · music · Check current price · Lucinda’s · Alphabet City · Manhattan · Score 34.6  
+8:00 PM · music · Check current price · Lucinda’s · Alphabet City · Manhattan · Score 36.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/live-weekly-bluegrass-with-allison-kelly-tickets)
 
 #### [Piano Karaoke with Mark Benjamin](https://donyc.com/events/2026/11/24/piano-karaoke-with-mark-benjamin-tickets)
 
-8:00 PM · nightlife · Check current price · Sid Gold's Request Room · Chelsea · Manhattan · Score 34.6  
+8:00 PM · nightlife · Check current price · Sid Gold's Request Room · Chelsea · Manhattan · Score 36.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/piano-karaoke-with-mark-benjamin-tickets)
 
 #### [Drag Karaoke with Miss Behave](https://donyc.com/events/2026/11/24/drag-karaoke-with-miss-behave-tickets)
 
-10:00 PM · nightlife · Check current price · Club Cumming · Alphabet City · Manhattan · Score 34.6  
+10:00 PM · nightlife · Check current price · Club Cumming · Alphabet City · Manhattan · Score 36.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/drag-karaoke-with-miss-behave-tickets)
 
 #### [Nebula Tuesdays](https://donyc.com/events/2026/11/24/nebula-tuesdays-tickets)
 
-11:00 PM · nightlife · Check current price · Nebula · Theater District · Manhattan · Score 34.6  
+11:00 PM · nightlife · Check current price · Nebula · Theater District · Manhattan · Score 36.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/nebula-tuesdays-tickets)
 
 #### [Glimpse of Greatness](https://donyc.com/events/2026/11/24/glimpse-of-greatness-tickets)
 
-7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 31.6  
+7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 33.0  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/24/glimpse-of-greatness-tickets)
 
 ### 2026-11-25
 
-#### [Interference Archive Collections Work Party](https://interferencearchive.org/event/collections-work-party-23/)
-
-6:30 PM · unusual · Price not exposed on the fetched pages. · Interference Archive · Park Slope · Brooklyn · Score 69.4  
-Help catalog books, file donated materials and process the archive's collection of social-movement culture. No experience is necessary.
-**Timing:** 6:30-8:30pm; the official event page confirms November 25 despite stale August wording in the ticket description.
-**Practical note:** RSVP because space is limited. Bring a laptop if you have one; snacks to share are optional.
-**Why now:** A dated public opportunity to work directly with the collection rather than merely visit an exhibition.
-**Book soon:** The organizer explicitly says space is limited and requests RSVP.
-[Official](https://interferencearchive.org/event/collections-work-party-23/) · [Tickets / booking](https://www.eventbrite.com/e/interference-archive-collections-work-party-112526-tickets-2005145506186)
-
 #### [Lightscape at Brooklyn Botanic Garden](https://www.bbg.org/lightscape)
 
-Time to confirm · outdoors · $39 nonmember adult on this off-peak date, including fees; member adult $33. · Brooklyn Botanic Garden · Crown Heights · Brooklyn · Score 69.0  
-A mile-long illuminated garden trail with large light installations and seasonal drinks and snacks along the route.
-**Timing:** Timed evening entry; choose a 15-minute arrival window. Exact available slots were not exposed.
-**Practical note:** Allow roughly 45-75 minutes. Enter at 990 Washington Avenue; the trail is wheelchair accessible. Regular garden admission does not include Lightscape.
-**Why now:** November 25 is explicitly enabled as an off-peak night; November 23, 24 and 26 are closed.
-**On-sale watch:** A dated Lightscape ticket and entry window are required; live availability was not verified.
-[Official](https://www.bbg.org/lightscape) · [Tickets / booking](https://events.leapevents.com/tickets/lightscape2026/listing/) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/)
-
-#### [Fall Fix-Up in Prospect Park](https://www.prospectpark.org/event/fall-fix-up-5/2026-11-25/)
-
-10:00 AM · outdoors · Free volunteer program. · Prospect Park · Prospect Park · Brooklyn · Score 66.0  
-Help restore paths and playgrounds, paint or rake leaves with Prospect Park Alliance's adult volunteer program.
-**Timing:** 10am-1pm; the meeting location varies by date.
-**Practical note:** Adults only. Registration is needed for the date-specific meeting point; no precise location was published on the event page.
-**Why now:** November 25 is the final date listed in this fall series.
-[Official](https://www.prospectpark.org/event/fall-fix-up-5/2026-11-25/) · [Tickets / booking](https://volunteer.prospectpark.org/acts/webreg/eventwebreglist.php?org_id=0081&event_category_id=246)
-
-#### [Curator's Tour of The Invention of Park Avenue](https://www.skyscraper.org/programs/curators-tour-of-the-invention-of-park-avenue/)
-
-3:00 PM · museums · Free · The Skyscraper Museum · Battery Park City · Manhattan · Score 64.0  
-Museum director Carol Willis explains how Grand Central, rail infrastructure and real estate combined to create Park Avenue.
-**Timing:** Book the 3pm timed ticket.
-**Practical note:** Free, but a timed reservation is required through the museum's RSVP route.
-**Why now:** A dated curator-led program, rather than ordinary gallery hours.
-**On-sale watch:** The curator's tour requires a 3pm timed ticket.
-[Official](https://www.skyscraper.org/programs/curators-tour-of-the-invention-of-park-avenue/) · [Tickets / booking](https://www.skyscraper.org/programs/curators-tour-of-the-invention-of-park-avenue/)
-
-#### [Elsinore: Opening-Day Screening](https://nitehawkcinema.com/prospectpark/movies/elsinore/)
-
-7:45 PM · film · Nitehawk Cinema Prospect Park · Park Slope · Brooklyn · Score 63.0  
-Simon Stone's drama about actor Ian Charleson stars Andrew Scott, Olivia Colman and Billie Piper.
-**Timing:** 111-minute film.
-**Practical note:** The ticket page confirms November 25 at 7:45pm. No guest appearance is advertised.
-**Why now:** Nitehawk announces the film's November 25 opening.
-[Official](https://nitehawkcinema.com/prospectpark/movies/elsinore/) · [Tickets / booking](https://nitehawkcinema.com/prospectpark/purchase/25025509/)
+Time to confirm · outdoors · $39 nonmember adult off-peak; $33 member adult; fees included · Brooklyn Botanic Garden · Crown Heights · Brooklyn · Score 68.0  
+A mile-long illuminated garden trail with large light installations, colored landscapes and seasonal refreshments.
+**Timing:** Confirmed operating date; choose an evening timed-entry slot. Individual session times were not extracted.
+**Practical note:** Enter only at 990 Washington Avenue during the ticket's 15-minute window. Allow roughly 45-75 minutes. The paved trail is wheelchair accessible.
+**Why now:** November 25 is explicitly enabled as an off-peak night on the 2026 calendar.
+[Official](https://www.bbg.org/lightscape) · [Tickets / booking](https://events.leapevents.com/tickets/lightscape2026/listing/) · [Discovered via The Skint](https://theskint.com/)
 
 #### [Holiday Tea at Wave Hill](https://www.wavehill.org/calendar/holiday-tea-2026)
 
-Time to confirm · food · $65 adult; includes garden admission. · Wave Hill House Cafe · Riverdale · Bronx · Score 61.9  
-A seasonal afternoon tea in historic Wave Hill House, featuring sandwiches, pastries and specialty teas.
-**Timing:** Seatings at noon, 1pm and 2pm; meal duration not published. Grounds close at 3pm this day.
-**Practical note:** Check remaining reservations; seven-day advance booking is recommended. Plan any garden walk before the special 3pm closing.
-**Why now:** A confirmed Thanksgiving-eve seating date, before Wave Hill closes for the holiday.
-**Book soon:** The organizer explicitly notes limited availability; remaining tables were not verified.
+12:00 PM · food · $65 adult; includes grounds admission · Wave Hill · Riverdale · Bronx · Score 63.0  
+Holiday tea sandwiches, pastries and specialty teas in Wave Hill House Cafe, with grounds admission included.
+**Timing:** Separate seatings at noon, 13:00 and 14:00; duration is not published.
+**Practical note:** Wave Hill closes early at 15:00 on November 25. Seven-day advance booking is recommended; last-minute table availability was not confirmed.
+**Why now:** A confirmed Thanksgiving-eve seating date before the garden's Thanksgiving closure.
+**Book soon:** The organizer explicitly warns of limited availability.
 [Official](https://www.wavehill.org/calendar/holiday-tea-2026) · [Tickets / booking](https://wavehilltea.square.site/)
 
-#### [Pizzazz with Gary Gulman](https://www.eventbrite.com/e/pizzazz-with-gary-gulman-tickets-2004047837028)
+#### [Elsinore](https://nitehawkcinema.com/prospectpark/movies/elsinore/)
 
-7:30 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 60.7  
-Gary Gulman performs an extended new-material set with guests.
-**Timing:** 7:30pm show. Overview says doors 7pm, but ticket metadata conflicts.
-**Practical note:** 21+. Confirm doors time; no refunds.
-**Why now:** A dated extended set on Thanksgiving eve.
-[Official](https://www.eventbrite.com/e/pizzazz-with-gary-gulman-tickets-2004047837028) · [Tickets / booking](https://www.eventbrite.com/e/pizzazz-with-gary-gulman-tickets-2004047837028) · [Source: Union Hall](https://unionhallny.com/calendar)
+7:45 PM · film · Nitehawk Cinema Prospect Park · Park Slope · Brooklyn · Score 63.0  
+Simon Stone's drama about actor Ian Charleson stars Andrew Scott, Olivia Colman, and Billie Piper.
+**Timing:** 111-minute film; arrive 30 minutes before showtime.
+**Practical note:** Generally 18+; no late access. Food and drinks cost extra.
+**Why now:** November 25 opening-week screening at the Prospect Park location.
+[Official](https://nitehawkcinema.com/prospectpark/movies/elsinore/) · [Tickets / booking](https://nitehawkcinema.com/prospectpark/purchase/25025509/)
+
+#### [Pizzazz with Gary Gulman](https://unionhallny.com/calendar)
+
+7:30 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 61.6  
+Gary Gulman's Pizzazz returns to Union Hall.
+**Timing:** Overview says 7pm doors; a separate ticket-page field conflicts. Show time is 7:30pm.
+**Practical note:** 21+.
+**Why now:** Confirmed Thanksgiving-eve performance.
+[Official](https://unionhallny.com/calendar) · [Tickets / booking](https://www.eventbrite.com/e/pizzazz-with-gary-gulman-tickets-2004047837028)
+
+#### [Curator's Tour of The Invention of Park Avenue](https://www.skyscraper.org/programs/curators-tour-of-the-invention-of-park-avenue/)
+
+3:00 PM · museums · Free · The Skyscraper Museum · Battery Park City · Manhattan · Score 60.0  
+Director Carol Willis explains how Grand Central, rail infrastructure, and real estate shaped Park Avenue.
+**Practical note:** Free timed reservation required; this is an indoor gallery tour.
+**Why now:** The official programs page dates this curator-led tour to November 25.
+[Official](https://www.skyscraper.org/programs/curators-tour-of-the-invention-of-park-avenue/) · [Tickets / booking](https://www.skyscraper.org/programs/curators-tour-of-the-invention-of-park-avenue/)
+
+#### [Interference Archive Collections Work Party](https://interferencearchive.org/event/collections-work-party-23/)
+
+6:30 PM · unusual · Price not displayed on the readable ticket page · Interference Archive · Gowanus · Brooklyn · Score 59.4  
+Help catalog, file and organize social-movement materials at a volunteer-run archive. Projects can include donation processing, library records and digital finding aids.
+**Timing:** The official calendar and ticket heading confirm November 25; the ticket description contains a stale August reference.
+**Practical note:** No experience is necessary. Reserve a place and bring a laptop if possible.
+**Why now:** The archive's November monthly collections work party.
+[Official](https://interferencearchive.org/event/collections-work-party-23/) · [Tickets / booking](https://www.eventbrite.com/e/interference-archive-collections-work-party-112526-tickets-2005145506186)
 
 #### [Thanksgiving Eve Dead Bowl: BLAHSUM / CHEETATAH](https://brooklyn.brooklynbowl.com/events/detail/blahsum-cheetatah)
 
-8:00 PM · music · Free · Brooklyn Bowl · Williamsburg · Brooklyn · Score 58.9  
-BLAHSUM and CHEETATAH share a free Thanksgiving-eve concert.
+8:00 PM · music · Free · Brooklyn Bowl · Williamsburg · Brooklyn · Score 59.1  
+BLAHSUM and CHEETATAH play a free Thanksgiving Eve bill.
 **Timing:** Doors 6pm; show 8pm.
-**Practical note:** All ages. Free RSVP through the venue's linked ticket page.
-**Why now:** A free, specifically programmed holiday-eve bill.
+**Practical note:** All ages. Official page provides a free RSVP link.
+**Why now:** Special November 25 holiday-eve bill.
 [Official](https://brooklyn.brooklynbowl.com/events/detail/blahsum-cheetatah) · [Tickets / booking](https://www.universe.com/events/thanksgiving-eve-dead-bowl-blahsum-cheetatah-tickets-NX2J61) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/25/blahsum-cheetatah-tickets)
 
 #### [News from Home + Interior NY Subway, 14th Street](https://metrograph.com/film/9999005065-news-from-home-interior-ny-subway-14th-street/)
 
-3:30 PM · film · Metrograph · Lower East Side · Manhattan · Score 58.3  
-Chantal Akerman's New York city portrait screens in its English-voiceover version alongside G. W. Bitzer's early subway film.
+3:30 PM · film · Metrograph · Lower East Side · Manhattan · Score 58.9  
+Chantal Akerman's New York film screens with G. W. Bitzer's early subway short in the Trains: Local Routes series.
 **Timing:** 91-minute combined program.
-**Practical note:** The page's curator introduction refers to November 1, not this screening.
-**Why now:** A published Wednesday program in Trains: Local Routes.
+**Practical note:** The advertised curator introduction occurred November 1, not at this screening.
+**Why now:** A dated city-focused repertory double bill.
 [Official](https://metrograph.com/film/9999005065-news-from-home-interior-ny-subway-14th-street/) · [Tickets / booking](https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31500)
 
 #### [NYC Resistor Ham Radio Club](https://www.eventbrite.com/e/nycresistor-ham-radio-club-tickets-1112940648439)
 
-8:00 PM · unusual · Free. · NYC Resistor · Boerum Hill · Brooklyn · Score 57.3  
-A public radio-hobbyist gathering for antennas, repairs and radio projects; neither a ham license nor Resistor membership is needed.
-**Timing:** 8-9:30pm.
-**Practical note:** 18+; fourth-floor makerspace. Masks are optional for this session.
-**Why now:** The November fourth-Wednesday meeting is distinct from the fixed Monday/Thursday craft nights.
+8:00 PM · unusual · Free · NYC Resistor · Boerum Hill · Brooklyn · Score 57.9  
+A public gathering for amateur-radio projects, questions and experimentation. A radio license is not required to attend.
+**Practical note:** Ages 18 and up; fourth-floor walkup. Bring a project if you have one. Masks are optional for this event.
+**Why now:** The fourth-Wednesday meeting falls on November 25.
 [Official](https://www.eventbrite.com/e/nycresistor-ham-radio-club-tickets-1112940648439) · [Tickets / booking](https://www.eventbrite.com/e/nycresistor-ham-radio-club-tickets-1112940648439)
 
-#### [The Fantasticks: Wednesday Matinee](https://2st.com/shows/the-fantasticks)
+#### [Ian Fidance, Dean Edwards, Katie Boyle, Neko White, Nick Tilleli](https://newyorkcomedyclub.com/events/ian-fidance-dean-edwards-katie-boyle-neko-white-nick-tilleli)
 
-2:00 PM · theater · Hayes Theater · Theater District · Manhattan · Score 57.0  
-Tom Jones and Harvey Schmidt's musical receives a revised, queer-centered interpretation directed by Christopher Gattelli.
-**Timing:** 125 minutes including intermission. A separate 7pm performance is also published.
-**Practical note:** Select November 25 at 2pm in the official ticket calendar.
-**Why now:** Verified pre-Thanksgiving matinee.
-[Official](https://2st.com/shows/the-fantasticks) · [Tickets / booking](https://cart.2st.com/6334/6487) · [Discovered via Playbill Productions](https://playbill.com/productions)
-
-#### [Chief Adjuah — Wednesday](https://www.bluenotejazz.com/nyc/tm-event/chief-adjuah-9/)
-
-8:00 PM · music · Ticket price unknown; $20 minimum additional · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 57.0  
-Chief Adjuah opens a four-night engagement exploring his genre-crossing Stretch Music.
-**Timing:** First show 8pm; separate 10:30pm show also listed.
-**Practical note:** $20 food/drink minimum additional. Tables all ages; bar 21+. Ticket price unverified.
-**Why now:** Opening night of the November 25–28 engagement.
-[Official](https://www.bluenotejazz.com/nyc/tm-event/chief-adjuah-9/) · [Tickets / booking](https://www.ticketweb.com/event/chief-adjuah-blue-note-jazz-club-tickets/15032663?pl=bluenoteny) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/25/chief-adjuah-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/25/chief-adjuah-tickets-vmnkajr)
-
-#### [Ian Fidance, Katie Boyle and Nick Tilleli](https://newyorkcomedyclub.com/events/ian-fidance-katie-boyle-nick-tilleli)
-
-7:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 56.4  
-A named multi-comic stand-up showcase featuring Ian Fidance, Katie Boyle and Nick Tilleli.
-**Timing:** 7pm; premium seating requires arrival 30 minutes early.
+7:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 57.0  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
-**Why now:** An explicitly published Thanksgiving-eve lineup.
-[Official](https://newyorkcomedyclub.com/events/ian-fidance-katie-boyle-nick-tilleli) · [Tickets / booking](https://newyorkcomedyclub.com/events/ian-fidance-katie-boyle-nick-tilleli)
+[Official](https://newyorkcomedyclub.com/events/ian-fidance-dean-edwards-katie-boyle-neko-white-nick-tilleli) · [Tickets / booking](https://newyorkcomedyclub.com/events/ian-fidance-dean-edwards-katie-boyle-neko-white-nick-tilleli)
 
-#### [Golden Age of EDM Party with DJ K Styles](https://lpr.com/lpr_events/edmnov226nyc/)
+#### [Good Eggs ft: Seaton Smith, Gary Vider, Chloe Radcliffe, Jilberto Soto, Matt Ruby, Peter Revello](https://newyorkcomedyclub.com/events/seaton-smith-gary-vider-chloe-radcliffe-jilberto-soto-matt-ruby-peter-revello)
 
-9:00 PM · nightlife · $15–$110 · Le Poisson Rouge · Greenwich Village · Manhattan · Score 55.9  
-DJ K Styles leads a party devoted to the 2010s EDM era.
-**Timing:** Official page gives both doors and programme start as 9pm.
-**Practical note:** 21+. Advance ticket categories $15–$110; day-of categories $25–$110.
-**Why now:** A themed Thanksgiving-eve dance party.
-[Official](https://lpr.com/lpr_events/edmnov226nyc/) · [Tickets / booking](https://kyd.to/Uo1RMiFI) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/25/the-golden-age-of-edm-party-w-dj-k-styles-tickets)
-
-#### [The Housemaid](https://metrograph.com/film/9999003128-the-housemaid/)
-
-7:30 PM · film · Metrograph · Lower East Side · Manhattan · Score 55.3  
-Kim Ki-young's 1960 Korean domestic thriller screens in a restored digital presentation.
-**Timing:** 108-minute film.
-**Practical note:** Part of All Happy Families Are Alike.
-**Why now:** A single published Wednesday screening.
-[Official](https://metrograph.com/film/9999003128-the-housemaid/) · [Tickets / booking](https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31502)
+8:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 57.0  
+**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
+[Official](https://newyorkcomedyclub.com/events/seaton-smith-gary-vider-chloe-radcliffe-jilberto-soto-matt-ruby-peter-revello) · [Tickets / booking](https://newyorkcomedyclub.com/events/seaton-smith-gary-vider-chloe-radcliffe-jilberto-soto-matt-ruby-peter-revello)
 
 #### [Ian Fidance, Jack Finnegan, Neko White, Philipp Kostelecky](https://newyorkcomedyclub.com/events/ian-fidance-jack-finnegan-neko-white-philipp-kostelecky)
 
-7:45 PM · comedy · $25 + fees / club minimum · New York Comedy Club · Gramercy · Manhattan · Score 55.3  
+7:45 PM · comedy · $25 + fees / club minimum · New York Comedy Club · Gramercy · Manhattan · Score 55.9  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
 [Official](https://newyorkcomedyclub.com/events/ian-fidance-jack-finnegan-neko-white-philipp-kostelecky) · [Tickets / booking](https://newyorkcomedyclub.com/events/ian-fidance-jack-finnegan-neko-white-philipp-kostelecky)
 
 #### [The 30/30 Series ft. Secret Headliner & Caroline Hanes](https://newyorkcomedyclub.com/events/the-30-30-series-ft-secret-headliner-caroline-hanes)
 
-9:15 PM · comedy · $25 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 55.3  
+9:15 PM · comedy · $25 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 55.9  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
 [Official](https://newyorkcomedyclub.com/events/the-30-30-series-ft-secret-headliner-caroline-hanes) · [Tickets / booking](https://newyorkcomedyclub.com/events/the-30-30-series-ft-secret-headliner-caroline-hanes)
 
-#### [Andy Loebs, Jack Alboher and Plaase](https://dice.fm/event/g7op5b-andy-loebs-jack-alboher-plaase-25th-nov-cassette-new-york-city-tickets)
-
-Doors 7:30 PM · music · $18.04 listed · Cassette · Ridgewood · Queens · Score 55.0  
-Andy Loebs, Jack Alboher and Plaase share an independent electronic and experimental bill.
-**Timing:** Date and 7:30pm doors verified; a separate performance start was not published.
-**Practical note:** 21+. Listed ticket $18.04. Confirm performance time before travelling.
-**Why now:** A dated Queens alternative on Thanksgiving eve.
-[Official](https://dice.fm/event/g7op5b-andy-loebs-jack-alboher-plaase-25th-nov-cassette-new-york-city-tickets) · [Tickets / booking](https://dice.fm/event/g7op5b-andy-loebs-jack-alboher-plaase-25th-nov-cassette-new-york-city-tickets) · [Discovered via NYC Noise](https://nyc-noise.com/)
-
-#### [The Slim Kings with Alma Muñeca](https://wl.eventim.us/event/the-slim-kings/707794?afflky=BabysAllRightBrooklyn)
-
-9:30 PM · music · $28.46 listed · Baby's All Right · Williamsburg · Brooklyn · Score 54.9  
-The Slim Kings headline with support from Alma Muñeca.
-**Timing:** Detailed event text specifies 9:30pm show and 9pm doors; header instead says 9pm show. Confirm the discrepancy.
-**Practical note:** 21+. Listed ticket $28.46; additional tax may apply.
-**Why now:** A named live-band alternative to Wednesday's DJ parties.
-[Official](https://wl.eventim.us/event/the-slim-kings/707794?afflky=BabysAllRightBrooklyn) · [Tickets / booking](https://wl.eventim.us/event/the-slim-kings/707794?afflky=BabysAllRightBrooklyn)
-
 #### [Family Portraits](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62312)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 54.7  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
 Here the filmmakers create portraits of their parents, children, siblings, or other relatives, with the resultant films – not surprisingly – proving especially lyrical, emotional, and poetic in their contemplation of aging and loss. Edward Owens REMEMBRANCE: A PORTRAIT STUDY (1967, 6 min, 16mm) Edward Owens PRIVATE IMAGININGS AND NARRATIVE FACTS (1968-70, 9 min, 16mm, silent) Robert Beavers PITCH…
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62312) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62312)
 
 #### [Gloria Danger: Budino, Very DJs and Will Automagic](https://goodroombk.com/)
 
-Time to confirm · nightlife · Price unverified · Good Room · Greenpoint · Brooklyn · Score 54.7  
-Gloria Danger features Budino, Very DJs comprising ThoughtKnot and PDG, and Will Automagic.
-**Timing:** November 25 lineup verified on the venue calendar; start, doors and end times unavailable.
-**Practical note:** RA ticket page returned 403; confirm hours, age policy, price and admission availability.
-**Why now:** A specifically announced Thanksgiving-eve party.
+Time to confirm · nightlife · Price unverified · Good Room · Greenpoint · Brooklyn · Score 55.6  
+Gloria Danger brings Budino, Very DJs (ThoughtKnot and PDG), and Will Automagic to Good Room.
+**Timing:** November 25 is confirmed; opening and set times were not exposed. Date-only start is not an all-day designation.
+**Practical note:** Check entry time, age restriction and price before booking; the linked RA page returned 403.
+**Why now:** Official November 25 lineup.
 [Official](https://goodroombk.com/) · [Tickets / booking](https://ra.co/events/2569807)
 
 #### [Music Is Music + Before It's Too Late](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62213)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 54.7  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
 Mathieu Amalric MUSIC IS MUSIC 2017, 20 min, DCP “In a poetic composition of song, narration, and images, this film follows Canadian soprano and orchestra conductor Barbara Hannigan, accompanied by the Ludwig Orchestra, as she records her album ‘Crazy Girl Crazy’. Why did she choose these three pieces, in essence so different, but which intimately resonate with her: Berio’s ‘Sequenza III’, Berg’s…
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62213) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62213)
 
 #### [Self-portraits](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62314)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 54.7  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
 Just as the realm of two-dimensional portraiture has always encompassed self-portraiture, so too has the corresponding practice within cinema. This program collects instances of filmmakers turning the camera on themselves, or using the techniques of animation to explore their own appearances and identities. Tehching Hsieh TIME CLOCK PIECE (ONE YEAR PERFORMANCE 1980-1981) (1980-81, 7 min, 16mm, si…
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62314) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62314)
 
 #### [Zorn III](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62203)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 54.7  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
 Mathieu Amalric ZORN III (2018-2022) 2022, 82 min, DCP. With John Zorn and Barbara Hannigan. “Why can’t Mathieu Amalric stop filming John Zorn? It’s because consciously or unconsciously, he understands that he can only get closer to this man if he imitates his restlessness. It’s this Sisyphean tirelessness, the fact that we must imagine Zorn (whose surname translates into German as anger) as a ha…
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62203) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62203)
 
 #### [Dean Edwards, Simeon Goodson, Fabrizio Copano, Chloe Radcliffe, Max Antonucci](https://newyorkcomedyclub.com/events/dean-edwards-simeon-goodson-fabrizio-copano-chloe-radcliffe-max-antonucci)
 
-10:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club · Gramercy · Manhattan · Score 54.7  
+10:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club · Gramercy · Manhattan · Score 55.6  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
 [Official](https://newyorkcomedyclub.com/events/dean-edwards-simeon-goodson-fabrizio-copano-chloe-radcliffe-max-antonucci) · [Tickets / booking](https://newyorkcomedyclub.com/events/dean-edwards-simeon-goodson-fabrizio-copano-chloe-radcliffe-max-antonucci)
 
 #### [Jordan Rock, Calise Hawkins, Jenny Zigrino, Jack Finnegan, Jared Harvin](https://newyorkcomedyclub.com/events/jordan-rock-calise-hawkins-jenny-zigrino-jack-finnegan-jared-harvin)
 
-10:30 PM · comedy · $25 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 54.7  
+10:30 PM · comedy · $25 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 55.6  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
 [Official](https://newyorkcomedyclub.com/events/jordan-rock-calise-hawkins-jenny-zigrino-jack-finnegan-jared-harvin) · [Tickets / booking](https://newyorkcomedyclub.com/events/jordan-rock-calise-hawkins-jenny-zigrino-jack-finnegan-jared-harvin)
 
-#### [NYC Trivia League at Cahoots](https://www.cahootsnyc.com/event-details/nyc-trivia-league-2026-11-25-18-30)
+#### [The Slim Kings with Alma Muñeca](https://wl.eventim.us/event/the-slim-kings/707794?afflky=BabysAllRightBrooklyn)
 
-6:30 PM · unusual · Entry fee and any purchase requirement are not published. · Cahoots · East Village · Manhattan · Score 53.9  
-Weekly amateur trivia with NYC Trivia League at an East Village cafe and cocktail bar.
-**Timing:** Venue lists 6:30-10:30pm; individual trivia-round timing is not specified.
-**Practical note:** The event page says tickets are not on sale; it does not explain whether admission is walk-in or requires another RSVP. Confirm participation arrangements before going.
-**Why now:** The venue has an event-specific November 25 listing.
-[Official](https://www.cahootsnyc.com/event-details/nyc-trivia-league-2026-11-25-18-30) · [Discovered via Grub Street](https://www.grubstreet.com/2026/11/best-new-food-nyc-november-19.html)
+9:30 PM · music · $28.46 advance; possible additional tax · Baby's All Right · Williamsburg · Brooklyn · Score 55.1  
+The Slim Kings perform with Alma Muñeca on Thanksgiving Eve.
+**Timing:** Detailed listing says doors 9pm/show 9:30pm; the page header instead says show 9pm. Confirm the discrepancy before traveling.
+**Practical note:** 21+. Listed online price may have tax added at checkout.
+**Why now:** November 25 two-act bill.
+[Official](https://wl.eventim.us/event/the-slim-kings/707794?afflky=BabysAllRightBrooklyn) · [Tickets / booking](https://wl.eventim.us/event/the-slim-kings/707794?afflky=BabysAllRightBrooklyn)
+
+#### [Andy Loebs, Jack Alboher and Plaase](https://dice.fm/event/g7op5b-andy-loebs-jack-alboher-plaase-25th-nov-cassette-new-york-city-tickets)
+
+7:30 PM · music · $18.04 listed ticket · Cassette · Ridgewood · Queens · Score 55.0  
+Andy Loebs, Jack Alboher and Plaase share a small-room bill at Cassette.
+**Timing:** Doors 7:30pm; no separate performance start was published in the accessible ticket listing. Time re-verified against the venue.
+**Practical note:** 21+. Confirm performance timing before planning connections.
+**Why now:** November 25 three-act concert.
+[Official](https://dice.fm/event/g7op5b-andy-loebs-jack-alboher-plaase-25th-nov-cassette-new-york-city-tickets) · [Tickets / booking](https://dice.fm/event/g7op5b-andy-loebs-jack-alboher-plaase-25th-nov-cassette-new-york-city-tickets) · [Discovered via NYC Noise](https://nyc-noise.com/event/14334)
 
 #### [DayBreak, Woah Nelliee, Hugh Miles & Travis George](https://www.elsewhere.club/events/2003715932292)
 
-10:00 PM · music · $20 · Elsewhere · Ridgewood · Queens · Score 53.7  
-A multi-room electronic night with DayBreak, Woah Nelliee in Zone One, and Hugh Miles and Travis George in the Loft.
-**Timing:** Organizer's Eventbrite page verifies the party runs 10pm–3am; individual DJ set times are unpublished.
+10:00 PM · music · $20 · Elsewhere · Ridgewood · Queens · Score 54.6  
+A multi-room electronic club night with DayBreak, Woah Nelliee in Zone One, and Hugh Miles and Travis George in the Loft.
+**Timing:** Organizer's Eventbrite page confirms the party runs 10pm-3am; individual DJ set times are unpublished.
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-**Why now:** A full-venue Thanksgiving-eve lineup.
+**Why now:** Thanksgiving Eve party on November 25.
 [Official](https://www.elsewhere.club/events/2003715932292) · [Tickets / booking](https://donyc.com/events/2026/11/25/daybreak-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/25/daybreak-tickets)
+
+#### [Macy’s Thanksgiving Day Parade Balloon Inflation](https://mommypoppins.com/new-york-city-kids/fall-activities/see-the-macys-thanksgiving-day-parade-balloon-inflation-with-kids)
+
+1:00 PM · festival · Free; confirm registration · W 72nd St and Columbus Ave · Upper West Side · Manhattan · Score 54.0  
+**Timing:** weds 1-6pm (line opens at 12pm)
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://mommypoppins.com/new-york-city-kids/fall-activities/see-the-macys-thanksgiving-day-parade-balloon-inflation-with-kids) · [Source: The Skint](https://theskint.com/)
+
+#### [Prospect Park Fall Fix-Up](https://www.prospectpark.org/event/fall-fix-up-5/2026-11-25/)
+
+10:00 AM · outdoors · Free · Prospect Park · Prospect Park · Brooklyn · Score 53.4  
+An adult volunteer session helping maintain the park through seasonal work such as leaf raking, path and playground care, or painting.
+**Practical note:** Adults only. Meeting locations vary and are supplied after registration; wear work clothes and sturdy shoes.
+**Why now:** A specifically scheduled November 25 park-care session.
+[Official](https://www.prospectpark.org/event/fall-fix-up-5/2026-11-25/) · [Tickets / booking](https://volunteer.prospectpark.org/acts/webreg/eventwebreglist.php?org_id=0081&event_category_id=246)
+
+#### [Niche Night NYC: Dad Rock vs. Cig Mom Rock](https://www.instagram.com/p/DfpxoasIZaO/)
+
+7:00 PM · unusual · Free; confirm registration · Bar Freda · Ridgewood · Queens · Score 53.0  
+**Timing:** weds 7pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://www.instagram.com/p/DfpxoasIZaO/) · [Source: The Skint](https://theskint.com/)
 
 #### [FREE SHOW: The Piggies, The Minarets, + Special Guests](https://donyc.com/events/2026/11/25/free-show-the-piggies-the-minarets-special-guests-tickets)
 
-7:00 PM · music · Check current price · Union Pool · Williamsburg · Brooklyn · Score 51.7  
+7:00 PM · music · Check current price · Union Pool · Williamsburg · Brooklyn · Score 52.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/free-show-the-piggies-the-minarets-special-guests-tickets)
 
+#### [Glamdammit: 22nd Anniversary](https://www.ticketweb.com/event/glamdammit-twenty-two-year-anniversary-bowery-palace-tickets/14392844)
+
+8:00 PM · unusual · From $15 per listing; check conditions · Bowery Palace · East Village · Manhattan · Score 51.0  
+**Timing:** weds 8pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://www.ticketweb.com/event/glamdammit-twenty-two-year-anniversary-bowery-palace-tickets/14392844) · [Source: The Skint](https://theskint.com/)
+
+#### [Thanksgiving Eve: Club Cardio](https://donyc.com/events/2026/11/25/thanksgiving-eve-club-cardio-tickets)
+
+10:00 PM · music · Check current price · Pianos · East Village · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/25/thanksgiving-eve-club-cardio-tickets)
+
+#### [The Golden Age of EDM Party w/ DJ K Styles](https://donyc.com/events/2026/11/25/the-golden-age-of-edm-party-w-dj-k-styles-tickets)
+
+9:00 PM · music · Check current price · Le Poisson Rouge · Greenwich Village · Manhattan · Score 50.4  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/25/the-golden-age-of-edm-party-w-dj-k-styles-tickets)
+
+#### [Chief Adjuah](https://donyc.com/events/2026/11/25/chief-adjuah-tickets)
+
+8:00 PM · music · Check current price · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 50.1  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/25/chief-adjuah-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/25/chief-adjuah-tickets-vmnkajr)
+
 #### [Brooklyn Music Lab](https://donyc.com/events/2026/11/25/brooklyn-music-lab-tickets)
 
-6:30 PM · music · Check current price · Baby's All Right · Williamsburg · Brooklyn · Score 49.3  
+6:30 PM · music · Check current price · Baby's All Right · Williamsburg · Brooklyn · Score 49.9  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/brooklyn-music-lab-tickets)
 
 #### [GET STUFFED with DJ E.N](https://donyc.com/events/2026/11/25/get-stuffed-with-dj-e-n-tickets)
 
-10:00 PM · nightlife · Check current price · Club Cumming · Alphabet City · Manhattan · Score 49.3  
+10:00 PM · nightlife · Check current price · Club Cumming · Alphabet City · Manhattan · Score 49.9  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/get-stuffed-with-dj-e-n-tickets)
 
 #### [Happy Hour with Steve Nelson Trio](https://donyc.com/events/2026/11/25/happy-hour-with-steve-nelson-trio-tickets)
 
-4:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 48.7  
+4:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/happy-hour-with-steve-nelson-trio-tickets)
 
 #### [Gotham Jazz](https://donyc.com/events/2026/11/25/gotham-jazz-tickets)
 
-5:00 PM · nightlife · Check current price · Somewhere Nowhere · Chelsea · Manhattan · Score 48.7  
+5:00 PM · nightlife · Check current price · Somewhere Nowhere · Chelsea · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/gotham-jazz-tickets)
 
 #### [25 Years Gone: Jeff Slate & Friends Celebrate the Music of George Harrison](https://donyc.com/events/2026/11/25/25-years-gone-jeff-slate-friends-celebrate-the-music-of-george-harrison-tickets)
 
-6:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 48.7  
+6:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/25-years-gone-jeff-slate-friends-celebrate-the-music-of-george-harrison-tickets)
 
 #### [Steve Johns Sextet](https://donyc.com/events/2026/11/25/steve-johns-sextet-tickets)
 
-6:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 48.7  
+6:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/steve-johns-sextet-tickets)
 
 #### [The Deep Drags](https://donyc.com/events/2026/11/25/the-deep-drags-tickets)
 
-6:00 PM · music · Check current price · Mercury Lounge · East Village · Manhattan · Score 48.7  
+6:00 PM · music · Check current price · Mercury Lounge · East Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/the-deep-drags-tickets)
 
 #### [CK Artist Spotlight featuring Jackson Whalan, Sohil & More](https://donyc.com/events/2026/11/25/ck-artist-spotlight-featuring-jackson-whalan-sohil-more-tickets)
 
-6:30 PM · music · Check current price · Arlene's Grocery · East Village · Manhattan · Score 48.7  
+6:30 PM · music · Check current price · Arlene's Grocery · East Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/ck-artist-spotlight-featuring-jackson-whalan-sohil-more-tickets)
 
 #### [Anthony Ramos Noches de Familia Tickets The Brothers & Friends feat. Mark Whitfield Tickets](https://donyc.com/events/2026/11/25/anthony-ramos-noches-de-familia-tickets-the-brothers-friends-feat-mark-whitfield-tickets-tickets)
 
-7:00 PM · music · Check current price · Nublu 151 · Alphabet City · Manhattan · Score 48.7  
+7:00 PM · music · Check current price · Nublu 151 · Alphabet City · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/anthony-ramos-noches-de-familia-tickets-the-brothers-friends-feat-mark-whitfield-tickets-tickets)
 
 #### [Danna The Bedroom Sessions Us Tour](https://donyc.com/events/2026/11/25/danna-tickets)
 
-7:00 PM · music · Check current price · Warsaw · Williamsburg · Brooklyn · Score 48.7  
+7:00 PM · music · Check current price · Warsaw · Williamsburg · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/danna-tickets)
 
 #### [Evolfo, Braxton Marbury, Special Guest DJ](https://donyc.com/events/2026/11/25/evolfo-braxton-marbury-special-guest-dj-tickets)
 
-7:00 PM · music · Check current price · Alphaville · Bushwick · Brooklyn · Score 48.7  
+7:00 PM · music · Check current price · Alphaville · Bushwick · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/evolfo-braxton-marbury-special-guest-dj-tickets)
 
 #### [Jeff Hiller Reads (to) You](https://donyc.com/events/2026/11/25/jeff-hiller-reads-to-you-tickets)
 
-7:00 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 48.7  
+7:00 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/jeff-hiller-reads-to-you-tickets)
 
 #### [Movie Mausoleum: Paranormal Activity](https://donyc.com/events/2026/11/25/movie-mausoleum-paranormal-activity-tickets)
 
-7:00 PM · film · Check current price · Red Eye NY · Hell's Kitchen · Manhattan · Score 48.7  
+7:00 PM · film · Check current price · Red Eye NY · Hell's Kitchen · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/movie-mausoleum-paranormal-activity-tickets)
 
 #### [toomanystrikers, Dragnutz, Jaeychino, Killjae, Tovi, SlimeGetEm](https://donyc.com/events/2026/11/25/dragnutz-jaeychino-killjae-tovi-slimegetem-tickets)
 
-7:00 PM · music · Check current price · The Gramercy Theatre · Gramercy · Manhattan · Score 48.7  
+7:00 PM · music · Check current price · The Gramercy Theatre · Gramercy · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/dragnutz-jaeychino-killjae-tovi-slimegetem-tickets)
 
 #### [New York Knicks vs. Cleveland Cavaliers](https://donyc.com/events/2026/11/25/new-york-knicks-vs-cleveland-cavaliers-tickets)
 
-7:30 PM · sports · Check current price · Madison Square Garden · Midtown · Manhattan · Score 48.7  
+7:30 PM · sports · Check current price · Madison Square Garden · Midtown · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/new-york-knicks-vs-cleveland-cavaliers-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/25/new-york-knicks-tickets)
 
 #### [Brian Charette Quartet](https://donyc.com/events/2026/11/25/brian-charette-quartet-tickets)
 
-8:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 48.7  
+8:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/brian-charette-quartet-tickets)
 
 #### [Finger Bang](https://donyc.com/events/2026/11/25/finger-bang-tickets)
 
-8:00 PM · nightlife · Check current price · C'mon Everybody · Bed-Stuy · Brooklyn · Score 48.7  
+8:00 PM · nightlife · Check current price · C'mon Everybody · Bed-Stuy · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/finger-bang-tickets)
 
 #### [Glamdammit : Twenty-Two Year Anniversary](https://donyc.com/events/2026/11/25/glamdammit-twenty-two-year-anniversary-tickets)
 
-8:00 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 48.7  
+8:00 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/glamdammit-twenty-two-year-anniversary-tickets)
 
 #### [Sheba Mason, Michele Balan, Tobin Miller, Elyse DeLucci, Matt Pavich, more!](https://donyc.com/events/2026/11/25/sheba-mason-michele-balan-tobin-miller-elyse-delucci-matt-pavich-more-tickets)
 
-8:00 PM · comedy · Check current price · Comic Strip Live NYC · Upper East Side · Manhattan · Score 48.7  
+8:00 PM · comedy · Check current price · Comic Strip Live NYC · Upper East Side · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/sheba-mason-michele-balan-tobin-miller-elyse-delucci-matt-pavich-more-tickets)
 
 #### [Wednesday on Wheels ft. Tone Capo (skate)](https://donyc.com/events/2026/11/25/wednesday-on-wheels-ft-tone-capo-skate-tickets)
 
-8:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 48.7  
+8:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/wednesday-on-wheels-ft-tone-capo-skate-tickets)
 
 #### [One Night Special with Maleek Berry](https://donyc.com/events/2026/11/25/one-night-special-with-maleek-berry-tickets)
 
-9:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 48.7  
+9:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/one-night-special-with-maleek-berry-tickets)
 
 #### [The Slim Kings](https://donyc.com/events/2026/11/25/the-slim-kings-tickets)
 
-9:00 PM · music · Check current price · Baby's All Right · Williamsburg · Brooklyn · Score 48.7  
+9:00 PM · music · Check current price · Baby's All Right · Williamsburg · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/the-slim-kings-tickets)
 
 #### [Never Sleep Alone starring Dr. Alex Schiller (created and portrayed by Roslyn Hart)](https://donyc.com/events/2026/11/25/never-sleep-alone-starring-dr-alex-schiller-created-and-portrayed-by-roslyn-hart-tickets)
 
-9:30 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 48.7  
+9:30 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/never-sleep-alone-starring-dr-alex-schiller-created-and-portrayed-by-roslyn-hart-tickets)
 
 #### [Blackout Wednesday: Reggaeton x Dancehall | The Delancey Rooftop](https://donyc.com/events/2026/11/25/blackout-wednesday-reggaeton-x-dancehall-the-delancey-rooftop-tickets)
 
-10:00 PM · nightlife · Check current price · The Delancey · East Village · Manhattan · Score 48.7  
+10:00 PM · nightlife · Check current price · The Delancey · East Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/blackout-wednesday-reggaeton-x-dancehall-the-delancey-rooftop-tickets)
 
 #### [Flashback With Louie Vega](https://donyc.com/events/2026/11/25/flashback-with-louie-vega-tickets)
 
-10:00 PM · nightlife · Check current price · Superior Ingredients · Williamsburg · Brooklyn · Score 48.7  
+10:00 PM · nightlife · Check current price · Superior Ingredients · Williamsburg · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/flashback-with-louie-vega-tickets)
 
 #### [Twinsick](https://donyc.com/events/2026/11/25/twinsick-tickets)
 
-11:00 PM · music · Check current price · Marquee New York · Chelsea · Manhattan · Score 48.7  
+11:00 PM · music · Check current price · Marquee New York · Chelsea · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/twinsick-tickets)
 
 #### [New York Islanders vs. St. Louis Blues](https://donyc.com/events/2026/11/25/new-york-islanders-vs-st-louis-blues-tickets)
 
-7:00 PM · sports · Check current price · UBS Arena · Forest Hills · Queens · Score 47.7  
+7:00 PM · sports · Check current price · UBS Arena · Forest Hills · Queens · Score 48.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/new-york-islanders-vs-st-louis-blues-tickets)
 
 #### [Ryan Elliott All Night](https://donyc.com/events/2026/11/25/ryan-elliott-all-night-tickets)
 
-10:00 PM · nightlife · Check current price · Nowadays · Ridgewood · Queens · Score 47.7  
+10:00 PM · nightlife · Check current price · Nowadays · Ridgewood · Queens · Score 48.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/ryan-elliott-all-night-tickets)
 
+#### [Wednesday Greenmarket at Bartel-Pritchard Square](https://www.prospectpark.org/event/wednesday-greenmarket-at-bartel-pritchard-square/2026-11-25/)
+
+8:00 AM · markets · Free entry; purchases extra · Bartel-Pritchard Square · Park Slope · Brooklyn · Score 48.4  
+A neighborhood greenmarket with seasonal produce, baked goods, flowers and fresh fish at Prospect Park's southwest entrance.
+**Practical note:** Free to browse; purchases are separate. Go earlier for Thanksgiving ingredients.
+**Why now:** The official calendar confirms the Thanksgiving-eve market.
+[Official](https://www.prospectpark.org/event/wednesday-greenmarket-at-bartel-pritchard-square/2026-11-25/)
+
+#### [We Have Fun: A Stand-Up Show](https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667)
+
+7:30 PM · comedy · Free · Young Ethel's · South Slope · Brooklyn · Score 47.0  
+Zach Sims and Dan Wilbur host free stand-up. The Skint lists Kevin McCaffrey, Ben McKay, Sarah Kennedy, Elisha Tan, and Laura Rankin for this date.
+**Timing:** weds 7:30pm (wednesdays)
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+**Why now:** A dated free Brooklyn option on Thanksgiving eve.
+[Official](https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667) · [Tickets / booking](https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667) · [Discovered via The Skint](https://theskint.com/) · [Discovered via The Skint](https://theskint.com/tues-tues-11-24-12-1-thanksgiving-week/)
+
 #### [Craig's After School Special](https://donyc.com/events/2026/11/25/craig-s-after-school-special-tickets)
 
-7:30 PM · other · Check current price · Club Cumming · Alphabet City · Manhattan · Score 45.3  
+7:30 PM · other · Check current price · Club Cumming · Alphabet City · Manhattan · Score 45.9  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/craig-s-after-school-special-tickets)
 
 #### [Exhibition Tour: The Lost World: The Art of Minnie Evans](https://whitney.org/events/minnie-evans-tour)
 
-2:00 PM · museums · Tour included with museum admission; admission price not verified · Whitney Museum of American Art · Meatpacking District · Manhattan · Score 45.0  
-A docent-led introduction to Minnie Evans's intricate, visionary compositions.
-**Timing:** 2pm; meet in the eighth-floor galleries.
-**Practical note:** Free with museum admission; no tour reservation. Capacity 20, first come, first served.
-**Why now:** November 25 is explicitly listed on the museum calendar.
-[Official](https://whitney.org/events/minnie-evans-tour) · [Tickets / booking](https://whitney.org/general-admission)
+2:00 PM · museums · Included with admission; adults $30, ages 25 and under free · Whitney Museum of American Art · Meatpacking District · Manhattan · Score 45.0  
+A docent introduces Minnie Evans's visionary drawings, paintings, and collages.
+**Practical note:** Meet on floor 8; first come, first served, maximum 20 participants.
+**Why now:** Verified November 25 tour of the current retrospective.
+[Official](https://whitney.org/events/minnie-evans-tour) · [Tickets / booking](https://whitney.org/admission)
 
-#### [Wednesday Greenmarket at Bartel-Pritchard Square](https://www.prospectpark.org/event/wednesday-greenmarket-at-bartel-pritchard-square/2026-11-25/)
+#### [Exhibition Tour: Roy Lichtenstein: Like New](https://whitney.org/events/exhibition-tour-lichtenstein)
 
-8:00 AM · markets · Free entry; purchases extra. · Bartel-Pritchard Square · South Slope · Brooklyn · Score 42.4  
-A neighborhood greenmarket with vegetables, fruit, baked goods, flowers and fresh-caught fish at Prospect Park's southwest corner.
-**Timing:** 8am-2pm, as listed on the park calendar.
-**Practical note:** Bring shopping bags; individual sellers and inventory vary.
-**Why now:** A verified Thanksgiving-eve market for seasonal ingredients.
-[Official](https://www.prospectpark.org/event/wednesday-greenmarket-at-bartel-pritchard-square/2026-11-25/)
-
-#### [Good Eggs Presented by Mark Normand, Gary Vider, Matt Ruby](https://newyorkcomedyclub.com/events/good-eggs-presented-by-mark-normand-gary-vider-matt-ruby-2026-11-25200000)
-
-8:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 39.7  
-**Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
-[Official](https://newyorkcomedyclub.com/events/good-eggs-presented-by-mark-normand-gary-vider-matt-ruby-2026-11-25200000) · [Tickets / booking](https://newyorkcomedyclub.com/events/good-eggs-presented-by-mark-normand-gary-vider-matt-ruby-2026-11-25200000)
+12:00 PM · museums · Included with admission; adults $30, ages 25 and under free · Whitney Museum of American Art · Meatpacking District · Manhattan · Score 42.0  
+A docent-led tour of the Lichtenstein retrospective in the fifth-floor galleries.
+**Timing:** Another tour is listed at 3pm.
+**Practical note:** First come, first served; capacity 20. Tour is included with museum admission.
+**Why now:** Explicitly listed on the November 25 calendar.
+[Official](https://whitney.org/events/exhibition-tour-lichtenstein) · [Tickets / booking](https://whitney.org/admission)
 
 #### [Killer Queen Open Hive Night](https://www.wonderville.nyc/events/kq-open-hive-night-11-25-26)
 
-8:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 39.7  
+8:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 40.6  
 Come learn how to play the only 10-player arcade game from some of NYC’s best players! All welcome for this all-levels tournament every Wednesday! You don’t need a team to come! We will build balanced teams for everyone. So come learn the ropes during open play before the tournament commences at 8:30pm. And SIGN UP EARLY AT THE STAGE. 40 player cap and sign ups end at 8pm sharp.
 [Official](https://www.wonderville.nyc/events/kq-open-hive-night-11-25-26) · [Tickets / booking](https://www.wonderville.nyc/events/kq-open-hive-night-11-25-26)
 
 #### [Skaterobics - All Experience Levels Instructional Class](https://donyc.com/events/2026/11/25/skaterobics-all-experience-levels-instructional-class-tickets)
 
-6:00 PM · workshop · Check current price · Xanadu · Bushwick · Brooklyn · Score 36.7  
+6:00 PM · workshop · Check current price · Xanadu · Bushwick · Brooklyn · Score 37.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/skaterobics-all-experience-levels-instructional-class-tickets)
 
 #### [Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests](https://donyc.com/events/2026/11/25/story-warz-w-big-jay-oakerson-luis-j-gomez-special-guests-tickets)
 
-7:45 PM · comedy · Check current price · New York Comedy Club Midtown · Gramercy · Manhattan · Score 34.3  
+7:45 PM · comedy · Check current price · New York Comedy Club Midtown · Gramercy · Manhattan · Score 34.9  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/story-warz-w-big-jay-oakerson-luis-j-gomez-special-guests-tickets)
 
 #### [Christmas Spectacular Starring The Radio City Rockettes](https://donyc.com/events/2026/11/25/christmas-spectacular-starring-the-radio-city-rockettes-tickets)
 
-11:00 AM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 33.7  
+11:00 AM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 34.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/christmas-spectacular-starring-the-radio-city-rockettes-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/25/christmas-spectacular-starring-the-radio-city-rockettes-tickets-xMDMpA5) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/25/christmas-spectacular-starring-the-radio-city-rockettes-tickets-qeoejP1) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/25/christmas-spectacular-starring-the-radio-city-rockettes-tickets-JA6AldW)
 
 #### [Paper Tiger](https://donyc.com/events/2026/11/25/paper-tiger-tickets)
 
-3:15 PM · film · Check current price · Nitehawk Cinema - Williamsburg · Williamsburg · Brooklyn · Score 33.7  
+3:15 PM · film · Check current price · Nitehawk Cinema - Williamsburg · Williamsburg · Brooklyn · Score 34.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/paper-tiger-tickets)
 
 #### [The Cafe Wha? House Band](https://donyc.com/events/2026/11/25/the-cafe-wha-house-band-tickets)
 
-9:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 33.7  
+9:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 34.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/the-cafe-wha-house-band-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/25/the-cafe-wha-house-band-tickets-3EvL6BJ)
 
 #### [Jam Session Hosted By Carlos Abadie](https://donyc.com/events/2026/11/25/jam-session-hosted-by-carlos-abadie-tickets)
 
-11:55 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 33.7  
+11:55 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 34.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/jam-session-hosted-by-carlos-abadie-tickets)
 
 #### [Glimpse of Greatness](https://donyc.com/events/2026/11/25/glimpse-of-greatness-tickets)
 
-7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 30.7  
+7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 31.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/25/glimpse-of-greatness-tickets)
 
 ### 2026-11-26
 
-#### [Thanksgiving skating at Bryant Park](https://bryantpark.org/activities/the-rink)
+#### [Raise the Red Lantern: final scheduled day](https://filmforum.org/film/raise-the-red-lantern)
 
-8:00 AM · sports · Free with own skates; rentals $18.72-$64.48 before tax. Optional extras cost more. · Bryant Park · Midtown · Manhattan · Score 64.0  
-Outdoor ice skating at Winter Village, with free admission for visitors bringing their own skates and a reservation.
-**Timing:** Holiday operating window: 8am-midnight. Reserve a session; most ice sessions last 50 minutes.
-**Practical note:** NWS forecasts rain and wind Thursday, with 90% precipitation probability. Heavy rain can close the rink; check the day's operating notice before traveling. Rentals and storage may cost extra.
-**Why now:** Official peak hours apply November 19-January 3, including Thanksgiving.
-**On-sale watch:** Timed reservations are required; own-skate tickets are released one week ahead.
-[Official](https://bryantpark.org/activities/the-rink) · [Tickets / booking](https://book.peek.com/w/6e2f0590-d64d-4e77-b368-a874c585b1d2/WjgE7) · [Discovered via Time Out New York](https://www.timeout.com/newyork/things-to-do/things-to-do-in-new-york-this-week)
-
-#### [Thanksgiving prix fixe at The Dynamo Room](https://v4-thedynamoroom.getbento.com/menus/#thanksgiving)
-
-Time to confirm · food · $95 adult menu; $105 with prime rib. Confirm tax, gratuity and drinks separately. · The Dynamo Room · Midtown · Manhattan · Score 63.0  
-A three-course Thanksgiving menu with oysters or pumpkin-crab bisque, turkey or salmon, classic sides and pie; prime rib carries a supplement.
-**Timing:** Thanksgiving service confirmed; holiday seating hours were not published in the fetched menu.
-**Practical note:** Confirm a holiday reservation and seating time. The $95 base menu does not establish an all-in total; prime rib adds $10. Indoor alternative to Thursday's wet forecast.
-**Why now:** The current official Thanksgiving menu corroborates the 2026 dining guide.
-**On-sale watch:** Holiday table availability and walk-in policy were not verified.
-[Official](https://v4-thedynamoroom.getbento.com/menus/#thanksgiving) · [Tickets / booking](https://www.thedynamoroom.com/) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/guides/thanksgiving-dinner-nyc)
-
-#### [Thanksgiving at The View](https://www.theviewnewyorkcity.com/)
-
-2:00 PM · food · $120 per guest, excluding beverages, tax and service. · The View · Theater District · Manhattan · Score 62.0  
-A three-course Thanksgiving feast at the revolving restaurant above Times Square, with roasted turkey, family-style sides and seasonal desserts.
-**Timing:** Holiday service runs 2-8pm; choose a reservation time within that window.
-**Practical note:** The $120 menu reaches the event budget before beverages, tax and service, which are additional. Indoor dining provides an alternative to the rainy forecast.
-**Why now:** The restaurant's booking page explicitly confirms November 26, 2026 and 2-8pm service.
-**On-sale watch:** Reserve through the restaurant's dated Thanksgiving experience; inventory was not verified.
-[Official](https://www.theviewnewyorkcity.com/) · [Tickets / booking](https://www.opentable.com/booking/experiences-availability?rid=1498471&restref=1498471&experienceId=777709&dateTime=2026-11-26T15:00:00&partySize=2) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/guides/thanksgiving-dinner-nyc)
-
-#### [Thanksgiving skating at Domino Park](https://www.dominopark.com/ice-skating)
-
-10:30 AM · sports · Session and rental prices require checking the booking page. · Domino Square · Williamsburg · Brooklyn · Score 61.0  
-Domino's outdoor ice rink opens earlier for Thanksgiving, with explicitly published holiday hours.
-**Timing:** Special November 26 hours: 10:30am-10pm; book an individual session.
-**Practical note:** NWS forecasts rain and wind with 90% precipitation probability. Check weather-related operations before traveling; arrive 10 minutes before any confirmed session.
-**Why now:** The organizer specifically confirms extended hours for November 26 and 27.
-**On-sale watch:** Reserved skating sessions; availability was not checked.
-[Official](https://www.dominopark.com/ice-skating) · [Tickets / booking](https://www.dominopark.com/ice-skating/buy-tickets) · [Discovered via The Skint](https://www.theskint.com/ongoing-events/)
-
-#### [Raise the Red Lantern: Final Day](https://filmforum.org/film/raise-the-red-lantern)
-
-4:10 PM · film · $18 general admission; $12 members · Film Forum · South Village · Manhattan · Score 61.0  
-Zhang Yimou's drama starring Gong Li returns in a 4K restoration marking its thirty-fifth anniversary.
-**Timing:** 125-minute film. Another published screening is at 6:50pm.
-**Practical note:** Mandarin with English subtitles. The official page says the engagement ends November 26.
-**Why now:** Last published day to catch the restoration at Film Forum.
-**Book soon:** Published final day of the engagement.
+6:50 PM · film · $18 general; $12 members · Film Forum · Hudson Square · Manhattan · Score 64.0  
+Zhang Yimou's film starring Gong Li returns in a 4K restoration marking its 35th anniversary.
+**Timing:** Also screening at 4:10pm; approximately 125 minutes.
+**Practical note:** Mandarin with English subtitles.
+**Why now:** Last published day of the restored engagement.
+**Book soon:** The official page says the engagement is held over through November 26.
 [Official](https://filmforum.org/film/raise-the-red-lantern) · [Tickets / booking](https://my.filmforum.org/events/raise-the-red-lantern)
 
-#### [The Flowers of St. Francis Introduced by Isabella Rossellini](https://filmforum.org/events/event/the-flowers-of-st-francis-november-26)
+#### [100th Macy's Thanksgiving Day Parade](https://www.macys.com/s/parade/)
 
-4:45 PM · film · $18 general admission; $12 members · Film Forum · South Village · Manhattan · Score 57.1  
-Isabella Rossellini introduces her father's episodic 1950 portrait of Saint Francis and his followers, co-written with Federico Fellini.
-**Timing:** 87-minute film plus introduction.
-**Practical note:** Italian with English subtitles. Introduction, not an advertised post-film Q&A.
-**Why now:** Isabella Rossellini appears at this Thanksgiving screening.
-**On-sale watch:** One-off guest introduction; remaining seats not verified.
-[Official](https://filmforum.org/events/event/the-flowers-of-st-francis-november-26) · [Tickets / booking](https://my.filmforum.org/flowers-of-st-francis/54022) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/)
+8:30 AM · outdoors · Free · Central Park West to Herald Square · Upper West Side to Midtown · Manhattan · Score 60.0  
+NYC permit data lists this parade organized through Police Department. Confirm public hours on an organizer page before going.
+**Timing:** 08:30 start confirmed by NYC Tourism; viewing time depends on position along the route.
+**Practical note:** NWS forecasts heavy rain and gusts up to 55 mph, with a high-wind watch beginning at 10:00. Check official operational updates before traveling; balloon operations may change. The map point marks the route start, not a guaranteed public viewing area.
+**Why now:** The official city tourism organization confirms November 26, 2026 and the 100th edition.
+[Official](https://www.macys.com/s/parade/) · [Tickets / booking](https://www.accuweather.com/en/weather-forecasts/noreaster-could-spoil-macys-thanksgiving-day-parade-fun-in-nyc-with-strong-winds-rain/1962880) · [Source: NYC Tourism + Conventions](https://www.nyctourism.com/events/macys-thanksgiving-day-parade/) · [Discovered via The Skint](https://theskint.com/)
 
-#### [Europa '51 Introduced by Isabella Rossellini](https://filmforum.org/film/europa-51-rossellini-120)
+#### [The Flowers of St. Francis with Isabella and Tomasso Rossellini](https://filmforum.org/events/event/the-flowers-of-st-francis-november-26)
 
-7:10 PM · film · $18 general admission; $12 members · Film Forum · South Village · Manhattan · Score 57.1  
-Isabella Rossellini introduces Roberto Rossellini's drama starring Ingrid Bergman as a privileged woman whose grief prompts a radical change in life.
-**Timing:** Approximately 110 minutes plus introduction.
-**Practical note:** Separate ticket from The Flowers of St. Francis.
-**Why now:** A second explicitly confirmed Isabella Rossellini appearance on Thanksgiving.
-**On-sale watch:** Special guest introduction; remaining seats not verified.
-[Official](https://filmforum.org/film/europa-51-rossellini-120) · [Tickets / booking](https://my.filmforum.org/europa-51/54007) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/)
+4:45 PM · film · $18 general; $12 members · Film Forum · Hudson Square · Manhattan · Score 60.0  
+Roberto Rossellini's film screens with a family introduction as part of Rossellini 120.
+**Timing:** Introduced by Isabella and Tomasso Rossellini.
+**Why now:** Special Thanksgiving appearance by the Rossellinis.
+[Official](https://filmforum.org/events/event/the-flowers-of-st-francis-november-26) · [Tickets / booking](https://my.filmforum.org/flowers-of-st-francis/54022)
 
-#### [Rome, Open City in 35mm](https://filmforum.org/film/rome-open-city-rossellini-120)
+#### [Thanksgiving Comedy Potluck](https://www.bushwickcomedy.com/event-details/thanksgiving-comedy-potluck-8-00-pm-2)
 
-2:30 PM · film · $18 general admission; $12 members · Film Forum · South Village · Manhattan · Score 57.0  
-Roberto Rossellini's 1945 landmark, starring Anna Magnani and Aldo Fabrizi, screens in 35mm.
-**Timing:** Approximately 103 minutes.
-**Practical note:** The November 26 listing specifically identifies 35mm; no guest introduction is listed for this date.
-**Why now:** Verified Thanksgiving presentation in the Rossellini retrospective.
-[Official](https://filmforum.org/film/rome-open-city-rossellini-120) · [Tickets / booking](https://my.filmforum.org/events/rome-open-city-ross) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/)
+8:30 PM · comedy · $5 · Bushwick Comedy Club · Bushwick · Brooklyn · Score 60.0  
+Kyle Gillis and Joe Rosenzweig's fifth annual dinner show features Hoodo Hersi, Eeland Stribling, and Olivia Carter.
+**Timing:** Food at 8pm; comedy at 8:30pm; karaoke follows.
+**Practical note:** Dinner-and-show ticket includes a plate and a seat; service fee additional.
+**Why now:** An explicitly confirmed Thanksgiving-night performance.
+[Official](https://www.bushwickcomedy.com/event-details/thanksgiving-comedy-potluck-8-00-pm-2) · [Tickets / booking](https://www.bushwickcomedy.com/event-details/thanksgiving-comedy-potluck-8-00-pm-2) · [Discovered via The Skint](https://theskint.com/tues-tues-11-24-12-1-thanksgiving-week/) · [Discovered via The Skint](https://theskint.com/)
 
-#### [Chief Adjuah — Thanksgiving](https://www.bluenotejazz.com/nyc/tm-event/chief-adjuah-9/)
+#### [The Dynamo Room Thanksgiving Menu](https://v4-thedynamoroom.getbento.com/menus/#thanksgiving)
 
-8:00 PM · music · Ticket price unknown; $20 minimum additional · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 57.0  
-Chief Adjuah continues his four-night Stretch Music engagement on Thanksgiving.
-**Timing:** First show 8pm; separate 10:30pm show also listed.
-**Practical note:** $20 food/drink minimum additional. Ticket page returned 530; venue confirms the performance, not current inventory.
-**Why now:** An explicitly scheduled Thanksgiving concert.
-[Official](https://www.bluenotejazz.com/nyc/tm-event/chief-adjuah-9/) · [Tickets / booking](https://www.ticketweb.com/event/chief-adjuah-blue-note-jazz-club-tickets/15032703?pl=bluenoteny) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/26/chief-adjuah-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/26/chief-adjuah-tickets-qe5bbkr)
+Time to confirm · food · $95 adult prix fixe; $105 with prime rib · The Dynamo Room · Penn District · Manhattan · Score 57.0  
+A three-course holiday meal with oysters, salad or pumpkin-crab bisque; turkey, salmon or prime rib; traditional sides; and pumpkin or pecan pie.
+**Timing:** Thanksgiving date and menu confirmed; holiday seating hours were not independently established.
+**Practical note:** Prime rib adds $10. Confirm the holiday seating time and additional charges when reserving; regular weekly hours were not substituted for Thanksgiving hours.
+**Why now:** The current Thanksgiving guides identify November 26, and the restaurant publishes the matching holiday menu.
+[Official](https://v4-thedynamoroom.getbento.com/menus/#thanksgiving) · [Tickets / booking](https://resy.com/cities/new-york-ny/venues/the-dynamo-room?date=2026-11-26&seats=2) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/guides/thanksgiving-dinner-nyc) · [Discovered via Eater New York](https://ny.eater.com/maps/best-thanksgiving-restaurants-nyc)
+
+#### [Monterey Thanksgiving Prix Fixe](https://www.montereyny.com/menus/#thanksgiving)
+
+12:00 PM · food · $69 three-course holiday menu · Monterey · Midtown East · Manhattan · Score 57.0  
+A three-course Thanksgiving menu of roasted squash soup, turkey with traditional sides, and pumpkin pie. The restaurant also offers its a la carte dinner menu.
+**Timing:** Published holiday service window; select a table time.
+**Practical note:** The listed prix-fixe price is $69; check tax, gratuity and beverages when reserving. Indoor dining provides an alternative to the day's wet and windy outdoor plans.
+**Why now:** A verified Thanksgiving-only menu and explicit noon-to-20:00 holiday service.
+[Official](https://www.montereyny.com/menus/#thanksgiving) · [Tickets / booking](https://www.opentable.com/r/monterey-new-york-1) · [Discovered via Eater New York](https://ny.eater.com/maps/best-thanksgiving-restaurants-nyc)
+
+#### [The Devils: Thanksgiving screening](https://www.ifccenter.com/films/the-devils/)
+
+3:50 PM · film · IFC Center · Greenwich Village · Manhattan · Score 57.0  
+Ken Russell's The Devils continues its restored engagement.
+**Timing:** Additional November 26 screenings are listed at 11:05am and 8:45pm.
+**Practical note:** The special 35mm designation applies to the weekend screenings, not this Thursday performance.
+**Why now:** Officially scheduled on Thanksgiving when many cultural institutions are closed.
+[Official](https://www.ifccenter.com/films/the-devils/) · [Tickets / booking](https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=590027~8722a542-64c1-4c0b-af02-c3e8a239d769&)
 
 #### [NYC Resistor Public Craft Night](https://www.nycresistor.com/)
 
-6:30 PM · workshop · Free · NYC Resistor · Gowanus · Brooklyn · Score 56.4  
+6:30 PM · workshop · Free · NYC Resistor · Gowanus · Brooklyn · Score 56.7  
 Open craft night at the NYC Resistor hacker collective: bring a project, use the space, meet members. Free and open to the public, 18 and over.
 **Timing:** Mondays and Thursdays 6:30-9:30pm. Free, but 18+ only.
 **Practical note:** Fourth-floor walkup; confirm on Eventbrite since craft night is occasionally cancelled for private classes.
 **Why now:** Runs twice a week year-round and is one of the few genuinely free weeknight drop-in activities.
 [Official](https://www.nycresistor.com/) · [Tickets / booking](https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-162729866411)
 
+#### [Rome, Open City in 35mm](https://filmforum.org/film/rome-open-city-rossellini-120)
+
+2:30 PM · film · $18 general; $12 members · Film Forum · Hudson Square · Manhattan · Score 56.4  
+Roberto Rossellini's 1945 neorealist landmark screens on a 35mm print courtesy of Cinecittà.
+**Timing:** Approximately 103 minutes.
+**Practical note:** The official schedule identifies this particular performance as 35mm.
+**Why now:** A Thanksgiving 35mm presentation in the Rossellini retrospective.
+[Official](https://filmforum.org/film/rome-open-city-rossellini-120) · [Tickets / booking](https://my.filmforum.org/events/rome-open-city-ross)
+
+#### [Chief Adjuah](https://www.bluenotejazz.com/nyc/tm-event/chief-adjuah-9/)
+
+8:00 PM · music · Check current price · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 56.4  
+Chief Adjuah appears at Blue Note during a four-night Thanksgiving-week engagement.
+**Timing:** Early set 8pm; separately ticketed late set 10:30pm, doors 10pm.
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+**Why now:** Thanksgiving set in the November 25-28 run.
+[Official](https://www.bluenotejazz.com/nyc/tm-event/chief-adjuah-9/) · [Tickets / booking](https://donyc.com/events/2026/11/26/chief-adjuah-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/26/chief-adjuah-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/26/chief-adjuah-tickets-qe5bbkr)
+
 #### [David Ostwald's Louis Armstrong Eternity Band](https://www.birdlandjazz.com/tm-event/david-ostwalds-louis-armstrong-eternity-band-8/)
 
-5:30 PM · music · $35.46–$45.76 plus $20 minimum · Birdland Theater · Hell's Kitchen · Manhattan · Score 56.1  
-David Ostwald's ensemble celebrates the traditional-jazz legacy of Louis Armstrong.
-**Timing:** Thanksgiving sets at 5:30pm and 8:30pm; this record is the early set.
-**Practical note:** Ages 10+. $20 food/drink minimum per person, per set, additional.
-**Why now:** Explicitly confirmed Thanksgiving performances.
+5:30 PM · music · $45.76 early-set admission, plus $20 food/beverage minimum · Birdland Theater · Hell's Kitchen · Manhattan · Score 55.9  
+David Ostwald's ensemble performs its Louis Armstrong-centered jazz repertoire on Thanksgiving.
+**Timing:** Early set 5:30pm; separately ticketed late set 8:30pm.
+**Practical note:** Ages 10+. Additional $20 food/beverage minimum. Official venue is Birdland Theater, not the Cielo location shown in a discovery listing.
+**Why now:** Verified Thanksgiving Day performance.
 [Official](https://www.birdlandjazz.com/tm-event/david-ostwalds-louis-armstrong-eternity-band-8/) · [Tickets / booking](https://www.ticketweb.com/event/david-ostwalds-louis-armstrong-eternity-birdland-theater-tickets/14225254?REFID=clientsitewp)
 
 #### [Anderson Brothers: The American Songbook](https://www.birdlandjazz.com/tm-event/anderson-brothers-the-american-songbook-5/)
 
-7:00 PM · music · $45.76–$56.06 plus $20 minimum · Birdland Jazz Club · Hell's Kitchen · Manhattan · Score 56.1  
-Peter and Will Anderson's quintet interprets Gershwin, Cole Porter, Irving Berlin, Richard Rodgers and Harold Arlen.
-**Timing:** First show 7pm; separate second show 9:30pm.
-**Practical note:** Ages 10+. Upstairs Jazz Club, not the Theater. $20 food/drink minimum additional.
-**Why now:** Thanksgiving performance within the November 24–28 engagement.
+7:00 PM · music · $45.76-$56.06 admission, plus $20 food/beverage minimum · Birdland Jazz Club · Hell's Kitchen · Manhattan · Score 55.9  
+Peter and Will Anderson's quintet explores songs associated with Gershwin, Porter, Berlin, Rodgers and Arlen.
+**Timing:** Early set 7pm; separately ticketed late set 9:30pm.
+**Practical note:** Ages 10+. Additional $20 food/beverage minimum per person per set.
+**Why now:** Thanksgiving performance within the November 24-28 engagement.
 [Official](https://www.birdlandjazz.com/tm-event/anderson-brothers-the-american-songbook-5/) · [Tickets / booking](https://www.ticketweb.com/event/anderson-brothers-the-american-songbook-birdland-jazz-club-tickets/15006373?REFID=clientsitewp)
 
-#### [Thanksgiving with Herlin Riley](https://ticketing.jazz.org/21897/)
+#### [Europa '51 introduced by Isabella Rossellini](https://filmforum.org/events/event/europa-51-november-26)
 
-8:00 PM · music · Holiday pricing and minimums unverified · Dizzy's Club · Columbus Circle · Manhattan · Score 56.1  
-Drummer Herlin Riley leads Dizzy's explicitly announced Thanksgiving programme.
-**Timing:** Thanksgiving date verified. Holiday-specific showtimes could not be confirmed because ticketing returned 503.
-**Practical note:** Confirm holiday seating times, ticket price and any meal minimum before booking.
-**Why now:** A holiday-specific concert, not an inferred recurring Thursday show.
-[Official](https://ticketing.jazz.org/21897/) · [Tickets / booking](https://ticketing.jazz.org/21897/) · [Source: Jazz at Lincoln Center](https://jazz.org/dizzys/) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/26/thanksgiving-with-herlin-riley-tickets)
-
-#### [Jason Moran & The Bandwagon — Thanksgiving](https://vv.squadup.com/artists/jason-moran-and-the-bandwagon)
-
-8:00 PM · music · Ticket price unknown; one-drink minimum · Village Vanguard · West Village · Manhattan · Score 55.1  
-Jason Moran, Tarus Mateen and Nasheet Waits perform with special guest Devon Gates.
-**Timing:** November 24–29 engagement confirmed; 8pm/10pm sets and 7pm first seating are the venue's published schedule.
-**Practical note:** 15+. One-drink minimum additional; no food. Ticket inventory and price did not render. Club has stairs and is not wheelchair accessible.
-**Why now:** Thanksgiving falls within the confirmed six-night engagement.
-[Official](https://vv.squadup.com/artists/jason-moran-and-the-bandwagon) · [Tickets / booking](https://vv.squadup.com/artists/jason-moran-and-the-bandwagon)
+7:10 PM · film · $18 general; $12 members · Film Forum · Hudson Square · Manhattan · Score 55.9  
+Isabella Rossellini introduces Roberto Rossellini's drama starring Ingrid Bergman.
+**Why now:** The guest introduction is attached specifically to November 26.
+[Official](https://filmforum.org/events/event/europa-51-november-26) · [Tickets / booking](https://my.filmforum.org/europa-51/54007)
 
 #### [Closed for Thanksgiving](https://www.wonderville.nyc/events/thanksgiving-11-26-26)
 
-Time to confirm · unusual · Wonderville · Bushwick · Brooklyn · Score 54.4  
+Time to confirm · unusual · Wonderville · Bushwick · Brooklyn · Score 54.7  
 Wonderville will be closed for Thanksgiving. Happy holidays!
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Official](https://www.wonderville.nyc/events/thanksgiving-11-26-26) · [Tickets / booking](https://www.wonderville.nyc/events/thanksgiving-11-26-26) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/26/closed-for-thanksgiving-tickets)
 
 #### [Thanksgiving Feast at Björk Cafe & Bistro](https://www.scandinaviahouse.org/event/thanksgiving-feast-at-bjork-cafe-bistro-4/)
 
-11:00 AM · museums · Scandinavia House · Murray Hill · Manhattan · Score 54.4  
+11:00 AM · museums · Scandinavia House · Murray Hill · Manhattan · Score 54.7  
 Celebrate Thanksgiving at Scandinavia House with a special prix-fixe menu from Björk Cafe & Bistro! The restaurant will be open November 26 for special dining from 11:00 AM-8:00 PM (last seating 6:30 PM). ASF Members receive a 15-percent discount; please show your digital membership card at check-in to receive the discount. *Please note that Scandinavia House will otherwise be closed for the holi…
 [Official](https://www.scandinaviahouse.org/event/thanksgiving-feast-at-bjork-cafe-bistro-4/) · [Tickets / booking](https://www.scandinaviahouse.org/event/thanksgiving-feast-at-bjork-cafe-bistro-4/)
 
-#### [The Rossellinis](https://filmforum.org/film/the-rossellinis-rossellini-120)
+#### [Final Boss Comedy Show](https://donyc.com/events/2026/11/26/final-boss-comedy-show-tickets)
 
-12:20 PM · film · $18 general admission; $12 members · Film Forum · South Village · Manhattan · Score 54.4  
-Alessandro Rossellini's documentary examines his family's artistic legacy and conflicts through interviews with Roberto Rossellini's descendants.
-**Timing:** Approximately 90 minutes.
-**Practical note:** Thanksgiving showtime is explicitly published. No in-person guest is advertised for this film.
-**Why now:** A Thanksgiving screening within Rossellini 120.
-[Official](https://filmforum.org/film/the-rossellinis-rossellini-120) · [Tickets / booking](https://my.filmforum.org/events/the-rossellinis) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/)
+7:30 PM · comedy · Check current price · QED · Astoria · Queens · Score 50.7  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/26/final-boss-comedy-show-tickets)
 
 #### [ROME, OPEN CITY Introduced by Ingrid and Isabella Rossellini](https://donyc.com/events/2026/11/26/rome-open-city-introduced-by-ingrid-and-isabella-rossellini-tickets)
 
-4:45 PM · film · Check current price · Film Forum · Greenwich Village · Manhattan · Score 50.1  
+4:45 PM · film · Check current price · Film Forum · Greenwich Village · Manhattan · Score 49.9  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/rome-open-city-introduced-by-ingrid-and-isabella-rossellini-tickets)
+
+#### [Thanksgiving with Herlin Riley](https://donyc.com/events/2026/11/26/thanksgiving-with-herlin-riley-tickets)
+
+8:00 PM · music · Check current price · Jazz at Lincoln Center · Upper West Side · Manhattan · Score 49.9  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/26/thanksgiving-with-herlin-riley-tickets)
 
 #### [threeASFOUR: FULL CIRCLE Q&A with Filmmaker Sean Ono Lennon and subjects Gabi Asfour, Angela Donhauser, & Adi Gil](https://donyc.com/events/2026/11/26/threeasfour-full-circle-q-a-with-filmmaker-sean-ono-lennon-and-subjects-gabi-asfour-angela-donhauser-adi-gil-tickets)
 
@@ -1784,57 +1288,66 @@ Alessandro Rossellini's documentary examines his family's artistic legacy and co
 
 #### [Planes, Trains & Automobiles](https://donyc.com/events/2026/11/26/planes-trains-automobiles-tickets)
 
-11:15 AM · film · Check current price · Alamo Drafthouse · Downtown Brooklyn · Brooklyn · Score 48.4  
+11:15 AM · film · Check current price · Alamo Drafthouse · Downtown Brooklyn · Brooklyn · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/planes-trains-automobiles-tickets)
 
 #### [Lindens Thanksgiving 6](https://donyc.com/events/2026/11/26/lindens-thanksgiving-6-tickets)
 
-12:00 PM · nightlife · Check current price · Arlo Hotel Soho · SoHo · Manhattan · Score 48.4  
+12:00 PM · nightlife · Check current price · Arlo Hotel Soho · SoHo · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/lindens-thanksgiving-6-tickets)
 
 #### [The Closed Mic Amateur Show Featuring Whitney Chanel](https://donyc.com/events/2026/11/26/the-closed-mic-amateur-show-featuring-whitney-chanel-tickets)
 
-6:00 PM · comedy · Check current price · Eastville Comedy Club · Downtown Brooklyn · Brooklyn · Score 48.4  
+6:00 PM · comedy · Check current price · Eastville Comedy Club · Downtown Brooklyn · Brooklyn · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/the-closed-mic-amateur-show-featuring-whitney-chanel-tickets)
 
 #### [Mor ve Ötesi](https://donyc.com/events/2026/11/26/drom-presents-mor-ve-otesi-tickets)
 
-7:00 PM · music · Check current price · Drom · East Village · Manhattan · Score 48.4  
+7:00 PM · music · Check current price · Drom · East Village · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/drom-presents-mor-ve-otesi-tickets)
 
 #### [Nicholas Biello Quartet](https://donyc.com/events/2026/11/26/nicholas-biello-quartet-tickets)
 
-9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 48.4  
+9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/nicholas-biello-quartet-tickets)
 
 #### [The Cafe Wha? House Band AT GROOVE](https://donyc.com/events/2026/11/26/the-cafe-wha-house-band-tickets)
 
-9:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 48.4  
+9:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/the-cafe-wha-house-band-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/26/the-cafe-wha-house-band-tickets-re0mlyz)
 
 #### [36th ANNUAL JIMI HENDRIX BIRTHDAY CELEBRATION](https://donyc.com/events/2026/11/26/36th-annual-jimi-hendrix-birthday-celebration-tickets)
 
-10:00 PM · music · Check current price · Terra Blues · Greenwich Village · Manhattan · Score 48.4  
+10:00 PM · music · Check current price · Terra Blues · Greenwich Village · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/36th-annual-jimi-hendrix-birthday-celebration-tickets)
 
 #### [Thanksgiving](https://donyc.com/events/2026/11/26/thanksgiving-tickets)
 
-10:00 PM · nightlife · Check current price · Superior Ingredients · Williamsburg · Brooklyn · Score 48.4  
+10:00 PM · nightlife · Check current price · Superior Ingredients · Williamsburg · Brooklyn · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/thanksgiving-tickets)
 
-#### [Final Boss Comedy Show](https://donyc.com/events/2026/11/26/final-boss-comedy-show-tickets)
+#### [New Material Night](https://donyc.com/events/2026/11/26/new-material-night-tickets)
 
-7:30 PM · comedy · Check current price · QED · Astoria · Queens · Score 38.4  
+9:00 PM · comedy · Check current price · QED · Astoria · Queens · Score 47.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/26/final-boss-comedy-show-tickets)
+[Tickets / booking](https://donyc.com/events/2026/11/26/new-material-night-tickets)
+
+#### [Marilyn Maye: Thanksgiving performance](https://54below.org/events/marilyn-maye-10/)
+
+8:00 PM · music · $147.50-$278 including admission and mandatory $95 dinner; beverages, dinner tax and gratuity extra · 54 Below · Hell's Kitchen · Manhattan · Score 37.4  
+Marilyn Maye performs a Thanksgiving cabaret show during her November engagement at 54 Below.
+**Timing:** Thanksgiving show 8pm; doors 5:30pm for dinner.
+**Practical note:** Over-budget exception: the mandatory $95 prix-fixe dinner replaces the usual minimum. Beverages, dinner tax and gratuity are additional.
+**Why now:** Thanksgiving-specific performance and meal, distinct from the run's ordinary evenings.
+[Official](https://54below.org/events/marilyn-maye-10/) · [Tickets / booking](https://54below.my.salesforce-sites.com/ticket/#/instances/a0FUY000009GKDh2AO)
 
 #### [All of a Sudden](https://donyc.com/events/2026/11/26/all-of-a-sudden-tickets)
 
@@ -1850,103 +1363,97 @@ Alessandro Rossellini's documentary examines his family's artistic legacy and co
 
 #### [Juggling Class](https://donyc.com/events/2026/11/26/juggling-class-tickets)
 
-12:00 PM · workshop · Check current price · Bryant Park · Theater District · Manhattan · Score 36.4  
+12:00 PM · workshop · Check current price · Bryant Park · Theater District · Manhattan · Score 36.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/juggling-class-tickets)
 
 #### [Minotaur](https://donyc.com/events/2026/11/26/minotaur-tickets)
 
-12:00 PM · music · Check current price · Film Society of Lincoln Center · Upper West Side · Manhattan · Score 36.4  
+12:00 PM · music · Check current price · Film Society of Lincoln Center · Upper West Side · Manhattan · Score 36.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/minotaur-tickets)
 
 #### [Stand-Up Comedy Brooklyn](https://donyc.com/events/2026/11/26/stand-up-comedy-brooklyn-tickets)
 
-8:00 PM · comedy · Check current price · Old Man Hustle BKLYN COMEDY Club · Williamsburg · Brooklyn · Score 36.4  
+8:00 PM · comedy · Check current price · Old Man Hustle BKLYN COMEDY Club · Williamsburg · Brooklyn · Score 36.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/stand-up-comedy-brooklyn-tickets)
 
 #### [Jam Session Hosted By Matt Snow](https://donyc.com/events/2026/11/26/jam-session-hosted-by-matt-snow-tickets)
 
-11:55 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 36.4  
+11:55 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 36.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/jam-session-hosted-by-matt-snow-tickets)
 
 #### [Open Mic (FREE)](https://donyc.com/events/2026/11/26/open-mic-free-tickets)
 
-6:00 PM · comedy · Check current price · QED · Astoria · Queens · Score 35.4  
+6:00 PM · comedy · Check current price · QED · Astoria · Queens · Score 35.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/open-mic-free-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/26/open-mic-free-tickets-1zw6ob9)
 
-#### [New Material Night](https://donyc.com/events/2026/11/26/new-material-night-tickets)
-
-9:00 PM · comedy · Check current price · QED · Astoria · Queens · Score 35.4  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/26/new-material-night-tickets)
-
 #### [Le Carrousel](https://donyc.com/events/2026/11/26/le-carrousel-tickets)
 
-11:00 AM · outdoors · Check current price · Bryant Park · Theater District · Manhattan · Score 33.4  
+11:00 AM · outdoors · Check current price · Bryant Park · Theater District · Manhattan · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/le-carrousel-tickets)
 
 #### [Bitter Christmas](https://donyc.com/events/2026/11/26/bitter-christmas-tickets)
 
-1:15 PM · music · Check current price · Film Society of Lincoln Center · Upper West Side · Manhattan · Score 33.4  
+1:15 PM · music · Check current price · Film Society of Lincoln Center · Upper West Side · Manhattan · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/bitter-christmas-tickets)
 
 #### [Christmas Spectacular Starring The Radio City Rockettes](https://donyc.com/events/2026/11/26/christmas-spectacular-starring-the-radio-city-rockettes-tickets-RMdMgbr)
 
-2:00 PM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 33.4  
+2:00 PM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/christmas-spectacular-starring-the-radio-city-rockettes-tickets-RMdMgbr) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/26/christmas-spectacular-starring-the-radio-city-rockettes-tickets-Z1q1PZK) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/26/christmas-spectacular-starring-the-radio-city-rockettes-tickets)
 
 #### [Jam in the Cafe](https://donyc.com/events/2026/11/26/jam-in-the-cafe-tickets)
 
-2:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 33.4  
+2:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/jam-in-the-cafe-tickets)
 
 #### [Paper Tiger](https://donyc.com/events/2026/11/26/paper-tiger-tickets)
 
-3:15 PM · film · Check current price · Nitehawk Cinema - Williamsburg · Williamsburg · Brooklyn · Score 33.4  
+3:15 PM · film · Check current price · Nitehawk Cinema - Williamsburg · Williamsburg · Brooklyn · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/paper-tiger-tickets)
 
 #### [Laughing Buddha Open Mic Thursday](https://donyc.com/events/2026/11/26/laughing-buddha-open-mic-thursday-tickets)
 
-4:00 PM · comedy · Check current price · St. Marks Comedy Club · East Village · Manhattan · Score 33.4  
+4:00 PM · comedy · Check current price · St. Marks Comedy Club · East Village · Manhattan · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/laughing-buddha-open-mic-thursday-tickets)
 
 #### [Thursday Fav's](https://donyc.com/events/2026/11/26/thursday-fav-s-tickets)
 
-7:00 PM · comedy · Check current price · West Side Comedy Club NYC · Upper West Side · Manhattan · Score 33.4  
+7:00 PM · comedy · Check current price · West Side Comedy Club NYC · Upper West Side · Manhattan · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/thursday-fav-s-tickets)
 
 #### [The Online Open Mic hosted by Elemen2al](https://donyc.com/events/2026/11/26/the-online-open-mic-hosted-by-elemen2al-tickets)
 
-8:00 PM · theater · Check current price · Nuyorican Poets Cafe · Alphabet City · Manhattan · Score 33.4  
+8:00 PM · theater · Check current price · Nuyorican Poets Cafe · Alphabet City · Manhattan · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/the-online-open-mic-hosted-by-elemen2al-tickets)
 
 #### [Piano Karaoke with Paul Leschen](https://donyc.com/events/2026/11/26/piano-karaoke-with-paul-leschen-tickets)
 
-9:00 PM · nightlife · Check current price · Sid Gold's Request Room · Chelsea · Manhattan · Score 33.4  
+9:00 PM · nightlife · Check current price · Sid Gold's Request Room · Chelsea · Manhattan · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/piano-karaoke-with-paul-leschen-tickets)
 
 #### [Java Jam](https://donyc.com/events/2026/11/26/java-jam-tickets)
 
-10:30 PM · music · Check current price · Alphaville · Bushwick · Brooklyn · Score 33.4  
+10:30 PM · music · Check current price · Alphaville · Bushwick · Brooklyn · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/java-jam-tickets)
 
 #### [Glimpse of Greatness](https://donyc.com/events/2026/11/26/glimpse-of-greatness-tickets)
 
-7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 30.4  
+7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 30.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/26/glimpse-of-greatness-tickets)
 
@@ -1954,388 +1461,417 @@ Alessandro Rossellini's documentary examines his family's artistic legacy and co
 
 #### [Lightscape at Brooklyn Botanic Garden](https://www.bbg.org/lightscape)
 
-Time to confirm · outdoors · $44 nonmember adult on this peak date, including fees; member adult $37. · Brooklyn Botanic Garden · Crown Heights · Brooklyn · Score 69.0  
-Follow an illuminated garden trail with large light installations, hot drinks and seasonal snacks.
-**Timing:** Timed evening entry; select a 15-minute arrival window.
-**Practical note:** Allow 45-75 minutes and dress for a breezy evening. The wheelchair-accessible route begins and ends at the Washington Avenue visitor center.
-**Why now:** November 27 is explicitly marked as an operating peak night.
-**On-sale watch:** A date-specific Lightscape ticket is required; remaining slots were not verified.
-[Official](https://www.bbg.org/lightscape) · [Tickets / booking](https://events.leapevents.com/tickets/lightscape2026/listing/) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/)
+Time to confirm · outdoors · $44 nonmember adult peak; $37 member adult; fees included · Brooklyn Botanic Garden · Crown Heights · Brooklyn · Score 70.1  
+Explore a mile-long garden trail of illuminated installations and dramatically lit trees, water and architecture.
+**Timing:** Confirmed operating date; exact evening entry depends on the ticket selected.
+**Practical note:** Friday has a 50% rain chance. Lightscape normally operates in rain; safety cancellations are communicated to ticket holders before 14:00. Wear waterproof footwear.
+**Why now:** November 27 is explicitly listed as a peak operating night.
+[Official](https://www.bbg.org/lightscape) · [Tickets / booking](https://events.leapevents.com/tickets/lightscape2026/listing/) · [Discovered via The Skint](https://theskint.com/)
 
-#### [Elektra: Friday Performance](https://tfana.org/events/elektra)
+#### [Urban Park Rangers Post-Thanksgiving Day Super Hike](https://www.prospectpark.org/event/urban-park-rangers-post-thanksgiving-day-super-hike/)
 
-7:30 PM · theater · Regular $70–$98 plus $7 fee; premium $125 plus $7; eligible discounts separate · Polonsky Shakespeare Center · Fort Greene · Brooklyn · Score 64.0  
-Daniel Fish directs Sophokles' tragedy in Anne Carson's translation, with choral music by Ted Hearne.
+12:00 PM · outdoors · Free · Prospect Park Audubon Center · Prospect Park · Brooklyn · Score 64.0  
+Join the Urban Park Rangers for a post-holiday hike through Prospect Park's landscapes.
+**Practical note:** NWS gives Friday a 50% rain chance. Wear waterproof walking shoes and check for weather-related changes before leaving.
+**Why now:** A specifically scheduled post-Thanksgiving ranger program.
+[Official](https://www.prospectpark.org/event/urban-park-rangers-post-thanksgiving-day-super-hike/)
+
+#### [Elektra](https://tfana.org/events/elektra-2026-11-24-730-pm)
+
+7:30 PM · theater · Polonsky Shakespeare Center · Fort Greene · Brooklyn · Score 64.0  
+Daniel Fish directs Sophokles in Anne Carson's translation, with music by Ted Hearne.
 **Timing:** 80 minutes without intermission.
-**Practical note:** Official status: limited to no availability. Check live seats before making plans. No late seating.
-**Why now:** A verified holiday-week performance; Tuesday and Wednesday are sold out and excluded.
-**Hot booking alert:** The official calendar labels this performance limited to no availability.
-[Official](https://tfana.org/events/elektra) · [Tickets / booking](https://tfana.org/events/elektra-2026-11-27-730-pm/seats) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/)
+**Practical note:** No late seating. This date is marked limited to no availability; November 24 and 25 are sold out.
+**Why now:** A notable current Brooklyn production with a published holiday-week performance.
+**Book soon:** The official schedule flags this performance as limited to no availability.
+[Official](https://tfana.org/events/elektra-2026-11-24-730-pm) · [Tickets / booking](https://tfana.org/events/elektra-2026-11-27-730-pm/seats)
 
-#### [Columbus](https://metrograph.com/film/9999005076-columbus/)
+#### [Chinatown Holiday Market: Thanksgiving Weekend](https://welcometochinatown.com/holiday-market-2026)
 
-6:00 PM · film · Metrograph · Lower East Side · Manhattan · Score 63.9  
-Kogonada's debut pairs John Cho and Haley Lu Richardson in a drama shaped by the modernist architecture of Columbus, Indiana.
-**Timing:** 100-minute film.
-**Practical note:** The page's Q&A notice is for November 8, not November 27.
-**Why now:** A dated screening in Kogonada: A Way of Looking.
-[Official](https://metrograph.com/film/9999005076-columbus/) · [Tickets / booking](https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31414)
+12:00 PM · markets · Free entry · Welcome to Chinatown Small Business Innovation Hub · Chinatown · Manhattan · Score 63.0  
+An indoor market of AAPI-owned small businesses selling ceramics, prints, jewelry, home goods and packaged treats. Favor Coffee is the announced Thanksgiving-weekend pop-up.
+**Timing:** Friday hours are noon-20:00. The Thanksgiving-weekend organizer listing begins November 27, not Thanksgiving Day.
+**Practical note:** No RSVP is required. The indoor setting is useful during Friday's forecast rain; vendor purchases are separate.
+**Why now:** The dated Thanksgiving-weekend listing confirms November 27-29 and names this weekend's food pop-up.
+[Official](https://welcometochinatown.com/holiday-market-2026) · [Tickets / booking](https://luma.com/cm164w8p) · [Discovered via The Skint](https://theskint.com/) · [Discovered via Time Out New York](https://www.timeout.com/newyork/shopping/holiday-markets-in-new-york-city)
 
-#### [Welcome to Chinatown Holiday Market: Thanksgiving Weekend](https://welcometochinatown.com/holiday-market-2026)
+#### [Thankful for Laughs with Jenny Gorelick and Friends](https://unionhallny.com/calendar)
 
-12:00 PM · markets · Free entry; purchases extra. · Welcome to Chinatown Small Business Innovation Hub · Chinatown · Manhattan · Score 63.0  
-Shop rotating AAPI and Chinatown small-business brands, including ceramics, prints, jewelry, packaged snacks and seasonal treats. Favor Coffee is the Thanksgiving-weekend pop-up.
-**Timing:** Friday hours: noon-8pm.
-**Practical note:** No RSVP is required; optional registration provides updates. Thursday was not retained because the Thanksgiving-weekend page specifically emphasizes after-Turkey-Day shopping.
-**Why now:** The dated Thanksgiving-weekend listing confirms a distinct Favor Coffee pop-up.
-[Official](https://welcometochinatown.com/holiday-market-2026) · [Tickets / booking](https://luma.com/cm164w8p) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/)
-
-#### [Grand Central Terminal architecture and history tour](https://www.mas.org/events/grand-central-terminal-11-27-2026/)
-
-12:30 PM · other · $25 nonmember; $15 MAS member. · Grand Central Terminal · Midtown East · Manhattan · Score 63.0  
-Explore Grand Central's architecture and preservation story with a Municipal Art Society docent.
-**Timing:** 12:30-2pm.
-**Practical note:** Exact gathering location is emailed after registration. No refunds unless the organizer cancels.
-**Why now:** A confirmed Friday tour with the published fall discount.
-**Book soon:** Online registration closes one hour before the tour.
-[Official](https://www.mas.org/events/grand-central-terminal-11-27-2026/) · [Tickets / booking](https://secure.mas.org/forms/grand-central-terminal-registration-27)
-
-#### [Sam Dillon Quartet](https://www.thedjangonyc.com/events/sam-dillon-30/?selected_date=2026-11-27)
-
-7:30 PM · music · $40 cover plus two-drink minimum · The Django · Tribeca · Manhattan · Score 62.0  
-Saxophonist Sam Dillon performs with Liya Grgorian, David Barron and Jason Tiemann.
-**Timing:** Sets at 7:30pm and 9:15pm; this record uses the first set.
-**Practical note:** $40 Friday cover plus two-drink minimum. Reservations carry cancellation/no-show terms.
-**Why now:** A date-specific quartet lineup confirmed after following Time Out's venue lead.
-[Official](https://www.thedjangonyc.com/events/sam-dillon-30/?selected_date=2026-11-27) · [Tickets / booking](https://resy.com/cities/new-york-ny/venues/the-django?date=2026-11-27&seats=2) · [Discovered via Time Out New York](https://www.timeout.com/newyork/things-to-do/things-to-do-in-new-york-this-week)
+7:30 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 63.0  
+Jenny Gorelick hosts Jessie Lee, Charlie Flynn, Julia Shiplett, Nataly Aukar, and Shaunak Godkhindi.
+**Practical note:** 21+.
+**Why now:** A named Black Friday comedy lineup.
+[Official](https://unionhallny.com/calendar) · [Tickets / booking](https://www.eventbrite.com/e/thankful-for-laughs-with-jenny-gorelick-and-friends-tickets-2005299914024)
 
 #### [Synthesizer Night at NYC Resistor](https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2004492689594)
 
-7:30 PM · unusual · Pay what you wish; suggested donation $8. · NYC Resistor · Boerum Hill · Brooklyn · Score 62.0  
-A hands-on synthesizer meetup with gear show-and-tell, experimentation and collaborative jams. Bring a synth or explore equipment brought by other participants.
-**Timing:** 7:30-10:30pm.
-**Practical note:** 18+; masks optional. Arrive early if connecting equipment to the MIDI/CV clock. Retained as a maker meetup, not a concert recommendation.
-**Why now:** A separately scheduled Friday gathering, not the fixed public craft-night series.
+7:30 PM · unusual · Pay what you wish; $8 suggested · NYC Resistor · Boerum Hill · Brooklyn · Score 61.1  
+A hands-on synthesizer gathering for gear demonstrations, experimentation, project sharing and collaborative sound-making rather than a conventional concert.
+**Practical note:** Ages 18 and up; fourth-floor walkup. Masks are optional. Bring equipment or curiosity; the activity can be noisy.
+**Why now:** The organizer publishes a November 27 maker-focused session.
 [Official](https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2004492689594) · [Tickets / booking](https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2004492689594)
 
-#### [Karaoke Tremendous](https://www.eventbrite.com/e/karaoke-tremendous-tickets-2002601313437)
+#### [Hanksgiving 2026](https://www.viewcy.com/event/hanksgiving_2027)
 
-11:59 PM · nightlife · Price not published in accessible listing · Union Hall · Park Slope · Brooklyn · Score 62.0  
-Jay Miller hosts an audience-participation karaoke party rather than private-room karaoke.
-**Timing:** Organizer lists Friday 11:59pm through Saturday 3:30am.
-**Practical note:** 21+. Registration link available; the public page did not expose a price.
-**Why now:** The November 27 edition is individually listed and verified.
-[Official](https://www.eventbrite.com/e/karaoke-tremendous-tickets-2002601313437) · [Tickets / booking](https://www.eventbrite.com/e/karaoke-tremendous-tickets-2002601313437)
+8:00 PM · music · $20 · Jalopy Theatre · Columbia Street Waterfront District · Brooklyn · Score 61.0  
+Jalopy's Hanksgiving tribute celebrates Hank Williams. The Skint's current roundup also advertises pumpkin pie.
+**Timing:** Doors 7:30pm; official event runs 8-10pm. The ticket URL's 2027 slug conflicts with the page's explicit 2026 date.
+**Practical note:** $20 is reported by The Skint; the accessible official ticket page confirms the date and times but does not expose a checkout total.
+**Why now:** Annual post-Thanksgiving tribute on November 27.
+[Official](https://www.viewcy.com/event/hanksgiving_2027) · [Tickets / booking](https://www.viewcy.com/event/hanksgiving_2027) · [Discovered via The Skint](https://theskint.com/tues-tues-11-24-12-1-thanksgiving-week/) · [Discovered via The Skint](https://theskint.com/)
 
-#### [Post-Thanksgiving Day Super Hike](https://www.prospectpark.org/event/urban-park-rangers-post-thanksgiving-day-super-hike/)
+#### [Girl Church hosted by Amelia Ritthaler](https://unionhallny.com/calendar)
 
-12:00 PM · outdoors · Free. · Prospect Park Audubon Center · Prospect Park · Brooklyn · Score 61.7  
-Join Urban Park Rangers for an autumn hike exploring Prospect Park's plants and wildlife as they prepare for colder weather.
-**Timing:** Noon-2pm, as listed on the Prospect Park calendar.
-**Practical note:** Wear sturdy shoes. NWS forecasts a 30% chance of rain before 1pm and breezy conditions Friday; check for organizer updates.
-**Why now:** A specifically scheduled post-Thanksgiving ranger outing.
-[Official](https://www.prospectpark.org/event/urban-park-rangers-post-thanksgiving-day-super-hike/)
-
-#### [Jump Start 2026](https://lamama.org/jump-start-2026/)
-
-8:00 PM · theater · $30 adult; optional $50 supporter ticket; listed facility fee included · The Club at La MaMa · East Village · Manhattan · Score 61.0  
-La MaMa's puppet works-in-progress showcase features Justin Otaki Perkins, William PK Carter, Andrew Murdock, Marcella Murray and Torry Bend.
-**Timing:** Published runtime 50–60 minutes.
-**Practical note:** No late seating. Saturday and Sunday ticket listings show no tickets remaining; this entry is Friday only.
-**Why now:** Opening night of a November 27–29 puppet-festival presentation.
-**Book soon:** Other performances in this three-day run show no tickets remaining.
-[Official](https://lamama.org/jump-start-2026/) · [Tickets / booking](https://web.ovationtix.com/trs/pe/11844760)
-
-#### [Girl Church Hosted by Amelia Ritthaler](https://www.eventbrite.com/e/girl-church-hosted-by-amelia-ritthaler-tickets-2004050382642)
-
-10:00 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 60.7  
-Amelia Ritthaler hosts Rachel Coster, Jamie Linn Watson, Anne Lim, Adison Eyring, Anna Gallagher and Bekah Hess.
-**Timing:** Doors 9:30pm; show 10pm.
-**Practical note:** 21+. Advertised lineup may change.
-**Why now:** A named post-Thanksgiving Friday lineup.
-[Official](https://www.eventbrite.com/e/girl-church-hosted-by-amelia-ritthaler-tickets-2004050382642) · [Tickets / booking](https://www.eventbrite.com/e/girl-church-hosted-by-amelia-ritthaler-tickets-2004050382642) · [Source: Union Hall](https://unionhallny.com/calendar)
-
-#### [Tangles with Bryan Cranston Q&A](https://www.ifccenter.com/films/tangles/)
-
-1:30 PM · film · IFC Center · Greenwich Village · Manhattan · Score 58.0  
-Bryan Cranston appears for a conversation accompanying Leah Nelson's animated adaptation of Sarah Leavitt's memoir.
-**Timing:** 102-minute film plus Q&A. Another Q&A screening is separately listed at 2:05pm.
-**Practical note:** Choose a designated Q&A show; later Friday screenings do not advertise Cranston.
-**Why now:** A distinct Friday guest event, separate from Monday's Abbi Jacobson preview.
-**On-sale watch:** Special guest appearance; live seat availability not verified.
-[Official](https://www.ifccenter.com/films/tangles/) · [Tickets / booking](https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588762~8722a542-64c1-4c0b-af02-c3e8a239d769)
+10:00 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 60.4  
+Amelia Ritthaler hosts Rachel Coster, Jamie Linn Watson, Anne Lim, Adison Eyring, Anna Gallagher, and Bekah Hess.
+**Practical note:** 21+. This is a stand-up show, not a religious service.
+**Why now:** The monthly show's verified November lineup.
+[Official](https://unionhallny.com/calendar) · [Tickets / booking](https://www.eventbrite.com/e/girl-church-hosted-by-amelia-ritthaler-tickets-2004050382642)
 
 #### [The Sacrifice in 35mm](https://metrograph.com/film/9999003679-the-sacrifice/)
 
-1:00 PM · film · Metrograph · Lower East Side · Manhattan · Score 57.0  
-Andrei Tarkovsky's final feature, photographed by Sven Nykvist, screens in 35mm as part of Last Testaments.
-**Timing:** 149-minute film. A separate Sunday 6:45pm screening is also published.
-**Practical note:** Allow roughly two and a half hours for the film.
-**Why now:** A verified holiday-weekend archival-format screening.
+1:00 PM · film · Metrograph · Lower East Side · Manhattan · Score 59.1  
+Andrei Tarkovsky's final film, photographed by Sven Nykvist, screens in Metrograph's Last Testaments series.
+**Timing:** 149 minutes.
+**Why now:** A verified holiday-week 35mm presentation.
 [Official](https://metrograph.com/film/9999003679-the-sacrifice/) · [Tickets / booking](https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31406)
 
-#### [The Fantasticks: Friday Matinee](https://2st.com/shows/the-fantasticks)
+#### [Native American Heritage Day at the National Museum of the American Indian](https://americanindian.si.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D211483182)
 
-2:00 PM · theater · Hayes Theater · Theater District · Manhattan · Score 57.0  
-Christopher Gattelli directs the revised musical about two boys, their mothers and a scheme to engineer romance.
-**Timing:** 125 minutes including intermission. Another performance is explicitly listed at 7pm.
-**Practical note:** A verified holiday Friday matinee, not an inferred regular-week schedule.
-**Why now:** Additional Friday matinee during Thanksgiving week.
-[Official](https://2st.com/shows/the-fantasticks) · [Tickets / booking](https://cart.2st.com/6334/6489) · [Discovered via Playbill Productions](https://playbill.com/productions)
+11:00 AM · unusual · Free; confirm registration · The National Museum of the American Indian · Financial District · Manhattan · Score 57.0  
+**Timing:** fri 11am-4pm (hourly)
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://americanindian.si.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D211483182) · [Source: The Skint](https://theskint.com/)
 
-#### [Chief Adjuah — Friday](https://www.bluenotejazz.com/nyc/tm-event/chief-adjuah-9/)
+#### [Geoffrey Keezer Trio with Yasushi Nakamura and Billy Kilson](https://www.birdlandjazz.com/tm-event/geoffrey-keezer-trio/)
 
-8:00 PM · music · Ticket price unknown; $20 minimum additional · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 57.0  
-Chief Adjuah's genre-crossing Stretch Music engagement continues.
-**Timing:** First show 8pm; separately ticketed late show 10:30pm.
-**Practical note:** $20 food/drink minimum additional. Tables all ages; bar 21+. Ticket price unverified.
-**Why now:** Friday option within the four-night engagement.
-[Official](https://www.bluenotejazz.com/nyc/tm-event/chief-adjuah-9/) · [Tickets / booking](https://www.ticketweb.com/event/chief-adjuah-blue-note-jazz-club-tickets/15032683?pl=bluenoteny) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/27/chief-adjuah-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/27/chief-adjuah-tickets-kex7ya8)
+7:00 PM · music · $35.46-$45.76 admission, plus $20 food/beverage minimum · Birdland Theater · Hell's Kitchen · Manhattan · Score 57.0  
+Pianist Geoffrey Keezer joins bassist Yasushi Nakamura and drummer Billy Kilson for a trio engagement.
+**Timing:** Early set 7pm; separately ticketed late set 9:30pm.
+**Practical note:** Ages 10+. Additional $20 food/beverage minimum per person per set.
+**Why now:** Opening night of the November 27-29 engagement.
+[Official](https://www.birdlandjazz.com/tm-event/geoffrey-keezer-trio/) · [Tickets / booking](https://www.ticketweb.com/event/geoffrey-keezer-trio-with-yasushi-birdland-theater-tickets/15005553?REFID=clientsitewp)
 
-#### [New York City Ballet: George Balanchine's The Nutcracker — opening night](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker)
+#### [Thanks - It's Giving!](https://www.wonderville.nyc/events/thanks-its-giving-11-27-26)
 
-8:00 PM · dance · Price unverified; budget fit unknown · David H. Koch Theater · Upper West Side · Manhattan · Score 57.0  
-Balanchine's full-length ballet returns with Tchaikovsky's score, the growing Christmas tree and the Land of Sweets.
-**Timing:** 8pm performance confirmed by NYCB's public calendar feed; approximately two hours.
-**Practical note:** No late seating or re-entry. Price and availability unverified; confirm seats within $120.
-**Why now:** Opening performance of the 2026 holiday run.
-[Official](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker) · [Tickets / booking](https://tickets.nycballet.com/booking/production/9531)
+8:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 57.0  
+this black friday! fun music! cheap drinks! free arcade games! RSVP #block-yui_3_17_2_1_1795471572787_95407 { --sqs-block-content-flex: 0; } #block-yui_3_17_2_1_1795471572787_95407 { --opacity: 100%; --translate-x: 0px; --translate-y: 0px; --rotation: 0deg; --scale-x: 100%; --scale-y: 100%; --skew-x: 0deg; --skew-y: 0deg; --origin-x: 50%; --origin-y: 50%; --block-transform: none; opacity: var(--o…
+[Official](https://www.wonderville.nyc/events/thanks-its-giving-11-27-26) · [Tickets / booking](https://www.wonderville.nyc/events/thanks-its-giving-11-27-26)
+
+#### [The Drunk Texts: To Die or Not to Die Hard](https://www.theratnyc.com/event-details/the-drunk-texts-to-die-or-not-to-die-hard-2026-11-27-20-00)
+
+8:00 PM · theater · $12 · The RAT NYC · DUMBO · Brooklyn · Score 57.0  
+Random Access Theatre premieres Levi Penley's Shakespearean retelling of Die Hard, with improvisation and audience participation.
+**Timing:** fri 8pm
+**Practical note:** Alcohol-centered interactive performance. The venue page contains some unrelated Christmas Carol boilerplate; title and dated listing agree with the organizer.
+**Why now:** One-night world premiere on November 27.
+[Official](https://www.theratnyc.com/event-details/the-drunk-texts-to-die-or-not-to-die-hard-2026-11-27-20-00) · [Tickets / booking](https://www.crowdwork.com/e/the-drunk-texts?date=2026-11-27T20:00:00) · [Source: Random Access Theatre](https://randomaccesstheatre.weebly.com/drunk-texts.html) · [Discovered via The Skint](https://theskint.com/tues-tues-11-24-12-1-thanksgiving-week/) · [Discovered via The Skint](https://theskint.com/)
+
+#### [New York City Ballet: George Balanchine's The Nutcracker — opening date](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker)
+
+Time to confirm · dance · Current seat prices unverified · David H. Koch Theater · Lincoln Square · Manhattan · Score 56.1  
+New York City Ballet opens its seasonal run of Balanchine's ballet, set to Tchaikovsky's score.
+**Timing:** The official run begins November 27. The dynamic selector did not expose that day's curtain time; confirm before booking. Approximate running time is two hours.
+**Practical note:** Ticket price and remaining inventory unverified; may exceed $120. This is a general-audience ballet, not a children-only program.
+**Why now:** Official opening date of the November 27-January 2 run.
+[Official](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker) · [Tickets / booking](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker#performance-dates-7748)
+
+#### [Tangles with Bryan Cranston Q&A](https://www.ifccenter.com/films/tangles/)
+
+1:30 PM · film · IFC Center · Greenwich Village · Manhattan · Score 56.1  
+Leah Nelson's animated adaptation of Sarah Leavitt's graphic novel about a family facing Alzheimer's, followed by a Q&A with Bryan Cranston.
+**Timing:** A second Q&A screening is listed at 2:05pm.
+**Practical note:** Film runs 102 minutes; discussion adds time. The page also mentions a later regular engagement, but explicitly publishes this November screening.
+**Why now:** Special opening-day guest appearance.
+[Official](https://www.ifccenter.com/films/tangles/) · [Tickets / booking](https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588762~8722a542-64c1-4c0b-af02-c3e8a239d769&)
 
 #### [Post Turkey Day Walking Tour](https://www.green-wood.com/event/post-turkey-day-walking-tour-6/)
 
-1:00 PM · outdoors · Green-Wood Cemetery · Greenwood Heights · Brooklyn · Score 55.9  
+1:00 PM · outdoors · Green-Wood Cemetery · Greenwood Heights · Brooklyn · Score 55.3  
 , .stk-2be9b3b {margin-right:0px !important;margin-bottom:24px !important;margin-left:0px !important;}.stk-2be9b3b-column{--stk-column-gap:20px !important;} .stk-3717db9-container{margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !important;margin-left:0px !important;}.stk-3717db9 {margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !important;margin-left…
 [Official](https://www.green-wood.com/event/post-turkey-day-walking-tour-6/) · [Tickets / booking](https://www.green-wood.com/event/post-turkey-day-walking-tour-6/)
 
 #### [Antibalas — Friday](https://brooklyn.brooklynbowl.com/events/detail/antibalas-k7vgf_3rk3xmb)
 
-8:00 PM · music · Price unverified; single-night tickets available · Brooklyn Bowl · Williamsburg · Brooklyn · Score 55.9  
+8:00 PM · music · Current ticket price unverified · Brooklyn Bowl · Williamsburg · Brooklyn · Score 55.3  
 Brooklyn Afrobeat ensemble Antibalas begins a two-night engagement.
 **Timing:** Doors 6pm; show 8pm.
-**Practical note:** 18+. Individual-night tickets and a two-night pass are offered; prices unverified.
-**Why now:** First night of the November 27–28 run.
+**Practical note:** 18+. Single-night tickets are offered; current price and compliance with the $120 budget remain unverified.
+**Why now:** First of two November 27-28 Brooklyn Bowl performances.
 [Official](https://brooklyn.brooklynbowl.com/events/detail/antibalas-k7vgf_3rk3xmb) · [Tickets / booking](https://www.ticketmaster.com/antibalas-brooklyn-new-york-11-27-2026/event/0000652BD34BEDD8)
 
 #### [Andy Warhol’s 'Screen Tests' + Conrad Ventur’s 'Screen Tests Revisited', Pgm 1](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62293)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 54.7  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 54.4  
 These two programs pair Warhol’s seminal and often exquisite SCREEN TESTS – the silent, black-and-white, three-and-a-half minute filmic portraits he made between 1964-66, which grew to encompass 472 separate reels, portraying 189 individual subjects (many of them sitting for multiple portraits) – with Conrad Ventur’s 21st-century remakes. For Ventur’s (ongoing) project, he has sought out as many…
-**Timing:** Program 1 at 6:30pm; Program 2 is a separate 8:45pm screening.
-**Practical note:** Verify the program number when buying tickets.
-**Why now:** A specifically scheduled pairing in a short-run portraiture series.
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62293) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62293)
 
 #### [Love Games: Dee Diggs, Lauren Murada & Finn Jones](https://goodroombk.com/)
 
-Time to confirm · nightlife · Price unverified · Good Room · Greenpoint · Brooklyn · Score 54.7  
-Love Games brings Dee Diggs, Lauren Murada and Finn Jones to Good Room; Benny Soto and Frantz play the Bad Room.
-**Timing:** Friday date and lineup verified; hours not available from the accessible official calendar.
-**Practical note:** RA returned 403. Confirm hours, age policy, price and inventory before travelling.
-**Why now:** A specific two-room Friday lineup.
+Time to confirm · nightlife · Price unverified · Good Room · Greenpoint · Brooklyn · Score 54.4  
+Love Games features Dee Diggs, Lauren Murada and Finn Jones in Good Room, with Benny Soto and Frantz in the Bad Room.
+**Timing:** November 27 lineup confirmed; opening and performance times were not exposed.
+**Practical note:** Confirm time, age restriction and price through the venue before booking; RA access was blocked.
+**Why now:** Specific November 27 two-room lineup.
 [Official](https://goodroombk.com/) · [Tickets / booking](https://ra.co/events/2563187)
 
 #### [Black Friday Brunch 2026 at Björk Cafe & Bistro](https://www.scandinaviahouse.org/event/black-friday-brunch-at-bjork-cafe-bistro-2026/)
 
-11:00 AM · museums · Scandinavia House · Murray Hill · Manhattan · Score 54.7  
+11:00 AM · museums · Scandinavia House · Murray Hill · Manhattan · Score 54.4  
 Björk Cafe & Bistro will be open for a Black Friday Brunch Special on Friday, November 27, from 11:00 AM – 5:00 PM. The last seating is at 4:00 PM. Space is limited, so reserve your table right away! ASF Members receive a 15% discount at Black Friday Brunch and other special holiday dining including the First of Advent, Holiday and Christmas Eve Julbord, and New Year’s Eve Prix-Fixe; learn more a…
 [Official](https://www.scandinaviahouse.org/event/black-friday-brunch-at-bjork-cafe-bistro-2026/) · [Tickets / booking](https://www.scandinaviahouse.org/event/black-friday-brunch-at-bjork-cafe-bistro-2026/)
 
 #### [Black Friday Sale at the Shop](https://www.scandinaviahouse.org/event/black-friday-sale-at-the-shop/2026-11-27/)
 
-11:00 AM · museums · Scandinavia House · Murray Hill · Manhattan · Score 54.7  
+11:00 AM · museums · Scandinavia House · Murray Hill · Manhattan · Score 54.4  
 It’s Black Friday Weekend at the Shop at Scandinavia House! Enjoy 15-percent off all merchandise Friday through Sunday. Stock up on Nordic sweets, home décor, tableware, fashion, accessories and more! All discounts are added to pre-existing ASF Member discounts (15-percent off year-round). Become an ASF Member to double your discount to 30 percent! Learn more here.
 [Official](https://www.scandinaviahouse.org/event/black-friday-sale-at-the-shop/2026-11-27/) · [Tickets / booking](https://www.scandinaviahouse.org/event/black-friday-sale-at-the-shop/2026-11-27/)
 
 #### [Emo Nite](https://www.axs.com/events/1635758/emo-nite-tickets)
 
-9:00 PM · music · Check current price · Racket · Chelsea · Manhattan · Score 54.7  
+9:00 PM · music · Check current price · Racket · Chelsea · Manhattan · Score 54.4  
 **Timing:** Doors 9:00 PM
 **Practical note:** Age policy: 18 & Over. Prices and availability can change.
 [Official](https://www.axs.com/events/1635758/emo-nite-tickets) · [Tickets / booking](https://www.axs.com/events/1635758/emo-nite-tickets)
 
+#### [Grand Central Terminal Architecture Tour](https://www.mas.org/events/grand-central-terminal-11-27-2026/)
+
+12:30 PM · other · $25 public; $15 MAS members · Grand Central Terminal · Midtown East · Manhattan · Score 54.3  
+A docent-led look at Grand Central's architecture and the preservation campaign that saved it.
+**Practical note:** Meeting instructions arrive after registration. This primarily indoor tour is a useful option for a potentially rainy Friday.
+**Why now:** An explicitly dated Black Friday tour with fall-discount pricing.
+[Official](https://www.mas.org/events/grand-central-terminal-11-27-2026/) · [Tickets / booking](https://secure.mas.org/forms/grand-central-terminal-registration-27)
+
 #### [STAMPED: AYA x Friends - BLACK FRIDAY](https://www.elsewhere.club/events/2002830085701)
 
-10:00 PM · music · Check current price · Elsewhere · Ridgewood · Queens · Score 53.7  
-AYA and friends present STAMPED's African-music-focused Black Friday edition in Elsewhere's Main Hall.
-**Timing:** Organizer verifies a 10pm–4am party; individual set times unpublished.
+10:00 PM · music · Check current price · Elsewhere · Ridgewood · Queens · Score 53.4  
+AYA and friends present a Black Friday edition of STAMPED centered on African music in Elsewhere's Main Hall.
+**Timing:** Organizer's ticket page confirms 10pm-4am; individual DJ set times are unpublished.
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-**Why now:** A special Black Friday edition with an explicitly African musical focus.
+**Why now:** Special November 27 Black Friday edition.
 [Official](https://www.elsewhere.club/events/2002830085701) · [Tickets / booking](https://donyc.com/events/2026/11/27/stamped-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/27/stamped-tickets)
+
+#### [Historic Richmond Town: Two Centuries Walking Tour](https://www.historicrichmondtown.org/events/april/guided-tours)
+
+1:00 PM · outdoors · Admission price not displayed on the event page · Historic Richmond Town · Richmond Town · Staten Island · Score 53.0  
+A guided village walk through two centuries of Staten Island history, visiting historic structures associated with colonial settlement, the Revolution, slavery and emancipation.
+**Timing:** The published fall schedule offers this 75-minute tour at 13:00 and 15:00, Wednesday through Sunday.
+**Practical note:** The route combines outdoor walking and interiors, with uneven ground and street crossings. Friday rain is possible; check the booking calendar for the desired departure.
+**Why now:** The official September 12-December 20, 2026 run includes this Friday under its published weekly schedule.
+[Official](https://www.historicrichmondtown.org/events/april/guided-tours) · [Tickets / booking](https://fareharbor.com/embeds/book/historicrichmondtown/items/492436/calendar/?flow=943168&full-items=yes)
 
 #### [Whitney Museum free Friday evening](https://whitney.org/visit)
 
-5:00 PM · museums · Free · Whitney Museum of American Art · Meatpacking District · Manhattan · Score 51.7  
+5:00 PM · museums · Free · Whitney Museum of American Art · Meatpacking District · Manhattan · Score 51.4  
 The Whitney is free to all every Friday evening from 5 to 10pm, and also on the second Sunday of each month.
 **Timing:** Free admission Fridays 5-10pm. Free tickets are limited and released in advance.
 **Practical note:** Reserve the free timed ticket ahead; walk-up availability runs out on busy evenings.
 **Why now:** A standing free window that makes a good anchor for a Friday evening in the Meatpacking District.
 [Official](https://whitney.org/visit)
 
+#### [Aitana](https://donyc.com/events/2026/11/27/aitana-tickets)
+
+7:00 PM · music · Check current price · Brooklyn Paramount · Downtown Brooklyn · Brooklyn · Score 50.1  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/27/aitana-tickets)
+
+#### [Record Store Day](https://recordstoreday.com/Home)
+
+Time to confirm · unusual · Free; confirm registration · Indie Record Stores · Score 50.0  
+**Timing:** fri
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://recordstoreday.com/Home) · [Source: The Skint](https://theskint.com/)
+
+#### [Chief Adjuah](https://donyc.com/events/2026/11/27/chief-adjuah-tickets)
+
+8:00 PM · music · Check current price · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 49.3  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/27/chief-adjuah-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/27/chief-adjuah-tickets-kex7ya8)
+
 #### [Emmett & the Dead Ends w/ Dog House](https://donyc.com/events/2026/11/27/emmett-the-dead-ends-w-dog-house-tickets)
 
-6:00 PM · music · Check current price · Mercury Lounge · East Village · Manhattan · Score 48.7  
+6:00 PM · music · Check current price · Mercury Lounge · East Village · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/emmett-the-dead-ends-w-dog-house-tickets)
 
 #### [Jimi Hendrix Birthday Jam with Marcus Machado](https://donyc.com/events/2026/11/27/jimi-hendrix-birthday-jam-with-marcus-machado-tickets)
 
-6:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 48.7  
+6:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/jimi-hendrix-birthday-jam-with-marcus-machado-tickets)
 
 #### [midwxst: Solitude in Silence Tour](https://donyc.com/events/2026/11/27/midwxst-solitude-in-silence-tour-tickets)
 
-6:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 48.7  
+6:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/midwxst-solitude-in-silence-tour-tickets)
 
 #### [DIRTY CIRCUS: Stuffed](https://donyc.com/events/2026/11/27/dirty-circus-stuffed-tickets)
 
-6:30 PM · nightlife · Check current price · House of Yes · Bushwick · Brooklyn · Score 48.7  
+6:30 PM · nightlife · Check current price · House of Yes · Bushwick · Brooklyn · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/dirty-circus-stuffed-tickets)
 
 #### [An Evening with Alex O'Connor](https://donyc.com/events/2026/11/27/an-evening-with-alex-o-connor-tickets)
 
-7:00 PM · theater · Check current price · The Town Hall · Theater District · Manhattan · Score 48.7  
+7:00 PM · theater · Check current price · The Town Hall · Theater District · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/an-evening-with-alex-o-connor-tickets)
 
 #### [Annie The Musical](https://donyc.com/events/2026/11/27/annie-the-musical-tickets)
 
-7:00 PM · music · Check current price · Tarrytown Music Hall · Washington Heights · Manhattan · Score 48.7  
+7:00 PM · music · Check current price · Tarrytown Music Hall · Washington Heights · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/annie-the-musical-tickets)
 
 #### [Blindspot | Boyblue | Dig a Revel | Kings & Constables](https://donyc.com/events/2026/11/27/blindspot-boyblue-dig-a-revel-kings-constables-tickets)
 
-7:00 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 48.7  
+7:00 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/blindspot-boyblue-dig-a-revel-kings-constables-tickets)
 
 #### [Hearts of Palm, Brigid Hart, Cookie](https://donyc.com/events/2026/11/27/hearts-of-palm-brigid-hart-cookie-tickets)
 
-7:00 PM · music · Check current price · Alphaville · Bushwick · Brooklyn · Score 48.7  
+7:00 PM · music · Check current price · Alphaville · Bushwick · Brooklyn · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/hearts-of-palm-brigid-hart-cookie-tickets)
 
 #### [Leo Sidran: All Bets Are Off](https://donyc.com/events/2026/11/27/leo-sidran-all-bets-are-off-tickets)
 
-7:00 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 48.7  
+7:00 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/leo-sidran-all-bets-are-off-tickets)
 
 #### [Love Games with Dee Diggs, Lauren Murada & Finn Jones, Benny Soto, Frantz](https://donyc.com/events/2026/11/27/love-games-with-dee-diggs-lauren-murada-finn-jones-benny-soto-frantz-tickets)
 
-7:00 PM · music · Check current price · Good Room · Williamsburg · Brooklyn · Score 48.7  
+7:00 PM · music · Check current price · Good Room · Williamsburg · Brooklyn · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/love-games-with-dee-diggs-lauren-murada-finn-jones-benny-soto-frantz-tickets)
 
 #### [New York Knicks vs. Miami HEAT](https://donyc.com/events/2026/11/27/new-york-knicks-vs-miami-heat-tickets)
 
-7:00 PM · sports · Check current price · Madison Square Garden · Midtown · Manhattan · Score 48.7  
+7:00 PM · sports · Check current price · Madison Square Garden · Midtown · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/new-york-knicks-vs-miami-heat-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/27/new-york-knicks-tickets)
 
 #### [Rhythm & Blades : 2 Year Anniversary Blackout (skate)](https://donyc.com/events/2026/11/27/rhythm-blades-2-year-anniversary-blackout-skate-tickets)
 
-7:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 48.7  
+7:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/rhythm-blades-2-year-anniversary-blackout-skate-tickets)
 
 #### [Santi Espinosa](https://donyc.com/events/2026/11/27/santi-espinosa-tickets)
 
-7:00 PM · comedy · Check current price · The Gramercy Theatre · Gramercy · Manhattan · Score 48.7  
+7:00 PM · comedy · Check current price · The Gramercy Theatre · Gramercy · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/santi-espinosa-tickets)
 
 #### [Antibalas](https://donyc.com/events/2026/11/27/antibalas-tickets)
 
-8:00 PM · music · Check current price · Brooklyn Bowl · Williamsburg · Brooklyn · Score 48.7  
+8:00 PM · music · Check current price · Brooklyn Bowl · Williamsburg · Brooklyn · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/antibalas-tickets)
 
 #### [Emo Night Karaoke](https://donyc.com/events/2026/11/27/emo-night-karaoke-tickets)
 
-8:00 PM · music · Check current price · Warsaw · Williamsburg · Brooklyn · Score 48.7  
+8:00 PM · music · Check current price · Warsaw · Williamsburg · Brooklyn · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/emo-night-karaoke-tickets)
 
 #### [Night Of Classic RnB & House](https://donyc.com/events/2026/11/27/night-of-classic-rnb-house-tickets)
 
-8:00 PM · music · Check current price · Palladium Times Square · Theater District · Manhattan · Score 48.7  
+8:00 PM · music · Check current price · Palladium Times Square · Theater District · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/night-of-classic-rnb-house-tickets)
 
 #### [Tom Van Horn, Elyse DeLucci, Jason Salmon, & Kareem Green!](https://donyc.com/events/2026/11/27/tom-van-horn-elyse-delucci-jason-salmon-kareem-green-tickets)
 
-8:00 PM · comedy · Check current price · Comic Strip Live NYC · Upper East Side · Manhattan · Score 48.7  
+8:00 PM · comedy · Check current price · Comic Strip Live NYC · Upper East Side · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/tom-van-horn-elyse-delucci-jason-salmon-kareem-green-tickets)
 
 #### [Brandon Lee Quintet](https://donyc.com/events/2026/11/27/brandon-lee-quintet-tickets)
 
-9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 48.7  
+9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/brandon-lee-quintet-tickets)
 
 #### [Leon & Lewis](https://donyc.com/events/2026/11/27/leon-lewis-tickets)
 
-9:30 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 48.7  
+9:30 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/leon-lewis-tickets)
 
 #### [Yalla Habibi](https://donyc.com/events/2026/11/27/yalla-habibi-tickets)
 
-10:00 PM · music · Check current price · Irving Plaza · Gramercy · Manhattan · Score 48.7  
+10:00 PM · music · Check current price · Irving Plaza · Gramercy · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/yalla-habibi-tickets)
 
 #### [Dina Martina - Christmas Show](https://donyc.com/events/2026/11/27/dina-martina-christmas-show-tickets)
 
-10:30 PM · comedy · Check current price · Sony Hall · Theater District · Manhattan · Score 48.7  
+10:30 PM · comedy · Check current price · Sony Hall · Theater District · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/dina-martina-christmas-show-tickets)
 
 #### [Sidepiece](https://donyc.com/events/2026/11/27/sidepiece-tickets)
 
-11:00 PM · music · Check current price · Marquee New York · Chelsea · Manhattan · Score 48.7  
+11:00 PM · music · Check current price · Marquee New York · Chelsea · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/sidepiece-tickets)
 
 #### [Y2K Party: 2000's vs 2010's](https://donyc.com/events/2026/11/27/y2k-party-2000-s-vs-2010-s-tickets)
 
-11:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 48.7  
+11:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 48.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/y2k-party-2000-s-vs-2010-s-tickets)
 
+#### [The History of Fitness and Exercise: From Yoga to Commercial Gyms (Re-Air)](https://www.meetup.com/newyorkadventureclub/events/317555417/)
+
+11:00 AM · unusual · Score 48.0  
+New York Adventure Club Tickets: $18.88 ( incl. $3.88 fees ) (includes access to the full replay for one week) Click the link below to officially register for this experience: [https://www.nyadventureclub.com/event/2003979153594](https://www.nyadventureclub.com/event/2003979153594) ***This previously recorded program will remain active for one week!*** ***This is a re-aired recording of this prog…
+[Official](https://www.meetup.com/newyorkadventureclub/events/317555417/) · [Tickets / booking](https://www.meetup.com/newyorkadventureclub/events/317555417/)
+
+#### [The Lower East Side Chronicles: Growing Up in NYC's Melting Pot (Re-Air)](https://www.meetup.com/newyorkadventureclub/events/317555422/)
+
+11:00 AM · unusual · Score 48.0  
+New York Adventure Club Tickets: $18.88 ( incl. $3.88 fees ) (includes access to the full replay for one week) Click the link below to officially register for this experience: [https://www.nyadventureclub.com/event/2003979174657](https://www.nyadventureclub.com/event/2003979174657) ***This previously recorded program will remain active for one week!*** ***This is a re-aired recording of this prog…
+[Official](https://www.meetup.com/newyorkadventureclub/events/317555422/) · [Tickets / booking](https://www.meetup.com/newyorkadventureclub/events/317555422/)
+
 #### [New York Islanders vs. Winnipeg Jets](https://donyc.com/events/2026/11/27/new-york-islanders-vs-winnipeg-jets-tickets)
 
-7:30 PM · sports · Check current price · UBS Arena · Forest Hills · Queens · Score 47.7  
+7:30 PM · sports · Check current price · UBS Arena · Forest Hills · Queens · Score 47.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/new-york-islanders-vs-winnipeg-jets-tickets)
 
 #### [Club Night: AceMo & Swami Sound (live), GENG PTP, Princess Peggie](https://donyc.com/events/2026/11/27/club-night-acemo-swami-sound-live-geng-ptp-princess-peggie-tickets)
 
-10:00 PM · nightlife · Check current price · Nowadays · Ridgewood · Queens · Score 47.7  
+10:00 PM · nightlife · Check current price · Nowadays · Ridgewood · Queens · Score 47.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/club-night-acemo-swami-sound-live-geng-ptp-princess-peggie-tickets)
 
 #### [The Secret World of Flowers: Behind-the-Scenes NYC Floral District Tour](https://www.meetup.com/newyorkadventureclub/events/317251447/)
 
-9:30 AM · unusual · Score 45.7  
+9:30 AM · unusual · Score 45.4  
 New York Adventure Club Tickets: $45.25 (advance registration required) Click the link below to register for this event: [https://www.nyadventureclub.com/event/2003350266576](https://www.nyadventureclub.com/event/2003350266576) Hidden among the flower-filled storefronts of Manhattan's West 20s is the surviving heart of an industry that once transformed New York into one of America's great centers…
 [Official](https://www.meetup.com/newyorkadventureclub/events/317251447/) · [Tickets / booking](https://www.meetup.com/newyorkadventureclub/events/317251447/)
 
 #### [Exploring the Grand Apartments of the Upper West Side](https://www.meetup.com/newyorkadventureclub/events/317251264/)
 
-2:00 PM · unusual · Score 45.7  
+2:00 PM · unusual · Score 45.4  
 New York Adventure Club Tickets: $39.98 (advance registration required) Click the link below to register for this event: [https://www.nyadventureclub.com/event/2003350274600](https://www.nyadventureclub.com/event/2003350274600) Before luxury apartments became a defining feature of the Manhattan skyline, convincing New Yorkers to trade private homes for shared buildings required bold ideas, remark…
 [Official](https://www.meetup.com/newyorkadventureclub/events/317251264/) · [Tickets / booking](https://www.meetup.com/newyorkadventureclub/events/317251264/)
 
+#### [Post-Thanksgiving Day Hikes](https://www.nycgovparks.org/events/thanksgiving/f2026-11-27/t2026-11-27)
+
+Time to confirm · unusual · Free; confirm registration · Score 45.0  
+**Timing:** fri (various times)
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://www.nycgovparks.org/events/thanksgiving/f2026-11-27/t2026-11-27) · [Source: The Skint](https://theskint.com/)
+
 #### [MoMA free Friday evening](https://www.moma.org/visit/)
 
-4:00 PM · museums · Free · Museum of Modern Art · Midtown · Manhattan · Score 43.7  
+4:00 PM · museums · Free · Museum of Modern Art · Midtown · Manhattan · Score 43.4  
 MoMA offers free admission on Friday evenings. Free tickets are limited, released in advance, and go quickly.
 **Timing:** Free Friday evenings, roughly 4-8pm. Confirm the current window and ticket release on moma.org.
 **Practical note:** Book the free timed ticket the moment it is released; the line for walk-ups is long.
@@ -2344,278 +1880,293 @@ MoMA offers free admission on Friday evenings. Free tickets are limited, release
 
 #### [New York Comedy Club Presents](https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-2026-11-27180000)
 
-6:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 42.7  
+6:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 42.4  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
 [Official](https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-2026-11-27180000) · [Tickets / booking](https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-2026-11-27180000)
 
+#### [Exhibition Tour: Untitled (America)](https://whitney.org/events/untitled-america-exh-tour-2026)
+
+1:00 PM · museums · Included with admission; adults $30, ages 25 and under free · Whitney Museum of American Art · Meatpacking District · Manhattan · Score 42.0  
+A docent-led discussion of works in the Whitney's Untitled (America) exhibition.
+**Practical note:** Meet on floor 7. Maximum 25 participants, first come, first served. This daytime tour is not the separately collected free Friday evening.
+**Why now:** An explicitly dated post-Thanksgiving museum program.
+[Official](https://whitney.org/events/untitled-america-exh-tour-2026) · [Tickets / booking](https://whitney.org/admission)
+
 #### [Christmas Spectacular Starring The Radio City Rockettes](https://donyc.com/events/2026/11/27/christmas-spectacular-starring-the-radio-city-rockettes-tickets)
 
-10:00 AM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 33.7  
+10:00 AM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 33.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/christmas-spectacular-starring-the-radio-city-rockettes-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/27/christmas-spectacular-starring-the-radio-city-rockettes-tickets-3E7EVJ7) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/27/christmas-spectacular-starring-the-radio-city-rockettes-tickets-8agal1v) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/27/christmas-spectacular-starring-the-radio-city-rockettes-tickets-lepeKDA) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/27/christmas-spectacular-starring-the-radio-city-rockettes-tickets-0ZWZ0xK)
 
 #### [Weekend Warm-Up (skate)](https://donyc.com/events/2026/11/27/weekend-warm-up-skate-tickets)
 
-4:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 33.7  
+4:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 33.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/weekend-warm-up-skate-tickets)
 
 #### [Piano Karaoke with Stefan Kukurugya](https://donyc.com/events/2026/11/27/piano-karaoke-with-stefan-kukurugya-tickets)
 
-8:00 PM · nightlife · Check current price · Sid Gold's Request Room · Chelsea · Manhattan · Score 33.7  
+8:00 PM · nightlife · Check current price · Sid Gold's Request Room · Chelsea · Manhattan · Score 33.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/piano-karaoke-with-stefan-kukurugya-tickets)
 
 #### [Piano Karaoke with Wendy Ip](https://donyc.com/events/2026/11/27/piano-karaoke-with-wendy-ip-tickets)
 
-9:00 PM · nightlife · Check current price · Sid Gold's Request Room · Chelsea · Manhattan · Score 33.7  
+9:00 PM · nightlife · Check current price · Sid Gold's Request Room · Chelsea · Manhattan · Score 33.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/piano-karaoke-with-wendy-ip-tickets)
 
 #### [The Cafe Wha? House Band](https://donyc.com/events/2026/11/27/the-cafe-wha-house-band-tickets)
 
-9:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 33.7  
+9:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 33.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/the-cafe-wha-house-band-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/27/the-cafe-wha-house-band-tickets-g0RAjg1)
 
 #### [Glimpse of Greatness](https://donyc.com/events/2026/11/27/glimpse-of-greatness-tickets)
 
-7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 30.7  
+7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 30.4  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/27/glimpse-of-greatness-tickets)
 
 ### 2026-11-28
 
+#### [The Last Waltz: Saturday brunch screening](https://nitehawkcinema.com/prospectpark/movies/the-last-waltz/)
+
+11:00 AM · film · Nitehawk Cinema Prospect Park · Park Slope · Brooklyn · Score 71.0  
+Martin Scorsese's documentary captures The Band's 1976 farewell concert, with Bob Dylan, Joni Mitchell, and other guests.
+**Timing:** 117 minutes; arrive 30 minutes early.
+**Practical note:** DCP presentation. Brunch purchases are separate.
+**Why now:** Thanksgiving-week screening near the farewell concert's 50th anniversary.
+[Official](https://nitehawkcinema.com/prospectpark/movies/the-last-waltz/) · [Tickets / booking](https://nitehawkcinema.com/prospectpark/purchase/24710565/)
+
 #### [Lightscape at Brooklyn Botanic Garden](https://www.bbg.org/lightscape)
 
-Time to confirm · outdoors · $44 nonmember adult on this peak date, including fees; member adult $37. · Brooklyn Botanic Garden · Crown Heights · Brooklyn · Score 69.0  
-A seasonal illuminated trail through the garden, with large light installations and opportunities to stop for warm drinks.
-**Timing:** Timed evening entry; select a 15-minute arrival window.
-**Practical note:** Allow 45-75 minutes and use the 990 Washington Avenue entrance. Outside food is not allowed.
-**Why now:** November 28 is explicitly marked as an operating peak night.
-**On-sale watch:** A separate Lightscape ticket is required; live availability was not verified.
-[Official](https://www.bbg.org/lightscape) · [Tickets / booking](https://events.leapevents.com/tickets/lightscape2026/listing/) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/)
+Time to confirm · outdoors · $44 nonmember adult peak; $37 member adult; fees included · Brooklyn Botanic Garden · Crown Heights · Brooklyn · Score 66.9  
+A seasonal illuminated walk through the garden, with monumental light installations and refreshments along the route.
+**Timing:** Confirmed Saturday operating date; select an evening timed-entry slot.
+**Practical note:** Enter at 990 Washington Avenue. Allow 45-75 minutes and dress warmly; only the designated evening trail is open.
+**Why now:** November 28 is explicitly enabled as a peak night on the official calendar.
+[Official](https://www.bbg.org/lightscape) · [Tickets / booking](https://events.leapevents.com/tickets/lightscape2026/listing/) · [Discovered via The Skint](https://theskint.com/)
 
-#### [Beginners](https://nitehawkcinema.com/prospectpark/movies/beginners/)
+#### [Brooklyn Flea Holiday Market](https://dumbo.nyc/event/the-brooklyn-flea-holiday-market/2026-11-28/)
 
-12:15 PM · film · Nitehawk Cinema Prospect Park · Park Slope · Brooklyn · Score 66.0  
-Mike Mills's film about love, grief and a father's late-life coming out screens in a weekend repertory slot.
-**Timing:** 105-minute film.
-**Practical note:** Ticket page confirms November 28 at 12:15pm; no Sunday time is inferred.
-**Why now:** A specifically verified weekend screening near Prospect Park.
-[Official](https://nitehawkcinema.com/prospectpark/movies/beginners/) · [Tickets / booking](https://nitehawkcinema.com/prospectpark/purchase/24875721/)
-
-#### [By the Numbers: Park Slope](https://www.mas.org/events/by-the-numbers-park-slope/)
-
-11:00 AM · outdoors · $35 nonmember; $25 MAS member. · Park Slope walking route · Park Slope · Brooklyn · Score 65.6  
-Historian Matt Postal explores First through Ninth Streets, including townhouses by Montrose Morris and William Tubby, Kinko duplex homes and notable churches.
-**Timing:** 11am-1pm; meeting point supplied after registration.
-**Practical note:** Exact starting point is withheld until registration; coordinates are therefore not supplied. Wear walking shoes.
-**Why now:** A one-date neighborhood tour in a preferred Brooklyn neighborhood.
-**Book soon:** Online registration closes one hour before the tour.
-[Official](https://www.mas.org/events/by-the-numbers-park-slope/) · [Tickets / booking](https://secure.mas.org/forms/by-the-numbers-park-slope-registration)
+10:00 AM · markets · Free entry · DUMBO Archway and Plaza · DUMBO · Brooklyn · Score 66.0  
+Vintage goods, handmade gifts, holiday decorations and seasonal refreshments beneath the Manhattan Bridge.
+**Practical note:** Free entry; bring layers for the outdoor market. Vendor inventory varies.
+**Why now:** A dated holiday-market session on Small Business Saturday.
+[Official](https://dumbo.nyc/event/the-brooklyn-flea-holiday-market/2026-11-28/) · [Discovered via The Skint](https://theskint.com/) · [Discovered via Time Out New York](https://www.timeout.com/newyork/shopping/holiday-markets-in-new-york-city)
 
 #### [Found Sound Nation: Mara Rosenbloom + Selendis S.A. Johnson](https://www.viewcy.com/event/found_sound_nation_pr_6)
 
-4:00 PM · music · Admission amount unverified · Barbès · Park Slope · Brooklyn · Score 65.6  
-Found Sound Nation presents Mara Rosenbloom and Selendis S.A. Johnson in an afternoon small-room performance.
-**Timing:** Official organizer listing gives 4pm–5:30pm.
-**Practical note:** Admission amount not visible; Barbès states its shows are not automatically free.
-**Why now:** A named Found Sound Nation pairing on Saturday afternoon.
-[Official](https://www.viewcy.com/event/found_sound_nation_pr_6) · [Tickets / booking](https://www.viewcy.com/event/found_sound_nation_pr_6) · [Discovered via NYC Noise](https://nyc-noise.com/)
+4:00 PM · music · Admission amount unverified · Barbès · Park Slope · Brooklyn · Score 64.7  
+Found Sound Nation presents Mara Rosenbloom and Selendis S.A. Johnson in an afternoon performance.
+**Timing:** Official event listing gives 4-5:30pm.
+**Practical note:** Admission amount and reservation requirements were not exposed on the accessible listing.
+**Why now:** Specific November 28 Found Sound Nation pairing.
+[Official](https://www.viewcy.com/event/found_sound_nation_pr_6) · [Tickets / booking](https://www.viewcy.com/event/found_sound_nation_pr_6) · [Discovered via NYC Noise](https://nyc-noise.com/event/14315)
 
-#### [The Roundup with DJ Cowboy](https://www.eventbrite.com/e/the-roundup-with-dj-cowboy-tickets-2004718383651)
+#### [Yay! A Sketch Show](https://unionhallny.com/calendar)
 
-11:59 PM · nightlife · Price not published in accessible listing · Union Hall · Park Slope · Brooklyn · Score 65.0  
-DJ Cowboy leads an open-format dance party spanning pop, disco, rap and R&B.
-**Timing:** Organizer lists Saturday 11:59pm through Sunday 3am.
-**Practical note:** 21+. Public listing does not expose a ticket price; confirm admission terms.
-**Why now:** The November 28 edition has a named DJ and individual event page.
-[Official](https://www.eventbrite.com/e/the-roundup-with-dj-cowboy-tickets-2004718383651) · [Tickets / booking](https://www.eventbrite.com/e/the-roundup-with-dj-cowboy-tickets-2004718383651)
+7:30 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 63.7  
+Megan Bitchell and Andrea Rose perform a new hour of sketch comedy.
+**Practical note:** 21+.
+**Why now:** A distinct Saturday sketch production.
+[Official](https://unionhallny.com/calendar) · [Tickets / booking](https://www.eventbrite.com/e/yay-a-sketch-show-tickets-2004087795545)
 
-#### [Yay! A Sketch Show](https://www.eventbrite.com/e/yay-a-sketch-show-tickets-2004087795545)
+#### [Introduction to Birdwatching Outing](https://www.prospectpark.org/event/introduction-to-birdwatching-outings-3-2/2026-11-28/)
 
-7:30 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 64.6  
-Megan Bitchell and Andrea Rose present a live sketch-comedy show.
-**Timing:** Doors 7pm; show 7:30pm.
-**Practical note:** 21+; nonrefundable tickets.
-**Why now:** A named Saturday sketch bill, distinct from the venue's stand-up shows.
-[Official](https://www.eventbrite.com/e/yay-a-sketch-show-tickets-2004087795545) · [Tickets / booking](https://www.eventbrite.com/e/yay-a-sketch-show-tickets-2004087795545) · [Source: Union Hall](https://unionhallny.com/calendar)
+10:00 AM · outdoors · Free · Prospect Park Audubon Center · Prospect Park · Brooklyn · Score 62.9  
+A beginner-friendly outing led by the Brooklyn Bird Club, looking for seasonal birds on a roughly 1.5-2-mile park walk.
+**Practical note:** Bring binoculars if possible; a limited number are available to borrow. No pets. Runs in ordinary rain, but severe weather can cancel it.
+**Why now:** A confirmed November 28 outing during late-autumn birding season.
+[Official](https://www.prospectpark.org/event/introduction-to-birdwatching-outings-3-2/2026-11-28/)
 
-#### [The Last Waltz](https://nitehawkcinema.com/prospectpark/movies/the-last-waltz/)
+#### [Lakeside Open-Air Ice Rink Season Opening](https://lakeside.prospectpark.org/activity/public-ice-skate/)
 
-11:00 AM · film · Check current price · Nitehawk Cinema Prospect Park · Park Slope · Brooklyn · Score 63.0  
-Martin Scorsese's film of the Band's farewell concert returns to the big screen in a digital presentation.
-**Timing:** 117-minute film; arrive about 30 minutes early.
-**Practical note:** This is a film screening, not a live concert. Ticket page confirms Saturday, November 28.
-**Why now:** Thanksgiving-weekend screening of the Thanksgiving farewell-concert film.
-[Official](https://nitehawkcinema.com/prospectpark/movies/the-last-waltz/) · [Tickets / booking](https://nitehawkcinema.com/prospectpark/purchase/24710565/) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/28/the-last-waltz-tickets)
+9:00 AM · sports · $15 cash or $15.45 card admission; skate rental extra · LeFrak Center at Lakeside · Prospect Lefferts Gardens · Brooklyn · Score 62.0  
+The open-air rink joins Lakeside's covered rink for the winter season, creating a larger skating destination beside Prospect Park Lake.
+**Timing:** Daytime open-air public-skating window; a separate evening session is also listed.
+**Practical note:** Thanksgiving-weekend admission applies. Skate rental adds $10 cash or $10.29 by card. Walk up or reserve.
+**Why now:** The official schedule identifies November 28 as the open-air rink's opening day.
+[Official](https://lakeside.prospectpark.org/activity/public-ice-skate/) · [Tickets / booking](https://apps.daysmartrecreation.com/dash/x/lakeside/programs/24/level?facility_ids=1&season_id=69) · [Discovered via The Skint](https://theskint.com/)
 
-#### [John Summit: CTRL ESCAPE Arena Tour — Saturday](https://www.barclayscenter.com/events/detail/john-summit-2026)
+#### [Holiday Traditions Market](https://partiful.com/e/83mn0OPmDXqL8QkZG9cU)
 
-7:00 PM · music · Price unverified; budget fit unknown · Barclays Center · Prospect Heights · Brooklyn · Score 63.0  
-John Summit brings the CTRL ESCAPE tour with Cassian and Jackie Hollander.
-**Timing:** Official event HTML verifies 7pm and doors 60 minutes beforehand.
-**Practical note:** All ages permitted; 18+ recommended. Price unavailable; do not assume an arena ticket fits $120.
-**Why now:** First of two specifically scheduled Brooklyn shows.
-[Official](https://www.barclayscenter.com/events/detail/john-summit-2026) · [Tickets / booking](https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-brooklyn-new-york-11-28-2026/event/300064B2D1E05179)
+11:00 AM · markets · Free · El Barrio’s Artspace Ps109 · East Harlem · Manhattan · Score 62.0  
+A community holiday market with local makers and optional participatory sessions, including movement, breathwork and keepsake-making.
+**Timing:** sat 11am-5pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+**Why now:** A one-day November 28 community holiday market.
+[Official](https://partiful.com/e/83mn0OPmDXqL8QkZG9cU) · [Tickets / booking](https://partiful.com/e/83mn0OPmDXqL8QkZG9cU) · [Discovered via The Skint](https://theskint.com/)
 
-#### [Forever Ray: Kenny Brawner and Angela Workman](https://www.bluenotejazz.com/nyc/tm-event/forever-ray-honoring-the-music-of-ray-charles-featuring-kenny-brawner-as-the-voice-of-ray-and-former-ray-charles-raelette-angela-workman/)
+#### [Forever Ray: Honoring the Music of Ray Charles](https://www.bluenotejazz.com/nyc/tm-event/forever-ray-honoring-the-music-of-ray-charles-featuring-kenny-brawner-as-the-voice-of-ray-and-former-ray-charles-raelette-angela-workman/)
 
-1:30 PM · music · Ticket price unknown; $20 minimum additional · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 62.0  
-WBGO's brunch presentation honours Ray Charles with Kenny Brawner, former Raelette Angela Workman and musical director Bobby Deitch.
-**Timing:** Doors noon; performance 1:30pm.
-**Practical note:** Ticket price unverified; $20 per-person food/drink minimum additional.
-**Why now:** A one-off Saturday brunch tribute with a former Raelette.
+1:30 PM · music · Ticket price unverified; additional $20 food/beverage minimum · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 62.0  
+Kenny Brawner and former Raelette Angela Workman lead a Ray Charles tribute under drummer Bobby Deitch's musical direction.
+**Timing:** Brunch show 1:30pm; doors noon.
+**Practical note:** Additional $20 food/beverage minimum. Ticket price unverified; table seating all ages, bar 21+, seating first come.
+**Why now:** November 28 WBGO-presented brunch performance.
 [Official](https://www.bluenotejazz.com/nyc/tm-event/forever-ray-honoring-the-music-of-ray-charles-featuring-kenny-brawner-as-the-voice-of-ray-and-former-ray-charles-raelette-angela-workman/) · [Tickets / booking](https://www.ticketweb.com/event/forever-ray-honoring-the-music-blue-note-jazz-club-tickets/14266594?pl=bluenoteny)
 
-#### [Mask Chains 101](https://www.eventbrite.com/e/mask-chains-101-masks-on-tickets-2004486179121)
+#### [John Summit: CTRL ESCAPE ARENA TOUR — Saturday](https://www.barclayscenter.com/events/detail/john-summit-2026)
 
-2:00 PM · workshop · Standard price not exposed; publicly offered financial-access code provides pay-what-you-can or no-cost tickets. · NYC Resistor · Boerum Hill · Brooklyn · Score 62.0  
-Learn wire-wrapping tools, measurements, techniques and bead choices, then take home a flower mask chain made in class.
-**Timing:** 2-3pm.
-**Practical note:** Masks required; 18+. The organizer's public NOTAFLOF2026 code unlocks pay-what-you-can and no-cost options for participants unable to pay full price.
-**Why now:** A separately ticketed Saturday class with a tangible take-home project.
-[Official](https://www.eventbrite.com/e/mask-chains-101-masks-on-tickets-2004486179121) · [Tickets / booking](https://www.eventbrite.com/e/mask-chains-101-masks-on-tickets-2004486179121)
+Time to confirm · music · Current ticket price unverified · Barclays Center · Prospect Heights · Brooklyn · Score 61.9  
+John Summit brings the CTRL ESCAPE ARENA TOUR to Brooklyn with Cassian and Jackie Hollander.
+**Timing:** November 28 confirmed; show and door times were not exposed on the accessible official page.
+**Practical note:** 18+ recommended, all ages permitted. Single-night booking link available; price and $120-budget fit unverified.
+**Why now:** First of the November 28-29 Brooklyn dates.
+[Official](https://www.barclayscenter.com/events/detail/john-summit-2026) · [Tickets / booking](https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-brooklyn-new-york-11-28-2026/event/300064B2D1E05179)
 
-#### [New York City Ballet: George Balanchine's The Nutcracker — Saturday matinee](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker)
+#### [Animation Show of Shows with Bill Plympton](https://syndicatedbk.com)
 
-2:00 PM · dance · Price unverified; budget fit unknown · David H. Koch Theater · Upper West Side · Manhattan · Score 62.0  
-Saturday evening performance of Balanchine's full-length holiday ballet.
-**Timing:** 2pm performance verified in the official calendar feed; approximately two hours.
-**Practical note:** No late seating or re-entry. Confirm price and seats within $120.
-**Why now:** Opening-weekend matinee, with a separately verified performance ID.
-[Official](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker) · [Tickets / booking](https://tickets.nycballet.com/booking/production/9532)
+5:50 PM · film · $10 · Syndicated · Bushwick · Brooklyn · Score 61.0  
+The 23rd Animation Show of Shows presents 14 award-winning shorts, including rarely screened classics, with Bill Plympton in person.
+**Timing:** Introduction and meet-and-greet with Bill Plympton.
+**Practical note:** 60-seat dine-in cinema; food and drinks cost extra.
+**Why now:** One of two weekend screenings with the animator in person.
+[Official](https://syndicatedbk.com) · [Tickets / booking](https://ticketing.useast.veezi.com/purchase/6725?siteToken=dxdq5wzbef6bz2sjqt83ytzn1c) · [Source: Syndicated](https://ticketing.useast.veezi.com/sessions/?siteToken=dxdq5wzbef6bz2sjqt83ytzn1c) · [Discovered via The Skint](https://theskint.com/tues-tues-11-24-12-1-thanksgiving-week/) · [Discovered via The Skint](https://theskint.com/)
 
-#### [Devon Walker: Please Don't Make Me Famous II](https://www.eventbrite.com/e/devon-walker-please-dont-make-me-famous-ii-tickets-2004853371403)
+#### [By the Numbers: Park Slope](https://www.mas.org/events/by-the-numbers-park-slope/)
 
-10:00 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 61.6  
-Devon Walker develops new stand-up material in a late-night solo showcase.
-**Timing:** Doors 9:30pm; show 10pm.
-**Practical note:** 21+; nonrefundable tickets.
-**Why now:** A dated new-material performance.
-[Official](https://www.eventbrite.com/e/devon-walker-please-dont-make-me-famous-ii-tickets-2004853371403) · [Tickets / booking](https://www.eventbrite.com/e/devon-walker-please-dont-make-me-famous-ii-tickets-2004853371403) · [Source: Union Hall](https://unionhallny.com/calendar)
+11:00 AM · outdoors · $35 public; $25 MAS members · Park Slope walking route · Park Slope · Brooklyn · Score 60.7  
+Matt Postal leads an architectural walk through Park Slope's numbered streets, examining townhouses, churches and buildings by notable Brooklyn architects.
+**Practical note:** Exact meeting location is delivered after registration. Wear comfortable walking shoes.
+**Why now:** A one-date November 28 neighborhood architecture tour.
+[Official](https://www.mas.org/events/by-the-numbers-park-slope/) · [Tickets / booking](https://secure.mas.org/forms/by-the-numbers-park-slope-registration)
 
-#### [Anthony Coleman: Saturdays in November](https://www.viewcy.com/event/anthony_coleman__sat_12)
+#### [Devon Walker: Please Don't Make Me Famous II](https://unionhallny.com/calendar)
 
-6:00 PM · music · Donation; amount unspecified · Barbès · Park Slope · Brooklyn · Score 60.6  
-Anthony Coleman's November residency concludes. NYC Noise lists Satoshi Takeishi as collaborator; the official event confirms Coleman but does not expand the lineup.
-**Timing:** Official listing verifies 6pm–7:30pm.
-**Practical note:** Donation-based ticket page; amount unspecified.
-**Why now:** The final Saturday of the advertised November series.
-[Official](https://www.viewcy.com/event/anthony_coleman__sat_12) · [Tickets / booking](https://www.viewcy.com/event/anthony_coleman__sat_12) · [Discovered via NYC Noise](https://nyc-noise.com/)
+10:00 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 60.7  
+Devon Walker presents new material with additional comedians to be announced.
+**Practical note:** 21+; supporting lineup not named.
+**Why now:** A dated headline show during Thanksgiving weekend.
+[Official](https://unionhallny.com/calendar) · [Tickets / booking](https://www.eventbrite.com/e/devon-walker-please-dont-make-me-famous-ii-tickets-2004853371403)
+
+#### [BASHMENT IN BK — Thanksgiving Special](https://littlefieldnyc.com/event/?wfea_eb_id=2005301321233)
+
+11:00 PM · nightlife · $24.36 listed admission · Littlefield · Gowanus · Brooklyn · Score 60.0  
+A Thanksgiving-week dancehall, soca and reggae party. Artists named in its music policy are not represented here as live performers.
+**Timing:** Party 11pm-4am; doors close at 2am.
+**Practical note:** 21+. Physical ID required; arrive before the published 2am admission cutoff.
+**Why now:** Thanksgiving special on November 28.
+[Official](https://littlefieldnyc.com/event/?wfea_eb_id=2005301321233) · [Tickets / booking](https://www.eventbrite.com/e/bashment-in-bk-brooklyns-biggest-dancehall-party-thanksgiving-special-tickets-2005301321233)
+
+#### [Anthony Coleman — Saturdays in November](https://www.viewcy.com/event/anthony_coleman__sat_12)
+
+6:00 PM · music · Donation link offered; amount unspecified · Barbès · Park Slope · Brooklyn · Score 59.7  
+Anthony Coleman performs the final Saturday installment of his November series at Barbès.
+**Timing:** Official listing gives 6-7:30pm.
+**Practical note:** The listing provides a donation link but does not publish an amount. Additional personnel were not independently confirmed.
+**Why now:** November 28 installment of the named Saturday series.
+[Official](https://www.viewcy.com/event/anthony_coleman__sat_12) · [Tickets / booking](https://www.viewcy.com/event/anthony_coleman__sat_12) · [Discovered via NYC Noise](https://nyc-noise.com/event/14316)
 
 #### [Film No. 5 (Smile)](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62290)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 58.6  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.7  
 “[S]hot with a high-speed camera…FILM NO. 5 (SMILE) reveals John Lennon’s face, recorded at 333 frames per second for an extended duration, outdoors, in color, and accompanied by a sound track of outdoor sounds recorded at the same time the imagery was recorded. FILM NO. 5 (SMILE) divides roughly into two halves, one continuous shot each. During the first half, the film is a meditation on Lennon’…
-**Timing:** 49-minute silent film.
-**Practical note:** Listed as 16mm-to-digital, not a 16mm projection.
-**Why now:** A specifically dated experimental-film presentation.
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62290) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62290)
 
-#### [Shekdash and Daiyah / Redirect](https://goodroombk.com/)
+#### [Elektra: Saturday matinee](https://tfana.org/events/elektra-2026-11-24-730-pm)
 
-Time to confirm · nightlife · Price unverified · Good Room · Greenpoint · Brooklyn · Score 57.0  
-Shekdash and Daiyah play Good Room. Redirect brings okocz, HNDRNC b2b Erik Braun and Skoglund to Bad Room, hosted by Shawn Dickerson.
-**Timing:** Saturday date and both-room lineups verified; hours unpublished in accessible calendar.
-**Practical note:** Confirm start time, age policy, price and ticket inventory through the linked seller.
-**Why now:** A specifically dated two-room Saturday programme.
+2:00 PM · theater · Polonsky Shakespeare Center · Fort Greene · Brooklyn · Score 57.7  
+Daniel Fish directs Sophokles in Anne Carson's translation, with music by Ted Hearne.
+**Timing:** 80 minutes without intermission; another performance is listed at 7:30pm.
+**Practical note:** No late seating. The schedule does not mark this matinee sold out; live inventory can change.
+**Why now:** Published weekend matinee of a notable Brooklyn production.
+[Official](https://tfana.org/events/elektra-2026-11-24-730-pm) · [Tickets / booking](https://tfana.org/events/elektra-2026-11-28-200-pm/seats)
+
+#### [Citizen Kane: Saturday brunch screening](https://nitehawkcinema.com/williamsburg/movies/citizen-kane/)
+
+11:15 AM · film · Nitehawk Cinema Williamsburg · Williamsburg · Brooklyn · Score 57.0  
+Orson Welles's portrait of a publishing tycoon returns for an anniversary brunch screening.
+**Timing:** 119 minutes.
+**Practical note:** Format is inconsistent: the film page says DCP, while its tags and ticket tier say 35mm. Confirm if print format matters.
+**Why now:** A published November 28 repertory screening.
+[Official](https://nitehawkcinema.com/williamsburg/movies/citizen-kane/) · [Tickets / booking](https://nitehawkcinema.com/williamsburg/purchase/24849131/)
+
+#### [The Devils in 35mm](https://www.ifccenter.com/films/the-devils/)
+
+3:50 PM · film · IFC Center · Greenwich Village · Manhattan · Score 57.0  
+A special 35mm presentation of Ken Russell's The Devils.
+**Practical note:** The venue specifically identifies the 3:50pm weekend performance as 35mm.
+**Why now:** One of two specially advertised weekend 35mm screenings.
+[Official](https://www.ifccenter.com/films/the-devils/) · [Tickets / booking](https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=590930~8722a542-64c1-4c0b-af02-c3e8a239d769&)
+
+#### [Brandon Ross: Immortal Abandon — Solo Guitar](https://theloove.com/products/brandon-ross-immortal-abandon-solo-guitar-1?variant=67978374152499)
+
+8:00 PM · music · $20 · LOOVE Annex · Williamsburg · Brooklyn · Score 57.0  
+Brandon Ross presents solo acoustic and electric guitar with electronics, developing new work ahead of a studio recording.
+**Timing:** Doors 7:30pm; performance 8pm.
+**Practical note:** Official product page lists $20 admission. Venue coordinates were checked against the exact North 12th Street address.
+**Why now:** November 28 presentation of work preceding a recording session.
+[Official](https://theloove.com/products/brandon-ross-immortal-abandon-solo-guitar-1?variant=67978374152499) · [Tickets / booking](https://theloove.com/products/brandon-ross-immortal-abandon-solo-guitar-1?variant=67978374152499) · [Discovered via NYC Noise](https://nyc-noise.com/event/14327)
+
+#### [Shekdash and Daiyah; Redirect in the Bad Room](https://goodroombk.com/)
+
+Time to confirm · nightlife · Price unverified · Good Room · Greenpoint · Brooklyn · Score 55.9  
+Shekdash and Daiyah play Good Room. Redirect features okocz, HNDRNC back-to-back with Erik Braun, and Skoglund in the Bad Room, hosted by Shawn Dickerson.
+**Timing:** November 28 confirmed; opening and set times were not exposed.
+**Practical note:** Confirm time, age restriction and admission price; RA ticket access was blocked.
+**Why now:** Official November 28 guest lineup.
 [Official](https://goodroombk.com/) · [Tickets / booking](https://ra.co/events/2578667)
-
-#### [A Separation in 35mm](https://metrograph.com/film/9999002406-a-separation/)
-
-1:00 PM · film · Metrograph · Lower East Side · Manhattan · Score 57.0  
-Asghar Farhadi's domestic drama traces the intersecting conflicts of two Iranian families.
-**Timing:** 123-minute film.
-**Practical note:** 35mm presentation. The venue's inconsistent release-year metadata is omitted.
-**Why now:** A Saturday screening in All Happy Families Are Alike.
-[Official](https://metrograph.com/film/9999002406-a-separation/) · [Tickets / booking](https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31418)
 
 #### [ALEOproduction: The Last Waltz](https://lpr.com/lpr_events/tlw26nyc/)
 
-7:30 PM · music · $25–$50 advance; $30–$50 day of show · Le Poisson Rouge · Greenwich Village · Manhattan · Score 57.0  
-A live Last Waltz tribute featuring Gerry Rosenthal, Leo Main, Jeff Fernandes, Aaron Kotler, MVP horns and guests.
-**Timing:** Doors 6:30pm; live performance 7:30pm.
-**Practical note:** 18+. This is a concert, not a screening. $25–$50 advance; $30–$50 day of show.
-**Why now:** A Thanksgiving-weekend live tribute to The Last Waltz.
+7:30 PM · music · $25-$50 advance; $30-$50 day of show · Le Poisson Rouge · Greenwich Village · Manhattan · Score 55.9  
+A live Last Waltz tribute featuring Gerry Rosenthal, Leo Main, Jeff Fernandes, Aaron Kotler, horns and guests including Junior Mack and Sylvana Joyce.
+**Timing:** Doors 6:30pm; show 7:30pm.
+**Practical note:** 18+. This is a live concert, not a screening of the film.
+**Why now:** Thanksgiving-week live tribute on November 28.
 [Official](https://lpr.com/lpr_events/tlw26nyc/) · [Tickets / booking](https://kyd.to/yhK6EKku)
-
-#### [Chief Adjuah — Saturday](https://www.bluenotejazz.com/nyc/tm-event/chief-adjuah-9/)
-
-8:00 PM · music · Ticket price unknown; $20 minimum additional · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 57.0  
-The final night of Chief Adjuah's four-night Stretch Music engagement.
-**Timing:** First show 8pm; separate 10:30pm show also listed.
-**Practical note:** $20 food/drink minimum additional. Tables all ages; bar 21+. Ticket price unverified.
-**Why now:** Last date of the November 25–28 run.
-[Official](https://www.bluenotejazz.com/nyc/tm-event/chief-adjuah-9/) · [Tickets / booking](https://www.ticketweb.com/event/chief-adjuah-blue-note-jazz-club-tickets/15032713?pl=bluenoteny) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/28/chief-adjuah-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/28/chief-adjuah-tickets-xmzpab7)
-
-#### [Memento in 35mm](https://metrograph.com/film/9999005093-memento/)
-
-8:40 PM · film · Metrograph · Lower East Side · Manhattan · Score 57.0  
-Christopher Nolan's fractured neo-noir starring Guy Pearce screens in 35mm in the Neuro-Noir series.
-**Timing:** 113-minute film.
-**Practical note:** Saturday's time is individually published.
-**Why now:** An archival-format weekend screening.
-[Official](https://metrograph.com/film/9999005093-memento/) · [Tickets / booking](https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31421)
 
 #### [Essential Cinema: Jennings / Kirsanoff](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62236)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 54.7  
 Humphrey Jennings LISTEN TO BRITAIN (1941, 19 min, 35mm) Jennings’s film is a masterpiece of sound mixing; it creates an audio landscape of Britain during the war, with images both accompanying and conflicting with the multitude of sounds. Dimitri Kirsanoff MÉNILMONTANT (1924-25, 38 min, 35mm, silent) “[T]o a remarkable degree, MÉNILMONTANT seems an autonomous creation, as sophisticated and deman…
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62236) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62236)
 
 #### [Essential Cinema: the General](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62237)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 54.7  
 With Buster Keaton, Marion Mack, Glen Cavendar, Jim Farley, and Joseph Keaton.“ In the funniest of all silent feature comedy classics, the imperturbable Buster Keaton is cast as a daring Federal Spy with an outlandish plan to change the course of the Civil War. This sophisticated and grotesque screen farce – eloquently touching, uproariously hilarious – is a perfect example of Keaton’s art. Engul…
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62237) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62237)
 
 #### [Portraits of the Artist](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62310)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 54.7  
 Beginning with Gerard Malanga’s ANDY WARHOL (1964), in which the author of the SCREEN TESTS sits for his own extended portrait, this program finds the directors turning the camera on their fellow filmmakers, or even trading places for complementary films (as in the case of the Friedl vom Gröller and Christiana Perschon films that close the screening). Gerard Malanga ANDY WARHOL: PORTRAITS OF THE…
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62310) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62310)
 
 #### [Black Friday Sale at the Shop](https://www.scandinaviahouse.org/event/black-friday-sale-at-the-shop/2026-11-28/)
 
-11:00 AM · museums · Scandinavia House · Murray Hill · Manhattan · Score 55.6  
+11:00 AM · museums · Scandinavia House · Murray Hill · Manhattan · Score 54.7  
 It’s Black Friday Weekend at the Shop at Scandinavia House! Enjoy 15-percent off all merchandise Friday through Sunday. Stock up on Nordic sweets, home décor, tableware, fashion, accessories and more! All discounts are added to pre-existing ASF Member discounts (15-percent off year-round). Become an ASF Member to double your discount to 30 percent! Learn more here.
 [Official](https://www.scandinaviahouse.org/event/black-friday-sale-at-the-shop/2026-11-28/) · [Tickets / booking](https://www.scandinaviahouse.org/event/black-friday-sale-at-the-shop/2026-11-28/)
 
-#### [Citizen Kane](https://nitehawkcinema.com/williamsburg/movies/citizen-kane/)
-
-11:15 AM · film · Nitehawk Cinema Williamsburg · Williamsburg · Brooklyn · Score 55.6  
-Orson Welles's portrait of newspaper magnate Charles Foster Kane receives a weekend repertory screening.
-**Timing:** Saturday 11:15am confirmed by the ticket page.
-**Practical note:** Format labels conflict between the film and ticket pages; format is not asserted here. Williamsburg location.
-**Why now:** A verified Saturday morning screening rather than an inferred weekend time.
-[Official](https://nitehawkcinema.com/williamsburg/movies/citizen-kane/) · [Tickets / booking](https://nitehawkcinema.com/williamsburg/purchase/24849131/)
-
 #### [Last Saturdays: Open Classroom](https://www.green-wood.com/event/last-saturdays-open-classroom-6/)
 
-12:00 PM · outdoors · Green-Wood Cemetery · Greenwood Heights · Brooklyn · Score 55.6  
+12:00 PM · outdoors · Green-Wood Cemetery · Greenwood Heights · Brooklyn · Score 54.7  
 , .stk-dbdf7af {margin-right:0px !important;margin-left:0px !important;}.stk-dbdf7af-column{--stk-column-gap:20px !important;} .stk-3429530-container{margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !important;margin-left:0px !important;}.stk-3429530 {margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !important;margin-left:0px !important;}@media screen…
 [Official](https://www.green-wood.com/event/last-saturdays-open-classroom-6/) · [Tickets / booking](https://www.green-wood.com/event/last-saturdays-open-classroom-6/)
 
 #### [The Donut Lounge](https://www.wonderville.nyc/events/the-donut-lounge-11-28-26)
 
-7:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 55.6  
+7:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 54.7  
 The Donut Lounge is an electronic instrumental showcase devoted to amplifying musicians who often go unheard. Our goal is to connect the beat-making community to opportunities in the music tech world and uplift emerging independent artists who need a wider platform. We do this through collaboration from the ground up, investing finances, time, and dedication. Beatmaking and production are often i…
 [Official](https://www.wonderville.nyc/events/the-donut-lounge-11-28-26) · [Tickets / booking](https://www.wonderville.nyc/events/the-donut-lounge-11-28-26)
 
 #### [Antibalas — Saturday](https://brooklyn.brooklynbowl.com/events/detail/antibalas-k7vgf_3r3rxjg)
 
-8:00 PM · music · Price unverified; single-night tickets available · Brooklyn Bowl · Williamsburg · Brooklyn · Score 55.6  
-Antibalas returns for the second night of its Brooklyn Bowl Afrobeat engagement.
+8:00 PM · music · Current ticket price unverified · Brooklyn Bowl · Williamsburg · Brooklyn · Score 54.7  
+Antibalas plays the second night of its Brooklyn Bowl Afrobeat engagement.
 **Timing:** Doors 6pm; show 8pm.
-**Practical note:** 18+. Single-night tickets are offered; ticket price unverified.
-**Why now:** Final night of the two-night engagement.
+**Practical note:** 18+. A separate Saturday ticket is offered; current price is unverified.
+**Why now:** Second of the November 27-28 performances.
 [Official](https://brooklyn.brooklynbowl.com/events/detail/antibalas-k7vgf_3r3rxjg) · [Tickets / booking](https://www.ticketmaster.com/antibalas-brooklyn-new-york-11-28-2026/event/0000652BD27BE9B5)
 
 #### [Yuki Chiba / FIRST NORTH AMERICA HEADLINE TOUR](https://www.axs.com/events/1518069/yuki-chiba-first-north-america-headline-tour-tickets)
 
-8:00 PM · music · Check current price · Racket · Chelsea · Manhattan · Score 55.6  
+8:00 PM · music · Check current price · Racket · Chelsea · Manhattan · Score 54.7  
 With Niko Rubio, Yoshi24K.
 **Timing:** Doors 7:00 PM
 **Practical note:** Age policy: 16 & Over. Prices and availability can change.
@@ -2623,7 +2174,7 @@ With Niko Rubio, Yoshi24K.
 
 #### [TroyBoi](https://www.axs.com/events/1511342/troyboi-tickets)
 
-9:00 PM · music · Check current price · Brooklyn Steel · East Williamsburg · Brooklyn · Score 55.6  
+9:00 PM · music · Check current price · Brooklyn Steel · East Williamsburg · Brooklyn · Score 54.7  
 With Ero808. HEAR2MOVE.
 **Timing:** Doors 8:00 PM
 **Practical note:** Age policy: 18 & Over. Prices and availability can change.
@@ -2631,1421 +2182,1889 @@ With Ero808. HEAR2MOVE.
 
 #### [M.E.A.T. x Webster Hall - Adham + Suri + More](https://www.axs.com/events/1662617/-tickets)
 
-10:30 PM · music · Check current price · Webster Hall · East Village · Manhattan · Score 55.6  
+10:30 PM · music · Check current price · Webster Hall · East Village · Manhattan · Score 54.7  
 **Timing:** Doors 10:30 PM
 **Practical note:** Age policy: 21 & Over. Prices and availability can change.
 [Official](https://www.axs.com/events/1662617/-tickets) · [Tickets / booking](https://www.axs.com/events/1662617/-tickets)
 
 #### [SHUT UP & FAAJI: The 80's Disco](https://donyc.com/events/2026/11/28/shut-up-faaji-the-80-s-disco-tickets)
 
-10:30 PM · music · Check current price · Crown Hill Theater · Crown Heights · Brooklyn · Score 55.6  
+10:30 PM · music · Check current price · Crown Hill Theater · Crown Heights · Brooklyn · Score 54.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/shut-up-faaji-the-80-s-disco-tickets)
 
 #### [Downtown Boys, Pop Music Fever Dream, NYSA and Frida Kill](https://dice.fm/event/3obd2l-downtown-boys-pop-music-fever-dream-nysa-frida-kill-28th-nov-the-sultan-room-new-york-tickets)
 
-Doors 7:00 PM · music · $25.65 listed · The Sultan Room · Bushwick · Brooklyn · Score 54.6  
+Doors 7:00 PM · music · $25.65 listed ticket · The Sultan Room · Bushwick · Brooklyn · Score 53.7  
 Downtown Boys headline a four-band bill with Pop Music Fever Dream, NYSA and Frida Kill.
-**Timing:** Date and 7pm doors verified; no separate performance start published.
-**Practical note:** 21+. Listed ticket $25.65; confirm first-band time.
-**Why now:** A distinctive four-band Saturday lineup.
-[Official](https://dice.fm/event/3obd2l-downtown-boys-pop-music-fever-dream-nysa-frida-kill-28th-nov-the-sultan-room-new-york-tickets) · [Tickets / booking](https://dice.fm/event/3obd2l-downtown-boys-pop-music-fever-dream-nysa-frida-kill-28th-nov-the-sultan-room-new-york-tickets) · [Discovered via NYC Noise](https://nyc-noise.com/)
-
-#### [Elektra: Saturday Matinee](https://tfana.org/events/elektra)
-
-2:00 PM · theater · Regular $70–$98 plus $7 fee; premium $125 plus $7; eligible discounts separate · Polonsky Shakespeare Center · Fort Greene · Brooklyn · Score 54.6  
-Anne Carson's translation of Sophokles' revenge tragedy, directed by Daniel Fish with music by Ted Hearne.
-**Timing:** 80 minutes without intermission. A separate 7:30pm performance is also published.
-**Practical note:** No late seating. This date has no sold-out flag on the calendar; actual seat availability can change.
-**Why now:** A verified weekend alternative to the sold-out weekday performances.
-**On-sale watch:** Nearby dates are sold out or have limited availability.
-[Official](https://tfana.org/events/elektra) · [Tickets / booking](https://tfana.org/events/elektra-2026-11-28-200-pm/seats) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/)
+**Timing:** Doors 7pm; a separate performance start was not exposed.
+**Practical note:** 21+. Standing concert; confirm performance timing before traveling.
+**Why now:** November 28 four-band lineup.
+[Official](https://dice.fm/event/3obd2l-downtown-boys-pop-music-fever-dream-nysa-frida-kill-28th-nov-the-sultan-room-new-york-tickets) · [Tickets / booking](https://dice.fm/event/3obd2l-downtown-boys-pop-music-fever-dream-nysa-frida-kill-28th-nov-the-sultan-room-new-york-tickets) · [Discovered via NYC Noise](https://nyc-noise.com/event/14193)
 
 #### [DICKAPPOINTMENT INVITES: TROMAC With Kenni Javon and Libby Brothers](https://www.elsewhere.club/events/2003791519375)
 
-10:30 PM · music · $20 · Elsewhere · Ridgewood · Queens · Score 54.6  
+10:30 PM · music · $20 · Elsewhere · Ridgewood · Queens · Score 53.7  
 DICKAPPOINTMENT hosts TROMAC with Kenni Javon and Libby Brothers in Zone One.
-**Timing:** Organizer verifies the party runs 10:30pm–3am; individual set times unpublished.
+**Timing:** Organizer's ticket page confirms 10:30pm-3am; individual set times are unpublished.
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-**Why now:** A specifically announced Saturday guest-DJ lineup.
+**Why now:** Specific November 28 guest lineup.
 [Official](https://www.elsewhere.club/events/2003791519375) · [Tickets / booking](https://donyc.com/events/2026/11/28/dickappointment-invites-tromac-with-kenni-javon-and-libby-brothers-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/28/dickappointment-invites-tromac-with-kenni-javon-and-libby-brothers-tickets)
 
-#### [Gratitude Weekend at Wave Hill](https://www.wavehill.org/calendar/gratitude-weekend-2026)
+#### [Grand Army Plaza Greenmarket](https://www.prospectpark.org/event/greenmarket-at-grand-army-plaza-2/2026-11-28/)
 
-Time to confirm · outdoors · Activities generally included with paid garden admission; separately priced programs excluded. · Wave Hill · Riverdale · Bronx · Score 53.6  
-A garden-centered weekend devoted to nature, creativity and gratitude, with walks, opportunities for reflection and a community food drive.
-**Timing:** Listed as an all-day program; consult current garden hours and individual activity times.
-**Practical note:** General admission applies; some separately listed workshops cost extra. Nonperishable food donations support Riverdale Neighborhood House.
-**Why now:** The official November 28-29 weekend is retained here for Saturday; Sunday paid activities are listed separately.
-[Official](https://www.wavehill.org/calendar/gratitude-weekend-2026)
+8:00 AM · markets · Free entry · Grand Army Plaza · Prospect Heights · Brooklyn · Score 52.7  
+The large Saturday farmers market at Prospect Park's northern entrance, with seasonal produce and food from regional producers.
+**Practical note:** Free to browse; food purchases are separate. Combine with a park walk rather than assuming a specific vendor lineup.
+**Why now:** The official calendar specifically confirms the November 28 market.
+[Official](https://www.prospectpark.org/event/greenmarket-at-grand-army-plaza-2/2026-11-28/)
 
 #### [Orienteering Fundamentals](https://sigreenbelt.org/events/orienteering-fundamentals/)
 
-11:00 AM · workshop · Price not exposed on the fetched listing. · Greenbelt Nature Center · Greenbelt · Staten Island · Score 53.0  
-Learn to navigate the Greenbelt using a map and compass rather than GPS.
-**Timing:** 11am-1pm.
-**Practical note:** Recommended for ages 12 and up, including adults. Sturdy footwear is required for rocky terrain; dress for outdoor conditions.
-**Why now:** A specifically dated Saturday skills class adds a Staten Island option.
+11:00 AM · workshop · Price not displayed on the readable ticket page · Greenbelt Nature Center · Greenbelt · Staten Island · Score 51.9  
+Learn to navigate the Greenbelt using a compass and map rather than GPS.
+**Practical note:** Recommended for ages 12 and up, including adults. Wear sturdy shoes suitable for rocky terrain and dress for outdoor conditions.
+**Why now:** A specifically dated November 28 practical navigation class.
 [Official](https://sigreenbelt.org/events/orienteering-fundamentals/) · [Tickets / booking](https://www.eventbrite.com/e/orienteering-fundamentals-tickets-2003516234992)
 
 #### [A Sexy Unique Christmas](https://donyc.com/events/2026/11/28/a-sexy-unique-christmas-tickets)
 
-8:00 PM · comedy · Check current price · The Bell House · Gowanus · Brooklyn · Score 52.6  
+8:00 PM · comedy · Check current price · The Bell House · Gowanus · Brooklyn · Score 51.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/a-sexy-unique-christmas-tickets)
 
-#### [Introduction to Birdwatching Outing](https://www.prospectpark.org/event/introduction-to-birdwatching-outings-3-2/2026-11-28/)
+#### [Awkward Family Dinner Presents: Thanksgiving Dinner](https://thepit-nyc.com/events/awkward-family-dinner/)
 
-10:00 AM · outdoors · Free. · Prospect Park Audubon Center · Prospect Park · Brooklyn · Score 52.0  
-A Brooklyn Bird Club guide introduces birdwatching on a roughly 1.5-2 mile walk through Prospect Park.
-**Timing:** 10am-noon.
-**Practical note:** No registration required. Loan binoculars are limited; bring your own if possible. No pets. Runs in rain unless conditions are unsafe.
-**Why now:** A confirmed Saturday outing during late-autumn bird activity.
-[Official](https://www.prospectpark.org/event/introduction-to-birdwatching-outings-3-2/2026-11-28/)
+8:00 PM · unusual · From $15 per listing; check conditions · The Peoples Improv Theater · Chelsea · Manhattan · Score 51.0  
+**Timing:** sat 8pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://thepit-nyc.com/events/awkward-family-dinner/) · [Source: The Skint](https://theskint.com/)
 
-#### [Grand Army Plaza Greenmarket](https://www.prospectpark.org/event/greenmarket-at-grand-army-plaza-2/2026-11-28/)
+#### [Chief Adjuah (late show)](https://donyc.com/events/2026/11/28/chief-adjuah-tickets-xmzpab7)
 
-8:00 AM · markets · Free entry; purchases extra. · Grand Army Plaza · Park Slope · Brooklyn · Score 50.6  
-A Saturday farmers market at Prospect Park's main entrance with regional produce and other farm products.
-**Timing:** 8am-4pm.
-**Practical note:** Bring reusable bags; vendor attendance and products vary.
-**Why now:** The park calendar explicitly lists the Saturday after Thanksgiving.
-[Official](https://www.prospectpark.org/event/greenmarket-at-grand-army-plaza-2/2026-11-28/)
+10:30 PM · music · Check current price · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/28/chief-adjuah-tickets-xmzpab7)
+
+#### [livwutang All Night](https://donyc.com/events/2026/11/28/livwutang-all-night-tickets)
+
+10:00 PM · nightlife · Check current price · Nowadays · Ridgewood · Queens · Score 50.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/28/livwutang-all-night-tickets)
+
+#### [The Last Waltz](https://donyc.com/events/2026/11/28/the-last-waltz-tickets)
+
+7:30 PM · music · Check current price · Le Poisson Rouge · Greenwich Village · Manhattan · Score 49.9  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/28/the-last-waltz-tickets)
 
 #### [The Frozen Apple: Cornell University v. University of Maine](https://donyc.com/events/2026/11/28/the-frozen-apple-cornell-university-v-university-of-maine-tickets)
 
-12:00 PM · sports · Check current price · Madison Square Garden · Midtown · Manhattan · Score 49.6  
+12:00 PM · sports · Check current price · Madison Square Garden · Midtown · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/the-frozen-apple-cornell-university-v-university-of-maine-tickets)
 
 #### [Darryl DMC McDaniels Album Signing](https://donyc.com/events/2026/11/28/darryl-dmc-mcdaniels-album-signing-tickets)
 
-2:00 PM · music · Check current price · Rough Trade NYC · Midtown · Manhattan · Score 49.6  
+2:00 PM · music · Check current price · Rough Trade NYC · Midtown · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/darryl-dmc-mcdaniels-album-signing-tickets)
 
 #### [Stayofftherocks Fest](https://donyc.com/events/2026/11/28/stayofftherocks-fest-tickets)
 
-5:00 PM · music · Check current price · Bowery Ballroom · Chinatown · Manhattan · Score 49.6  
+5:00 PM · music · Check current price · Bowery Ballroom · Chinatown · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/stayofftherocks-fest-tickets)
 
 #### [Crystal Ship](https://donyc.com/events/2026/11/28/crystal-ship-tickets)
 
-6:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 49.6  
+6:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/crystal-ship-tickets)
 
 #### [Integrity, Indecision, Deadguy, & More!](https://donyc.com/events/2026/11/28/integrity-indecision-deadguy-more-tickets)
 
-6:00 PM · music · Check current price · Saint Vitus Bar · Williamsburg · Brooklyn · Score 49.6  
+6:00 PM · music · Check current price · Saint Vitus Bar · Williamsburg · Brooklyn · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/integrity-indecision-deadguy-more-tickets)
 
 #### ["Xanadu 54" starring Rich Medina (skate)](https://donyc.com/events/2026/11/28/xanadu-54-starring-rich-medina-skate-tickets)
 
-7:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 49.6  
+7:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/xanadu-54-starring-rich-medina-skate-tickets)
 
 #### [John Summit](https://donyc.com/events/2026/11/28/john-summit-tickets)
 
-7:00 PM · music · Check current price · Barclays Center · Downtown Brooklyn · Brooklyn · Score 49.6  
+7:00 PM · music · Check current price · Barclays Center · Downtown Brooklyn · Brooklyn · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/john-summit-tickets)
 
 #### [New York Rangers vs. Calgary Flames](https://donyc.com/events/2026/11/28/new-york-rangers-vs-calgary-flames-tickets)
 
-7:00 PM · sports · Check current price · Madison Square Garden · Midtown · Manhattan · Score 49.6  
+7:00 PM · sports · Check current price · Madison Square Garden · Midtown · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/new-york-rangers-vs-calgary-flames-tickets)
 
 #### [Splou](https://donyc.com/events/2026/11/28/splou-tickets)
 
-7:00 PM · comedy · Check current price · The Gramercy Theatre · Gramercy · Manhattan · Score 49.6  
+7:00 PM · comedy · Check current price · The Gramercy Theatre · Gramercy · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/splou-tickets)
 
 #### [Alex Lora "EL TRI" + EL Gran Silencio](https://donyc.com/events/2026/11/28/alex-lora-el-tri-el-gran-silencio-tickets)
 
-8:00 PM · music · Check current price · Palladium Times Square · Theater District · Manhattan · Score 49.6  
+8:00 PM · music · Check current price · Palladium Times Square · Theater District · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/alex-lora-el-tri-el-gran-silencio-tickets)
 
 #### [Antibalas](https://donyc.com/events/2026/11/28/antibalas-tickets)
 
-8:00 PM · music · Check current price · Brooklyn Bowl · Williamsburg · Brooklyn · Score 49.6  
+8:00 PM · music · Check current price · Brooklyn Bowl · Williamsburg · Brooklyn · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/antibalas-tickets)
 
 #### [Busy's Dead Collective](https://donyc.com/events/2026/11/28/busy-s-dead-collective-tickets)
 
-8:00 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 49.6  
+8:00 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/busy-s-dead-collective-tickets)
 
 #### [Shaun Cassidy](https://donyc.com/events/2026/11/28/shaun-cassidy-tickets)
 
-8:00 PM · music · Check current price · The Town Hall · Theater District · Manhattan · Score 49.6  
+8:00 PM · music · Check current price · The Town Hall · Theater District · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/shaun-cassidy-tickets)
 
 #### [Song Dongye](https://donyc.com/events/2026/11/28/song-dongye-tickets)
 
-8:00 PM · music · Check current price · Terminal 5 · Hell's Kitchen · Manhattan · Score 49.6  
+8:00 PM · music · Check current price · Terminal 5 · Hell's Kitchen · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/song-dongye-tickets)
 
 #### [Tyla The A*Pop World Tour](https://donyc.com/events/2026/11/28/tyla-the-a-pop-world-tour-tickets)
 
-8:00 PM · music · Check current price · Brooklyn Paramount · Downtown Brooklyn · Brooklyn · Score 49.6  
+8:00 PM · music · Check current price · Brooklyn Paramount · Downtown Brooklyn · Brooklyn · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/tyla-the-a-pop-world-tour-tickets)
 
 #### [Boots N Beats x Deerock:](https://donyc.com/events/2026/11/28/boots-n-beats-x-deerock-tickets)
 
-9:00 PM · music · Check current price · Irving Plaza · Gramercy · Manhattan · Score 49.6  
+9:00 PM · music · Check current price · Irving Plaza · Gramercy · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/boots-n-beats-x-deerock-tickets)
 
 #### [Cassie Bouchard](https://donyc.com/events/2026/11/28/cassie-bouchard-tickets)
 
-9:00 PM · music · Check current price · Mercury Lounge · East Village · Manhattan · Score 49.6  
+9:00 PM · music · Check current price · Mercury Lounge · East Village · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/cassie-bouchard-tickets)
 
 #### [Curiouser & Curiouser: Felix Da Housecat](https://donyc.com/events/2026/11/28/curiouser-curiouser-felix-da-housecat-tickets)
 
-10:00 PM · nightlife · Check current price · House of Yes · Bushwick · Brooklyn · Score 49.6  
+10:00 PM · nightlife · Check current price · House of Yes · Bushwick · Brooklyn · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/curiouser-curiouser-felix-da-housecat-tickets)
 
 #### [Smacks](https://donyc.com/events/2026/11/28/smacks-tickets)
 
-10:00 PM · music · Check current price · Baby's All Right · Williamsburg · Brooklyn · Score 49.6  
+10:00 PM · music · Check current price · Baby's All Right · Williamsburg · Brooklyn · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/smacks-tickets)
 
 #### [Audiopool](https://donyc.com/events/2026/11/28/audiopool-tickets)
 
-10:30 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 49.6  
+10:30 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/audiopool-tickets)
 
 #### [Thanksgiving Weekend at Webster Hall](https://donyc.com/events/2026/11/28/jake-resnicow-presents-meat-tickets)
 
-10:30 PM · nightlife · Check current price · Webster Hall · East Village · Manhattan · Score 49.6  
+10:30 PM · nightlife · Check current price · Webster Hall · East Village · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/jake-resnicow-presents-meat-tickets)
 
 #### [Perreo De Antes: 2000s x 2010s Reggaeton](https://donyc.com/events/2026/11/28/perreo-de-antes-2000s-x-2010s-reggaeton-tickets)
 
-11:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 49.6  
+11:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/perreo-de-antes-2000s-x-2010s-reggaeton-tickets)
 
 #### [Y2K Party w/ DJ Tokyo Rose](https://donyc.com/events/2026/11/28/y2k-party-w-dj-tokyo-rose-tickets)
 
-11:00 PM · music · Check current price · Le Poisson Rouge · Greenwich Village · Manhattan · Score 49.6  
+11:00 PM · music · Check current price · Le Poisson Rouge · Greenwich Village · Manhattan · Score 48.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/y2k-party-w-dj-tokyo-rose-tickets)
 
 #### [SanDia: Family Affair with Bendito, Jeremy Giros, Kata, Miss Gypsy](https://donyc.com/events/2026/11/28/sandia-family-affair-with-bendito-jeremy-giros-kata-miss-gypsy-tickets)
 
-2:00 PM · nightlife · Check current price · Nowadays · Ridgewood · Queens · Score 48.6  
+2:00 PM · nightlife · Check current price · Nowadays · Ridgewood · Queens · Score 47.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/sandia-family-affair-with-bendito-jeremy-giros-kata-miss-gypsy-tickets)
 
 #### [Los Tigres del Norte: Los Tigres del Mundo](https://donyc.com/events/2026/11/28/los-tigres-del-mundo-tickets)
 
-8:00 PM · music · Check current price · UBS Arena · Forest Hills · Queens · Score 48.6  
+8:00 PM · music · Check current price · UBS Arena · Forest Hills · Queens · Score 47.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/los-tigres-del-mundo-tickets)
 
 #### [Pretty Girlz Love Amapiano](https://donyc.com/events/2026/11/28/pretty-girlz-love-amapiano-tickets)
 
-10:30 PM · nightlife · Check current price · Elsewhere · Ridgewood · Queens · Score 48.6  
+10:30 PM · nightlife · Check current price · Elsewhere · Ridgewood · Queens · Score 47.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/pretty-girlz-love-amapiano-tickets)
 
-#### [Brooklyn Flea DUMBO](https://www.brooklynflea.com/)
-
-10:00 AM · markets · Free entry; purchases extra. · DUMBO Manhattan Bridge Archway · DUMBO · Brooklyn · Score 48.0  
-Browse vintage clothing, antiques, collectibles and handmade goods beneath the Manhattan Bridge archway.
-**Timing:** Saturday hours: 10am-5pm.
-**Practical note:** Free entry; purchases extra. Check the organizer for weather-related changes.
-**Why now:** The official active-season schedule confirms Saturday and Sunday markets.
-[Official](https://www.brooklynflea.com/) · [Discovered via The Skint](https://www.theskint.com/ongoing-events/)
-
 #### [Exclusive Tour Inside the Woolworth Building: NYC’s Cathedral of Commerce](https://www.meetup.com/newyorkadventureclub/events/317178089/)
 
-11:00 AM · unusual · Score 46.6  
+11:00 AM · unusual · Score 45.7  
 New York Adventure Club Tickets: $45.25 (advance registration required) Click the link below to officially register for this experience: [https://www.nyadventureclub.com/event/2003350651728](https://www.nyadventureclub.com/event/2003350651728) In the early 20th century, the Woolworth Building in downtown Manhattan not only dominated the NYC skyline, but also held the title of "tallest building in…
 [Official](https://www.meetup.com/newyorkadventureclub/events/317178089/) · [Tickets / booking](https://www.meetup.com/newyorkadventureclub/events/317178089/)
 
 #### [Exploring Brooklyn Heights: Authors, Abolitionism, Amazing Views](https://www.meetup.com/newyorkadventureclub/events/317251671/)
 
-11:00 AM · unusual · Score 46.6  
+11:00 AM · unusual · Score 45.7  
 New York Adventure Club Tickets: $39.98 (advance registration required) Click the link below to officially register for this experience: [https://www.nyadventureclub.com/event/2003350280618](https://www.nyadventureclub.com/event/2003350280618) From its beginnings in the early 1800s as a retreat for wealthy New Yorkers escaping the overcrowding of lower Manhattan, to the modern neighborhood that l…
 [Official](https://www.meetup.com/newyorkadventureclub/events/317251671/) · [Tickets / booking](https://www.meetup.com/newyorkadventureclub/events/317251671/)
 
+#### [The History of Concrete](https://syndicatedbk.com)
+
+3:25 PM · film · $10 · Syndicated · Bushwick · Brooklyn · Score 44.0  
+A Saturday afternoon screening of The History of Concrete in Syndicated's small dine-in cinema.
+**Practical note:** The ticket calendar offers this Saturday performance; the Wednesday screening was marked sold out.
+**Why now:** A verified weekend alternative to the sold-out midweek screening.
+[Official](https://syndicatedbk.com) · [Tickets / booking](https://ticketing.useast.veezi.com/purchase/6724?siteToken=dxdq5wzbef6bz2sjqt83ytzn1c) · [Source: Syndicated](https://ticketing.useast.veezi.com/sessions/?siteToken=dxdq5wzbef6bz2sjqt83ytzn1c)
+
 #### [Discover Green-Wood Trolley Tour](https://www.green-wood.com/event/discover-green-wood-trolley-tour-30/)
 
-1:00 PM · outdoors · Green-Wood Cemetery · Greenwood Heights · Brooklyn · Score 43.6  
+1:00 PM · outdoors · Green-Wood Cemetery · Greenwood Heights · Brooklyn · Score 42.7  
 , Credit: Green-Wood Staff .stk-dbdf7af {margin-right:0px !important;margin-left:0px !important;}.stk-dbdf7af-column{--stk-column-gap:20px !important;} .stk-3429530-container{margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !important;margin-left:0px !important;}.stk-3429530 {margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !important;margin-left:0px…
 [Official](https://www.green-wood.com/event/discover-green-wood-trolley-tour-30/) · [Tickets / booking](https://www.green-wood.com/event/discover-green-wood-trolley-tour-30/)
 
 #### [New York Comedy Club Presents](https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-23)
 
-4:00 PM · comedy · $20 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 43.6  
+4:00 PM · comedy · $20 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 42.7  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
 [Official](https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-23) · [Tickets / booking](https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-23)
 
 #### [Green-Wood After Hours](https://www.green-wood.com/event/green-wood-after-hours-61/)
 
-5:00 PM · outdoors · Green-Wood Cemetery · Greenwood Heights · Brooklyn · Score 40.6  
+5:00 PM · outdoors · Green-Wood Cemetery · Greenwood Heights · Brooklyn · Score 39.7  
 , .stk-2be9b3b {margin-right:0px !important;margin-bottom:24px !important;margin-left:0px !important;}.stk-2be9b3b-column{--stk-column-gap:20px !important;} .stk-3717db9-container{margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !important;margin-left:0px !important;}.stk-3717db9 {margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !important;margin-left…
 [Official](https://www.green-wood.com/event/green-wood-after-hours-61/) · [Tickets / booking](https://www.green-wood.com/event/green-wood-after-hours-61/)
 
 #### [Chris Beck Quartet](https://donyc.com/events/2026/11/28/chris-beck-quartet-tickets)
 
-11:55 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 37.6  
+11:55 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 36.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/chris-beck-quartet-tickets)
 
 #### [Christmas Spectacular Starring The Radio City Rockettes](https://donyc.com/events/2026/11/28/christmas-spectacular-starring-the-radio-city-rockettes-tickets-xMDMpJ5)
 
-10:00 AM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 34.6  
+10:00 AM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/christmas-spectacular-starring-the-radio-city-rockettes-tickets-xMDMpJ5) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/28/christmas-spectacular-starring-the-radio-city-rockettes-tickets-reWe91E) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/28/christmas-spectacular-starring-the-radio-city-rockettes-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/28/christmas-spectacular-starring-the-radio-city-rockettes-tickets-ke6eRo3) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/28/christmas-spectacular-starring-the-radio-city-rockettes-tickets-g0E0bo7)
 
 #### [Xanadu Day Disco (skate)](https://donyc.com/events/2026/11/28/xanadu-day-disco-skate-tickets)
 
-12:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 34.6  
+12:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/xanadu-day-disco-skate-tickets)
 
 #### [Piano Karaoke with Wendy Ip](https://donyc.com/events/2026/11/28/piano-karaoke-with-wendy-ip-tickets)
 
-8:00 PM · nightlife · Check current price · Sid Gold's Request Room · Chelsea · Manhattan · Score 34.6  
+8:00 PM · nightlife · Check current price · Sid Gold's Request Room · Chelsea · Manhattan · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/piano-karaoke-with-wendy-ip-tickets)
 
 #### [The Cafe Wha? House Band](https://donyc.com/events/2026/11/28/the-cafe-wha-house-band-tickets)
 
-9:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 34.6  
+9:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 33.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/the-cafe-wha-house-band-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/28/the-cafe-wha-house-band-tickets-ABzj6aW)
 
 #### [Glimpse of Greatness](https://donyc.com/events/2026/11/28/glimpse-of-greatness-tickets)
 
-7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 31.6  
+7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 30.7  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/28/glimpse-of-greatness-tickets)
 
 ### 2026-11-29
 
+#### [The Last Waltz: Sunday brunch screening](https://nitehawkcinema.com/prospectpark/movies/the-last-waltz/)
+
+11:00 AM · film · Nitehawk Cinema Prospect Park · Park Slope · Brooklyn · Score 74.0  
+Martin Scorsese's film of The Band's farewell concert returns for a Sunday brunch screening.
+**Timing:** 117 minutes; arrive 30 minutes early.
+**Practical note:** DCP presentation; food and drinks are additional.
+**Why now:** The second confirmed Thanksgiving-weekend screening.
+[Official](https://nitehawkcinema.com/prospectpark/movies/the-last-waltz/) · [Tickets / booking](https://nitehawkcinema.com/prospectpark/purchase/24710567/) · [Source: Nitehawk Prospect Park](https://nitehawkcinema.com/prospectpark/movies/the-last-waltz/?date=2026-11-29)
+
 #### [Lightscape at Brooklyn Botanic Garden](https://www.bbg.org/lightscape)
 
-Time to confirm · outdoors · $39 nonmember adult on this off-peak date, including fees; member adult $33. · Brooklyn Botanic Garden · Crown Heights · Brooklyn · Score 69.0  
-A mile-long illuminated garden walk with large light installations, seasonal snacks and warm drinks.
-**Timing:** Timed evening entry; choose a 15-minute arrival window.
-**Practical note:** Allow 45-75 minutes. Entry and exit are at 990 Washington Avenue; ordinary garden admission is not valid for this evening event.
-**Why now:** Sunday is a confirmed off-peak night, $5 less than Friday or Saturday for a nonmember adult.
-**On-sale watch:** A dated Lightscape ticket is required; availability was not verified.
-[Official](https://www.bbg.org/lightscape) · [Tickets / booking](https://events.leapevents.com/tickets/lightscape2026/listing/) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/)
+Time to confirm · outdoors · $39 nonmember adult off-peak; $33 member adult; fees included · Brooklyn Botanic Garden · Crown Heights · Brooklyn · Score 69.6  
+An illuminated evening garden trail with large-scale installations, colored trees and seasonal food and drinks.
+**Timing:** Confirmed Sunday operating date; choose an evening entry slot.
+**Practical note:** Use the 990 Washington Avenue entrance. Book Lightscape entry at least 45 minutes before a separately reserved Lightscape Lodge dinner.
+**Why now:** Sunday is a confirmed off-peak night, cheaper than the preceding Friday and Saturday.
+[Official](https://www.bbg.org/lightscape) · [Tickets / booking](https://events.leapevents.com/tickets/lightscape2026/listing/) · [Discovered via The Skint](https://theskint.com/)
 
-#### [Art Deco Financial District](https://www.mas.org/events/art-deco-financial-district-2/)
+#### [John Summit: CTRL ESCAPE ARENA TOUR — Sunday](https://www.barclayscenter.com/events/detail/john-summit-2026)
 
-11:00 AM · outdoors · $35 nonmember; $25 MAS member. · Financial District walking route · Financial District · Manhattan · Score 64.0  
-Anthony W. Robins leads a walk examining Art Deco landmarks including 1 Wall Street, 70 Pine Street, John Street buildings and 29 Broadway.
-**Timing:** 11am-1pm; starting location emailed after registration.
-**Practical note:** The exact starting point is not public, so no meeting-point coordinates are supplied. Wear comfortable walking shoes.
-**Why now:** A specifically dated architecture walk rather than a generic self-guided suggestion.
-**Book soon:** Online registration closes one hour before the tour.
-[Official](https://www.mas.org/events/art-deco-financial-district-2/) · [Tickets / booking](https://secure.mas.org/forms/art-deco-financial-district-registration)
-
-#### [Two Strangers (Carry a Cake Across New York): Closing Performance](https://twostrangersmusical.com/)
-
-3:00 PM · theater · Longacre Theatre · Theater District · Manhattan · Score 64.0  
-Sam Tutty and Christiani Pitts star in the musical comedy about an optimistic British visitor and a New Yorker navigating a wedding, secrets and second chances.
-**Timing:** 135 minutes including intermission. Playbill publishes Sunday at 3pm for November 24–29.
-**Practical note:** Official site confirms November 29 closing. Telecharge was blocked, so seat availability and prices remain unverified.
-**Why now:** The production's final Broadway week ends this Sunday.
-**Book soon:** Officially announced final Broadway date.
-[Official](https://twostrangersmusical.com/) · [Tickets / booking](https://www.telecharge.com/Two-Strangers-Carry-a-Cake-Across-New-York-tickets) · [Discovered via Playbill Productions](https://playbill.com/production/two-strangers-carry-a-cake-across-new-york-broadway-longacre-theatre-2025)
-
-#### [John Summit: CTRL ESCAPE Arena Tour — Sunday](https://www.barclayscenter.com/events/detail/john-summit-2026)
-
-7:00 PM · music · Price unverified; budget fit unknown · Barclays Center · Prospect Heights · Brooklyn · Score 63.0  
-John Summit's second Brooklyn arena date features Cassian and Jackie Hollander.
-**Timing:** Official event HTML separately confirms Sunday's 7pm performance; doors one hour earlier.
-**Practical note:** All ages permitted; 18+ recommended. Ticketmaster blocked access; price and inventory unverified.
-**Why now:** Second and final date of the announced Brooklyn engagement.
+Time to confirm · music · Current ticket price unverified · Barclays Center · Prospect Heights · Brooklyn · Score 61.6  
+The second Brooklyn date of John Summit's CTRL ESCAPE ARENA TOUR, with Cassian and Jackie Hollander.
+**Timing:** November 29 confirmed; show and door times were not exposed on the accessible official page.
+**Practical note:** 18+ recommended, all ages permitted. Separate Sunday booking link available; price and $120-budget fit unverified.
+**Why now:** Second of the November 28-29 Brooklyn dates.
 [Official](https://www.barclayscenter.com/events/detail/john-summit-2026) · [Tickets / booking](https://www.ticketmaster.com/event/300064BA7F8B1EA7)
 
-#### [Gone Fishing with Wally Baram and Vikrant Sunderlal](https://www.eventbrite.com/e/gone-fishing-with-wally-baram-and-vikrant-sunderlal-tickets-2004793441150)
+#### [Gone Fishing with Wally Baram and Vikrant Sunderlal](https://unionhallny.com/calendar)
 
-7:30 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 63.0  
-Wally Baram and Vikrant Sunderlal host Sabrina Wu, Rachel Kaly, Ismael Loutfi and Lucas Connolly.
-**Timing:** Doors 7pm; show 7:30pm.
-**Practical note:** 21+. Lineup subject to change.
-**Why now:** A named Sunday-night lineup closing the holiday weekend.
-[Official](https://www.eventbrite.com/e/gone-fishing-with-wally-baram-and-vikrant-sunderlal-tickets-2004793441150) · [Tickets / booking](https://www.eventbrite.com/e/gone-fishing-with-wally-baram-and-vikrant-sunderlal-tickets-2004793441150) · [Source: Union Hall](https://unionhallny.com/calendar)
+7:30 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 61.6  
+Wally Baram and Vikrant Sunderlal host Sabrina Wu, Rachel Kaly, Ismael Loutfi, and Lucas Connolly.
+**Practical note:** 21+.
+**Why now:** A fully named Sunday-night lineup.
+[Official](https://unionhallny.com/calendar) · [Tickets / booking](https://www.eventbrite.com/e/gone-fishing-with-wally-baram-and-vikrant-sunderlal-tickets-2004793441150)
 
-#### [Mirrored Pool](https://lamama.org/mirrored-pool/)
+#### [Brooklyn Flea Holiday Market](https://dumbo.nyc/event/the-brooklyn-flea-holiday-market/2026-11-29/)
 
-2:00 PM · theater · $30 adult; optional $50 supporter ticket; listed facility fee included · The Downstairs at La MaMa · East Village · Manhattan · Score 61.0  
-Tom Lee's puppetry joins Lisa Kaplan and Matthew Duvall in an Eighth Blackbird production inspired by Carl Sagan, Voyager and the Golden Record.
-**Timing:** Published runtime: 60 minutes.
-**Practical note:** No late seating. Friday shows no tickets remaining; Saturday 2pm and 6pm are other published options.
-**Why now:** Final-day matinee of a three-day puppet-festival production.
-**Book soon:** Final day of the November 27–29 run.
-[Official](https://lamama.org/mirrored-pool/) · [Tickets / booking](https://web.ovationtix.com/trs/pe/11844767)
+10:00 AM · markets · Free entry · DUMBO Archway and Plaza · DUMBO · Brooklyn · Score 61.0  
+A Sunday holiday-market session with vintage finds, artisan gifts and seasonal goods beneath the Manhattan Bridge.
+**Practical note:** Free to enter; individual vendors and stock can change. Dress for the outdoor setting.
+**Why now:** The organizer's calendar confirms a separate Sunday session.
+[Official](https://dumbo.nyc/event/the-brooklyn-flea-holiday-market/2026-11-29/) · [Discovered via The Skint](https://theskint.com/) · [Discovered via Time Out New York](https://www.timeout.com/newyork/shopping/holiday-markets-in-new-york-city)
+
+#### [Animation Show of Shows with Bill Plympton](https://syndicatedbk.com)
+
+3:25 PM · film · $10 · Syndicated · Bushwick · Brooklyn · Score 61.0  
+Fourteen award-winning animated shorts, including rarely screened classics, with Bill Plympton appearing in person.
+**Timing:** Introduction and meet-and-greet with Bill Plympton.
+**Practical note:** 60-seat dine-in cinema; food and drinks are additional.
+**Why now:** The second of two special screenings with Plympton.
+[Official](https://syndicatedbk.com) · [Tickets / booking](https://ticketing.useast.veezi.com/purchase/6726?siteToken=dxdq5wzbef6bz2sjqt83ytzn1c) · [Source: Syndicated](https://ticketing.useast.veezi.com/sessions/?siteToken=dxdq5wzbef6bz2sjqt83ytzn1c) · [Discovered via The Skint](https://theskint.com/tues-tues-11-24-12-1-thanksgiving-week/)
+
+#### [Grand Central Terminal Architecture Tour](https://www.mas.org/events/grand-central-terminal-11-29-2026/)
+
+11:00 AM · other · $25 public; $15 MAS members · Grand Central Terminal · Midtown East · Manhattan · Score 59.0  
+Explore Grand Central's architecture and preservation history with a Municipal Art Society docent.
+**Practical note:** The terminal coordinates are approximate venue coordinates; use the emailed registration instructions for the actual meeting point.
+**Why now:** A separately confirmed Sunday departure at the fall-special price.
+[Official](https://www.mas.org/events/grand-central-terminal-11-29-2026/) · [Tickets / booking](https://secure.mas.org/forms/grand-central-terminal-registration-28)
+
+#### [Still Life Painting: Masks On](https://www.eventbrite.com/e/still-life-painting-masks-on-tickets-2004868294037)
+
+11:00 AM · workshop · Ticket price not exposed in the readable listing · NYC Resistor · Boerum Hill · Brooklyn · Score 59.0  
+A beginner-friendly guided acrylic still-life class, with an 8-by-10-inch canvas and painting materials supplied.
+**Timing:** Doors 10:45; workshop 11:00.
+**Practical note:** Masks are required for this session. Ages 18 and up; fourth-floor walkup.
+**Why now:** A confirmed November 29 hands-on class, distinct from the fixed craft nights already handled by the collector.
+[Official](https://www.eventbrite.com/e/still-life-painting-masks-on-tickets-2004868294037) · [Tickets / booking](https://www.eventbrite.com/e/still-life-painting-masks-on-tickets-2004868294037)
 
 #### [Holiday Nostalgia Rides](https://www.nytransitmuseum.org/program/2026holidayrides/2026-11-29/)
 
-10:00 AM · unusual · Free with Subway Fare! · Off-Site · Brooklyn · Score 60.0  
+10:00 AM · unusual · Free with Subway Fare! · Off-Site · Brooklyn · Score 58.6  
 Running every Sunday between Thanksgiving and New Year’s, the Holiday Nostalgia Train departs from 2 Av–Houston St on the uptown F line and 96 St–2 Av on the Q line.
 [Official](https://www.nytransitmuseum.org/program/2026holidayrides/2026-11-29/) · [Tickets / booking](https://www.nytransitmuseum.org/program/2026holidayrides/2026-11-29/)
 
-#### [Grand Central Terminal architecture and history tour](https://www.mas.org/events/grand-central-terminal-11-29-2026/)
+#### [Art Deco Financial District](https://www.mas.org/events/art-deco-financial-district-2/)
 
-11:00 AM · other · $25 nonmember; $15 MAS member. · Grand Central Terminal · Midtown East · Manhattan · Score 60.0  
-A docent-led exploration of Grand Central's architecture, history and successful preservation campaign.
-**Timing:** 11am-12:30pm.
-**Practical note:** Use the exact meeting point supplied in your confirmation, not the venue coordinates alone.
-**Why now:** A confirmed Sunday morning alternative to the weekday tours.
-**Book soon:** Online registration closes one hour before the tour.
-[Official](https://www.mas.org/events/grand-central-terminal-11-29-2026/) · [Tickets / booking](https://secure.mas.org/forms/grand-central-terminal-registration-28)
+11:00 AM · outdoors · $35 public; $25 MAS members · Financial District walking route · Financial District · Manhattan · Score 58.6  
+Anthony W. Robins examines downtown Art Deco skyscrapers and smaller survivors, including buildings associated with Ralph Walker, Ely Jacques Kahn and Sloan & Robertson.
+**Practical note:** Meeting location is supplied after registration. The description identifies buildings discussed but does not guarantee access to every interior.
+**Why now:** A dated November 29 specialist architecture walk.
+[Official](https://www.mas.org/events/art-deco-financial-district-2/) · [Tickets / booking](https://secure.mas.org/forms/art-deco-financial-district-registration)
+
+#### [Elektra: Sunday matinee](https://tfana.org/events/elektra-2026-11-24-730-pm)
+
+2:00 PM · theater · Polonsky Shakespeare Center · Fort Greene · Brooklyn · Score 58.6  
+Daniel Fish's production of Sophokles uses Anne Carson's translation and music by Ted Hearne.
+**Timing:** 80 minutes without intermission; another performance is listed at 7:30pm.
+**Practical note:** No late seating. The schedule does not mark this matinee sold out; inventory can change.
+**Why now:** Confirmed Sunday performance within the current limited run.
+[Official](https://tfana.org/events/elektra-2026-11-24-730-pm) · [Tickets / booking](https://tfana.org/events/elektra-2026-11-29-200-pm/seats)
 
 #### [Song for Medusa Book Release Party](https://www.wonderville.nyc/events/song-for-medusa-book-release-party-11-29-26)
 
-2:30 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 60.0  
+2:30 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 58.6  
 Grace Desmarais (Author/Reading) https://gracedesmarais.com/ https://www.instagram.com/gracedesmarais/ https://substack.com/@gracedesmarais Jaime A. Mosquera Manchola (Opening Reader) https://www.elsombreronart.com/ https://www.instagram.com/elsombreronart/ RSVP #block-yui_3_17_2_1_1793649102003_38599 { --sqs-block-content-flex: 0; } #block-yui_3_17_2_1_1793649102003_38599 { --opacity: 100%; --tr…
 [Official](https://www.wonderville.nyc/events/song-for-medusa-book-release-party-11-29-26) · [Tickets / booking](https://www.wonderville.nyc/events/song-for-medusa-book-release-party-11-29-26)
 
-#### [You Can See Everything at Low Cinema](https://www.lowcinema.com/movie/you-can-see-everything-2/)
-
-5:00 PM · film · Low Cinema · Ridgewood · Queens · Score 59.0  
-Nathan Fielder and Lance Oppenheim's documentary follows Elizabeth Holmes and a film crew from the weeks before her imprisonment into a three-year project.
-**Timing:** 174-minute film. A separate 8:30pm screening is also published.
-**Practical note:** No refunds or exchanges. Unused tickets may be released to standby five minutes after showtime.
-**Why now:** A verified Sunday option at a Queens microcinema.
-[Official](https://www.lowcinema.com/movie/you-can-see-everything-2/) · [Tickets / booking](https://www.lowcinema.com/checkout/d0c8582c-f977-49b3-a369-0dc25171be47/)
-
 #### [Yoga in the Garden](https://www.wavehill.org/calendar/yoga-in-the-garden-fall-26-2-2)
 
-10:15 AM · sports · $25; includes garden admission. · Wave Hill, Lower Lawn · Riverdale · Bronx · Score 58.0  
-An all-levels yoga class led by Susie Caramanica, with access to Wave Hill's grounds included.
-**Timing:** 10:15-11:15am.
-**Practical note:** Advance registration is encouraged; walk-ins depend on space. Moves indoors in inclement weather, and some indoor rooms require stairs.
-**Why now:** A confirmed Sunday session during Gratitude Weekend.
-**On-sale watch:** Advance registration is encouraged because walk-in space is not guaranteed.
+10:15 AM · sports · $25 including grounds admission; members save 10% · Wave Hill · Riverdale · Bronx · Score 57.0  
+Susie Caramanica leads a gentle, beginner-level yoga class on the Lower Lawn with garden and river views.
+**Timing:** Registered participants may enter the grounds at 10:00.
+**Practical note:** All levels welcome. The lawn approach has a moderately steep slope; inclement-weather indoor alternatives may involve stairs. Day-of registration is not guaranteed.
+**Why now:** A confirmed Gratitude Weekend class on November 29.
 [Official](https://www.wavehill.org/calendar/yoga-in-the-garden-fall-26-2-2) · [Tickets / booking](https://176.blackbaudhosting.com/176/Yoga-in-the-Garden-Gratitude-Weekend)
+
+#### [Citizen Kane: Sunday brunch screening](https://nitehawkcinema.com/williamsburg/movies/citizen-kane/)
+
+11:15 AM · film · Check current price · Nitehawk Cinema Williamsburg · Williamsburg · Brooklyn · Score 57.0  
+Orson Welles's Citizen Kane screens in Nitehawk's anniversary brunch program.
+**Timing:** 119 minutes.
+**Practical note:** The page's DCP format field conflicts with its 35mm series tags; format is not treated as verified.
+**Why now:** A separately verified Sunday screening.
+[Official](https://nitehawkcinema.com/williamsburg/movies/citizen-kane/) · [Tickets / booking](https://nitehawkcinema.com/williamsburg/purchase/24849132/) · [Source: Nitehawk Cinema](https://nitehawkcinema.com/williamsburg/movies/citizen-kane/?date=2026-11-29) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/citizen-kane-tickets)
+
+#### [Mindful Needle Felting](https://www.wavehill.org/calendar/mindful-needle-felting)
+
+12:00 PM · workshop · $45; includes grounds admission · Wave Hill · Riverdale · Bronx · Score 57.0  
+Artist J Hann leads a needle-felting workshop using wool and thread in an embroidery hoop, combining tactile making with a mindful approach.
+**Practical note:** Held in the Mark Twain Room. Registration includes grounds admission.
+**Why now:** A dated workshop during Wave Hill's Gratitude Weekend.
+[Official](https://www.wavehill.org/calendar/mindful-needle-felting) · [Tickets / booking](https://176.blackbaudhosting.com/176/Mindful-Needle-Felting)
+
+#### [Wave Hill Garden Highlights Walk](https://www.wavehill.org/calendar/garden-highlights-walk-fall-2026)
+
+1:00 PM · outdoors · Walk included with paid grounds admission · Wave Hill · Riverdale · Bronx · Score 57.0  
+A guided introduction to seasonal highlights in Wave Hill's gardens and Hudson River landscape.
+**Practical note:** Meet at the Perkins Visitor Center. The walk is included with grounds admission, not independently free; severe weather can cancel it.
+**Why now:** The November 29 calendar confirms this late-autumn walk.
+[Official](https://www.wavehill.org/calendar/garden-highlights-walk-fall-2026)
+
+#### [The Devils in 35mm](https://www.ifccenter.com/films/the-devils/)
+
+3:50 PM · film · IFC Center · Greenwich Village · Manhattan · Score 57.0  
+Ken Russell's The Devils receives a Sunday 35mm presentation.
+**Practical note:** The 35mm designation is specific to this 3:50pm screening.
+**Why now:** Second advertised weekend print screening.
+[Official](https://www.ifccenter.com/films/the-devils/) · [Tickets / booking](https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=590957~8722a542-64c1-4c0b-af02-c3e8a239d769&)
+
+#### [New York City Ballet: George Balanchine's The Nutcracker](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker)
+
+5:00 PM · dance · Current seat prices unverified · David H. Koch Theater · Lincoln Square · Manhattan · Score 57.0  
+Balanchine's seasonal ballet with Tchaikovsky's score. This performance offers live audio description for blind and low-vision audience members.
+**Timing:** The official accessibility notice explicitly confirms the November 29, 5pm performance. Approximate duration: two hours.
+**Practical note:** Current ticket price unverified and may exceed $120. Audio-description receivers are free; an ID or credit card is required to borrow one.
+**Why now:** Opening-weekend performance with a specifically confirmed accessible presentation.
+[Official](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker) · [Tickets / booking](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker#performance-dates-7748)
+
+#### [Joie Bianco Trio](https://www.birdlandjazz.com/tm-event/joie-bianco-trio/)
+
+5:30 PM · music · $35.46-$45.76 admission, plus $20 food/beverage minimum · Birdland Jazz Club · Hell's Kitchen · Manhattan · Score 57.0  
+Vocalist Joie Bianco leads a Sunday early-evening trio performance.
+**Timing:** Doors 4:30pm; show 5:30pm, confirmed on Birdland's calendar.
+**Practical note:** Ages 10+. Additional $20 food/beverage minimum per person.
+**Why now:** Confirmed November 29 trio date.
+[Official](https://www.birdlandjazz.com/tm-event/joie-bianco-trio/) · [Tickets / booking](https://www.birdlandjazz.com/tm-event/joie-bianco-trio/)
 
 #### [Dynamic Portraits](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62307)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.0  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
 This program gathers together films that combine sustained studies of the human face with dynamic formal strategies, including vertiginous camerawork, rapid editing, time-lapse effects, and superimposition. Tehching Hsieh TIME CLOCK PIECE (ONE YEAR PERFORMANCE 1980-1981) (1980-81, 7 min, 16mm, silent) Ludwig Schönherr FACE I UND II (1966-68, 8.5 min, 16mm-to-DCP, silent) Kurt Kren 28/73 TIME EXPO…
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62307) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62307)
 
 #### [Essential Cinema: Rapt](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62239)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.0  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
 “RAPT is, paradoxically, both a film which looks back anachronistically toward the silent era and a work which belongs to the vanguard of sound cinema. Part of that paradox can be resolved by an understanding of the film’s complex utilization of music. RAPT employs very little dialogue, and in this respect it is reminiscent of the part-talkie genre…. It is linked to such abstract and hybrid avant…
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62239) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62239)
 
 #### [Self-portraits](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62315)
 
-Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.0  
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 55.6  
 Just as the realm of two-dimensional portraiture has always encompassed self-portraiture, so too has the corresponding practice within cinema. This program collects instances of filmmakers turning the camera on themselves, or using the techniques of animation to explore their own appearances and identities. Tehching Hsieh TIME CLOCK PIECE (ONE YEAR PERFORMANCE 1980-1981) (1980-81, 7 min, 16mm, si…
-**Timing:** 5:30pm program; duration not verified.
-**Practical note:** The Sunday occurrence is explicitly listed; individual film details were not available in the calendar excerpt.
-**Why now:** Final weekend of a series ending December 1.
 [Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62315) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62315)
 
 #### [Black Friday Sale at the Shop](https://www.scandinaviahouse.org/event/black-friday-sale-at-the-shop/2026-11-29/)
 
-11:00 AM · museums · Scandinavia House · Murray Hill · Manhattan · Score 57.0  
+11:00 AM · museums · Scandinavia House · Murray Hill · Manhattan · Score 55.6  
 It’s Black Friday Weekend at the Shop at Scandinavia House! Enjoy 15-percent off all merchandise Friday through Sunday. Stock up on Nordic sweets, home décor, tableware, fashion, accessories and more! All discounts are added to pre-existing ASF Member discounts (15-percent off year-round). Become an ASF Member to double your discount to 30 percent! Learn more here.
 [Official](https://www.scandinaviahouse.org/event/black-friday-sale-at-the-shop/2026-11-29/) · [Tickets / booking](https://www.scandinaviahouse.org/event/black-friday-sale-at-the-shop/2026-11-29/)
 
 #### [First of Advent Special | Björk Cafe & Bistro](https://www.scandinaviahouse.org/event/first-of-advent-special-bjork-cafe-bistro/)
 
-11:00 AM · museums · Scandinavia House · Murray Hill · Manhattan · Score 57.0  
+11:00 AM · museums · Scandinavia House · Murray Hill · Manhattan · Score 55.6  
 Celebrate the First of Advent (Första Advent) at Björk Cafe & Bistro! Enjoy warm glögg and saffron buns on this day marking the start of the holiday season. Reservations
 [Official](https://www.scandinaviahouse.org/event/first-of-advent-special-bjork-cafe-bistro/) · [Tickets / booking](https://www.scandinaviahouse.org/event/first-of-advent-special-bjork-cafe-bistro/)
 
-#### [The Ascent](https://metrograph.com/film/9999003425-the-ascent/)
-
-11:15 AM · film · Metrograph · Lower East Side · Manhattan · Score 57.0  
-Larisa Shepitko's final feature follows two Soviet soldiers through a wartime ordeal of loyalty, betrayal and moral resistance.
-**Timing:** 111-minute film.
-**Practical note:** DCP presentation in Last Testaments.
-**Why now:** A single published Sunday morning screening.
-[Official](https://metrograph.com/film/9999003425-the-ascent/) · [Tickets / booking](https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31434)
-
-#### [Mindful Needle Felting](https://www.wavehill.org/calendar/mindful-needle-felting)
-
-12:00 PM · workshop · $45; includes garden admission. · Wave Hill House, Mark Twain Room · Riverdale · Bronx · Score 57.0  
-A beginner-friendly mindful craft session with instructor J Hann, using wool, thread and an embroidery hoop.
-**Timing:** Noon-2pm.
-**Practical note:** Register for the workshop; admission to the grounds is included.
-**Why now:** A separately scheduled adult-friendly component of Gratitude Weekend.
-[Official](https://www.wavehill.org/calendar/mindful-needle-felting) · [Tickets / booking](https://176.blackbaudhosting.com/176/Mindful-Needle-Felting)
-
-#### [New York City Ballet: George Balanchine's The Nutcracker — Sunday matinee](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker)
-
-1:00 PM · dance · Price unverified; budget fit unknown · David H. Koch Theater · Upper West Side · Manhattan · Score 57.0  
-Sunday matinee of NYCB's Balanchine holiday ballet.
-**Timing:** 1pm performance confirmed by the official calendar feed; approximately two hours.
-**Practical note:** No late seating or re-entry. Ticket price and budget fit unverified.
-**Why now:** An independently verified opening-weekend matinee.
-[Official](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker) · [Tickets / booking](https://tickets.nycballet.com/booking/production/9646)
-
-#### [Once Upon a Time in the West](https://metrograph.com/film/9999001482-once-upon-a-time-in-the-west/)
-
-1:00 PM · film · Metrograph · Lower East Side · Manhattan · Score 57.0  
-Sergio Leone's epic Western screens in Trains: Long Distance Passages.
-**Timing:** 164-minute film.
-**Practical note:** DCP presentation; allow nearly three hours.
-**Why now:** A specifically scheduled Sunday matinee in the railway-themed series.
-[Official](https://metrograph.com/film/9999001482-once-upon-a-time-in-the-west/) · [Tickets / booking](https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31430)
-
-#### [Herlin Riley and Friends](https://ticketing.jazz.org/21746/)
-
-5:00 PM · music · Ticket price and minimum unverified · Dizzy's Club · Columbus Circle · Manhattan · Score 57.0  
-Herlin Riley and Friends close their November 27–29 weekend engagement.
-**Timing:** November 27–29 dates confirmed; official Sunday schedule is 5pm and 7:30pm. Reconfirm in ticketing.
-**Practical note:** Ticketing returned 503; price, inventory and food/drink minimum unverified. Reservations are encouraged by the venue.
-**Why now:** Final day of the announced weekend engagement.
-[Official](https://ticketing.jazz.org/21746/) · [Tickets / booking](https://ticketing.jazz.org/21746/) · [Source: Jazz at Lincoln Center](https://jazz.org/dizzys/)
-
-#### [New York City Ballet: George Balanchine's The Nutcracker — audio-described performance](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker)
-
-5:00 PM · dance · Ticket price unverified; audio-description receiver free · David H. Koch Theater · Upper West Side · Manhattan · Score 57.0  
-An audio-described performance of Balanchine's full-length holiday ballet.
-**Timing:** 5pm performance confirmed; approximately two hours.
-**Practical note:** Audio-description receivers are free. No late seating or re-entry. Ticket price unverified.
-**Why now:** Opening weekend includes this specific accessibility-supported performance.
-[Official](https://www.nycballet.com/season-and-tickets/george-balanchines-the-nutcracker/george-balanchines-the-nutcracker) · [Tickets / booking](https://tickets.nycballet.com/booking/production/9647)
-
 #### [Rafi & Friends](https://newyorkcomedyclub.com/events/rafi-friends)
 
-6:30 PM · comedy · $25 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 57.0  
+6:30 PM · comedy · $25 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 55.6  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
 [Official](https://newyorkcomedyclub.com/events/rafi-friends) · [Tickets / booking](https://newyorkcomedyclub.com/events/rafi-friends)
 
 #### [Nimesh New Material Night w/friends](https://newyorkcomedyclub.com/events/nimesh-new-material-night-w-friends)
 
-7:00 PM · comedy · $20 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 57.0  
+7:00 PM · comedy · $20 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 55.6  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
 [Official](https://newyorkcomedyclub.com/events/nimesh-new-material-night-w-friends) · [Tickets / booking](https://newyorkcomedyclub.com/events/nimesh-new-material-night-w-friends)
 
 #### [Stage Fright (Round 2)](https://www.wonderville.nyc/events/stage-fright-round-2-11-29-26)
 
-8:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 57.0  
+8:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 55.6  
 Stage Fright is a new drag competition showcasing the best and brightest of alternative drag in NYC. Hosted by drag king Chevy Lace, with special guest judge performances, this is a night of all the tricks and treats alternative drag has to offer. Don't miss our FINALE ROUND to see who takes home the very first ever Stage Fright crown! Learn more #block-yui_3_17_2_1_1793846204025_47673 { --sqs-bl…
 [Official](https://www.wonderville.nyc/events/stage-fright-round-2-11-29-26) · [Tickets / booking](https://www.wonderville.nyc/events/stage-fright-round-2-11-29-26)
 
-#### [The War And Treaty](https://www.bluenotejazz.com/nyc/tm-event/war-treaty/)
+#### [The War and Treaty](https://www.bluenotejazz.com/nyc/tm-event/war-treaty/)
 
-8:00 PM · music · Ticket price unknown; $20 minimum additional · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 57.0  
-The country-soul duo performs at Blue Note following relocation from its original Sony Hall booking.
-**Timing:** Hosting venue confirms 8pm show and 6pm doors; separate 10:30pm show also listed.
-**Practical note:** Rescheduled from Sony Hall November 17; original tickets honoured. $20 minimum additional; new ticket price unverified.
-**Why now:** The verified replacement date and venue are this Sunday.
-[Official](https://www.bluenotejazz.com/nyc/tm-event/war-treaty/) · [Tickets / booking](https://www.ticketweb.com/event/the-war-and-treaty-blue-note-jazz-club-tickets/14378334?pl=bluenoteny) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/the-war-and-treaty-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/the-war-and-treaty-late-show-tickets)
+8:00 PM · music · Check current price · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 55.6  
+The War and Treaty perform at Blue Note in a rescheduled engagement.
+**Timing:** Early set 8pm; separately ticketed late set 10:30pm.
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+**Why now:** New November 29 date and Blue Note location are explicitly confirmed.
+[Official](https://www.bluenotejazz.com/nyc/tm-event/war-treaty/) · [Tickets / booking](https://donyc.com/events/2026/11/29/the-war-and-treaty-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/the-war-and-treaty-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/the-war-and-treaty-late-show-tickets)
 
 #### [Highly Suspicious w/ Aaron Putnam, Kerryn Feehan, Zach Liss](https://newyorkcomedyclub.com/events/highly-suspicious-w-aaron-putnam-kerryn-feehan-zach-liss-11-29-26-09-00-pm)
 
-9:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 57.0  
+9:00 PM · comedy · $25 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 55.6  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
 [Official](https://newyorkcomedyclub.com/events/highly-suspicious-w-aaron-putnam-kerryn-feehan-zach-liss-11-29-26-09-00-pm) · [Tickets / booking](https://newyorkcomedyclub.com/events/highly-suspicious-w-aaron-putnam-kerryn-feehan-zach-liss-11-29-26-09-00-pm)
 
-#### [LIIM: Le Monde Est à Nous](https://dice.fm/event/bbgr7g-liim-le-monde-est-nous-29th-nov-babys-all-right-new-york-tickets)
+#### [Holiday Nostalgia Subway Rides](https://www.nytransitmuseum.org/holiday-nostalgia-rides/)
 
-Doors 6:30 PM · music · $31.52 listed · Baby's All Right · Williamsburg · Brooklyn · Score 56.0  
-Move Forward Music presents LIIM's Le Monde Est à Nous show.
-**Timing:** Date and 6:30pm doors verified; a separate performance start was not published.
-**Practical note:** 18+. Listed ticket $31.52. Confirm performance time rather than treating doors as showtime.
-**Why now:** A specifically ticketed Sunday concert.
+10:00 AM · unusual · Normal subway fare; no additional nostalgia-ride charge · 2 Av-Houston Street subway station · East Village · Manhattan · Score 55.0  
+Ride preserved 1930s R1/9 subway cars in regular passenger service, with rattan seats, ceiling fans and period details.
+**Timing:** Uptown departures from 2 Av-Houston: 10:00, noon, 14:00 and 16:00. Return departures from 96 St-2 Av: 11:00, 13:00, 15:00 and 17:00.
+**Practical note:** Board the uptown F platform at 2 Av-Houston or another published stop. Normal subway fare applies. Equipment, route and departure times can change; accessible boarding alternatives are listed by the museum.
+**Why now:** November 29 is the first Sunday of the confirmed 2026 holiday service.
+[Official](https://www.nytransitmuseum.org/holiday-nostalgia-rides/) · [Discovered via The Skint](https://theskint.com/)
+
+#### [Effigies, Direct Order 82, Urban Glory and Warboy](https://wl.eventim.us/event/effigies-direct-order-82-urban-glory-warboy/706809?afflky=TVEye)
+
+8:30 PM · music · $26.18 online; advertised face value $20; possible additional tax · TV Eye · Ridgewood · Queens · Score 55.0  
+A four-band aftershow for the Ancient Artifax tenth-anniversary pop-up.
+**Timing:** Doors 8pm; show 8:30pm.
+**Practical note:** 16+; younger attendees permitted with a parent or legal guardian. Online price includes platform fees; tax may be added.
+**Why now:** November 29 anniversary aftershow.
+[Official](https://wl.eventim.us/event/effigies-direct-order-82-urban-glory-warboy/706809?afflky=TVEye) · [Tickets / booking](https://wl.eventim.us/event/effigies-direct-order-82-urban-glory-warboy/706809?afflky=TVEye)
+
+#### [LIIM — Le Monde Est à Nous](https://dice.fm/event/bbgr7g-liim-le-monde-est-nous-29th-nov-babys-all-right-new-york-tickets)
+
+Doors 6:30 PM · music · $31.52 listed ticket · Baby's All Right · Williamsburg · Brooklyn · Score 54.6  
+Move Forward Music presents LIIM's Le Monde Est à Nous at Baby's All Right.
+**Timing:** Doors 6:30pm; no distinct performance start was exposed.
+**Practical note:** 18+. Confirm show timing rather than treating the published doors time as the performance start.
+**Why now:** November 29 Brooklyn appearance.
 [Official](https://dice.fm/event/bbgr7g-liim-le-monde-est-nous-29th-nov-babys-all-right-new-york-tickets) · [Tickets / booking](https://dice.fm/event/bbgr7g-liim-le-monde-est-nous-29th-nov-babys-all-right-new-york-tickets)
 
 #### [Stereo Mandrax: Kill Alters, Deli Girls and Sashiyaksha](https://dice.fm/event/5woqnw-stereo-mandrax-kill-alters-deli-girls-sashiyaksha-29th-nov-pianos-showroom-new-york-tickets)
 
-Doors 7:00 PM · music · $22.66 advance / $25 door · Pianos Showroom · Lower East Side · Manhattan · Score 56.0  
-Stereo Mandrax presents Kill Alters, Deli Girls and Sashiyaksha.
-**Timing:** Date and 7pm doors verified; performance start not separately published.
-**Practical note:** 21+. $22.66 advance or $25 door; confirm first-act time.
-**Why now:** A distinctive three-act Sunday bill.
-[Official](https://dice.fm/event/5woqnw-stereo-mandrax-kill-alters-deli-girls-sashiyaksha-29th-nov-pianos-showroom-new-york-tickets) · [Tickets / booking](https://dice.fm/event/5woqnw-stereo-mandrax-kill-alters-deli-girls-sashiyaksha-29th-nov-pianos-showroom-new-york-tickets) · [Discovered via NYC Noise](https://nyc-noise.com/)
+Doors 7:00 PM · music · $22.66 advance / $25 at the door · Pianos Showroom · Lower East Side · Manhattan · Score 54.6  
+Stereo Mandrax brings Kill Alters, Deli Girls and Sashiyaksha to the Pianos Showroom.
+**Timing:** Doors 7pm; no separately confirmed performance start.
+**Practical note:** 21+. Ticket listing distinguishes advance and door prices.
+**Why now:** Specific November 29 three-act bill.
+[Official](https://dice.fm/event/5woqnw-stereo-mandrax-kill-alters-deli-girls-sashiyaksha-29th-nov-pianos-showroom-new-york-tickets) · [Tickets / booking](https://dice.fm/event/5woqnw-stereo-mandrax-kill-alters-deli-girls-sashiyaksha-29th-nov-pianos-showroom-new-york-tickets) · [Discovered via NYC Noise](https://nyc-noise.com/event/14201)
 
-#### [Still Life Painting](https://www.eventbrite.com/e/still-life-painting-masks-on-tickets-2004868294037)
+#### [Sunday Greenmarket at Bartel-Pritchard Square](https://www.prospectpark.org/event/sunday-greenmarket-at-bartel-pritchard-square-4/2026-11-29/)
 
-11:00 AM · workshop · Ticket price not exposed; materials are included. · NYC Resistor · Boerum Hill · Brooklyn · Score 56.0  
-A beginner-friendly guided acrylic still-life session with an 8-by-10-inch canvas, paints, brushes and other materials included.
-**Timing:** Doors 10:45am; guided painting 11am-1pm.
-**Practical note:** Masks required; 18+. Bring your own supplies if preferred. The listing specifies no refunds.
-**Why now:** A confirmed Sunday class, distinct from the sold-out TouchDesigner workshop and fixed craft nights.
-[Official](https://www.eventbrite.com/e/still-life-painting-masks-on-tickets-2004868294037) · [Tickets / booking](https://www.eventbrite.com/e/still-life-painting-masks-on-tickets-2004868294037)
-
-#### [Elektra: Sunday Matinee](https://tfana.org/events/elektra)
-
-2:00 PM · theater · Regular $70–$98 plus $7 fee; premium $125 plus $7; eligible discounts separate · Polonsky Shakespeare Center · Fort Greene · Brooklyn · Score 56.0  
-Daniel Fish stages Sophokles' tragedy in Anne Carson's translation, with choral music by Ted Hearne.
-**Timing:** 80 minutes without intermission. A separate 7:30pm performance is also published.
-**Practical note:** No late seating. No sold-out flag appeared for this matinee; verify live inventory.
-**Why now:** A verified Sunday option in a heavily booked Brooklyn run.
-**On-sale watch:** Several surrounding performances are sold out or nearly full.
-[Official](https://tfana.org/events/elektra) · [Tickets / booking](https://tfana.org/events/elektra-2026-11-29-200-pm/seats) · [Discovered via The Skint](https://theskint.com/fri-mon-11-20-23-skint-weekend/)
-
-#### [Jason Moran & The Bandwagon — closing night](https://vv.squadup.com/artists/jason-moran-and-the-bandwagon)
-
-8:00 PM · music · Ticket price unknown; one-drink minimum · Village Vanguard · West Village · Manhattan · Score 56.0  
-Jason Moran, Tarus Mateen and Nasheet Waits close their engagement with special guest Devon Gates.
-**Timing:** Run ends November 29; venue FAQ gives 8pm/10pm shows and 7pm first seating.
-**Practical note:** 15+. One-drink minimum; no food. Price and inventory did not render. Stairs; not wheelchair accessible.
-**Why now:** Final night of the November 24–29 engagement.
-[Official](https://vv.squadup.com/artists/jason-moran-and-the-bandwagon) · [Tickets / booking](https://vv.squadup.com/artists/jason-moran-and-the-bandwagon)
+9:00 AM · markets · Free entry · Bartel-Pritchard Square · Park Slope · Brooklyn · Score 53.6  
+A Sunday farmers market at Prospect Park's southwest corner, useful for seasonal produce and a relaxed food-shopping stop.
+**Practical note:** Free entry; vendor purchases are separate. Sunday's forecast is sunny.
+**Why now:** The November 29 occurrence is explicitly listed by the park.
+[Official](https://www.prospectpark.org/event/sunday-greenmarket-at-bartel-pritchard-square-4/2026-11-29/)
 
 #### [Night at the Museum](https://donyc.com/events/2026/11/29/night-at-the-museum-tickets)
 
-11:00 AM · film · Check current price · Nitehawk Cinema - Williamsburg · Williamsburg · Brooklyn · Score 54.0  
+11:00 AM · film · Check current price · Nitehawk Cinema - Williamsburg · Williamsburg · Brooklyn · Score 52.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/night-at-the-museum-tickets)
 
 #### [The Atrium: Eli Escobar, Jen Cardini](https://donyc.com/events/2026/11/29/the-atrium-eli-escobar-jen-cardini-tickets)
 
-4:00 PM · nightlife · Check current price · Public Records · Gowanus · Brooklyn · Score 54.0  
+4:00 PM · nightlife · Check current price · Public Records · Gowanus · Brooklyn · Score 52.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/the-atrium-eli-escobar-jen-cardini-tickets)
 
 #### [Lady Bunny's Disco Tea Dance](https://donyc.com/events/2026/11/29/lady-bunny-s-disco-tea-dance-tickets)
 
-5:00 PM · nightlife · Check current price · C'mon Everybody · Bed-Stuy · Brooklyn · Score 54.0  
+5:00 PM · nightlife · Check current price · C'mon Everybody · Bed-Stuy · Brooklyn · Score 52.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/lady-bunny-s-disco-tea-dance-tickets)
 
 #### [The Art of Muzic](https://donyc.com/events/2026/11/29/the-art-of-muzic-tickets)
 
-6:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 54.0  
+6:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 52.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/the-art-of-muzic-tickets)
 
-#### [The Canadian Thanksgiving Comedy Show](https://donyc.com/events/2026/11/29/the-canadian-thanksgiving-comedy-show-tickets)
+#### [The Canadian Thanksgiving Comedy Show](https://www.eventbrite.com/e/the-canadian-thanksgiving-comedy-show-tickets-2004566960741)
 
-6:30 PM · comedy · Check current price · Club Cumming · Alphabet City · Manhattan · Score 54.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/29/the-canadian-thanksgiving-comedy-show-tickets)
+6:30 PM · comedy · $15 · Club Cumming · East Village · Manhattan · Score 52.6  
+**Timing:** sun 6:30pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://www.eventbrite.com/e/the-canadian-thanksgiving-comedy-show-tickets-2004566960741) · [Source: The Skint](https://theskint.com/) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/the-canadian-thanksgiving-comedy-show-tickets)
 
 #### [The Silver Lining with Gianmarco Soresi](https://donyc.com/events/2026/11/29/the-silver-lining-with-gianmarco-soresi-tickets)
 
-7:30 PM · comedy · Check current price · The Bell House · Gowanus · Brooklyn · Score 54.0  
+7:30 PM · comedy · Check current price · The Bell House · Gowanus · Brooklyn · Score 52.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/the-silver-lining-with-gianmarco-soresi-tickets)
 
-#### [Citizen Kane](https://donyc.com/events/2026/11/29/citizen-kane-tickets)
+#### [Impossible New York Stories](https://caveat.nyc/events/impossible-new-york-stories-2026-11-29)
 
-11:15 AM · film · Check current price · Nitehawk Cinema - Williamsburg · Williamsburg · Brooklyn · Score 51.0  
-**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
-[Tickets / booking](https://donyc.com/events/2026/11/29/citizen-kane-tickets)
+2:30 PM · unusual · From $13.61 per listing; check conditions · Caveat · Lower East Side · Manhattan · Score 51.0  
+**Timing:** sun 2:30pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://caveat.nyc/events/impossible-new-york-stories-2026-11-29) · [Source: The Skint](https://theskint.com/)
+
+#### [Ancient Artifax 10 Year Anniversary Pop Up](https://www.instagram.com/ancientartifax/)
+
+Time to confirm · unusual · From $10 per listing; check conditions · TV Eye · Ridgewood · Queens · Score 50.0  
+**Timing:** sun 2pm doors
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://www.instagram.com/ancientartifax/) · [Source: The Skint](https://theskint.com/)
 
 #### [The Rock And Roll Playhouse Plays: Music of The Beatles for Kids](https://donyc.com/events/2026/11/29/the-rock-and-roll-playhouse-plays-music-of-the-beatles-for-kids-tickets)
 
-12:00 PM · music · Check current price · Brooklyn Bowl · Williamsburg · Brooklyn · Score 51.0  
+12:00 PM · music · Check current price · Brooklyn Bowl · Williamsburg · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/the-rock-and-roll-playhouse-plays-music-of-the-beatles-for-kids-tickets)
 
 #### [Annie The Musical](https://donyc.com/events/2026/11/29/annie-the-musical-tickets)
 
-1:00 PM · music · Check current price · Tarrytown Music Hall · Washington Heights · Manhattan · Score 51.0  
+1:00 PM · music · Check current price · Tarrytown Music Hall · Washington Heights · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/annie-the-musical-tickets)
 
 #### [Chus + Ceballos](https://donyc.com/events/2026/11/29/chus-ceballos-tickets)
 
-2:00 PM · nightlife · Check current price · Superior Ingredients · Williamsburg · Brooklyn · Score 51.0  
+2:00 PM · nightlife · Check current price · Superior Ingredients · Williamsburg · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/chus-ceballos-tickets)
 
 #### [The Lost Stop (A Musical starring Kaitlin Becker)](https://donyc.com/events/2026/11/29/the-lost-stop-a-musical-starring-kaitlin-becker-tickets)
 
-2:00 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 51.0  
+2:00 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/the-lost-stop-a-musical-starring-kaitlin-becker-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/the-lost-stop-a-musical-starring-kaitlin-becker-tickets-vbplwej)
 
 #### [Connie Diiamond, Kyah Baby, JOETHEPOET, Scott Morris](https://donyc.com/events/2026/11/29/connie-diiamond-kyah-baby-joethepoet-scott-morris-tickets)
 
-6:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 51.0  
+6:00 PM · music · Check current price · SOB's · SoHo · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/connie-diiamond-kyah-baby-joethepoet-scott-morris-tickets)
 
 #### [Integrity, Most Precious Blood, Inclination, & More!](https://donyc.com/events/2026/11/29/integrity-most-precious-blood-inclination-more-tickets)
 
-6:00 PM · music · Check current price · Saint Vitus Bar · Williamsburg · Brooklyn · Score 51.0  
+6:00 PM · music · Check current price · Saint Vitus Bar · Williamsburg · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/integrity-most-precious-blood-inclination-more-tickets)
 
 #### [Marianne Solivan Quartet](https://donyc.com/events/2026/11/29/marianne-solivan-quartet-tickets)
 
-6:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
+6:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/marianne-solivan-quartet-tickets)
 
 #### [New York Knicks vs. Atlanta Hawks](https://donyc.com/events/2026/11/29/new-york-knicks-vs-detroit-pistons-tickets)
 
-6:00 PM · sports · Check current price · Madison Square Garden · Midtown · Manhattan · Score 51.0  
+6:00 PM · sports · Check current price · Madison Square Garden · Midtown · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/new-york-knicks-vs-detroit-pistons-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/new-york-knicks-tickets)
 
 #### [Frank Hurricane, Tara Zorthian, Ada Interactive](https://donyc.com/events/2026/11/29/frank-hurricane-tara-zorthian-ada-interactive-tickets)
 
-7:00 PM · music · Check current price · Union Pool · Williamsburg · Brooklyn · Score 51.0  
+7:00 PM · music · Check current price · Union Pool · Williamsburg · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/frank-hurricane-tara-zorthian-ada-interactive-tickets)
 
 #### [John Summit](https://donyc.com/events/2026/11/29/john-summit-tickets)
 
-7:00 PM · music · Check current price · Barclays Center · Downtown Brooklyn · Brooklyn · Score 51.0  
+7:00 PM · music · Check current price · Barclays Center · Downtown Brooklyn · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/john-summit-tickets)
 
 #### [Liim](https://donyc.com/events/2026/11/29/liim-tickets)
 
-7:00 PM · music · Check current price · Baby's All Right · Williamsburg · Brooklyn · Score 51.0  
+7:00 PM · music · Check current price · Baby's All Right · Williamsburg · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/liim-tickets)
 
 #### [Material Support, Career Day, Dirsten Kunst, & More!](https://donyc.com/events/2026/11/29/material-support-career-day-dirsten-kunst-more-tickets)
 
-7:00 PM · music · Check current price · Alphaville · Bushwick · Brooklyn · Score 51.0  
+7:00 PM · music · Check current price · Alphaville · Bushwick · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/material-support-career-day-dirsten-kunst-more-tickets)
 
 #### [VonOff1700](https://donyc.com/events/2026/11/29/vonoff1700-tickets)
 
-7:00 PM · music · Check current price · The Gramercy Theatre · Gramercy · Manhattan · Score 51.0  
+7:00 PM · music · Check current price · The Gramercy Theatre · Gramercy · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/vonoff1700-tickets)
 
 #### [DragonForce: Inhuman Rampage 20th Anniversary](https://donyc.com/events/2026/11/29/dragonforce-inhuman-rampage-20th-anniversary-tickets)
 
-7:30 PM · music · Check current price · Palladium Times Square · Theater District · Manhattan · Score 51.0  
+7:30 PM · music · Check current price · Palladium Times Square · Theater District · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/dragonforce-inhuman-rampage-20th-anniversary-tickets)
 
 #### [Danny Ayala | Electric Bug | Darcy Moran](https://donyc.com/events/2026/11/29/danny-ayala-electric-bug-darcy-moran-tickets)
 
-8:00 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 51.0  
+8:00 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/danny-ayala-electric-bug-darcy-moran-tickets)
 
 #### [In Rhythm ft: Aminah Imani, Mohtasham Yaqub, Alfonso Hernandez, JC Mendoza, Samantha Santos](https://donyc.com/events/2026/11/29/in-rhythm-ft-aminah-imani-mohtasham-yaqub-alfonso-hernandez-jc-mendoza-samantha-santos-tickets)
 
-8:00 PM · comedy · Check current price · NEW YORK COMEDY CLUB EAST VILLAGE · East Village · Manhattan · Score 51.0  
+8:00 PM · comedy · Check current price · NEW YORK COMEDY CLUB EAST VILLAGE · East Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/in-rhythm-ft-aminah-imani-mohtasham-yaqub-alfonso-hernandez-jc-mendoza-samantha-santos-tickets)
 
 #### [P.H.0](https://donyc.com/events/2026/11/29/p-h-0-tickets)
 
-8:00 PM · music · Check current price · Mercury Lounge · East Village · Manhattan · Score 51.0  
+8:00 PM · music · Check current price · Mercury Lounge · East Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/p-h-0-tickets)
 
 #### [Sunday Skate Club w/ DJ Lemonade | Club Flush: jo_sway_ b2b subnoirr (skate)](https://donyc.com/events/2026/11/29/sunday-skate-club-w-dj-lemonade-club-flush-jo_sway_-b2b-subnoirr-skate-tickets)
 
-8:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 51.0  
+8:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/sunday-skate-club-w-dj-lemonade-club-flush-jo_sway_-b2b-subnoirr-skate-tickets)
 
 #### [Tom Van Horn, Daniel Tirado, Carla Oakerson, Eagle Witt, Jason Choi, more!](https://donyc.com/events/2026/11/29/tom-van-horn-daniel-tirado-carla-oakerson-eagle-witt-jason-choi-more-tickets)
 
-8:00 PM · comedy · Check current price · Comic Strip Live NYC · Upper East Side · Manhattan · Score 51.0  
+8:00 PM · comedy · Check current price · Comic Strip Live NYC · Upper East Side · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/tom-van-horn-daniel-tirado-carla-oakerson-eagle-witt-jason-choi-more-tickets)
 
 #### [Tyla The A*Pop World Tour](https://donyc.com/events/2026/11/29/tyla-the-a-pop-world-tour-tickets)
 
-8:00 PM · music · Check current price · Brooklyn Paramount · Downtown Brooklyn · Brooklyn · Score 51.0  
+8:00 PM · music · Check current price · Brooklyn Paramount · Downtown Brooklyn · Brooklyn · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/tyla-the-a-pop-world-tour-tickets)
 
 #### [Brian Simontacchi Sextet](https://donyc.com/events/2026/11/29/brian-simontacchi-sextet-tickets)
 
-9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
+9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/brian-simontacchi-sextet-tickets)
 
 #### [Lomelda, Early Worm, Tyty](https://donyc.com/events/2026/11/29/lomelda-early-worm-tyty-tickets)
 
-10:00 PM · music · Check current price · Night Club 101 · Alphabet City · Manhattan · Score 51.0  
+10:00 PM · music · Check current price · Night Club 101 · Alphabet City · Manhattan · Score 49.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/lomelda-early-worm-tyty-tickets)
 
 #### [Theo Parrish All Day](https://donyc.com/events/2026/11/29/theo-parrish-all-day-tickets)
 
-3:00 PM · nightlife · Check current price · Nowadays · Ridgewood · Queens · Score 50.0  
+3:00 PM · nightlife · Check current price · Nowadays · Ridgewood · Queens · Score 48.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/theo-parrish-all-day-tickets)
 
-#### [Sunday Greenmarket at Bartel-Pritchard Square](https://www.prospectpark.org/event/sunday-greenmarket-at-bartel-pritchard-square-4/2026-11-29/)
-
-9:00 AM · markets · Free entry; purchases extra. · Bartel-Pritchard Square · South Slope · Brooklyn · Score 49.0  
-A Sunday farmers market at Prospect Park's southwest entrance, convenient for a neighborhood walk and food shopping.
-**Timing:** 9am-2pm.
-**Practical note:** Bring reusable bags; this is separate from the out-of-season Smorgasburg series.
-**Why now:** The official park calendar confirms November 29.
-[Official](https://www.prospectpark.org/event/sunday-greenmarket-at-bartel-pritchard-square-4/2026-11-29/)
-
-#### [Brooklyn Flea DUMBO](https://www.brooklynflea.com/)
-
-10:00 AM · markets · Free entry; purchases extra. · DUMBO Manhattan Bridge Archway · DUMBO · Brooklyn · Score 48.0  
-Sunday vintage, antique, collectible and handmade-goods shopping beneath the Manhattan Bridge.
-**Timing:** Sunday hours: 10am-5pm.
-**Practical note:** Free entry; check the organizer for any weather-related change before traveling.
-**Why now:** The official active-season schedule confirms Sunday opening.
-[Official](https://www.brooklynflea.com/) · [Discovered via The Skint](https://www.theskint.com/ongoing-events/)
-
-#### [Exclusive Tour Inside the Woolworth Building: Holiday Edition](https://www.meetup.com/newyorkadventureclub/events/317251731/)
-
-11:00 AM · unusual · Score 48.0  
-New York Adventure Club Tickets: $45.25 (advance registration required) Click the link below to officially register for this experience: [https://www.nyadventureclub.com/event/2003351088033](https://www.nyadventureclub.com/event/2003351088033) In the early 20th century, the Woolworth Building in downtown Manhattan not only dominated the NYC skyline, but also held the title of "tallest building in…
-[Official](https://www.meetup.com/newyorkadventureclub/events/317251731/) · [Tickets / booking](https://www.meetup.com/newyorkadventureclub/events/317251731/)
-
-#### [Exploring Downtown Manhattan's Newspaper Legacy (with a Former Journalist)](https://www.meetup.com/newyorkadventureclub/events/317251724/)
-
-11:00 AM · unusual · Score 48.0  
-New York Adventure Club Tickets: $39.98 (advance registration required) Click the link below to register for this event: [https://www.nyadventureclub.com/event/2003350290648](https://www.nyadventureclub.com/event/2003350290648) It's impossible to tell the story of New York City without including the history of its newspapers, which have been chronicling, and shaping, the rise of Gotham from 1725…
-[Official](https://www.meetup.com/newyorkadventureclub/events/317251724/) · [Tickets / booking](https://www.meetup.com/newyorkadventureclub/events/317251724/)
-
-#### [Exploring Dutch Lower Manhattan: From New Amsterdam to New York City](https://www.meetup.com/newyorkadventureclub/events/317251761/)
-
-11:00 AM · unusual · Score 48.0  
-New York Adventure Club Tickets: $39.98 (advance registration required) Click the link below to register for this event: [https://www.nyadventureclub.com/event/2003964435572](https://www.nyadventureclub.com/event/2003964435572) New York City is one of the world's greatest metropolises thanks to the Dutch, who landed in Lower Manhattan exactly 400 years ago. How did the Dutch company town of New (…
-[Official](https://www.meetup.com/newyorkadventureclub/events/317251761/) · [Tickets / booking](https://www.meetup.com/newyorkadventureclub/events/317251761/)
-
-#### [Gargoyles of Greenwich Village: Exploring the Neighborhood's Stone Bestiary](https://www.meetup.com/newyorkadventureclub/events/317251757/)
-
-1:00 PM · unusual · Score 48.0  
-New York Adventure Club Tickets: $39.98 (advance registration required) Click the link below to officially register for this experience: [https://www.nyadventureclub.com/event/2003735582065](https://www.nyadventureclub.com/event/2003735582065) Menacing gargoyles. Mythical beasts. Mysterious faces carved into historic buildings. High above the bustling streets of Greenwich Village is a secret worl…
-[Official](https://www.meetup.com/newyorkadventureclub/events/317251757/) · [Tickets / booking](https://www.meetup.com/newyorkadventureclub/events/317251757/)
-
 #### [Anthony Rodia](https://donyc.com/events/2026/11/29/anthony-rodia-tickets)
 
-7:00 PM · comedy · Check current price · St. George Theatre · St. George · Staten Island · Score 47.0  
+7:00 PM · comedy · Check current price · St. George Theatre · St. George · Staten Island · Score 45.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/anthony-rodia-tickets)
 
 #### [Grave Beginnings: Walking Green-Wood](https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-11-29/)
 
-10:00 AM · outdoors · Green-Wood Cemetery · Greenwood Heights · Brooklyn · Score 45.0  
+10:00 AM · outdoors · Green-Wood Cemetery · Greenwood Heights · Brooklyn · Score 43.6  
 , Credit: Evan Rabeck .stk-dbdf7af {margin-right:0px !important;margin-left:0px !important;}.stk-dbdf7af-column{--stk-column-gap:20px !important;} .stk-3429530-container{margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !important;margin-left:0px !important;}.stk-3429530 {margin-top:0px !important;margin-right:0px !important;margin-bottom:0px !important;margin-left:0px !impo…
 [Official](https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-11-29/) · [Tickets / booking](https://www.green-wood.com/event/grave-beginnings-walking-green-wood-2/2026-11-29/)
 
 #### [Laughing Buddha Comedy](https://newyorkcomedyclub.com/events/laughing-buddha-comedy-2026-11-29160000)
 
-4:00 PM · comedy · $29 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 45.0  
+4:00 PM · comedy · $29 + fees / club minimum · New York Comedy Club Upper West Side · Upper West Side · Manhattan · Score 43.6  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
 [Official](https://newyorkcomedyclub.com/events/laughing-buddha-comedy-2026-11-29160000) · [Tickets / booking](https://newyorkcomedyclub.com/events/laughing-buddha-comedy-2026-11-29160000) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/laughing-buddha-comedy-tickets)
 
 #### [New York Comedy Club Presents](https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-2026-11-29163000)
 
-4:30 PM · comedy · $19 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 45.0  
+4:30 PM · comedy · $19 + fees / club minimum · New York Comedy Club on 4th Street · East Village · Manhattan · Score 43.6  
 **Practical note:** Check the club’s age policy and drink/item minimum; these may be additional to admission.
 [Official](https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-2026-11-29163000) · [Tickets / booking](https://newyorkcomedyclub.com/events/new-york-comedy-club-presents-2026-11-29163000)
 
 #### [The World Famous Harlem Gospel Choir](https://donyc.com/events/2026/11/29/the-world-famous-harlem-gospel-choir-tickets)
 
-1:30 PM · music · Check current price · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 39.0  
+1:30 PM · music · Check current price · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 37.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/the-world-famous-harlem-gospel-choir-tickets)
 
 #### [Skaterobics - All Experience Levels Instructional Class](https://donyc.com/events/2026/11/29/skaterobics-all-experience-levels-instructional-class-tickets)
 
-6:00 PM · workshop · Check current price · Xanadu · Bushwick · Brooklyn · Score 39.0  
+6:00 PM · workshop · Check current price · Xanadu · Bushwick · Brooklyn · Score 37.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/skaterobics-all-experience-levels-instructional-class-tickets)
 
 #### [Christmas Spectacular Starring The Radio City Rockettes](https://donyc.com/events/2026/11/29/christmas-spectacular-starring-the-radio-city-rockettes-tickets-xMDMpJx)
 
-10:00 AM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 36.0  
+10:00 AM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 34.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/christmas-spectacular-starring-the-radio-city-rockettes-tickets-xMDMpJx) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/christmas-spectacular-starring-the-radio-city-rockettes-tickets-g0E0boj) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/christmas-spectacular-starring-the-radio-city-rockettes-tickets-ke6eRoy) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/christmas-spectacular-starring-the-radio-city-rockettes-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/christmas-spectacular-starring-the-radio-city-rockettes-tickets-EBMBlPM)
 
 #### [Sunday Afterglow (skate)](https://donyc.com/events/2026/11/29/sunday-afterglow-skate-tickets)
 
-12:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 36.0  
+12:00 PM · sports · Check current price · Xanadu · Bushwick · Brooklyn · Score 34.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/sunday-afterglow-skate-tickets)
 
 #### [The Cafe Wha? House Band](https://donyc.com/events/2026/11/29/the-cafe-wha-house-band-tickets)
 
-9:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 36.0  
+9:00 PM · music · Check current price · Cafe Wha? · Greenwich Village · Manhattan · Score 34.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/the-cafe-wha-house-band-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/29/the-cafe-wha-house-band-tickets-peEpBZd)
 
 #### [The Pioneers](https://donyc.com/events/2026/11/29/the-pioneers-tickets)
 
-10:00 PM · music · Check current price · Terra Blues · Greenwich Village · Manhattan · Score 36.0  
+10:00 PM · music · Check current price · Terra Blues · Greenwich Village · Manhattan · Score 34.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/the-pioneers-tickets)
 
 #### [Glimpse of Greatness](https://donyc.com/events/2026/11/29/glimpse-of-greatness-tickets)
 
-7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 33.0  
+7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 31.6  
 **Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
 [Tickets / booking](https://donyc.com/events/2026/11/29/glimpse-of-greatness-tickets)
 
+### 2026-11-30
+
+#### [FAD Market Holiday Pop-Up: Opening-Day Mini Market](https://fadmarket.co/empirestores-holiday-market)
+
+11:00 AM · markets · Free entry · Empire Stores · DUMBO · Brooklyn · Score 69.0  
+FAD Market opens its daily holiday run with a weekday mini market of 14 makers in the Empire Stores lobby, featuring gifts, accessories, ceramics and artisanal goods.
+**Timing:** Weekday mini-market hours; the larger weekend edition has a different vendor count.
+**Practical note:** Free and open to the public; pets welcome. This is the 14-maker weekday format, not the 35-plus-maker weekend market. Indoor shopping is useful during Monday's possible rain.
+**Why now:** November 30 is the first day of the verified November 30-December 20 run.
+[Official](https://fadmarket.co/empirestores-holiday-market) · [Discovered via Time Out New York](https://www.timeout.com/newyork/shopping/holiday-markets-in-new-york-city)
+
+#### [Tiny Table Talk: Aram Kim and Pat Cummings](https://www.rizzolibookstore.com/sva-presents-tiny-table-talk-0)
+
+6:00 PM · books · Admission price not exposed; listed book prices are not ticket prices · Rizzoli Bookstore · NoMad · Manhattan · Score 66.0  
+SVA's public conversation series brings Aram Kim and Pat Cummings together to discuss the art and craft of picture books.
+**Timing:** Organizer lists an 8pm end; ticket page lists 7:45pm.
+**Practical note:** Public discussion for readers and artists, not a children-only program. RSVP encouraged, not required; seating first come, first served.
+**Why now:** The sixth installment takes place November 30.
+[Official](https://www.rizzolibookstore.com/sva-presents-tiny-table-talk-0) · [Tickets / booking](https://www.eventbrite.com/e/sva-presents-tiny-table-talk-aram-kim-pat-cummings-tickets-1993476832870)
+
+#### [Music Mondays: Ruckus with Keir GoGwilt and Fiona Gillespie](https://www.musicmondays.org/november-2026)
+
+7:30 PM · music · Free · Advent Lutheran Church · Upper West Side · Manhattan · Score 65.0  
+Ruckus joins violinist Keir GoGwilt and vocalist Fiona Gillespie for Corelli, Neil Gow's Scottish fiddle music and Gaelic songs.
+**Timing:** Official series information confirms 7:30pm concerts. Reserved-ticket priority ends at 7:20pm, after which standby admission begins.
+**Practical note:** Free concert, not a religious service. Reserve through the organizer; walk-up standby is welcomed but admission is not guaranteed.
+**Why now:** November 30 collaboration combines Baroque music, Scottish fiddle tunes and Gaelic song.
+[Official](https://www.musicmondays.org/november-2026) · [Tickets / booking](https://www.musicmondays.org/november-2026) · [Discovered via The Skint](https://theskint.com/tues-tues-11-24-12-1-thanksgiving-week/)
+
+#### [Bryant Park Holiday Shops](https://bryantpark.org/activities/holiday-shops)
+
+11:00 AM · markets · Free market entry; purchases extra · Bryant Park · Midtown · Manhattan · Score 64.0  
+The Winter Village's seasonal shopping kiosks offer gifts, crafts and food in Bryant Park.
+**Timing:** Published Monday-Friday market hours.
+**Practical note:** Monday has a chance of rain; bring waterproof layers. Skating, rentals and other attractions have separate booking and pricing.
+**Why now:** The confirmed October 28-January 3 holiday-shop run includes this Monday, with published weekday hours.
+[Official](https://bryantpark.org/activities/holiday-shops) · [Discovered via Time Out New York](https://www.timeout.com/newyork/shopping/holiday-markets-in-new-york-city)
+
+#### [Day With(out) Art 2026: Seeds in a Dying Colony (Free Screening!)](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62184)
+
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 63.0  
+For Day With(out) Art 2026, Visual AIDS presents seeds in a dying colony, a program of four newly commissioned videos that move through the afterlives of colonialism and the ongoing HIV epidemic. Across fractured histories and landscapes marked by extraction, the works trace how systems of power shape the body, memory, and experiences of care. The program responds to a moment marked by deepening…
+[Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62184) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62184)
+
+#### [Charlie Bardey: The Promise of the Hearth, Part II: The Eave](https://unionhallny.com/calendar)
+
+7:30 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 63.0  
+The second installment of Charlie Bardey's three-part show features Brittany Carney, Pierce Campion, and Honey Pluton.
+**Practical note:** 21+.
+**Why now:** A specific installment with a confirmed Monday guest lineup.
+[Official](https://unionhallny.com/calendar) · [Tickets / booking](https://www.eventbrite.com/e/charlie-bardey-presents-the-promise-of-the-hearth-part-ii-the-eave-tickets-2002923620466)
+
+#### [Tommy Armstrong's last show before he goes on tour](https://unionhallny.com/calendar)
+
+10:00 PM · comedy · Union Hall · Park Slope · Brooklyn · Score 63.0  
+Tommy Armstrong previews his touring show of jokes, harmonicas, and audience interaction, with Clarey Donaher and Hyde Healy.
+**Practical note:** 21+.
+**Why now:** A pre-tour hometown performance.
+[Official](https://unionhallny.com/calendar) · [Tickets / booking](https://www.eventbrite.com/e/tommy-armstrongs-last-show-before-he-goes-on-tour-tickets-2005227032032)
+
+#### [Lakeside Monday Special: Covered-Rink Skating](https://lakeside.prospectpark.org/activity/public-ice-skate/)
+
+12:00 PM · sports · $5 cash or $5.15 card admission; skate rental extra · LeFrak Center at Lakeside · Prospect Lefferts Gardens · Brooklyn · Score 62.0  
+A discounted Monday public-skating session at Lakeside's covered rink beside Prospect Park Lake.
+**Timing:** Covered-rink daytime window; the open-air rink separately operates 09:00-18:00.
+**Practical note:** Admission is $5 cash or $5.15 by card; rentals add $10 cash or $10.29 card. The rink is covered but not an indoor climate-controlled venue. Monday rain is possible; check operations before traveling.
+**Why now:** November 30 qualifies for the published Monday special and is outside Thanksgiving-weekend pricing.
+[Official](https://lakeside.prospectpark.org/activity/public-ice-skate/) · [Tickets / booking](https://apps.daysmartrecreation.com/dash/x/lakeside/programs/24/level?facility_ids=1&season_id=69) · [Discovered via The Skint](https://theskint.com/)
+
+#### [Just Look Up | Screening + Film Talk](https://www.scandinaviahouse.org/event/just-look-up-screening-film-talk/)
+
+7:00 PM · film · Scandinavia House · Murray Hill · Manhattan · Score 60.0  
+On November 30, Scandinavia House presents a screening and film talk of the defiant, propulsive climate documentary Just Look Up, a Danish qualifier for Best Documentary Feature Film at the 99th Academy Awards. Directors Emma Wall and Betsy Hershey and producer Signe Byrge Sorensen will be present for a Q&A following the screening. Having lived through decades of stagnant government response to s…
+[Official](https://www.scandinaviahouse.org/event/just-look-up-screening-film-talk/) · [Tickets / booking](https://www.scandinaviahouse.org/event/just-look-up-screening-film-talk/)
+
+#### [The Fellowship of the Ring in 35mm](https://nitehawkcinema.com/williamsburg/movies/lotr-the-fellowship-of-the-ring/)
+
+9:15 PM · film · Nitehawk Cinema Williamsburg · Williamsburg · Brooklyn · Score 60.0  
+Peter Jackson's first Lord of the Rings film screens in 35mm for its anniversary.
+**Timing:** 178 minutes; finishes after midnight.
+**Practical note:** Plan late-night transportation; food and drinks cost extra.
+**Why now:** One dated Monday 35mm anniversary screening.
+[Official](https://nitehawkcinema.com/williamsburg/movies/lotr-the-fellowship-of-the-ring/) · [Tickets / booking](https://nitehawkcinema.com/williamsburg/purchase/24772620/)
+
+#### [NYC Resistor Public Craft Night](https://www.nycresistor.com/)
+
+6:30 PM · workshop · Free · NYC Resistor · Gowanus · Brooklyn · Score 59.0  
+Open craft night at the NYC Resistor hacker collective: bring a project, use the space, meet members. Free and open to the public, 18 and over.
+**Timing:** Mondays and Thursdays 6:30-9:30pm. Free, but 18+ only.
+**Practical note:** Fourth-floor walkup; confirm on Eventbrite since craft night is occasionally cancelled for private classes.
+**Why now:** Runs twice a week year-round and is one of the few genuinely free weeknight drop-in activities.
+[Official](https://www.nycresistor.com/) · [Tickets / booking](https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-162729866411)
+
+#### [The History of Concrete: Monday screening](https://syndicatedbk.com)
+
+8:45 PM · film · $10 · Syndicated · Bushwick · Brooklyn · Score 59.0  
+The History of Concrete screens in Syndicated's 60-seat dine-in theater.
+**Practical note:** The earlier Monday Nirvanna screening was marked sold out and is not included.
+**Why now:** Verified Monday-night Brooklyn film option.
+[Official](https://syndicatedbk.com) · [Tickets / booking](https://ticketing.useast.veezi.com/purchase/6719?siteToken=dxdq5wzbef6bz2sjqt83ytzn1c) · [Source: Syndicated](https://ticketing.useast.veezi.com/sessions/?siteToken=dxdq5wzbef6bz2sjqt83ytzn1c)
+
+#### [Cinématon, Program 2](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62304)
+
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.0  
+Gérard Courant CINÉMATON 1978-85, ca. 80 min selection, Super-8mm-or-video-to-digital “Since the 7th of February, 1978, I have made portraits on film of artistic and cultural personalities that I call CINÉMATON. There are ten rules for the cinematon, ten commandments that must not be deviated from: 1) A camera on a tripod; 2) A camera that does not move; 3) A close-up of a face; 4) No sound; 5) N…
+[Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62304) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62304)
+
+#### [Galaxie](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62285)
+
+Time to confirm · film · Anthology Film Archives · East Village · Manhattan · Score 57.0  
+A pinnacle of the art of filmic portraiture, Gregory Markopoulos’s GALAXIE comprises thirty short portraits of men and women from across the spectrum of the mid-1960s cultural scene in New York City. Its subjects include many of Markopoulos’s fellow experimental filmmakers – Storm De Hirsch, George & Mike Kuchar, Jonas Mekas, Shirley Clarke, Amy Taubin, and Ed Emshwiller – as well as figures from…
+[Official](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62285) · [Tickets / booking](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62285)
+
+#### [Scenes from the Divide with Alison Klayman and guests](https://www.ifccenter.com/films/scenes-from-the-divide-2/)
+
+6:00 PM · film · IFC Center · Greenwich Village · Manhattan · Score 57.0  
+A one-night documentary encore with director Alison Klayman, Molly Crabapple, and participant Nicole Krishtul, moderated by filmmaker David Osit.
+**Timing:** 32-minute film followed by discussion.
+**Practical note:** English and Russian with English subtitles.
+**Why now:** Explicitly advertised as a one-night November 30 encore.
+[Official](https://www.ifccenter.com/films/scenes-from-the-divide-2/) · [Tickets / booking](https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589322~8722a542-64c1-4c0b-af02-c3e8a239d769&)
+
+#### [David Finck Quintet](https://www.birdlandjazz.com/tm-event/david-finck-quntet/)
+
+7:00 PM · music · $35.46-$45.76 admission, plus $20 food/beverage minimum · Birdland Jazz Club · Hell's Kitchen · Manhattan · Score 57.0  
+Bassist David Finck leads Joe Locke on vibes, Sam Dillon on tenor saxophone, Tedd Firth on piano and Dennis Mackrel on drums.
+**Timing:** Doors 5:30pm; show 7pm.
+**Practical note:** Ages 10+. Additional $20 food/beverage minimum.
+**Why now:** Confirmed November 30 quintet lineup.
+[Official](https://www.birdlandjazz.com/tm-event/david-finck-quntet/) · [Tickets / booking](https://www.ticketweb.com/event/david-finck-quintet-birdland-jazz-club-tickets/14282084?REFID=clientsitewp)
+
+#### [Robot Karaoke](https://www.wonderville.nyc/events/robot-karaoke-11-30-26)
+
+7:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 57.0  
+Join us for karaoke night on impossible mode as we replace the lyrics to any SONG with words from any TEXT, then try to sing the results on the spot. It all happens live, so each song has never been heard before and will never be heard again. Our songwriting system, THE WEIRD ALGORITHM, matches each line syllable-for-syllable, so you can sing along if you know the original tune. Request any of th…
+[Official](https://www.wonderville.nyc/events/robot-karaoke-11-30-26) · [Tickets / booking](https://www.wonderville.nyc/events/robot-karaoke-11-30-26)
+
+#### [24th Annual Music Mondays Concert Series](https://www.musicmondays.org)
+
+7:30 PM · music · Free; confirm registration · Advent Lutheran Church · Upper West Side · Manhattan · Score 57.0  
+**Timing:** mon 7:30pm (monthly thru may)
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://www.musicmondays.org) · [Source: The Skint](https://theskint.com/)
+
+#### [Brooklyn Nets vs. Oklahoma City Thunder](https://www.barclayscenter.com/events/detail/brooklyn-nets-vs-oklahoma-city-thunder-20261130)
+
+7:30 PM · sports · Check current price · Barclays Center · Downtown Brooklyn · Brooklyn · Score 57.0  
+The Brooklyn Nets host the Oklahoma City Thunder in a Monday-night NBA game.
+**Timing:** 19:30 game time; doors and finish time were not verified.
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+**Why now:** The arena confirms this November 30 home game.
+[Official](https://www.barclayscenter.com/events/detail/brooklyn-nets-vs-oklahoma-city-thunder-20261130) · [Tickets / booking](https://donyc.com/events/2026/11/30/brooklyn-nets-vs-oklahoma-city-thunder-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/30/brooklyn-nets-vs-oklahoma-city-thunder-tickets)
+
+#### [Little Black Book: In Concert](https://donyc.com/events/2026/11/30/little-black-book-in-concert-tickets)
+
+7:30 PM · music · Check current price · The Town Hall · Theater District · Manhattan · Score 57.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/little-black-book-in-concert-tickets)
+
+#### [LCD Soundsystem — Brooklyn Steel residency](https://youarehere.bowerypresents.com/)
+
+8:00 PM · music · Check current price · Brooklyn Steel · East Williamsburg · Brooklyn · Score 57.0  
+LCD Soundsystem performs a November 30 date in its 2026 New York residency.
+**Timing:** Doors 6:00 PM
+**Practical note:** Age policy: 16 & Over. Prices and availability can change.
+**Why now:** The official residency schedule specifically includes November 30 at Brooklyn Steel.
+[Official](https://youarehere.bowerypresents.com/) · [Tickets / booking](https://www.axs.com/events/1634214/lcd-soundsystem-tickets?skin=bowerypresents) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/30/lcd-soundsystem-tickets)
+
+#### [Lucy Dacus](https://www.axs.com/events/1681449/lucy-dacus-tickets)
+
+8:00 PM · music · Check current price · Music Hall of Williamsburg · Williamsburg · Brooklyn · Score 57.0  
+With Dominic Angelella. No Burden - Album Reissue Release Show.
+**Timing:** Doors 7:00 PM
+**Practical note:** Age policy: 18 & Over. Prices and availability can change.
+[Official](https://www.axs.com/events/1681449/lucy-dacus-tickets) · [Tickets / booking](https://www.axs.com/events/1681449/lucy-dacus-tickets)
+
+#### [Zohar & Adam: The Osmosis Album Release Show](https://www.bluenotejazz.com/nyc/tm-event/zohar-adam/)
+
+8:00 PM · music · Ticket price unverified; additional $20 food/beverage minimum · Blue Note Jazz Club · Greenwich Village · Manhattan · Score 57.0  
+Keyboardist Zohar and drummer Adam celebrate Osmosis. Musicians credited on the album are not assumed to be live guests.
+**Timing:** Early set 8pm; separately ticketed late set 10:30pm, doors 10pm.
+**Practical note:** Ticket price unverified; additional $20 food/beverage minimum. Tables all ages, bar 21+; seating first come.
+**Why now:** November 30 album-release performance.
+[Official](https://www.bluenotejazz.com/nyc/tm-event/zohar-adam/) · [Tickets / booking](https://www.ticketweb.com/event/zohar-adam-blue-note-jazz-club-tickets/15031733?pl=bluenoteny) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/30/zohar-adam-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/30/zohar-adam-tickets-g0ovmkk)
+
+#### [You Are Not Alone: An Uplifting Show About Depression](https://magnettheater.com/show/59686/)
+
+9:30 PM · unusual · $10 · Magnet Theater · Chelsea · Manhattan · Score 57.0  
+Improvisers create scenes inspired by personal essays about depression and mental illness.
+**Timing:** mon 9:30pm (monthly)
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+**Why now:** The official page confirms the November 30 monthly performance.
+[Official](https://magnettheater.com/show/59686/) · [Tickets / booking](https://magnettheater.com/show/59686/) · [Discovered via The Skint](https://theskint.com/) · [Discovered via The Skint](https://theskint.com/tues-tues-11-24-12-1-thanksgiving-week/)
+
+#### [girlsweetvoiced with Tama Gucci](https://wl.eventim.us/event/girlsweetvoiced/708011?afflky=BabysAllRightBrooklyn)
+
+7:00 PM · music · $33.12 advance; possible additional tax · Baby's All Right · Williamsburg · Brooklyn · Score 56.0  
+girlsweetvoiced and Tama Gucci share the Monday bill at Baby's All Right.
+**Timing:** Doors 6:30pm; show 7pm.
+**Practical note:** 18+. Taxes may be added to the listed online ticket price.
+**Why now:** November 30 two-act bill.
+[Official](https://wl.eventim.us/event/girlsweetvoiced/708011?afflky=BabysAllRightBrooklyn) · [Tickets / booking](https://wl.eventim.us/event/girlsweetvoiced/708011?afflky=BabysAllRightBrooklyn)
+
+#### [Truman Flyer, Gavin Sultan and Will Hasell](https://wl.eventim.us/event/truman-flyer-gavin-sultan-will-hasell/710628?afflky=TVEye)
+
+7:30 PM · music · $19.64 online; advertised face value $15; possible additional tax · TV Eye · Ridgewood · Queens · Score 55.0  
+Truman Flyer, Gavin Sultan and Will Hasell perform in TV Eye's Ballroom.
+**Timing:** Event-specific header confirms doors 7pm/show 7:30pm; generic venue FAQ times are not substituted.
+**Practical note:** 21+. Online price includes platform fees; additional tax may apply.
+**Why now:** November 30 three-act Queens bill.
+[Official](https://wl.eventim.us/event/truman-flyer-gavin-sultan-will-hasell/710628?afflky=TVEye) · [Tickets / booking](https://wl.eventim.us/event/truman-flyer-gavin-sultan-will-hasell/710628?afflky=TVEye)
+
+#### [Dan Pugach Nonet New Jazz Works Launch Concert](https://donyc.com/events/2026/11/30/dan-pugach-nonet-new-jazz-works-launch-concert-tickets)
+
+6:30 PM · music · Check current price · Drom · East Village · Manhattan · Score 54.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/dan-pugach-nonet-new-jazz-works-launch-concert-tickets)
+
+#### [Laura Cantrell's States of Country and Creator Henry Horenstein's Honky Tonkin' Sponsored by The Rhode Island School of Design A](https://donyc.com/events/2026/11/30/laura-cantrell-s-states-of-country-and-creator-henry-horenstein-s-honky-tonkin-sponsored-by-the-rhode-island-school-of-design-a-)
+
+6:30 PM · music · Check current price · Lucinda’s · Alphabet City · Manhattan · Score 54.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/laura-cantrell-s-states-of-country-and-creator-henry-horenstein-s-honky-tonkin-sponsored-by-the-rhode-island-school-of-design-a-)
+
+#### [Yard Sale Comedy Open Mic](https://donyc.com/events/2026/11/30/yard-sale-comedy-open-mic-tickets)
+
+6:30 PM · music · Check current price · Alphaville · Bushwick · Brooklyn · Score 54.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/yard-sale-comedy-open-mic-tickets)
+
+#### [Stamptown](https://donyc.com/events/2026/11/30/stamptown-tickets)
+
+8:00 PM · comedy · Check current price · The Bell House · Gowanus · Brooklyn · Score 54.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/stamptown-tickets)
+
+#### [Sofia Rei & JC Maillard](https://donyc.com/events/2026/11/30/sofia-rei-jc-maillard-tickets)
+
+9:00 AM · music · Check current price · Lunatico · Bed-Stuy · Brooklyn · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/sofia-rei-jc-maillard-tickets)
+
+#### [Burnett Thompson Trio](https://donyc.com/events/2026/11/30/burnett-thompson-trio-tickets)
+
+6:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/burnett-thompson-trio-tickets)
+
+#### [Nora Conlon, Jane Doe, Cat Crash](https://donyc.com/events/2026/11/30/nora-conlon-jane-doe-cat-crash-tickets)
+
+6:00 PM · music · Check current price · Mercury Lounge · East Village · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/nora-conlon-jane-doe-cat-crash-tickets)
+
+#### [Amber Iman's 2nd Annual Holiday Show](https://donyc.com/events/2026/11/30/amber-iman-tickets)
+
+7:00 PM · theater · Check current price · Joe's Pub · NoHo · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/amber-iman-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/30/amber-iman-tickets-0znjd36)
+
+#### [Fergie Baby](https://donyc.com/events/2026/11/30/fergie-baby-tickets)
+
+7:00 PM · music · Check current price · The Gramercy Theatre · Gramercy · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/fergie-baby-tickets)
+
+#### [New York Rangers vs. Carolina Hurricanes](https://donyc.com/events/2026/11/30/new-york-rangers-vs-carolina-hurricanes-tickets)
+
+7:00 PM · sports · Check current price · Madison Square Garden · Midtown · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/new-york-rangers-vs-carolina-hurricanes-tickets)
+
+#### [Nico Jin Electric & Kiw Trio Tickets](https://donyc.com/events/2026/11/30/nico-jin-electric-kiw-trio-tickets-tickets)
+
+7:00 PM · music · Check current price · Nublu 151 · Alphabet City · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/nico-jin-electric-kiw-trio-tickets-tickets)
+
+#### [The Levy / TBD](https://donyc.com/events/2026/11/30/the-levy-tbd-tickets)
+
+7:00 PM · music · Check current price · Arlene's Grocery · East Village · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/the-levy-tbd-tickets)
+
+#### [girlsweetvoiced](https://donyc.com/events/2026/11/30/girlsweetvoiced-tickets)
+
+7:00 PM · music · Check current price · Baby's All Right · Williamsburg · Brooklyn · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/girlsweetvoiced-tickets)
+
+#### [New Music R&B](https://donyc.com/events/2026/11/30/new-music-r-b-tickets)
+
+7:30 PM · music · Check current price · Bowery Palace · East Village · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/new-music-r-b-tickets)
+
+#### [Lucy Dacus: No Burden - Album Reissue Release Show](https://donyc.com/events/2026/11/30/lucy-dacus-no-burden-album-reissue-release-show-tickets)
+
+8:00 PM · music · Check current price · Music Hall of Williamsburg · Williamsburg · Brooklyn · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/lucy-dacus-no-burden-album-reissue-release-show-tickets)
+
+#### [OVER/UNDER with ØWAY and Friends](https://donyc.com/events/2026/11/30/over-under-with-way-and-friends-tickets)
+
+8:00 PM · music · Check current price · Palladium Times Square · Theater District · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/over-under-with-way-and-friends-tickets)
+
+#### [The Peter Stewart Show! With Nick Tilleli!](https://donyc.com/events/2026/11/30/the-peter-stewart-show-with-nick-tilleli-tickets)
+
+8:00 PM · comedy · Check current price · Comic Strip Live NYC · Upper East Side · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/the-peter-stewart-show-with-nick-tilleli-tickets)
+
+#### [SuiteTooth: Opening Night](https://donyc.com/events/2026/11/30/suitetooth-opening-night-tickets)
+
+8:15 PM · comedy · Check current price · The PIT Loft · Chelsea · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/suitetooth-opening-night-tickets)
+
+#### [Code Red](https://donyc.com/events/2026/11/30/code-red-tickets)
+
+9:00 PM · music · Check current price · Berlin · East Village · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/code-red-tickets)
+
+#### [Dan Weiss Trio](https://donyc.com/events/2026/11/30/dan-weiss-trio-tickets)
+
+9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/dan-weiss-trio-tickets)
+
+#### [Steve Ash Trio](https://donyc.com/events/2026/11/30/steve-ash-trio-tickets)
+
+9:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/steve-ash-trio-tickets)
+
+#### [Jam in the Cafe with Isaac Byrd](https://donyc.com/events/2026/11/30/jam-in-the-cafe-with-isaac-byrd-tickets)
+
+10:15 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 51.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/jam-in-the-cafe-with-isaac-byrd-tickets)
+
+#### [Breaking Sound NYC at Sanger Hall 11/30](https://donyc.com/events/2026/11/30/breaking-sound-nyc-at-sanger-hall-11-30-tickets)
+
+7:00 PM · music · Check current price · Sanger Hall · Long Island City · Queens · Score 50.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/breaking-sound-nyc-at-sanger-hall-11-30-tickets)
+
+#### [Compost Build Community Volunteer Day](https://queensbotanical.org/event/compost-build-community-volunteer-days-39-108/)
+
+9:30 AM · workshop · Free; volunteer admission and parking included · Queens Botanical Garden · Flushing · Queens · Score 47.0  
+Learn how a mid-scale compost operation works while helping build a windrow from community food scraps and garden waste.
+**Practical note:** Ages 18+ only. Meet at the Blue Compost Trailer, map location 26. Work includes bending and lifting 20-plus pounds. Monday rain is possible; wear waterproof shoes and watch for cancellation email.
+**Why now:** The official calendar specifically lists Monday, November 30.
+[Official](https://queensbotanical.org/event/compost-build-community-volunteer-days-39-108/) · [Tickets / booking](https://www.eventbrite.com/e/compost-build-community-volunteer-days-2026-registration-1978704224601)
+
+#### [The Astigmatism Comedy Show](https://bookclubbar.com/events/6584820261130)
+
+8:00 PM · comedy · From $15 per listing; check conditions · Score 45.0  
+**Timing:** mon 8pm
+**Practical note:** Editorial listing, not a fresh venue confirmation. Verify the schedule, admission and location before going.
+[Tickets / booking](https://bookclubbar.com/events/6584820261130) · [Source: The Skint](https://theskint.com/)
+
+#### [A Friendsgiving Comedy Fundraiser featuring Tiffany Cabán](https://littlefieldnyc.com/event/?wfea_eb_id=2004915719889)
+
+7:30 PM · comedy · $50–$500 · Littlefield · Gowanus · Brooklyn · Score 43.0  
+Negin Farsad hosts Tiffany Cabán, Rachel Coster, Ophira Eisenberg, Josh Gondelman, Carolyn Castiglia, Carson Olshansky, and Gabe Pacheco.
+**Timing:** Venue lists a 7:30–10:30pm event window.
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+**Why now:** A substantial named Monday comedy bill.
+[Official](https://littlefieldnyc.com/event/?wfea_eb_id=2004915719889) · [Tickets / booking](https://donyc.com/events/2026/11/30/a-friendsgiving-comedy-fundraiser-featuring-tiffany-caban-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/30/a-friendsgiving-comedy-fundraiser-featuring-tiffany-caban-tickets)
+
+#### [the FORT90 BROADCAST SYSTEM presents: FORT90 TV](https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-30-26)
+
+8:00 PM · unusual · Wonderville · Bushwick · Brooklyn · Score 42.0  
+Live, from ___________________________, it's FORT90 TV! And this Monday is another NINE HOUR LONG (?!?!?) re-broadcast of nearly lost transmissions from across the globe. WATCH ON fort90.tv #block-31627a5cbd91626fb24d { --sqs-block-content-flex: 0; } #block-31627a5cbd91626fb24d { --opacity: 100%; --translate-x: 0px; --translate-y: 0px; --rotation: 0deg; --scale-x: 100%; --scale-y: 100%; --skew-x:…
+[Official](https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-30-26) · [Tickets / booking](https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-30-26)
+
+#### [Juggling Class](https://donyc.com/events/2026/11/30/juggling-class-tickets)
+
+12:00 PM · workshop · Check current price · Bryant Park · Theater District · Manhattan · Score 39.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/juggling-class-tickets)
+
+#### [Joe Farnsworth Quartet](https://donyc.com/events/2026/11/30/joe-farnsworth-quartet-tickets)
+
+6:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 39.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/joe-farnsworth-quartet-tickets)
+
+#### [A True York Comedy Experience](https://donyc.com/events/2026/11/30/a-true-york-comedy-experience-tickets-b98yBlJ)
+
+7:00 PM · comedy · Check current price · St. Marks Comedy Club · East Village · Manhattan · Score 39.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/a-true-york-comedy-experience-tickets-b98yBlJ) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/30/a-true-york-comedy-experience-tickets)
+
+#### [Drag King Bingo with Cunning Stunt](https://donyc.com/events/2026/11/30/drag-king-bingo-with-cunning-stunt-tickets)
+
+7:00 PM · nightlife · Check current price · Club Cumming · Alphabet City · Manhattan · Score 39.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/drag-king-bingo-with-cunning-stunt-tickets)
+
+#### [New York Comedy Club Presents](https://donyc.com/events/2026/11/30/new-york-comedy-club-presents-tickets)
+
+7:00 PM · comedy · Check current price · New York Comedy Club Midtown · Gramercy · Manhattan · Score 39.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/new-york-comedy-club-presents-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/30/new-york-comedy-club-presents-tickets-OvKB98g)
+
+#### [Vanisha Gould Quartet](https://donyc.com/events/2026/11/30/vanisha-gould-quartet-tickets)
+
+8:00 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 39.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/vanisha-gould-quartet-tickets)
+
+#### [Yerrrlywood](https://donyc.com/events/2026/11/30/yerrrlywood-tickets)
+
+8:00 PM · comedy · Check current price · NEW YORK COMEDY CLUB EAST VILLAGE · East Village · Manhattan · Score 39.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/yerrrlywood-tickets)
+
+#### [Jam Session Hosted By Adam Ray](https://donyc.com/events/2026/11/30/jam-session-hosted-by-adam-ray-tickets)
+
+11:55 PM · music · Check current price · Smalls Jazz Club · West Village · Manhattan · Score 39.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/jam-session-hosted-by-adam-ray-tickets)
+
+#### [Christmas Spectacular Starring The Radio City Rockettes](https://donyc.com/events/2026/11/30/christmas-spectacular-starring-the-radio-city-rockettes-tickets-3E7EVQK)
+
+11:00 AM · theater · Check current price · Radio City Music Hall · Midtown · Manhattan · Score 36.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/christmas-spectacular-starring-the-radio-city-rockettes-tickets-3E7EVQK) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/30/christmas-spectacular-starring-the-radio-city-rockettes-tickets) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/30/christmas-spectacular-starring-the-radio-city-rockettes-tickets-QrWrJ8q) · [Discovered via DoNYC public calendar](https://donyc.com/events/2026/11/30/christmas-spectacular-starring-the-radio-city-rockettes-tickets-peXeAob)
+
+#### [Le Carrousel](https://donyc.com/events/2026/11/30/le-carrousel-tickets)
+
+11:00 AM · outdoors · Check current price · Bryant Park · Theater District · Manhattan · Score 36.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/le-carrousel-tickets)
+
+#### [Park Tour](https://donyc.com/events/2026/11/30/park-tour-tickets)
+
+11:00 AM · outdoors · Check current price · Bryant Park · Theater District · Manhattan · Score 36.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/park-tour-tickets)
+
+#### [Monday OPEN MIC! w/ Obi O’Brien](https://donyc.com/events/2026/11/30/monday-open-mic-w-obi-o-brien-tickets)
+
+4:30 PM · comedy · Check current price · The PIT Loft · Chelsea · Manhattan · Score 36.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/monday-open-mic-w-obi-o-brien-tickets)
+
+#### [Brooklyn Power Hour NOW ON A NEW NIGHT!](https://donyc.com/events/2026/11/30/brooklyn-power-hour-now-on-a-new-night-tickets)
+
+7:30 PM · comedy · Check current price · Eastville Comedy Club · Downtown Brooklyn · Brooklyn · Score 36.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/brooklyn-power-hour-now-on-a-new-night-tickets)
+
+#### [Rev. Vince Anderson & The Love Choir!](https://donyc.com/events/2026/11/30/rev-vince-anderson-the-love-choir-tickets)
+
+8:30 PM · music · Check current price · Union Pool · Williamsburg · Brooklyn · Score 36.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/rev-vince-anderson-the-love-choir-tickets)
+
+#### [Mondays in the Club with Lance](https://donyc.com/events/2026/11/30/mondays-in-the-club-with-lance-tickets)
+
+9:30 PM · nightlife · Check current price · Club Cumming · Alphabet City · Manhattan · Score 36.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/mondays-in-the-club-with-lance-tickets)
+
+#### [New Jokes & Newbies](https://donyc.com/events/2026/11/30/new-jokes-newbies-tickets)
+
+9:45 PM · comedy · Check current price · NEW YORK COMEDY CLUB EAST VILLAGE · East Village · Manhattan · Score 36.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/new-jokes-newbies-tickets)
+
+#### [T Blues Band | Mack / Crenshaw](https://donyc.com/events/2026/11/30/t-blues-band-mack-crenshaw-tickets)
+
+10:00 PM · music · Check current price · Terra Blues · Greenwich Village · Manhattan · Score 36.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/t-blues-band-mack-crenshaw-tickets)
+
+#### [Glimpse of Greatness](https://donyc.com/events/2026/11/30/glimpse-of-greatness-tickets)
+
+7:00 PM · sports · Check current price · Yankee Stadium · Bronx · Score 33.0  
+**Practical note:** Aggregator listing. Confirm event status, final ticket price, age policy and venue details.
+[Tickets / booking](https://donyc.com/events/2026/11/30/glimpse-of-greatness-tickets)
+
 ## Where to eat
 
-NYC dining for November 23, 2026: lunch deals, oyster happy hours, recent arrivals and Thanksgiving menus. Holiday exceptions and live availability remain unconfirmed unless noted.
+Thanksgiving menus, lunch deals, happy hours and recent arrivals for November 24, 2026. Holiday exceptions and unconfirmed availability are noted; posted offers do not guarantee a table.
 
-Dining research: 2026-11-23T10:38:10+00:00
+Dining research: 2026-11-24T10:39:03+00:00
 
-No Michelin-star claims are added. GUI's own structured metadata describes it as Michelin Selected (https://guinyc.com/menus), but the linked Michelin page returned no readable content (https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gui-1207502). That self-description does not establish a star or independently verified current recognition.
+No Michelin award claims are added. GUI's captured official metadata describes it as Michelin Selected, not Michelin-starred, but its linked Michelin page returned no readable content. Current recognition could not be independently confirmed: https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gui-1207502. A chef's former restaurant's stars do not establish an award for a new restaurant.
 
-### Junoon's two- or three-course prix-fixe lunch
+### Le Gratin's $45 two-course weekday lunch
 
-Deals & happy hours — Junoon
+Deals & happy hours — Le Gratin
 
-A comparatively accessible way to try Junoon, with vegetarian, chicken and seafood choices; basmati rice and naan accompany the lunch.
+A weekday set lunch with two- and three-course options, useful for a sit-down downtown meal.
 
-Price: Two courses $43; three courses $49; burra kebab supplement $7.  
-Schedule: Lunch; applicable days and seating hours unconfirmed.  
-Conditions: Choose from the designated lunch menu. Tax and gratuity inclusion unknown. The menu states a 20% service charge for parties of five or more near its tasting-menu section; application to lunch was not separately clarified. Reservation requirement and Thanksgiving applicability unconfirmed.  
-[Source](https://www.junoonnyc.com/menus/)
+Price: $45 for two courses; $55 for three. Listed supplements include beef tartare +$5, skate +$3, cheeseburger +$5 and steak frites +$8.  
+Schedule: Monday–Friday, 11:30am–2:30pm.  
+Conditions: Selected prix-fixe dishes only. Reservation requirement and tax, tip or service charges are unspecified. Thanksgiving applicability is unconfirmed; a separate holiday menu is posted.  
+[Source](https://legratinnyc.com/our-menu/lunch)
+
+### Le Gratin's bar-only $30 frites entrées and $8 mini martinis
+
+Deals & happy hours — Le Gratin
+
+The Et Frites happy hour offers steak, mussels, chicken or steak tartare with fries, alongside separately priced mini martinis.
+
+Price: $30 per featured entrée; $8 per mini martini.  
+Schedule: Tuesday–Friday, 5–7pm.  
+Conditions: At the bar only; walk-ins welcome. The $30 entrée does not include a martini. Other minimum purchases, tax, tip and service charges are unspecified. Holiday applicability is unconfirmed.  
+[Source](https://legratinnyc.com/experiences)
 
 ### GUI's $8 lunch upgrade and $65 three-course dinner
 
 Deals & happy hours — GUI Steakhouse
 
-Lunch diners can add a small salad and ice cream or sorbet to eligible mains. The separate three-course dinner is advertised from 4pm until closing, not just before theater.
+At lunch, eligible entrées can become three courses by adding a salad and ice cream or sorbet. The separate pre-theater menu is advertised throughout dinner service, not just early evening.
 
-Price: Lunch upgrade +$8 to an eligible entree; mushroom/tofu pot rice $19, kimchi wagyu fried rice $21, prime rib dip $27. Three-course dinner $65 per person.  
-Schedule: Lunch Monday–Friday noon–3pm. Three-course dinner daily 4pm–close; normal closing times Monday–Wednesday 10pm, Thursday–Saturday 11pm, Sunday 9pm.  
-Conditions: The $8 is an add-on, not the meal price, and applies only to Prime Rib Dip and Lunch Favorites. Dinner includes one choice from each course. Tax, tip, service charges and reservation requirement unstated. Do not assume either offer applies on Thanksgiving.  
-[Source](https://guinyc.com/menus)
+Price: Lunch entrées include mushroom-tofu pot rice $19, kimchi Wagyu fried rice $21 and prime galbi pot rice $23; three-course upgrade +$8. Separate three-course pre-theater menu $65 per person.  
+Schedule: Lunch Monday–Friday, noon–3pm. Pre-theater menu daily, 4pm–close; posted closing times are 10pm Monday–Wednesday, 11pm Thursday–Saturday and 9pm Sunday.  
+Conditions: The $8 is an add-on, not the meal price; it applies to Prime Rib Dip and Lunch Favorites. Dinner requires choosing one item per course. Reservation requirement, holiday exclusions, tax, tip and service charges are unspecified.  
+[Source](https://guinyc.com/gui-lunch-menu)
 
-### The Ten Bells' oyster happy hour: linked menu and webpage disagree
-
-Deals & happy hours — The Ten Bells
-
-Daily oyster and half-liter wine specials until 7pm; the linked food menu provides newer price evidence than the webpage's introductory copy.
-
-Price: Linked December 2025 food PDF: $1 oysters; $22 wine carafe, 50cl. HTML menu introduction: $1.50 oysters; $20 carafe. Service-day prices remain unconfirmed.  
-Schedule: Every day from opening until 7pm: normally Monday–Friday 5–7pm and Saturday–Sunday 3–7pm.  
-Conditions: The linked PDF says menu prices include a 3% credit-card surcharge that does not apply to debit cards, cash or gift cards. Oyster minimum, mandatory beverage purchase, tax and gratuity are unstated. Holiday exceptions and reservation requirements remain unconfirmed. Confirm the conflicting prices before relying on either offer.  
-[Source](https://tenbellsnyc.com/wp-content/uploads/2025/12/New-Menu-12.22.25.pdf)
-
-### Mermaid Chelsea's early oyster and snack happy hour
-
-Deals & happy hours — The Mermaid Inn Chelsea
-
-A useful early meal near the High Line, with oysters, small seafood snacks and reduced-price drinks.
-
-Price: $2 oysters or littleneck clams; $4 mini chowder or mini fish taco; $12 happy-hour cocktails; $10 wine; $8 beer.  
-Schedule: 4:30–6pm. Applicable days are not explicitly stated on the happy-hour menu; the restaurant operates dinner daily.  
-Conditions: Chef's-choice oysters and littleneck clams have a six-piece minimum. Other minimum purchases, seating restrictions and reservation requirements unstated. Tax, tip, service charges and holiday applicability unknown.  
-[Source](https://www.themermaidnyc.com/the-mermaid-inn-chelsea-menus/)
-
-### Mermaid Times Square: early happy hour and late bar oysters
+### Mermaid Times Square's oyster happy hours
 
 Deals & happy hours — Mermaid Oyster Bar Times Square
 
-Two distinct oyster windows make this useful before or after a Midtown outing.
+An early raw-bar deal with inexpensive small plates, plus a separate later bar-only oyster offer.
 
-Price: Early happy hour: $2 oysters or littleneck clams, $4 mini fish taco or chowder, $12 selected cocktails and wines, $9 selected beers. Late offer: $1.50 chef's-choice oysters.  
-Schedule: Detailed menu: Monday 3:30pm–close; Tuesday–Sunday 3:30–6:30pm. Separate bar-only $1.50 oysters every night 7pm–close. Holiday applicability unconfirmed.  
-Conditions: Early oysters/clams require six pieces minimum. The late $1.50 offer is BAR ONLY; its minimum is not separately stated. Reservation requirement, tax, tip and service charges unknown. Thanksgiving applicability unconfirmed.  
+Price: Early happy hour: chef's-choice oysters or littleneck clams $2 each, minimum six; mini fish tacos and mini chowder $4 each; selected cocktails and wines $12; listed beers $9. Later offer: chef's-choice oysters $1.50 each.  
+Schedule: Location page: daily 3:30–6:30pm. Menu additionally advertises Monday 3:30pm–close. Separate late oyster offer: every night, 7pm–close.  
+Conditions: Six-piece minimum applies to the early shellfish offer. Late oysters are bar-only; a minimum for that offer is not stated. Monday's extended hours differ between official pages and need confirmation. Reservation requirements, holiday applicability, tax, tip and service charges are unspecified.  
 [Source](https://themermaidnyc.getbento.com/the-mermaid-inn-times-square-menus/)
 
-### Mercato Centrale's $1 morning drip coffee
+### Charlie Bird's $2 oysters and $10 Early Bird drinks
 
-Deals & happy hours — Mercato Centrale
+Deals & happy hours — Charlie Bird
 
-A genuinely inexpensive commuter coffee inside Grand Central's new Italian market.
+A bar-hour option combining oysters, drink specials and substantial dishes such as Tuscan fried chicken.
 
-Price: $1 La Colombe drip coffee.  
-Schedule: Daily 7–11am; market normally open 7am–11pm.  
-Conditions: Limit one per person. Walk-in/self-checkout format; no reservation needed. Additional purchase requirement and tax treatment unstated. No offer end date or holiday exception was published on the checked pages.  
-[Source](https://www.centralenyc.com/mercato)
+Price: Oysters $2 each; drink specials $10; Tuscan fried chicken $12; fries $10; farro salad $16.  
+Schedule: Every night, 5–6pm. The menu also lists Wednesday–Sunday, 3–5pm, but the location page does not confirm that additional window.  
+Conditions: Bar only for the confirmed 5–6pm window. Afternoon service needs reconfirmation. Oyster minimums, reservation requirements, tax, tip and service charges are unspecified. Holiday hours unconfirmed.  
+[Source](https://www.charliebirdnyc.com/menus/)
 
-### Walter's weekday oysters and wine bundle
+### Junoon's $43/$49 Lunch Prestige menu
 
-Deals & happy hours — Walter's
+Deals & happy hours — Junoon
 
-A Brooklyn alternative to Manhattan oyster happy hours, including a bottle-and-dozen bundle.
+A set lunch with vegetarian, chicken and seafood choices, served with basmati rice and naan.
 
-Price: $2 oysters; bottle of Muscadet plus a dozen oysters $55; mango margarita or selected spritz $10; featured wine $9; Carlsberg $5.  
-Schedule: Monday–Thursday 4–6pm.  
-Conditions: The bundle specifies Muscadet and twelve oysters. Minimum for individual oysters, seating restrictions and reservation requirement unstated. Tax, tip, service charges and Thanksgiving applicability unknown.  
-[Source](https://www.waltersbrooklyn.com/menus/)
+Price: $43 for two courses; $49 for three courses.  
+Schedule: Lunch; exact days and hours could not be verified.  
+Conditions: The menu posts a 20% service charge for parties of five or more. Tax and other gratuity policies are unspecified. Reservation requirements and Thanksgiving-week lunch hours remain unconfirmed.  
+[Source](https://www.junoonnyc.com/menus/)
 
-### Charlies' Monday–Wednesday food specials
+### Vin Sur Vingt NoMad's early glasses and late bottle discount
 
-Deals & happy hours — Charlies Bar & Kitchen
+Deals & happy hours — Vin Sur Vingt NoMad
 
-A worthwhile South Bronx option for a Monday burger meal, Tuesday tacos or Wednesday wings.
+Two owner-listed wine offers: selected glasses early and a percentage discount on bottles late.
 
-Price: Monday burger and fries $20. Tuesday tacos $3, steak tacos $5, margarita $7. Wednesday six-piece wings $6 and beer $6.  
-Schedule: Monday, Tuesday and Wednesday respectively. Tuesday's $7 margarita is explicitly all day. Exact food-special windows unstated; normal Monday–Thursday kitchen hours noon–10pm.  
-Conditions: Do not interpret the separately listed Wednesday wings and beer as a $6 combination. Taco varieties eligible for $3 are not specified. Minimum purchases, reservation requirement, tax, tip, service charges and holiday exceptions unknown.  
-[Source](https://charliesbarkitchen.com/daily-specials/)
+Price: $10 selected glasses; 25% off any bottle of wine during the late offer.  
+Schedule: Selected glasses daily from opening at 3pm until 6pm. Bottle discount 10pm–close. Posted closing: midnight Monday and Sunday; 1am Tuesday–Saturday.  
+Conditions: No reservations; first come, first served. No food discount is implied. Food-purchase minimums, holiday exceptions, tax, tip and service charges are unspecified.  
+[Source](https://www.vsvwinebars.com/location/vin-sur-vingt-wine-bar-nomad/)
 
-### Crave Fishbar's Monday oysters and Sunday set supper
+### Le Gratin's November duck-and-foie-gras pithivier
 
-Deals & happy hours — Crave Fishbar
+Special menus — Le Gratin
 
-The shared official menu advertises both a low-cost Monday oyster offer and a three-course Sunday meal.
+The November Plat du Mois is a pastry-enclosed duck and foie-gras preparation with mushroom farce and truffle-Madeira jus.
 
-Price: Monday night shucker's-choice oysters $1 each. Sunday three-course supper $49; selected wine bottles $45.  
-Schedule: Monday night for buck-a-shuck; Sunday for the set supper. Exact start/end hours unconfirmed.  
-Conditions: Monday oysters are shucker's choice, not every variety. Wine is separately priced. Location-specific exclusions, oyster minimum, seating rules, reservation requirement, tax, tip, service charges and holiday applicability unstated.  
-[Source](https://cravefishbar.com/menu/)
+Price: $72.  
+Schedule: Dinner throughout November; regular dinner hours Monday–Saturday 5–10pm, Sunday 5–9pm.  
+Conditions: A month-specific dish, not a discounted set menu. Availability, supplements, reservation requirement and tax/tip/service treatment are unspecified. Thanksgiving availability is not confirmed.  
+From: 2026-11-01  
+Through: 2026-11-30  
+[Source](https://legratinnyc.com/experiences)
 
-### Canton Harbor's reported weekday lunch combinations
-
-Deals & happy hours — Canton Harbor
-
-A recent Queens lunch lead pairing an entree with soup and rice, including dishes such as beef stew with radish.
-
-Price: $14–17 lunch specials, reported by Eater; not independently confirmed on the owned website.  
-Schedule: Weekday lunch according to Eater; exact offer hours unknown.  
-Conditions: Editorial reports entree, soup and rice included. Official site welcomes walk-ins and asks parties of six or more to call. Tax, tip, service charges and holiday applicability unknown; confirm price and availability before relying on the offer.  
-Published: 2026-11-04  
-[Source](https://ny.eater.com/maps/best-new-queens-restaurants-heatmap)
-
-### Mermaid Times Square's Thanksgiving feast for 3–5
+### Mermaid Times Square's $225 Thanksgiving feast for 3–5
 
 Special menus — Mermaid Oyster Bar Times Square
 
-A shared roast-turkey feast with stuffing, cranberry sauce, potatoes and vegetable sides; the regular menu is also advertised.
+A shared roast-turkey feast with stuffing, cranberry sauce and multiple vegetable and potato sides; the regular menu is also advertised.
 
-Price: $225 feast serving 3–5 guests; one prosecco per adult guest included.  
-Schedule: Thanksgiving, November 26, 2–8pm.  
-Conditions: Shared feast, not $225 per person. Reservation or preorder requirements, tax, tip and service charges unstated. Live availability unverified; regular happy-hour discounts are not confirmed for the holiday.  
+Price: $225 per feast, stated to serve 3–5; includes one glass of prosecco per adult.  
+Schedule: Thanksgiving, 2–8pm.  
+Conditions: Price is per shared feast, not per person. Preorder requirements, booking availability, tax, tip and service charges are unspecified. Normal happy-hour applicability is not confirmed.  
 Event date: 2026-11-26  
 [Source](https://themermaidnyc.getbento.com/the-mermaid-inn-times-square-menus/)
 
-### Le Rock's Thanksgiving three-plus-course menu
+### Le Rock's $185 Thanksgiving supper
 
 Special menus — Le Rock
 
-A splurge holiday meal with choices including heritage turkey, halibut, filet au poivre or wild-mushroom rice pilaf, plus shared sides and dessert.
+The holiday menu offers turkey, halibut, filet au poivre or mushroom rice pilaf, with opening courses, shared sides and dessert.
 
-Price: $185 for the official 'Three + Courses' Thanksgiving menu. Eater separately reports $105 for children under 12; that child price was not confirmed in the readable official menu.  
-Schedule: Thanksgiving, November 26; seating times unconfirmed.  
-Conditions: Dedicated holiday booking link provided. Availability, cancellation terms, tax, gratuity and service charges unverified. Regular operating hours should not be treated as Thanksgiving seating hours.  
+Price: $185 for the menu described as Three + Courses.  
+Schedule: Thanksgiving; event seating times unconfirmed.  
+Conditions: Official Thanksgiving reservation link is available, but inventory was not readable. Reservation requirement, deposits, cancellation terms, tax, tip and service charges are unconfirmed.  
 Event date: 2026-11-26  
 [Source](https://www.lerocknyc.com/menus/)
 
-### Red Rooster Harlem's reported Thanksgiving family-style meal
+### Russian Tea Room's Thanksgiving menu with non-turkey alternatives
 
-Special menus — Red Rooster Harlem
+Special menus — Russian Tea Room
 
-Eater reports a Thanksgiving meal featuring turkey, cornbread stuffing and pecan pie, with live music across the venue's two levels.
+Three holiday courses with options including borscht, turkey, salmon-lobster kulebyaka, mushroom stroganoff and medovik.
 
-Price: $90 family-style Thanksgiving menu, reported by Eater.  
-Schedule: Thanksgiving, November 26; seating and music times unconfirmed.  
-Conditions: Family-style versus a la carte service depends on the floor, according to Eater. Confirm the room and menu when considering a booking. Party minimum, music charges, tax, tip, service charges and availability unverified.  
+Price: $145 per person; $95 for children twelve and under.  
+Schedule: Thanksgiving; dinner seating hours unknown.  
+Conditions: Children's age limit is explicitly twelve and under. Reservation requirements, availability, tax, tip and service charges are unspecified. Afternoon-tea times are not assumed to be Thanksgiving dinner times.  
 Event date: 2026-11-26  
-Published: 2026-11-12  
-[Source](https://ny.eater.com/maps/best-thanksgiving-restaurants-nyc)
+Published: 2026-10-29  
+[Source](https://russiantearoomnyc.com/thanksgiving/)
 
-### Osteria Centrale opened November 17 inside Grand Central
+### The Dead Rabbit's finite Jingle Jangle holiday takeover
 
-New openings — Osteria Centrale
+Pop-ups — The Dead Rabbit
 
-A large Italian restaurant with a substantial bar and unusually late operating hours, useful for commuters and Midtown evenings.
+A seasonal takeover across all three floors with holiday cocktails and warming dishes. Christmas Day is closed and is not a recommended visit date.
 
-Schedule: Daily 11am–2am; weekend brunch 11am–3pm.  
-Conditions: Official booking accommodates parties of 1–14; larger groups use private-event arrangements. Holiday overrides and live availability unknown. The separate Mercato coffee offer is not an Osteria dining discount.  
-Opened: 2026-11-17  
-Published: 2026-11-23  
-[Source](https://ny.eater.com/news/414704/nyc-restaurant-news-november-2026)
+Schedule: November 16–January 3. Sunday–Thursday 11am–2am; Friday–Saturday 11am–3am. Thanksgiving and Christmas Eve 11am–2am with a Sunday Roast Special.  
+Conditions: Walk-ins only after 6pm; bookings otherwise available up to two weeks ahead. Walk-in tables have 90 minutes; reservations two hours. Under-21s permitted only before 6pm, with a parent or guardian and at a table. Closed December 25. Prices, minimum spending and tax/tip/service charges unverified.  
+From: 2026-11-16  
+Through: 2027-01-03  
+[Source](https://www.thedeadrabbit.com/)
 
-### Bar Cosme opened November 10 in the former Atla space
+### Bushwick Comedy Club's Thanksgiving dinner and show
 
-New openings — Bar Cosme
+Pop-ups — Bushwick Comedy Club
 
-Enrique Olvera's new counter-focused restaurant serves freshly pressed tortillas alongside meats, fish and salsas; a la carte ordering is available alongside its prix fixe.
+A one-night community dinner with turkey and sides, followed by comedy and karaoke; not a chef-collaboration dinner.
 
-Price: $135 prix fixe with choices from four sections, reported by Resy; a la carte prices unverified.  
-Schedule: Tuesday–Saturday evenings according to Resy. Closed Monday, including November 23; consider a later service.  
-Conditions: Counter seating rather than conventional tables. Resy reports reservations released 30 days ahead at 10am and limited walk-ins. Its article conflicts on whether reservations end at 9pm or 10pm; late seating rules need confirmation. Fees and holiday hours unknown.  
-Opened: 2026-11-10  
-Published: 2026-11-18  
-[Source](https://blog.resy.com/2026/11/bar-cosme-nyc/)
+Price: Official ticket requires a price above $5.00, plus a service fee whose amount was not shown.  
+Schedule: November 26, 8–10pm; food at 8pm, comedy at 8:30pm, karaoke afterward.  
+Conditions: Dinner & A Show ticket guarantees a seat and a plate. This is not an exactly $5 meal. Ticket availability, age restrictions and tax/tip treatment are unconfirmed; a ticket service fee is explicitly additional.  
+Event date: 2026-11-26  
+[Source](https://www.bushwickcomedy.com/event-details/thanksgiving-comedy-potluck-8-00-pm-2)
 
-### Garnet opened November 18 with daytime canteen service
-
-New openings — Garnet
-
-A new daytime option for lunch trays, soups, stews, salads and baked goods; dinner is a later phase rather than currently confirmed service.
-
-Schedule: Wednesday–Sunday 10am–3pm. Closed Monday and Tuesday, including November 23. Dinner announced for early December without an exact date.  
-Conditions: Plan for a later-week daytime visit, not November 23. Dinner launch, prices, reservation policy and Thanksgiving exceptions unconfirmed.  
-Opened: 2026-11-18  
-Published: 2026-11-18  
-[Source](https://ny.eater.com/maps/nyc-new-restaurant-openings-2026)
-
-### Altbau Bakery's fresh bread and seasonal pastries in Williamsburg
-
-New openings — Altbau Bakery
-
-Chad Robertson and baker Wei Si Phua's new bakery uses an on-site mill and East Coast grain, with bread, quiche and seasonal pastries.
-
-Schedule: Wednesday–Sunday from 9am until sold out. Closed Monday and Tuesday, including November 23.  
-Conditions: Visit Wednesday–Sunday from 9am until sellout; closed Monday and Tuesday. Eater announced an October 29 opening, and its later November heatmap confirms an October debut. Holiday exceptions and prices remain unconfirmed.  
-Opened: 2026-10-29  
-Published: 2026-11-05  
-[Source](https://ny.eater.com/maps/best-new-restaurants-brooklyn-heatmap)
-
-### 148 Noble Street's seasonal Greenpoint cooking
-
-More restaurants — 148 Noble Street
-
-Gabriel Borges and Eric Carney's Greenpoint restaurant serves seasonal New American food with French, Italian and New Orleans influences, including crab claws with Cajun butter.
-
-Schedule: Thursday–Monday 5–11pm.  
-Conditions: Eater reports a September opening without an exact day. Normal hours include Monday, but November 23 service and Thanksgiving overrides were not independently confirmed. Booking policy and prices unknown.  
-Published: 2026-11-05  
-[Source](https://ny.eater.com/maps/best-new-restaurants-brooklyn-heatmap)
-
-### Brasserie Boulud's October debut near Lincoln Center
+### Brasserie Boulud's October arrival near Lincoln Center
 
 New openings — Brasserie Boulud
 
-Daniel Boulud's reworked Lincoln Center-area restaurant combines familiar brasserie dishes with the legacy of the former Bar Boulud and Boulud Sud spaces.
+Daniel Boulud's consolidated Lincoln Center restaurant combines brasserie cooking with dishes associated with his former neighboring venues.
 
-Price: Official menu examples: burger $25; trout $30; coq au vin $36; half rotisserie chicken $39; 6oz filet steak frites $48.  
-Schedule: Official current hours Tuesday–Sunday 4:30–10:30pm. Closed Monday, including November 23.  
-Conditions: A later-week dinner option, not a November 23 recommendation. Eater reports an October opening without an exact date. Listed prices are ordinary menu prices, not a promotion. Holiday overrides and booking availability unknown.  
+Price: Current menu prices were not independently verified in this review.  
+Schedule: Official current hours: Tuesday–Sunday, 4:30–10:30pm.  
+Conditions: October 8 was announced as the debut date; the exact actual opening date was not independently established. Current official dinner hours take precedence over earlier descriptions of planned breakfast and lunch. Holiday hours and booking availability unconfirmed.  
 Published: 2026-11-03  
 [Source](https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap)
 
-### Tamra Soondae's fresh Korean sausage and radish-greens soup
+### Osteria Centrale opened November 17 at Grand Central
 
-More restaurants — Tamra Soondae
+New openings — Osteria Centrale
 
-A specialist destination for freshly made Korean blood sausage, radish-greens soup and stir-fried soondae from third-generation sausage maker Yanghan Choe.
+A large Italian restaurant and bar with late-night service; the neighboring Mercato provides a separate grab-and-go option.
 
-Conditions: Exact opening date, operating hours, prices, reservation policy and holiday closures unconfirmed. Verify service before making a special trip.  
-Published: 2026-11-04  
-[Source](https://ny.eater.com/maps/best-new-queens-restaurants-heatmap)
+Price: Prix-fixe menus are linked; prices remain unverified.  
+Schedule: Osteria daily 11am–2am; weekend brunch 11am–3pm. Dining menu weekdays 11am–2am and weekends 3pm–2am. Adjacent Mercato daily 7am–11pm.  
+Conditions: Restaurant reservations are offered. Mercato is self-checkout and does not require reservations. Holiday deviations, restaurant minimum spending and tax/tip/service policies unconfirmed.  
+Opened: 2026-11-17  
+Published: 2026-11-20  
+[Source](https://ny.eater.com/news/414704/nyc-restaurant-news-november-2026)
 
-### Maison Mekong's bone-marrow pho and duck curry in Astoria
+### Calabash's Afro-Caribbean bakery and brasserie
+
+New openings — Calabash
+
+Camari Mick's October arrival spans daytime baking and dishes such as a lamb-sausage breakfast sandwich, with an evening brasserie menu.
+
+Schedule: Daytime and evening service reported; exact current hours unknown.  
+Conditions: October 2 is the reported daytime opening date, not the dinner launch. Current service hours, booking requirements, holiday closures and dish availability remain unconfirmed.  
+Opened: 2026-10-02  
+Published: 2026-11-03  
+[Source](https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap)
+
+### One Bryant Park's Japanese harvest tasting menus
+
+New openings — One Bryant Park
+
+The October arrival's current Niinamesai menu interprets the Japanese harvest rite through seasonal courses led by Tadaaki Ishizaki and Shuji Furukawa.
+
+Price: $175 five-course selection menu; $265 eleven-course tasting. Listed supplements include lobster +$22 and abalone +$38 on the selection menu, or lobster replacing eel +$26 on the tasting.  
+Conditions: Menu may vary daily with seasonal availability. Exact opening date, holiday service, booking availability and tax/tip/service treatment unconfirmed. This is a permanent culinary team, not a verified guest-chef collaboration event.  
+Published: 2026-11-03  
+[Source](https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap)
+
+### Cornbread Soul's Brownsville arrival
+
+New openings — Cornbread Soul — Brownsville
+
+A new Brownsville location expands sit-down soul-food options, with the operator featuring fried chicken, catfish and cornbread.
+
+Conditions: October 28 was reported as the debut date; actual first-service date was not separately confirmed. Location-specific prices, hours, holiday closures and reservation policy unverified.  
+Published: 2026-10-28  
+[Source](https://ny.eater.com/restaurant-openings/414196/nyc-new-restaurant-openings-october-2026)
+
+### SSRP's tonkotsu ramen and mazemen in Prospect Heights
+
+New openings — SSRP
+
+An October arrival serving tonkotsu ramen and mazemen alongside sandos and Nagoya-style chicken wings.
+
+Conditions: Exact opening date, current prices, service hours and holiday closures unconfirmed. Reservations are offered; availability was not checked.  
+Published: 2026-11-05  
+[Source](https://ny.eater.com/maps/best-new-restaurants-brooklyn-heatmap)
+
+### Altbau's bread and pastries; closed November 24
+
+New openings — Altbau
+
+Chad Robertson and pastry chef Wei Si Phua's bakery includes an on-site mill using East Coast grains. Consider a later service, not November 24.
+
+Schedule: Wednesday–Sunday, 9am until sellout; closed Monday and Tuesday.  
+Conditions: October 29 was announced as the opening; the exact actual first-service date remains unconfirmed. Closed on the guide date under its regular schedule. Thanksgiving exceptions unknown. Stock is limited by sellout.  
+Published: 2026-11-05  
+[Source](https://ny.eater.com/maps/best-new-restaurants-brooklyn-heatmap)
+
+### Maison Mekong's flaming pho and duck curry
 
 More restaurants — Maison Mekong
 
-An Astoria restaurant serving Southeast Asian dishes including tableside-torched bone-marrow pho, duck curry and crispy pig ears with papaya.
+An Astoria Southeast Asian restaurant serving flaming bone-marrow pho, duck curry and pig-ear papaya salad.
 
-Conditions: Exact opening date, current service hours and holiday exceptions unconfirmed. The owned site advertises happy hour, but readable prices and restrictions were unavailable; no discount is asserted.  
+Conditions: Exact opening date, current hours, holiday closures and reservation requirements unconfirmed. The website's happy-hour images did not provide readable terms, so no discount is claimed.  
 Published: 2026-11-04  
 [Source](https://ny.eater.com/maps/best-new-queens-restaurants-heatmap)
 
-### Dearbros' omurice pop-up at BentOn has reopened
+### Tamra Soondae's Korean blood sausage and soups
 
-Pop-ups — Dearbros at BentOn
+More restaurants — Tamra Soondae
 
-Eater reports that the Osaka omurice pop-up resumed November 9 after closing October 29. Its originally announced residency ran from October 20 through year-end, with toppings including wagyu sukiyaki and braised pork belly.
+Third-generation sausage maker Yanghan Choe's restaurant focuses on fresh soondae, including soup and stir-fried preparations with rice cakes and noodles.
 
-Schedule: Reopening was announced for November 9 at 5pm; continuing weekly service days and hours are unverified.  
-Conditions: The original year-end endpoint has not been independently reconfirmed following the pause. The operator's Instagram requires login. BentOn's daytime grab-and-go hours do not establish the pop-up's evening hours. Reservations, prices, fees, holiday closures and current capacity remain unknown.  
-From: 2026-10-20  
-Through: 2026-12-31  
-Published: 2026-11-13  
-[Source](https://ny.eater.com/news/414704/nyc-restaurant-news-november-2026)
+Conditions: Exact opening date, current prices, reservation policy, hours and holiday closures unconfirmed.  
+Published: 2026-11-04  
+[Source](https://ny.eater.com/maps/best-new-queens-restaurants-heatmap)
 
-### Fillings' temporary West Village pie shop offers miniature tasting flights
+### Zao Men Qian's skewer hotpot in Long Island City
+
+More restaurants — Zao Men Qian
+
+A Chinese hotpot restaurant with individually priced skewers and a choice of broths.
+
+Price: Eater reports $0.39 per skewer stick; total meal price unknown.  
+Conditions: This is not a 39-cent meal. Soup-base charges, sauce fees, minimum purchases, other item prices, tax, tip and service charges are unconfirmed. Exact opening date, reservations and holiday hours also unconfirmed.  
+Published: 2026-11-04  
+[Source](https://ny.eater.com/maps/best-new-queens-restaurants-heatmap)
+
+### Fillings' finite West Village pie pop-up; closed November 24
 
 Pop-ups — Fillings
 
-This finite bakery pop-up sells miniature pie flights and five-inch pies. Eater announced an October 29 start; The Infatuation's later November report specifies a Christmas Eve finish.
+Katie Kaplan's small-batch pie pop-up offers flights for sampling multiple flavors. Plan for a later opening day, not Tuesday November 24.
 
-Price: Three-slice flight $15; nine-slice flight $45; coconut key lime five-inch pie $26.50, as reported November 6.  
-Schedule: Reported run October 29–December 24; daily opening hours unknown.  
-Conditions: Weekly rotating flavors vary. Prices and the December 24 endpoint are editorially sourced, not independently confirmed on the minimally readable official site. Thanksgiving hours, ordering requirements, tax, tip and service charges are unknown. This is a dessert-shop residency, not a seated pop-up dinner.  
+Price: $15 for three mini slices; $45 for nine; a whole five-inch pie $26.50, as reported by The Infatuation.  
+Schedule: Thursday and Sunday 11am–6pm; Friday–Saturday 11am–8pm. Closed Monday–Wednesday. The Infatuation reports the run through Christmas Eve.  
+Conditions: October 29 was the announced start. A newer November 6 report specifies December 24 as the end, while earlier Eater coverage said year-end; the shorter window is used here. Prices are editorially sourced; weekly flavors and stock vary. Thanksgiving hours, preorders and tax/tip/service policies unconfirmed.  
 From: 2026-10-29  
 Through: 2026-12-24  
 Published: 2026-11-06  
 [Source](https://www.theinfatuation.com/new-york/reviews/fillings)
 
-### Alexia Duchêne's seasonal collaboration at La Compagnie Flatiron
+### Charlie Bird: $15 Martini Mondays beyond the Early Bird hour
 
-Special menus — La Compagnie Flatiron
+Deals & happy hours — Charlie Bird
 
-Alexia Duchêne's French-inspired seasonal menu collaboration launched November 8. This is an ongoing chef collaboration, not a one-night dinner.
+The restaurant separately advertises four martini variations for $15 each all Monday night, rather than only during its short Early Bird window.
 
-Price: Food prices unverified; the readable captured PDF is a by-the-glass wine list, not the food menu.  
-Schedule: Venue hours: Monday–Wednesday 5pm–midnight; Thursday–Saturday 5pm–1am; Sunday 5–11pm. Kitchen cutoff unknown.  
-Conditions: Reservations are offered; mandatory booking is not stated. Dish prices, minimum purchases, tax, gratuity and service charges could not be verified. No holiday closure notice appeared in the checked location section.  
-From: 2026-11-08  
-[Source](https://www.experimentalgroup.com/new-york/la-compagnie-flatiron)
-
-### The Otter's November 20–26 Friendsgiving specials
-
-Special menus — The Otter
-
-The restaurant's public booking description lists stuffed turkey roulade with mashed potatoes and cranberry sauce, warm pecan pie and apple sorbet during its bounded Friendsgiving promotion.
-
-Price: unknown; no package or individual dish prices stated  
-Schedule: November 20–26; special-menu service hours not specified.  
-Conditions: An official reservation link is provided, but required booking, minimum purchases and cancellation terms are not stated in the readable description. These dishes are not established as a fixed-price three-course package. Tax, tip and service charges are unknown.  
-From: 2026-11-20  
-Through: 2026-11-26  
-[Source](https://www.opentable.com/booking/experiences-availability?rid=1386088&restref=1386088&experienceId=845725)
+Price: $15 per martini  
+Schedule: Mondays all night; official location page lists Monday dinner service 5–10pm.  
+Conditions: Specific martini variations were not readable in the accompanying image. The offer text does not state a bar-only restriction, minimum purchase or reservation requirement. Tax, tip and service-charge treatment are not stated. No expiration or holiday exception is published on the checked pages.  
+[Source](https://www.charliebirdnyc.com/events/specials/)
 
 ### More restaurants
 
+### [Lightscape Lodge at Yellow Magnolia Cafe](https://www.bbg.org/feature/lightscape/lightscape_lodge_dinners)
+
+Seasonal American · $$$ · Crown Heights · Brooklyn · Score 59.0  
+A seasonal $75 dinner with a shared welcome course, appetizer, entree and petits fours, excluding drinks, tax and gratuity. Offered on Lightscape evenings in the Palm House area. A separate Lightscape ticket is required; reserve garden entry at least 45 minutes before dinner.
+[Official](https://www.bbg.org/feature/lightscape/lightscape_lodge_dinners) · [Reservations](https://resy.com/cities/new-york-ny/venues/yellow-magnolia-cafe) · [Map](https://www.google.com/maps/search/?api=1&query=Lightscape+Lodge+at+Yellow+Magnolia+Cafe%2C+Brooklyn+Botanic+Garden%2C+990+Washington+Avenue+entrance%2C+Brooklyn%2C+NY+11225%2C+New+York%2C+NY)
+
 ### [The Dynamo Room](https://www.thedynamoroom.com/)
 
-American steakhouse and seafood · $$$ · Midtown · Manhattan · Score 58.0  
-A Penn Station and Madison Square Garden-area steakhouse with a raw bar, substantial mains and cocktails. Its verified $95 Thanksgiving menu supplies an indoor holiday dining option. Regular published closing time is 9pm, so it is not tagged for late-night dining.
-[Official](https://www.thedynamoroom.com/) · [Reservations](https://www.thedynamoroom.com/) · [Map](https://www.google.com/maps/search/?api=1&query=The+Dynamo+Room%2C+2+Pennsylvania+Plaza%2C+New+York%2C+NY+10121%2C+New+York%2C+NY) · [Source: The Dynamo Room](https://v4-thedynamoroom.getbento.com/menus/#thanksgiving) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/guides/thanksgiving-dinner-nyc)
+American steakhouse · $$$ · Penn District · Manhattan · Score 56.0  
+A steakhouse beside Penn Station with oysters, cocktails and a $95 Thanksgiving prix fixe; prime rib adds $10. Its published regular closing time is 21:00, so it is not tagged as late-night dining. Holiday seating hours require confirmation.
+[Official](https://www.thedynamoroom.com/) · [Reservations](https://resy.com/cities/new-york-ny/venues/the-dynamo-room) · [Map](https://www.google.com/maps/search/?api=1&query=The+Dynamo+Room%2C+2+Pennsylvania+Plaza%2C+New+York%2C+NY+10121%2C+New+York%2C+NY) · [Source: The Dynamo Room](https://v4-thedynamoroom.getbento.com/menus/#thanksgiving) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/guides/thanksgiving-dinner-nyc) · [Discovered via Eater New York](https://ny.eater.com/maps/best-thanksgiving-restaurants-nyc) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/reviews/the-dynamo-room)
 
-### [Briscola Trattoria](https://briscolabrooklyn.com/)
+### [Threes Brewing Gowanus](https://threesbrewing.com/pages/gowanus)
 
-Italian · Crown Heights · Brooklyn · Score 56.0  
-Silvia Barban and partners' neighborhood trattoria is a practical dinner option near Brooklyn Botanic Garden. Regular official evening hours extend to 10pm or later. A Thanksgiving lead was found, but its special menu was not independently verified and is not retained as an event.
-[Official](https://briscolabrooklyn.com/) · [Reservations](https://resy.com/cities/new-york-ny/venues/briscola-trattoria) · [Map](https://www.google.com/maps/search/?api=1&query=Briscola+Trattoria%2C+798A+Franklin+Avenue%2C+Brooklyn%2C+NY+11238%2C+New+York%2C+NY) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/guides/thanksgiving-dinner-nyc)
+Brewpub and American bar food · $$ · Gowanus · Brooklyn · Score 56.0  
+The original brewery offers beer, wine, cocktails and food from Grand Army South, making a useful casual stop around the Resistor and Barclays area. Official kitchen hours extend to 22:00 most nights and 23:00 Thursday/Saturday; the bar stays later. No reservations required.
+[Official](https://threesbrewing.com/pages/gowanus) · [Map](https://www.google.com/maps/search/?api=1&query=Threes+Brewing+Gowanus%2C+333+Douglass+Street%2C+Brooklyn%2C+NY+11217%2C+New+York%2C+NY) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/reviews/threes-brewing)
 
-### [Rudy's Bar & Grill](https://rudysbarnyc.com/)
+### [Monterey](https://www.montereyny.com/)
 
-Dive bar and hot dogs · $ · Hell's Kitchen · Manhattan · Score 53.0  
-A longstanding low-cost bar with free hot dogs with a purchase and published shot-and-beer specials. Its official site says it stays open until 4am, making it a budget drinks option after Midtown activities rather than a full restaurant dinner.
-[Official](https://rudysbarnyc.com/) · [Map](https://www.google.com/maps/search/?api=1&query=Rudy%27s+Bar+%26+Grill%2C+627+Ninth+Avenue%2C+New+York%2C+NY+10036%2C+New+York%2C+NY)
+American steakhouse · Midtown East · Manhattan · Score 55.0  
+A Midtown steakhouse with an explicitly published Thanksgiving option: three courses for $69, served noon-20:00, alongside the a la carte menu. A practical indoor holiday meal near Rockefeller Center; live table availability was not verified.
+[Official](https://www.montereyny.com/) · [Reservations](https://www.opentable.com/r/monterey-new-york-1) · [Map](https://www.google.com/maps/search/?api=1&query=Monterey%2C+37+East+50th+Street%2C+New+York%2C+NY+10022%2C+New+York%2C+NY) · [Source: Monterey](https://www.montereyny.com/menus/) · [Discovered via Eater New York](https://ny.eater.com/maps/best-thanksgiving-restaurants-nyc)
 
-### [Zig Zag Oyster Bar](https://www.zigzagoyster.com/)
+### [Veselka East Village](https://veselka.com/pages/locations)
 
-Seafood and raw bar · Crown Heights · Brooklyn · Score 51.0  
-A neighborhood raw bar and seafood restaurant highlighted by Eater, with Northeast seafood and vegetables. Useful for a meal around Brooklyn Botanic Garden or Prospect Heights; current holiday hours and an exact opening date were not verified.
-[Official](https://www.zigzagoyster.com/) · [Map](https://www.google.com/maps/search/?api=1&query=Zig+Zag+Oyster+Bar%2C+406+Prospect+Place%2C+Brooklyn%2C+NY+11238%2C+New+York%2C+NY) · [Source: Eater New York](https://ny.eater.com/maps/best-new-restaurants-brooklyn-heatmap)
+Ukrainian · $$ · East Village · Manhattan · Score 53.0  
+The original Ukrainian diner is useful for pierogi and borscht after the nostalgia subway ride near Houston Street. Official hours include midnight closing Monday-Thursday, overnight Friday/Saturday service, and 23:00 Sunday closing. Limited reservations supplement walk-in seating.
+[Official](https://veselka.com/pages/locations) · [Reservations](https://resy.com/cities/new-york-ny/venues/veselka-east-village) · [Map](https://www.google.com/maps/search/?api=1&query=Veselka+East+Village%2C+144+Second+Avenue%2C+New+York%2C+NY+10003%2C+New+York%2C+NY) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/reviews/veselka)
 
-### [Tatiana by Kwame Onwuachi](https://www.tatiananyc.com/)
+### [Cafe Paulette](https://www.cafepaulette.com/)
 
-Afro-Caribbean and New York-inspired · Upper West Side · Manhattan · Score 51.0  
-Kwame Onwuachi's Lincoln Center restaurant is a notable destination and an on-campus dinner option. Official hours are Tuesday-Saturday 5-10pm, closed Sunday-Monday. Grub Street's November 20 anniversary special has expired and is not recommended here.
-[Official](https://www.tatiananyc.com/) · [Reservations](https://www.tatiananyc.com/) · [Map](https://www.google.com/maps/search/?api=1&query=Tatiana+by+Kwame+Onwuachi%2C+10+Lincoln+Center+Plaza%2C+inside+David+Geffen+Hall%2C+New+York%2C+NY+10023%2C+New+York%2C+NY) · [Source: Tatiana](https://www.tatiananyc.com/location/tatiana-by-kwame-onwuachi/) · [Discovered via Grub Street](https://www.grubstreet.com/2026/11/best-new-food-nyc-november-19.html)
+French bistro · $$ · Fort Greene · Brooklyn · Score 52.0  
+A French bistro overlooking Fort Greene Park, with natural wine and a practical location for the BAM/Downtown Brooklyn area. The official kitchen schedule runs dinner until 22:00, making it more useful than a daytime cafe for evening plans; confirm holiday exceptions.
+[Official](https://www.cafepaulette.com/) · [Reservations](https://resy.com/cities/new-york-ny/venues/cafe-paulette) · [Map](https://www.google.com/maps/search/?api=1&query=Cafe+Paulette%2C+1+South+Elliott+Place%2C+Brooklyn%2C+NY+11217%2C+New+York%2C+NY) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/reviews/cafe-paulette)
 
 ### [Altbau Bakery](https://altbaubakery.com/)
 
-Bakery, sourdough and pastries · Williamsburg · Brooklyn · Score 50.0  
-Chad Robertson and pastry chef Wei Si Phua's bakery makes grain-focused breads and pastries, including einkorn and buckwheat baking. Official hours are Wednesday-Sunday from 9am until sellout; this is a daytime stop, not dinner.
-[Official](https://altbaubakery.com/) · [Map](https://www.google.com/maps/search/?api=1&query=Altbau+Bakery%2C+184+North+8th+Street%2C+Brooklyn%2C+NY+11211%2C+New+York%2C+NY) · [Discovered via Grub Street](https://www.grubstreet.com/article/chad-robertson-altbau-opening-first-look.html) · [Discovered via Eater New York](https://ny.eater.com/maps/best-new-restaurants-brooklyn-heatmap) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york)
+Bakery and cafe · $ · Williamsburg · Brooklyn · Score 50.0  
+Chad Robertson and pastry chef Wei Si Phua's new bakery serves country loaves and grain-focused pastries. Grub Street documented the October 29 opening; the official site currently lists Wednesday-Sunday from 09:00 until sellout. A breakfast or pastry destination, not a verified dinner option.
+[Official](https://altbaubakery.com/) · [Map](https://www.google.com/maps/search/?api=1&query=Altbau+Bakery%2C+184+North+8th+Street%2C+Brooklyn%2C+NY+11211%2C+New+York%2C+NY) · [Source: Grub Street](https://www.grubstreet.com/article/chad-robertson-altbau-opening-first-look.html) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/reviews/altbau-bakery)
 
-### [Ottava](https://www.ottavabrooklyn.com/)
+### [Sofreh](https://www.sofrehnyc.com/)
 
-Italian and pizza · South Slope · Brooklyn · Score 50.0  
-A sit-down pizza and Italian option near the Bartel-Pritchard markets and Prospect Park. Official dinner hours run 5-10pm Sunday-Thursday and 5-10:30pm Friday-Saturday, with the weekend bar until midnight. Brunch hours conflict on the site, so confirm them.
-[Official](https://www.ottavabrooklyn.com/) · [Map](https://www.google.com/maps/search/?api=1&query=Ottava%2C+1123+Eighth+Avenue%2C+Brooklyn%2C+NY+11215%2C+New+York%2C+NY)
+Persian · $$ · Prospect Heights · Brooklyn · Score 49.0  
+Nasim Alikhani's Persian restaurant emphasizes herbs, housemade yogurt, breads and composed seasonal dishes. Its Saint Marks Avenue location makes it a notable pregame dinner option near Barclays Center and a useful Prospect Heights pairing. Exact late-service hours were not verified.
+[Official](https://www.sofrehnyc.com/) · [Reservations](https://resy.com/cities/new-york-ny/venues/sofreh) · [Map](https://www.google.com/maps/search/?api=1&query=Sofreh%2C+75+Saint+Marks+Avenue%2C+Brooklyn%2C+NY+11217%2C+New+York%2C+NY) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/reviews/sofreh)
 
-### [Cahoots](https://www.cahootsnyc.com/)
+### [Sobre Masa](https://sobremasa.com/)
 
-Cafe, sandwiches and cocktails · East Village · Manhattan · Score 48.0  
-Cafe by day and bar by night, with coffee, sandwiches, charcuterie and cocktails. Grub Street highlighted its espresso-chocolate-and-butter baguette. Official closing times are 11pm Sunday-Thursday and midnight Friday-Saturday; it also hosts the retained Wednesday trivia.
-[Official](https://www.cahootsnyc.com/) · [Map](https://www.google.com/maps/search/?api=1&query=Cahoots%2C+422+East+9th+Street%2C+New+York%2C+NY+10009%2C+New+York%2C+NY) · [Discovered via Grub Street](https://www.grubstreet.com/2026/11/best-new-food-nyc-november-19.html)
-
-### [SSRP](https://www.ssrpnyc.com/)
-
-Japanese ramen · Prospect Heights · Brooklyn · Score 46.0  
-Craft ramen and shareable bites on Vanderbilt, highlighted in Eater's current Brooklyn heatmap. A practical neighborhood meal around Prospect Heights and the broader Prospect Park area. Exact opening date and late-service hours were not verified.
-[Official](https://www.ssrpnyc.com/) · [Reservations](https://resy.com/cities/new-york-ny/venues/ssrp) · [Map](https://www.google.com/maps/search/?api=1&query=SSRP%2C+565+Vanderbilt+Avenue%2C+Brooklyn%2C+NY+11238%2C+New+York%2C+NY) · [Discovered via Eater New York](https://ny.eater.com/maps/best-new-restaurants-brooklyn-heatmap)
+Mexican · Bushwick · Brooklyn · Score 48.0  
+A Bushwick Mexican restaurant and tortilleria centered on heirloom corn and housemade tortillas. The current official site supports dinner reservations; older opening coverage was not used to claim a new opening or current low prices.
+[Official](https://sobremasa.com/) · [Reservations](https://www.opentable.com/r/sobre-masa-tortilleria-reservations-brooklyn?restref=1213048&lang=en-US&ot_source=Restaurant%20website) · [Map](https://www.google.com/maps/search/?api=1&query=Sobre+Masa%2C+52+Harrison+Place%2C+Brooklyn%2C+NY+11237%2C+New+York%2C+NY) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/reviews/sobre-masa-tortilleria)
 
 ### [Casa Enrique](https://casaenriquelic.com/)
 
-Mexican · Long Island City · Queens · Score 44.0  
-Cosme Aguilar's established Long Island City restaurant offers Mexican cooking rooted in Chiapas. Ceviche, fish tacos and mole make it a substantive Queens dinner option rather than an opening-radar claim. Current late-service hours were not verified.
+Mexican · $$$ · Long Island City · Queens · Score 47.0  
+Cosme Aguilar's established Long Island City restaurant draws on Chiapas family recipes. Mole, ceviche and tacos make it a substantive Queens dinner destination, rather than an opening-radar entry. Its official history confirms the March 15, 2012 opening.
 [Official](https://casaenriquelic.com/) · [Reservations](https://resy.com/cities/new-york-ny/venues/casa-enrique) · [Map](https://www.google.com/maps/search/?api=1&query=Casa+Enrique%2C+5-48+49th+Avenue%2C+Long+Island+City%2C+NY+11101%2C+New+York%2C+NY) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/reviews/casa-enrique)
 
-### [Miss Ada](https://www.missadanyc.com/)
+### [Cafe Fiorello](https://www.cafefiorello.com/)
 
-Modern Mediterranean · Fort Greene · Brooklyn · Score 43.0  
-Tomer Blechman's seasonal Mediterranean restaurant is a useful Fort Greene/BAM-area dinner choice. Official dinner hours extend to 10pm Tuesday-Saturday and 9pm Sunday. Reservations open 14 days ahead at 9am; holiday exceptions should be checked.
-[Official](https://www.missadanyc.com/) · [Reservations](https://resy.com/cities/ny/miss-ada) · [Map](https://www.google.com/maps/search/?api=1&query=Miss+Ada%2C+184+DeKalb+Avenue%2C+Brooklyn%2C+NY+11205%2C+New+York%2C+NY)
-
-### [Eyval](https://www.eyvalnyc.com/)
-
-Persian · $$$ · Bushwick · Brooklyn · Score 43.0  
-Persian breads, dips, tahdig, kabobs and larger plates suited to sharing. The official menu lists kabobs around $24-$38 and braises around $42-$48. Official hours are Tuesday-Saturday 6-10pm and Sunday 5-9:30pm.
-[Official](https://www.eyvalnyc.com/) · [Reservations](https://resy.com/cities/ny/eyval) · [Map](https://www.google.com/maps/search/?api=1&query=Eyval%2C+25+Bogart+Street%2C+Brooklyn%2C+NY+11206%2C+New+York%2C+NY) · [Source: Eyval](https://www.eyvalnyc.com/visit)
+Italian · $$$ · Lincoln Square · Manhattan · Score 43.0  
+An Italian institution across from Lincoln Center, with an antipasto bar and substantial dinner choices. Official regular hours extend past 21:00 every day, supporting pre- and post-theater use. Thanksgiving is an exception: November 26 hours are 09:00-21:00.
+[Official](https://www.cafefiorello.com/) · [Reservations](https://www.cafefiorello.com/) · [Map](https://www.google.com/maps/search/?api=1&query=Cafe+Fiorello%2C+1900+Broadway%2C+New+York%2C+NY+10023%2C+New+York%2C+NY) · [Source: Cafe Fiorello](https://www.cafefiorello.com/location/cafe-fiorello/) · [Discovered via The Infatuation NYC](https://www.theinfatuation.com/new-york/reviews/cafe-fiorello)
 
 ## Opening radar
 
-No unconfirmed opening leads were retained today.
+### [LONNIE'S](https://www.google.com/maps/search/?api=1&query=LONNIE%27S%2C+112+BOND+STREET%2C+NY+11217%2C+New+York%2C+NY)
+
+American · Brooklyn · Score 55.0  
+**Unconfirmed opening radar:** Verify that it is open to the public and check current hours before making a trip.
+Recently completed a NYC pre-permit operational inspection. Confirm opening status and hours before visiting.
+**NYC health data:** Grade A on 2026-11-21
+[Map](https://www.google.com/maps/search/?api=1&query=LONNIE%27S%2C+112+BOND+STREET%2C+NY+11217%2C+New+York%2C+NY) · [Source: NYC Restaurant Inspection Results](https://data.cityofnewyork.us/d/43nn-pn8j)
+
+### [STEAK HOAGIES](https://www.google.com/maps/search/?api=1&query=STEAK+HOAGIES%2C+2393+FREDERICK+DOUGLASS+BOULEVARD%2C+New+York%2C+NY)
+
+Chinese · Manhattan · Score 55.0  
+**Unconfirmed opening radar:** Verify that it is open to the public and check current hours before making a trip.
+Recently completed a NYC pre-permit operational inspection. Confirm opening status and hours before visiting.
+**NYC health data:** Grade A on 2026-11-19
+[Map](https://www.google.com/maps/search/?api=1&query=STEAK+HOAGIES%2C+2393+FREDERICK+DOUGLASS+BOULEVARD%2C+New+York%2C+NY) · [Source: NYC Restaurant Inspection Results](https://data.cityofnewyork.us/d/43nn-pn8j)
 
 ## Book ahead
 
 #### [Nirvanna the Band the Show the Movie the Commentary Track](https://lowcinema.com/movie/nirvanna-the-band-the-show-the-movie-the-commentar/)
 
-2026-12-02 · 6:00 PM · film · Low Cinema · Ridgewood · Queens · Score 66.0  
-Matt Johnson's time-travel comedy presented with a commentary track by Johnson, Jay McCarrol, Jared Raab, and Matt Greyson. This is a recorded commentary presentation, not an announced filmmaker appearance.
-**Timing:** Screening at 6pm; film runtime 95 minutes.
-**Practical note:** All sales are final. Unused tickets may be released to standby five minutes after the listed showtime.
-**Why now:** A specific remaining screening is bookable while every other listed showing is marked sold out.
-**Hot booking alert:** The official film page marks the other five listed screenings on November 30, December 2, and December 4 sold out. December 2 at 6pm is the only listed screening still offering a purchase link; remaining seat count is not published.
+2026-12-02 · 6:00 PM · film · Low Cinema · Ridgewood · Queens · Score 64.0  
+Matt Johnson's time-travel comedy screened with a commentary track by Johnson, Jay McCarrol, Jared Raab, and Matt Greyson.
+**Timing:** 6pm screening; film runtime is 95 minutes.
+**Practical note:** The booking page showed only two tickets left online. All sales are final; unused tickets are released to standby five minutes after showtime.
+**Why now:** Verified remaining inventory, rather than a speculative sellout warning.
+**Hot booking alert:** The official checkout showed only two tickets remaining for this screening; every other listed screening of the commentary version was sold out. Tickets may disappear before the screening date.
 [Official](https://lowcinema.com/movie/nirvanna-the-band-the-show-the-movie-the-commentar/) · [Tickets / booking](https://lowcinema.com/checkout/c3aad926-1f29-42c2-8cc3-58416894cde8/)
 **Sale/deadline:** 2026-12-02T18:00:00-05:00
 
-#### [Elektra — newly extended December performances](https://tfana.org/events/elektra-2026-12-08-730-pm)
+#### [Elektra — newly extended final week](https://tfana.org/events/elektra-2026-11-24-730-pm)
 
-2026-12-08 · 7:30 PM · theater · $70–$98 regular or $125 premium, plus $7 handling · Polonsky Shakespeare Center · Fort Greene · Brooklyn · Score 54.0  
-Daniel Fish directs Sophokles' tragedy in Anne Carson's translation, with music by Ted Hearne. The official calendar identifies December 8–13 performances as newly extended.
-**Timing:** December 8 is the first newly extended performance. Additional performances run through December 13; runtime 80 minutes without intermission.
-**Practical note:** No late seating. Regular tickets are $70–$98 plus a $7 handling fee; premium seats cost more.
-**Why now:** New extension dates provide an alternative to the largely sold-out early-December schedule.
-**Book soon:** The official calendar marks December 1–3 and the December 6 matinee sold out, with limited-to-no availability on several intervening performances. A newly extended December 8–13 block provides additional dates before the announced closing.
-[Official](https://tfana.org/events/elektra-2026-12-08-730-pm) · [Tickets / booking](https://tfana.org/events/elektra-2026-12-08-730-pm/seats)
+2026-12-08 · 7:30 PM · theater · Regular seats $77–$105 including handling; premium seats cost more · Polonsky Shakespeare Center · Fort Greene · Brooklyn · Score 63.0  
+Daniel Fish directs Sophokles in Anne Carson's translation, with choral music by Ted Hearne. TFANA has added a final week of performances.
+**Timing:** December 8 performance at 7:30pm; runtime 80 minutes without intermission. Extension runs December 8–13.
+**Practical note:** No late seating. Regular tickets cost $70–$98 plus a $7 handling fee; discounted eligibility-based tickets are also listed.
+**Why now:** New extension dates provide an alternative to the documented sold-out performances before the confirmed closing.
+**Hot booking alert:** TFANA explicitly labels December 8–13 newly extended. December 1–3 and the December 6 matinee are sold out; other earlier December performances have limited to no availability. The extension closes December 13.
+[Official](https://tfana.org/events/elektra-2026-11-24-730-pm) · [Tickets / booking](https://tfana.org/events/elektra-2026-12-08-730-pm/seats)
 **Sale/deadline:** 2026-12-13
 
-#### [Carmen de Lavallade: A Life in Motion — January 21 public on-sale](https://www.lincolncenter.org/series/lincoln-center-presents/carmen-de-lavallade-a-life-in-motion-248)
+#### [Minor Music at the End of the World — closing matinee](https://www.bam.org/theater/2026/minor-music)
 
-2027-03-12 · 7:30 PM · dance · Choose-What-You-Pay; available amounts not published · Alice Tully Hall · Lincoln Square · Manhattan · Score 67.0  
-A celebration of Carmen de Lavallade's life through archival film and a special performance by dancers from Alvin Ailey American Dance Theater and Dance Theatre of Harlem.
-**Timing:** Performance March 12 at 7:30pm; approximately one hour. Public ticket release January 21 at noon.
-**Practical note:** Public tickets are not yet on sale. The official event page is the release-information link; member presale begins January 13 at noon.
-**Why now:** A verified future on-sale can be calendared now without claiming that booking is already available.
-**On-sale watch:** The event-specific official page explicitly announces general on-sale January 21 at noon for the March 12 performance. This is a future public release, not an already-on-sale alert.
+2026-12-06 · 3:00 PM · theater · From $35 plus $11 in online fees · BAM Harvey Theater · Fort Greene · Brooklyn · Score 70.0  
+Saidiya Hartman's multidisciplinary work, directed by Sarah Benson, features André Holland, Okwui Okpokwasili, and film by Arthur Jafa, with scenic design by Mimi Lien and an installation by Precious Okoyomon.
+**Timing:** Closing matinee at 3pm; runtime 95 minutes without intermission. Performances December 4–6.
+**Practical note:** Online single-ticket purchases add $11 in facility and handling fees.
+**Why now:** This specific three-performance engagement ends in twelve days; no sellout claim is being made.
+**Book soon:** The official production and ticket calendars confirm just three performances, with the engagement ending December 6 at 3pm.
+[Official](https://www.bam.org/theater/2026/minor-music) · [Tickets / booking](https://commerce.bam.org/booking/production/55992)
+**Sale/deadline:** 2026-12-06
+
+#### [HUMAN — final performance at BAM](https://www.bam.org/theater/2026/human)
+
+2026-12-05 · 7:30 PM · theater · From $30 plus $11 in online fees · BAM Fisher, Fishman Space · Fort Greene · Brooklyn · Score 64.0  
+Nehprii Amenii's puppetry-driven underwater story considers humanity after humans have disappeared, with choreography and original music by Martha Redbone and Aaron Whitby.
+**Timing:** Final performance at 7:30pm; runtime 70 minutes. Engagement runs December 2–5.
+**Practical note:** Ages 6 and up; not a children-only performance. Online single-ticket purchases add $11 in facility and handling fees.
+**Why now:** The confirmed final performance falls immediately beyond the seven-day discovery window.
+**Book soon:** BAM confirms five performances across December 2–5, ending December 5 at 7:30pm, eleven days after this research date.
+[Official](https://www.bam.org/theater/2026/human) · [Tickets / booking](https://commerce.bam.org/booking/production/55896)
+**Sale/deadline:** 2026-12-05
+
+#### [Art is for the Spirit: Records of the Self — closing date](https://www.paulacoopergallery.com/exhibitions/art-is-for-the-spirit)
+
+2026-12-12 · Time to confirm · art · Paula Cooper Gallery · Chelsea · Manhattan · Score 61.0  
+Ivy Shapiro's group exhibition explores home and autobiography through works by Jennifer Bartlett, Jonathan Borofsky, Robert Gober, David Hammons, Kazuko Miyamoto, Ree Morton, Elizabeth Murray, and Joel Shapiro.
+**Timing:** Date denotes the exhibition closing, not its opening. Regular gallery hours are Tuesday–Saturday, 10am–6pm.
+**Practical note:** This exhibition is at the gallery's 521 West 21st Street space, not its 534 address.
+**Why now:** Schedule a December gallery visit before this earlier Chelsea closing.
+**Book soon:** The official exhibition page fixes December 12 as the last day, earlier than the gallery's concurrent Oldenburg exhibition.
+[Official](https://www.paulacoopergallery.com/exhibitions/art-is-for-the-spirit) · [Tickets / booking](https://www.paulacoopergallery.com/exhibitions/art-is-for-the-spirit)
+**Sale/deadline:** 2026-12-12
+
+#### [Carmen de Lavallade: A Life in Motion — January 21 public on-sale watch](https://www.lincolncenter.org/series/lincoln-center-presents/carmen-de-lavallade-a-life-in-motion-248)
+
+2027-03-12 · 7:30 PM · dance · Choose-What-You-Pay; available amounts not yet verified · Alice Tully Hall · Lincoln Square · Manhattan · Score 67.0  
+A film-and-performance tribute to Carmen de Lavallade, with dancers from Alvin Ailey American Dance Theater and Dance Theatre of Harlem.
+**Timing:** Performance March 12 at 7:30pm, approximately one hour. Public tickets release January 21 at noon.
+**Practical note:** General public on-sale is January 21, 2027 at noon; January 13 is a separate members-only presale. A transactional booking link was not yet published on the event page.
+**Why now:** A verified future public release time can be calendared separately from the performance date.
+**On-sale watch:** Lincoln Center explicitly announces general on-sale January 21 at noon for the March 12 performance. This is a future ticket-release reminder, not a recommendation to purchase now.
 [Official](https://www.lincolncenter.org/series/lincoln-center-presents/carmen-de-lavallade-a-life-in-motion-248) · [Tickets / booking](https://www.lincolncenter.org/series/lincoln-center-presents/carmen-de-lavallade-a-life-in-motion-248)
 **Sale/deadline:** 2027-01-21T12:00:00-05:00
 
-#### [Art is for the Spirit: Records of the Self — closing day](https://www.paulacoopergallery.com/exhibitions/art-is-for-the-spirit)
+#### [Claes Oldenburg: Six Themes — closing date](https://www.paulacoopergallery.com/exhibitions/claes-oldenburg)
 
-2026-12-12 · 10:00 AM · art · Paula Cooper Gallery · Chelsea · Manhattan · Score 64.0  
-Ivy Shapiro's group exhibition explores home and autobiography through works by Jennifer Bartlett, Jonathan Borofsky, Robert Gober, David Hammons, Kazuko Miyamoto, Ree Morton, Elizabeth Murray, and Joel Shapiro.
-**Timing:** Final viewing day; published gallery hours are Tuesday–Saturday, 10am–6pm.
-**Practical note:** The exhibition is at 521 West 21st Street, not the gallery's 534 West 21st Street space.
-**Why now:** The exhibition ends in December; plan a visit before its confirmed December 12 deadline.
-**On-sale watch:** The gallery confirms December 12 as the exhibition's closing date. This is a visit-by deadline, not a ticket-scarcity claim.
-[Official](https://www.paulacoopergallery.com/exhibitions/art-is-for-the-spirit)
-**Sale/deadline:** 2026-12-12
-
-#### [& Juliet — final Broadway performance](https://andjulietbroadway.com/)
-
-2027-01-03 · 3:00 PM · theater · Stephen Sondheim Theatre · Theater District · Manhattan · Score 61.0  
-The pop musical imagines Juliet's life after Romeo, with a book by David West Read and songs by Max Martin and collaborators. Its Broadway production has announced a January 3 closing.
-**Timing:** The official January calendar lists the final performance at 3pm.
-**Practical note:** Final-performance ticket prices and live seat availability were not verified. Published $49 rush offers are day-of, limited, and subject to blackouts.
-**Why now:** This is an announced Broadway closing, not merely the last currently available booking date.
-**On-sale watch:** The production's official homepage announces its final Broadway performance on January 3, and its official ticket calendar confirms the 3pm performance.
-[Official](https://andjulietbroadway.com/) · [Tickets / booking](https://criterionticketing.com/and-juliet/01-03-2027--3pm) · [Source: & Juliet Broadway](https://andjulietbroadway.com/tickets/) · [Discovered via Playbill Productions](https://playbill.com/shows/broadway)
-**Sale/deadline:** 2027-01-03T15:00:00-05:00
-
-#### [Jason Moran: STACKS — closing day](https://www.luhringaugustine.com/exhibitions/jason-moran3)
-
-2026-12-19 · 10:00 AM · art · Luhring Augustine · Chelsea · Manhattan · Score 59.0  
-Jazz pianist and artist Jason Moran presents stacked piano sculpture, pigment-on-paper works made through playing, jazz ephemera, and a video collaboration with Ari Marcopoulos. This is an exhibition, not an announced live concert.
-**Timing:** Final viewing day; published gallery hours are Tuesday–Saturday, 10am–6pm.
-**Practical note:** The exhibition is at the Chelsea gallery.
-**Why now:** Plan a December visit before the documented end of Moran's exhibition.
-**On-sale watch:** Luhring Augustine explicitly states that STACKS remains on view through December 19. The deadline concerns seeing this installation, not buying concert tickets.
-[Official](https://www.luhringaugustine.com/exhibitions/jason-moran3)
+2026-12-19 · Time to confirm · art · Paula Cooper Gallery · Chelsea · Manhattan · Score 61.0  
+Sculptures, drawings, and prints revisit six recurring Oldenburg subjects, including the clothespin, typewriter eraser, and geometric mouse. The gallery describes it as the first exhibition focused on this body of work in fifty years.
+**Timing:** Exhibition closing date. Regular gallery hours are Tuesday–Saturday, 10am–6pm.
+**Practical note:** This exhibition is at 534 West 21st Street.
+**Why now:** The specific historical presentation ends before the year-end holidays.
+**On-sale watch:** The gallery confirms December 19 as the closing date for this loan-supported presentation revisiting the landmark Six Themes survey.
+[Official](https://www.paulacoopergallery.com/exhibitions/claes-oldenburg) · [Tickets / booking](https://www.paulacoopergallery.com/exhibitions/claes-oldenburg)
 **Sale/deadline:** 2026-12-19
 
-#### [There's no me without you — final presentation closes](https://pioneerworks.org/exhibitions/finnegan-shannon-there-is-no-me-without-you)
+#### [SIX — Broadway's final performance](https://sixonbroadway.com/)
 
-2026-12-20 · 12:00 PM · art · Pioneer Works, Second Floor Gallery · Red Hook · Brooklyn · Score 59.0  
-Finnegan Shannon's accessible conveyor-belt installation brings artworks to seated visitors. Its final presentation, by Alex Dolores Salerno, uses coffee-related objects and archival materials to explore consumption, colonial exploitation, and interdependence.
-**Timing:** Final viewing day; Pioneer Works publishes gallery hours of noon–6pm, Wednesday–Sunday.
-**Practical note:** Masks are requested in this exhibition and provided onsite. Elevator access and seating are available; the installation includes coffee scents.
-**Why now:** The final artist presentation and the overall installation both end on December 20.
-**On-sale watch:** The official page specifies that Alex Dolores Salerno's final presentation runs November 4–December 20, and the exhibition metadata independently confirms December 20 as the end date.
-[Official](https://pioneerworks.org/exhibitions/finnegan-shannon-there-is-no-me-without-you)
-**Sale/deadline:** 2026-12-20
+2027-01-03 · 7:00 PM · theater · Lena Horne Theatre · Theater District · Manhattan · Score 61.0  
+The pop-concert musical retelling the lives of Henry VIII's six wives ends its Broadway engagement.
+**Timing:** The official calendar lists 2pm and 7pm performances on closing day; this item identifies the final 7pm performance.
+**Practical note:** Advance ticket prices were not verified. The official site separately lists eligibility-based $35 student rush, which is not guaranteed advance admission.
+**Why now:** This is an announced permanent Broadway closing, not an arbitrary future performance already on sale.
+**On-sale watch:** The show's official homepage explicitly announces Broadway's final performance on January 3, 2027, and its ticket calendar ends that evening.
+[Official](https://sixonbroadway.com/) · [Tickets / booking](https://tickets.broadwaydirect.com/tickets/series/719897/2211791) · [Discovered via Playbill Productions](https://playbill.com/shows/broadway)
+**Sale/deadline:** 2027-01-03
 
-#### [LCD Soundsystem — last listed night of the 2026 NYC residency](https://youarehere.bowerypresents.com/)
+#### [Spirits of Coltrane — Winter Jazzfest closing night](https://www.winterjazzfest.com/spirits-of-coltrane)
+
+2027-01-19 · 8:00 PM · music · $63 standing or $73 seated balcony, including fees · Roulette · Boerum Hill · Brooklyn · Score 58.0  
+Ravi Coltrane and Miguel Atwood-Ferguson lead a two-part Coltrane tribute with Gary Bartz, aja monet, Morgan Guerin, Joel Ross, Brandee Younger, and Justin Brown.
+**Timing:** Doors 7pm; concert 8pm.
+**Practical note:** Standing main-floor and seated-balcony tickets are separate. The ticket seller states tickets are non-transferable and non-refundable.
+**Why now:** A confirmed 2027 festival finale with an official date, lineup, and booking page; not a presumed annual recurrence.
+**On-sale watch:** Winter Jazzfest labels this its closing-night concert, and both organizer and ticket seller identify it as the culmination of the festival's Expressions series. No new-on-sale or imminent-sellout claim is made.
+[Official](https://www.winterjazzfest.com/spirits-of-coltrane) · [Tickets / booking](https://tickets.venuepilot.com/e/spirit-of-coltrane-featuring-miguel-atwood-ferguson-ravi-coltrane-gary-bartz-aja-monet-morgan-guerin--0b5046)
+**Sale/deadline:** 2027-01-19
+
+#### [LCD Soundsystem — final listed night of the 2026 NYC residency](https://youarehere.bowerypresents.com/)
 
 2026-12-13 · Time to confirm · music · Knockdown Center · Maspeth · Queens · Score 57.0  
-LCD Soundsystem's announced 2026 NYC residency concludes its published schedule at Knockdown Center on December 13, following dates at Brooklyn Steel and other New York venues.
+LCD Soundsystem concludes the promoter's published 2026 NYC residency calendar at Knockdown Center, following engagements in Brooklyn and Queens.
 **Timing:** December 13 is verified; performance and doors times were not accessible.
-**Practical note:** The promoter labels this date 'Best Availability.' The AXS ticket page returned HTTP 403, so prices, seat inventory, and showtime were not independently checked.
-**Why now:** Choose a residency date before the announced schedule ends on December 13.
-**On-sale watch:** December 13 is the last date on the promoter's published 2026 residency schedule. Retained for the residency's ending date, not an upcoming on-sale or presumed sellout.
+**Practical note:** The promoter labels this date Best Availability. The linked AXS ticket page returned HTTP 403, so price, age restriction, and live inventory were not verified.
+**Why now:** A verified residency end provides a real December planning deadline despite tickets already being on sale.
+**On-sale watch:** December 13 is the last engagement on the promoter's official 2026 residency schedule. This is a residency-ending alert, not a scarcity or new-on-sale claim.
 [Official](https://youarehere.bowerypresents.com/) · [Tickets / booking](https://www.axs.com/events/1636873/lcd-soundsystem-tickets?skin=bowerypresents)
 **Sale/deadline:** 2026-12-13
 
-#### [LaJuné McMillian: Child/ren of the Bloom — closing day](https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom)
+#### [Donyel Ivy-Royal: By the time the rain comes, we will be home — closing date](https://jackshainman.com/exhibitions/donyel_ivyroyal_by_the_time_the_rain_comes_we_will_be_home)
 
-2026-12-20 · 12:00 PM · art · Pioneer Works · Red Hook · Brooklyn · Score 56.0  
-An interactive installation developed through an OceanX residency combines hand-tracked video, phytoplankton imagery, holographic displays, embroidered sculpture, and sound to explore oceanic systems and transformation.
-**Timing:** Final viewing day; published gallery hours are noon–6pm.
-**Practical note:** The building has elevator access. This can be seen during the same visit as There's no me without you, which closes the same day.
-**Why now:** The installation has a fixed December 20 deadline rather than an ongoing presentation.
-**On-sale watch:** Pioneer Works' exhibition listing and event-specific structured metadata both confirm December 20 as the closing date.
-[Official](https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom)
-**Sale/deadline:** 2026-12-20
+2026-12-19 · Time to confirm · art · Jack Shainman Gallery · Chelsea · Manhattan · Score 56.0  
+The Brooklyn-based artist's first exhibition with Jack Shainman combines oil paintings, ink drawings, and a large-scale architectural installation informed by streets, landscapes, music, and poetry.
+**Timing:** Exhibition closing date; daily visiting hours were not verified.
+**Practical note:** Visit the Chelsea location; this exhibition is not at the gallery's Tribeca space or The School.
+**Why now:** A confirmed December closing to include when planning a Chelsea gallery circuit.
+**On-sale watch:** The gallery's exhibition press release explicitly gives November 5–December 19, 2026. December 19 is the visit-by deadline; no reservation scarcity is claimed.
+[Official](https://jackshainman.com/exhibitions/donyel_ivyroyal_by_the_time_the_rain_comes_we_will_be_home) · [Tickets / booking](https://jackshainman.com/exhibitions/donyel_ivyroyal_by_the_time_the_rain_comes_we_will_be_home)
+**Sale/deadline:** 2026-12-19
 
-#### [SIX — final Broadway performance](https://sixonbroadway.com/)
+#### [Jason Moran: STACKS — closing date](https://www.luhringaugustine.com/exhibitions/jason-moran3)
 
-2027-01-03 · 7:00 PM · theater · Lena Horne Theatre · Theater District · Manhattan · Score 51.0  
-The six wives of Henry VIII reclaim their stories in a pop-concert-format musical. The production's official website announces January 3, 2027 as its final Broadway performance date.
-**Timing:** The official calendar lists January 3 performances at 2pm and 7pm; this entry is the final evening performance.
-**Practical note:** Final-performance ticket prices and live availability were not verified.
-**Why now:** An announced production closing creates a real deadline independent of ticket availability.
-**On-sale watch:** The official homepage explicitly announces the January 3, 2027 Broadway closing, and the official ticket calendar supplies the final 7pm performance link.
-[Official](https://sixonbroadway.com/) · [Tickets / booking](https://tickets.broadwaydirect.com/tickets/series/719897/2211791) · [Source: SIX Broadway](https://sixonbroadway.com/tickets/) · [Discovered via Playbill Productions](https://playbill.com/shows/broadway)
-**Sale/deadline:** 2027-01-03T19:00:00-05:00
-
-#### [Mary Lovelace O'Neal: Requiem — closing date](https://marianneboeskygallery.com/exhibitions/350-mary-lovelace-o-neal-requiem/press_release_text/)
-
-2026-12-19 · Time to confirm · art · Boesky Gallery · Chelsea · Manhattan · Score 48.0  
-The first posthumous exhibition devoted to Mary Lovelace O'Neal brings together paintings from the 1980s and 1990s, examining the artist's movement between abstraction, figuration, personal mythology, and vivid color.
-**Timing:** Closing date, not the exhibition's opening date. Final-day hours were not verified.
-**Why now:** A distinctive posthumous presentation has a verified December closing rather than an open-ended display.
-**On-sale watch:** The official exhibition release confirms an October 29–December 19 run. The alert is the December 19 viewing deadline; no reservation scarcity is asserted.
-[Official](https://marianneboeskygallery.com/exhibitions/350-mary-lovelace-o-neal-requiem/press_release_text/) · [Discovered via Hyperallergic](https://hyperallergic.com/what-mary-lovelace-oneal-left-behind/)
+2026-12-19 · Time to confirm · art · Luhring Augustine · Chelsea · Manhattan · Score 52.0  
+Jason Moran explores jazz history through sculpture, pigment works made with piano keys, collected ephemera, and a new video collaboration with Ari Marcopoulos. A sculpture stacks two upright pianos.
+**Timing:** Exhibition closing date. Regular gallery hours are Tuesday–Saturday, 10am–6pm.
+**Practical note:** An exhibition of visual art, not an announced live piano performance.
+**Why now:** The verified closing makes this art-and-music crossover a December visit-by reminder.
+**On-sale watch:** The gallery explicitly states that STACKS remains on view only through December 19, 2026.
+[Official](https://www.luhringaugustine.com/exhibitions/jason-moran3) · [Tickets / booking](https://www.luhringaugustine.com/exhibitions/jason-moran3)
 **Sale/deadline:** 2026-12-19
 
 ## Ongoing & closing soon
 
 _Long runs you can see any week, and the recurring nights that are always an option. Closing dates are the reason to go now._
 
-### [DUMBO Film Festival](https://www.dumbofilmfestival.com/)
-
-through 2026-11-23 · Closes today · From $25 per listing; check conditions  
-
-### [Prospect Park Carousel](https://www.prospectpark.org/visit-the-park/places-to-go/carousel/)
-
-through 2026-11-23 · Closes today · Prospect Park · Prospect Park · Brooklyn · From $3 per listing; check conditions  
-
 ### [2026 Westbeth Winter Show](https://westbeth.org/event/2026-westbeth-winter-show/)
 
-2026-11-20 through 2026-11-27 · Closes in 4 days · Westbeth Gallery · West Village · Manhattan · Free; confirm registration  
+2026-11-20 through 2026-11-27 · Closes in 3 days · Westbeth Gallery · West Village · Manhattan · Free  
+
+### [Central Park Swings](https://centralparkswings.com/events/)
+
+through 2026-11-29 · Closes in 5 days · King Jagiello Plaza · Central Park · Manhattan · From $10 per listing; check conditions  
+
+### [Jump Start 2026](https://lamama.org/jump-start-2026/)
+
+2026-11-27 through 2026-11-29 · Closes in 5 days · La MaMa · East Village · Manhattan  
+Works-in-progress by puppet artists Justin Perkins, William PK Carter, Andrew Murdock, Marcella Murray, and Torry Bend.
+
+### [Mirrored Pool](https://lamama.org/mirrored-pool/)
+
+2026-11-27 through 2026-11-29 · Closes in 5 days · La MaMa · East Village · Manhattan  
+Puppeteer Tom Lee and musicians Lisa Kaplan and Matthew Duvall explore humanity's place in the universe, inspired by Carl Sagan and Voyager.
 
 ### [Extended Seasonal Hours on the High Line](https://www.thehighline.org/visit/)
 
-through 2026-11-30 · Closes in 7 days · The High Line · Chelsea · Manhattan · Free; confirm registration  
+through 2026-11-30 · Closes in 6 days · The High Line · Chelsea · Manhattan · Free; confirm registration  
+
+### [Miller Theater’s Pop-Up Concert Series](https://www.millertheatre.com/events/steven-beck-piano)
+
+2026-11-24 through 2026-12-01 · Closes in 7 days · Miller Theatre at Columbia University · Morningside Heights · Manhattan · Free; confirm registration  
 
 ### [Orwell + Truth: The Legacy of Author George Orwell](https://events.nyu.edu/event/383902-orwell-truth-opening-reception)
 
-through 2026-12-01 · Closes in 8 days · New York University · Greenwich Village · Manhattan · Free; confirm registration  
-
-### [After Hours: Powerhouse Arts 2026 Staff Art Show](https://powerhousearts.org/event/powerhouse-arts-2026-staff-art-show)
-
-2026-11-05 through 2026-12-06 · Closes in 13 days · Powerhouse Arts · Gowanus · Brooklyn  
-Fifty-three staff members, interns and teaching artists exhibit work alongside the historical artworks and artists that influenced their practices.
+through 2026-12-01 · Closes in 7 days · New York University · Greenwich Village · Manhattan · Free; confirm registration  
 
 ### [La MaMa Puppet Festival 2026](https://lamama.org/la-mama-puppet-festival-2026/)
 
-through 2026-12-06 · Closes in 13 days · La MaMa · East Village · Manhattan · From $30 per listing; check conditions  
+through 2026-12-06 · Closes in 12 days · La MaMa · East Village · Manhattan · From $30 per listing; check conditions  
 
 ### [Sundays with Steven](https://www.moma.org/calendar/film/5946)
 
-through 2026-12-06 · Closes in 13 days · Museum of Modern Art · Midtown · Manhattan · From $14 per listing; check conditions  
+through 2026-12-06 · Closes in 12 days · Museum of Modern Art · Midtown · Manhattan · From $14 per listing; check conditions  
 
 ### [The Hope Theory](https://donyc.com/events/2026/11/4/the-hope-theory-tickets)
 
-2026-11-04 through 2026-12-06 · Closes in 13 days · New York City Center · Midtown · Manhattan · Check current price  
+2026-11-04 through 2026-12-06 · Closes in 12 days · New York City Center · Midtown · Manhattan · Check current price  
 
 ### [The Annual Book Show at SVA](https://sva.edu/events/mfa-illustration-as-visual-essay-exhibition-fall-2026)
 
-2026-11-21 through 2026-12-09 · SVA Gramercy Gallery · Free; confirm registration  
+2026-11-21 through 2026-12-09 · SVA Gramercy Gallery · Free  
 
 ### [‘Rossellini 120’ at Film Forum (South Village)](https://filmforum.org/series/rossellini)
 
-2026-11-20 through 2026-12-10 · Film Forum · Greenwich Village · Manhattan · From $18 per listing; check conditions  
+2026-11-20 through 2026-12-10 · Film Forum · Greenwich Village · Manhattan · $18  
 
 ### [People in the City: Modern Portraits from the Baruch College Art Collection](https://weissman.baruch.cuny.edu/mishkin-gallery/exhibitions/people-in-the-city-modern-portraits-from-the-baruch-college-art-collection/)
 
@@ -4059,45 +4078,48 @@ through 2026-12-12 · Center for Book Arts · Chelsea · Manhattan · Free; conf
 
 through 2026-12-12 · Free; confirm registration  
 
+### [34th Annual African Diaspora International Film Festival](https://nyadiff.org)
+
+2026-11-27 through 2026-12-13 · From $15 per listing; check conditions  
+
 ### [Cursed! The Power of Magic in the Ancient World](https://www.nyu.edu/about/news-publications/news/2026/august/isaw-presents--cursed--the-power-of-magic-in-the-ancient-world.html)
 
 through 2026-12-13 · The Institute for the Study of the Ancient World at New York University · Upper East Side · Manhattan · Free; confirm registration  
 
 ### [Holidays at the Park](https://holidaysattheparknyc.com/)
 
-2026-11-21 through 2026-12-13 · Free; confirm registration  
+2026-11-21 through 2026-12-13 · Free  
 
 ### [The Present Tense](https://www.koreanculture.org/gallery-korea/2026/11/the-present-tense)
 
-2026-11-19 through 2026-12-18 · Korean Cultural Center New York · Rose Hill · Manhattan  
-Twenty-five works span modern and contemporary Korean painting, sculpture, craft, calligraphy and architecture, presented with the National Academy of Arts.
+2026-11-19 through 2026-12-18 · Korean Cultural Center New York · Murray Hill · Manhattan  
+Twenty-five works from the National Academy of Arts, Republic of Korea span painting, sculpture, craft, calligraphy, and architecture.
+
+### [Brooklyn Flea Holiday Market](https://dumbo.nyc/event/the-brooklyn-flea-holiday-market/2026-11-28/)
+
+2026-11-28 through 2026-12-20 · Free; confirm registration  
 
 ### [Christmas Shop at the Church of Sweden New York](https://www.facebook.com/svenskakyrkannewyork/posts/pfbid02Q2obCZ9QApqK8sD4wtF7a63qr7xBgLWV5w2bJzDBCBtA7uxVQAPGPga7AHUe5sCl)
 
-2026-11-20 through 2026-12-20 · Free; confirm registration  
+2026-11-20 through 2026-12-20 · Free  
 
-### [Finnegan Shannon: There's no me without you](https://pioneerworks.org/exhibitions/finnegan-shannon-there-is-no-me-without-you)
-
-2026-09-12 through 2026-12-20 · Pioneer Works · Red Hook · Brooklyn  
-An accessible, tactile exhibition built around conveyor-belt encounters, rest and interdependence; the final artist presentation features Alex Dolores Salerno.
-
-### [LaJuné McMillian: Child/ren of Bloom](https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom)
+### [LaJuné McMillian: Child/ren of the Bloom](https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom)
 
 2026-09-12 through 2026-12-20 · Pioneer Works · Red Hook · Brooklyn  
-An interactive installation combines oceanic imagery, phytoplankton, hand-motion sensors, sculpture and sound.
-
-### [Masterpieces: A Virtual Experience of the Museo del Prado](https://powerhousearts.org/prado)
-
-2026-10-01 through 2026-12-20 · Powerhouse Arts · Gowanus · Brooklyn · $20 adult; official page also advertises code WEEKDAY for 10% off weekday visits  
-A forty-minute multi-user VR experience enters five Prado paintings, including Las Meninas and The Garden of Earthly Delights.
+An interactive installation translates research on phytoplankton, algal blooms, and bioluminescence into responsive video, holographic displays, sculpture, and sound.
 
 ### [Other Bodies by Martin Moran](https://donyc.com/events/2026/11/19/other-bodies-by-martin-moran-tickets)
 
 2026-11-19 through 2026-12-20 · The Barrow Group · Midtown · Manhattan · Check current price  
 
+### [There's no me without you](https://pioneerworks.org/exhibitions/finnegan-shannon-there-is-no-me-without-you)
+
+2026-09-12 through 2026-12-20 · Pioneer Works · Red Hook · Brooklyn  
+Finnegan Shannon's accessible conveyor-belt installation brings artworks to seated visitors. Alex Dolores Salerno's presentation occupies the installation November 4–December 20.
+
 ### [Chinatown Holiday Market](https://welcometochinatown.com/holiday-market-2026)
 
-2026-11-20 through 2026-12-24 · Free; confirm registration  
+2026-11-20 through 2026-12-24 · Free  
 
 ### [Grand Central Holiday Fair](https://grandcentralterminal.com/holiday-fair/)
 
@@ -4114,6 +4136,14 @@ through 2026-12-27 · Bargemusic, Pier 5 Boathouse · Brooklyn Heights · Brookl
 ### [Criterion Presents: Kubrick – A Complete Film Retrospective](https://movingimage.org/series/kubrick/)
 
 through 2026-12-27 · Museum of the Moving Image · Astoria · Queens · From $17.50 per listing; check conditions  
+
+### [Holiday Nostalgia Train Rides](https://www.nytransitmuseum.org/holiday-nostalgia-rides/)
+
+2026-11-29 through 2026-12-27 · Check current price  
+
+### [Times Square’s Annual New Year’s Eve Wishing Wall](https://www.timessquarenyc.org/events/nye-wishing-wall)
+
+2026-11-24 through 2026-12-29 · Check current price  
 
 ### [Beyond the Margins: Bronx Museum Teens Activate the Permanent Collection](https://bronxmuseum.org/exhibition/beyond-the-margins/)
 
@@ -4143,6 +4173,10 @@ through 2027-01-03 · Brooklyn Museum · Prospect Heights · Brooklyn · From $3
 
 through 2027-01-07 · Hudson Yards · Hudson Yards · Manhattan · Free; confirm registration  
 
+### [Charles Dickens’s a Christmas Carol](https://www.themorgan.org/exhibitions/charles-dickens-a-christmas-carol)
+
+2026-11-24 through 2027-01-10 · The Morgan Library + Museum · Murray Hill · Manhattan · From $25 per listing; check conditions  
+
 ### [Costume Art](https://www.metmuseum.org/exhibitions/costume-art)
 
 through 2027-01-10 · The Metropolitan Museum of Art · Upper East Side · Manhattan · From $30 per listing; check conditions  
@@ -4153,17 +4187,8 @@ through 2027-01-10 · Solomon R. Guggenheim Museum · Upper East Side · Manhatt
 
 ### [The Lost World: The Art of Minnie Evans](https://whitney.org/exhibitions/the-lost-world)
 
-through 2027-01-10 · Whitney Museum of American Art · Meatpacking District · Manhattan · Check current price  
-
-### [I'm So Happy You Are Here: Japanese Women Photographers from the 1950s to Now](https://www.icp.org/exhibitions/im-so-happy-you-are-here-japanese-women-photographers-1950s-now)
-
-2026-10-15 through 2027-01-11 · International Center of Photography · Lower East Side · Manhattan  
-Twenty-eight intergenerational artists expand the history of Japanese photography through photographs, installations, photobooks and printed matter.
-
-### [Laia Abril: On Rape and Institutional Failure](https://www.icp.org/exhibitions/laia-abril-rape-and-institutional-failure)
-
-2026-10-15 through 2027-01-11 · International Center of Photography · Lower East Side · Manhattan  
-Abril combines photography, testimony, archival materials, objects, sound and video to examine institutional responsibility for gender-based violence.
+2026-08-22 through 2027-01-10 · Whitney Museum of American Art · Meatpacking District · Manhattan · Check current price  
+A retrospective of Minnie Evans's dream-inspired drawings, paintings, and collages, combining faces, angels, plants, and intricate patterns.
 
 ### [Neue Galerie: 25th Anniversary Exhibition](https://www.neuegalerie.org/exhibitions/25thanniversary)
 
@@ -4172,6 +4197,11 @@ through 2027-01-11 · Neue Galerie · Upper East Side · Manhattan · From $28 p
 ### [New Exhibitions at International Center of Photography (LES)](https://www.icp.org/exhibitions)
 
 through 2027-01-11 · International Center of Photography · Lower East Side · Manhattan · From $18 per listing; check conditions  
+
+### [Does This Taste Funny? Humor in Contemporary Art](https://www.lehmangallery.org/current-exhibition)
+
+2026-09-09 through 2027-01-16 · Lehman College Art Gallery · Bedford Park · Bronx · Free  
+The Bronx component of a two-venue exhibition explores humor as an artistic method, with works spanning absurdity, satire, and visual jokes.
 
 ### [Art of the Street: Selections from the Elie and Sarah Hirschfeld Collection](https://www.nyhistory.org/exhibitions/art-of-the-street-elie-and-sarah-hirschfeld-collection)
 
@@ -4216,7 +4246,6 @@ through 2027-01-31 · New Museum · Lower East Side · Manhattan · From $28 per
 ### [Sonia Boyce Demonstrate](https://queensmuseum.org/exhibition/sonia-boyce-demonstrate/)
 
 2026-06-27 through 2027-02-07 · Queens Museum · Flushing Meadows Corona Park · Queens · Check current price  
-An immersive installation transforms filmed community gatherings into video, photographs and kaleidoscopic wallpaper, exploring collective voice and artistic participation.
 
 ### [¡Te Amo Porque S.O.S. Pueblo! Altares Ocultos de Duelo y Memoria (Hidden Altars of Grief and Remembrance)](https://queensmuseum.org/exhibition/te-amo-porque-sos-pueblo-altares-ocultos-de-duelo-y-memoria-hidden-altars-of-grief-and-remembrance/)
 
@@ -4236,32 +4265,26 @@ through 2027-02-28 · American Folk Art Museum · Upper West Side · Manhattan �
 
 ### [Hard Art](https://www.momaps1.org/en/programs/744-hard-art)
 
-2026-11-05 through 2027-03-15 · MoMA PS1 · Long Island City · Queens  
-More than forty Black artists trace abstraction from 1969 to the present through painting, sculpture, video and sound.
+2026-11-05 through 2027-03-15 · MoMA PS1 · Long Island City · Queens · Free  
+More than forty artists trace the legacy of abstract painting by Black artists in the United States from 1969 to the present.
+
+### [Masao Gozu: Windows and Bars](https://www.momaps1.org/en/programs/799-masao-gozu-windows-and-bars)
+
+2026-11-05 through 2027-03-15 · MoMA PS1 · Long Island City · Queens · Free  
+The photographer's first US museum exhibition follows New York residents through tenement windows and bar interiors, pairing older photographs with recent returns.
 
 ### [Seeing the Cinema: Photographic Visions of Movie Theaters](https://movingimage.org/event/seeing-the-cinema/)
 
 through 2027-03-21 · Museum of the Moving Image · Astoria · Queens · From $20 per listing; check conditions  
 
-### [Dark Matter U: Justice, Pedagogy, Design](https://www.centerforarchitecture.org/exhibitions/dark-matter-u-justice-pedagogy-design/)
-
-2026-10-01 through 2027-03-27 · Center for Architecture · Greenwich Village · Manhattan  
-The first major US exhibition of the BIPOC-led Dark Matter U network examines its past work, current design education and future possibilities.
-
-### [Humanist Modernity: Maciej and Stanisława Nowicki](https://www.centerforarchitecture.org/exhibitions/humanist-modernity/)
-
-2026-10-01 through 2027-03-27 · Center for Architecture · Greenwich Village · Manhattan  
-The exhibition presents the Nowickis as equal partners, exploring a human-centered architectural practice spanning drawings, buildings, graphics and structure.
-
 ### [Saya Woolfalk: The WoodsWoman Method](https://bronxmuseum.org/exhibition/woodswoman-method/)
 
 2026-10-09 through 2027-03-28 · The Bronx Museum · Concourse · Bronx · Free  
-Woolfalk's mythic botanist-healer frames process materials for a future lobby commission alongside selected collection works about ecology, speculative worlds and community.
+Saya Woolfalk presents materials for her future lobby commission alongside selected collection works exploring nature, speculative worlds, and collective storytelling.
 
 ### [artport: A History of Internet Art](https://whitney.org/exhibitions/artport-25)
 
-2026-11-21 through 2027-03-28 · Whitney Museum of American Art · Meatpacking District · Manhattan · Check current price  
-More than one hundred commissioned works trace twenty-five years of internet art through code, data visualization, games, online identity and AI-driven practices.
+through 2027-03-28 · Whitney Museum of American Art · Meatpacking District · Manhattan · Check current price  
 
 ### [Art + Furniture: Designers, Makers, and Advocates](https://www.nysid.edu/exhibitions/art-furniture-designers-makers-advocates)
 
@@ -4273,7 +4296,8 @@ through 2027-04-04 · The New York Historical · Upper West Side · Manhattan ·
 
 ### [Roy Lichtenstein: Like New](https://whitney.org/exhibitions/lichtenstein)
 
-through 2027-05-10 · Whitney Museum of American Art · Meatpacking District · Manhattan · Check current price  
+2026-10-11 through 2027-05-10 · Whitney Museum of American Art · Meatpacking District · Manhattan · Check current price  
+The first New York Lichtenstein retrospective since 1993 spans six decades of painting, drawing, sculpture, film, and prints, including four re-created murals.
 
 ### [Roy Lichtenstein: 1997](https://whitney.org/exhibitions/lichtenstein-1997)
 
@@ -4285,12 +4309,16 @@ through 2027-06-27 · Brooklyn Museum · Prospect Heights · Brooklyn · From $2
 
 ### [The Photography Triennial: After Dark](https://www.mcny.org/exhibition/photography-triennial-after-dark)
 
-2026-11-20 through 2027-07-25 · Museum of the City of New York · East Harlem · Manhattan · $23  
-Contemporary photographers explore New York nightlife, from labor and commerce to leisure and self-expression, including work by Janette Beckman, Dina Litovsky and Landon Nordeman.
+2026-11-20 through 2027-07-25 · $23  
 
 ### [Mighty Miniatures at the National Museum of the American Indian](https://americanindian.si.edu/explore/exhibitions/item?id=1019)
 
-2026-11-21 through 2027-08-20 · The National Museum of the American Indian · Financial District · Manhattan · Free; confirm registration  
+2026-11-21 through 2027-08-20 · The National Museum of the American Indian · Financial District · Manhattan · Free  
+
+### [A View from the Bridge](https://viewfromthebridgeplay.com/)
+
+open since 2026-11-27 · Ellen Stewart Theatre at La MaMa · East Village · Manhattan  
+Neil Pepe directs Arthur Miller's tragedy with Sam Rockwell, Carla Gugino, Fred Hechinger, Tom Pecinka, Riley Prior, and Alfred Molina.
 
 ### Standing options
 
@@ -4301,312 +4329,303 @@ Contemporary photographers explore New York nightlife, from labor and commerce t
 
 _No API key is needed for these public websites. `not checked` is distinct from a checked source with no final pick._
 
-- **[arts] 92NY (92nd Street Y) — blocked (fetch failed):** Events request redirected through a shared-session endpoint that returned HTTP 503.
-- **[arts] A View from the Bridge — checked, no retained pick:** Official page confirms performances begin November 27, but the retrieved ticket calendar exposed December dates rather than verifiable in-window availability; not retained.
-- **[arts] AMC Lincoln Square — blocked (fetch failed):** Additional Thanksgiving cinema search returned HTTP 403.
+- **[arts] 92NY (92nd Street Y) — error:** Public events request redirected through shared-session infrastructure and failed with HTTP 503; no login attempted.
+- **[arts] AMC Lincoln Square / The Odyssey reminder — blocked (fetch failed):** Configured standing-watch URL returned HTTP 403. No new 70mm dates, sale window, or policy change verified; book_ahead remains empty.
 - **[arts] Americas Society — blocked (fetch failed):** Events page returned HTTP 403.
-- **[arts] Anthology Film Archives — used:** Consulted the November calendar's in-window section and Faces series page; retained 3 distinct weekend programs. No November 26 screening is listed.
+- **[arts] Anthology Film Archives — checked, no retained pick:** Opened November list calendar, but the extracted portion covered earlier dates. In-window listings were not reached; no candidate retained.
 - **[arts] Asia Society New York — blocked (fetch failed):** Events page returned HTTP 403.
-- **[arts] Atlantic Theater Company — checked, no retained pick:** Readable current production ended November 22; the next retrieved run starts in January.
-- **[arts] Balance — used:** largest source: The Skint 9/72; Brooklyn 25/72. Largest discovery share 12.5%, below the 40% ceiling. Brooklyn share 34.7%, below target; BAM, Brooklyn Museum, Bell House, Greenlight and BPL were inaccessible, while BCC and Brooklyn Poets published holiday breaks. Retained 31 physical venues across…
-- **[arts] BAM — blocked (fetch failed):** Film page loaded headings and empty event placeholders without a usable rendered schedule.
-- **[arts] Books Are Magic — blocked (fetch failed):** Official events page was a JavaScript shell; attempted public Eventbrite organizer route returned HTTP 404.
-- **[arts] BRIC — blocked (fetch failed):** Calendar exposed filters but no usable rendered event listings.
-- **[arts] Broadway.org — blocked (fetch failed):** Shows page returned HTTP 403; used Playbill and producing organizations instead.
-- **[arts] Brooklyn Comedy Collective — used:** Read the redirected calendar and specific pages; retained 3 distinct November 24 programs. Thanksgiving break starts November 25, with return December 1; no recurrence extrapolated.
-- **[arts] Brooklyn Magazine — blocked (fetch failed):** Sign-in/subscription shell prevented usable public calendar research.
-- **[arts] Brooklyn Museum — blocked (fetch failed):** Calendar and exhibition requests returned HTTP 429; no listings or holiday hours inferred.
-- **[arts] Brooklyn Poets — checked, no retained pick:** Official calendar explicitly states 144 Montague is closed November 23–29 for the holidays; no reading invented.
-- **[arts] Brooklyn Public Library — blocked (fetch failed):** Calendar and the editorially linked Christopher Myers exhibition page returned HTTP 403.
-- **[arts] Bryant Park — checked, no retained pick:** Programs redirected to activities. Retrieved winter skating, market and music material was outside this lane; none retained.
-- **[arts] Caveat — used:** Calendar shell was not usable, but the Skint-linked Pachelbel event exposed official structured dates, prices and location. Retained 1 event with Skint provenance.
-- **[arts] Center for Architecture — used:** Retained 2 current exhibitions with official run dates. Professional licensing items and an outdoor walk were not included.
-- **[arts] Cherry Lane Theatre — used:** Homepage explicitly verified November 23 School Pictures at 7pm and Two Girls at 9pm; specific pages verified content and runtimes.
+- **[arts] Atlantic Theater Company — not checked:** Not opened during this research pass.
+- **[arts] Balance — used:** largest source: Union Hall 9/62; Brooklyn 32/62. Retained venues: 25, grouping La MaMa's stages as one institution; more than 12 official venues/organizers consulted. Borough counts: Manhattan 25; Brooklyn 32; Queens 2; Bronx 2; Staten Island 1. More than four neighborhoods represented. No category…
+- **[arts] BAM — blocked (fetch failed):** Film page loaded its heading but no usable dated listings in the rendered extraction.
+- **[arts] Book Club Bar — blocked (fetch failed):** Astigmatism event page exposed metadata but no readable date/time details; Skint lead was not retained.
+- **[arts] Books Are Magic — blocked (fetch failed):** Events page returned a JavaScript-only application shell.
+- **[arts] BRIC — blocked (fetch failed):** Calendar exposed filters and placeholders without usable current event records.
+- **[arts] Broadway.org — blocked (fetch failed):** Shows page returned HTTP 403.
+- **[arts] Brooklyn Comedy Collective — used:** Read weekly listing and The Kids Table detail/ticket pages; retained 1 show. The calendar explicitly announces Thanksgiving break after November 24.
+- **[arts] Brooklyn Magazine — blocked (fetch failed):** Homepage extraction exposed sign-in and subscription prompts, not readable event coverage.
+- **[arts] Brooklyn Museum — blocked (fetch failed):** Both calendar and exhibitions pages returned HTTP 429; no exhibition dates inferred.
+- **[arts] Brooklyn Public Library — blocked (fetch failed):** Date-specific calendar request returned HTTP 403.
+- **[arts] Bryant Park — checked, no retained pick:** Programs redirected to activities. Visible current offerings were chiefly winter recreation, markets, and music outside this lane.
+- **[arts] Bushwick Comedy Club — used:** Official event page confirms Thanksgiving lineup, dinner at 8pm, comedy at 8:30pm, and pay-above-$5 ticket terms.
+- **[arts] Caveat — blocked (fetch failed):** Events page returned a JavaScript-only shell. Skint leads were not retained without readable official details.
+- **[arts] Center for Architecture — checked, no retained pick:** Read assigned-week calendar and exhibition leads. Did not complete verification of the November 28 outdoor walk or exhibition run dates; none retained.
 - **[arts] China Institute — blocked (fetch failed):** Events page returned HTTP 403.
-- **[arts] Comedy Cellar — blocked (fetch failed):** Reservation rules were readable, but date selection and the separate lineup page remained loading shells. No dated show inferred.
-- **[arts] Daily coverage — used:** 2026-11-23: 9; 2026-11-24: 10; 2026-11-25: 8; 2026-11-26: 5; 2026-11-27: 8; 2026-11-28: 9; 2026-11-29: 8. Counts exclude 15 ongoing exhibitions and uncounted alternative showtimes. All daily floors met. Thanksgiving's verified dated choices are concentrated at Film Forum after other calendars showe…
-- **[arts] Eventbrite New York — blocked (fetch failed):** Assigned discovery index returned HTTP 405. Individual organizer-linked event pages were readable and used for verification; the blocked index is not credited with discovery.
+- **[arts] Comedy Cellar — blocked (fetch failed):** Reservation policies and prices were readable, but date/show selectors did not expose a verified named lineup. No generic nightly show invented.
+- **[arts] Daily coverage — used:** 2026-11-24: 7; 2026-11-25: 7; 2026-11-26: 6; 2026-11-27: 7; 2026-11-28: 8; 2026-11-29: 6; 2026-11-30: 8
+- **[arts] Eventbrite New York — blocked (fetch failed):** Discovery landing page returned HTTP 405. Individual public organizer ticket pages were readable and used for verification; no account access or submissions.
 - **[arts] FIAF (French Institute Alliance Française) — blocked (fetch failed):** Events page returned HTTP 403.
 - **[arts] Film at Lincoln Center — blocked (fetch failed):** Calendar returned HTTP 403.
-- **[arts] Film Forum — used:** Retained 7 screenings, including 5 different films explicitly scheduled on Thanksgiving. Guest appearances, restoration closing date and standard admission were verified. Weekend general-showtime tabs were not yet populated.
-- **[arts] Free Shakespeare in the Park — blocked (fetch failed):** Assigned Public Theater page returned HTTP 403. The November window is outside the configured summer season; no performances inferred.
-- **[arts] Genre coverage — used:** art: 14; museums: 4; theater: 11; film: 29; books: 1; comedy: 13. Art/museums combined: 18. Theater includes 7 distinct productions. Books misses its floor of 4 by 3 despite expanded bookstore, library and poetry-calendar searches; inaccessible calendars, out-of-window programs and explicit holiday…
+- **[arts] Film Forum — used:** Read the weekly schedule and event-specific pages; retained 5 screenings, including Thanksgiving guest introductions, a 35mm presentation, and a closing restoration.
+- **[arts] Free Shakespeare in the Park — blocked (fetch failed):** Assigned URL returned HTTP 403. Configured recurring season ends September 30 and is outside this window.
+- **[arts] Genre coverage — used:** art: 10; museums: 4; film: 24; theater: 7; comedy: 16; books: 1. Total: 62, including 49 dated events and 13 ongoing runs. Books miss the floor of 4 despite bookstore, library, poetry, and cultural-institute checks. Theater count includes 3 dated Elektra performances and 3 run-only entries, not 7 d…
 - **[arts] Goethe-Institut New York — blocked (fetch failed):** Events page returned HTTP 403.
-- **[arts] Gotham Comedy Club — blocked (fetch failed):** Calendar remained a loading shell.
-- **[arts] Gothamist — checked, no retained pick:** Read arts coverage and the November library-program guide. Retrieved dated leads were outside the window or out of lane; none retained.
+- **[arts] Gotham Comedy Club — blocked (fetch failed):** Calendar remained at Loading with no dates or lineups.
+- **[arts] Gothamist — checked, no retained pick:** Arts and Entertainment listing consulted; no item-level lead retained. Linked film and library roundups were not fully investigated.
 - **[arts] Greenlight Bookstore — blocked (fetch failed):** Events page returned HTTP 403.
-- **[arts] Guggenheim — blocked (fetch failed):** Events redirect ended in HTTP 404.
-- **[arts] Housing Works Bookstore — blocked (fetch failed):** Retrieved page content was raw application metadata without usable event listings; no claim of a completed calendar search.
-- **[arts] Hyperallergic — used:** Read the New York index and followed exhibition leads. Retained Laia Abril and artport with provenance and official verification. One article became account-gated; the Midtown exhibition ending November 22 was excluded.
-- **[arts] IFC Center — used:** Retained 3 special screening entries: Tangles with Abbi Jacobson, Chicken Shop Date and Tangles with Bryan Cranston. Alternative same-day showtimes were consolidated.
-- **[arts] Instituto Cervantes New York — error:** Transport-level DNS, connection or TLS failure prevented retrieval.
-- **[arts] International Center of Photography — used:** Retained 2 exhibitions with official dates. Laia Abril preserves Hyperallergic discovery provenance.
-- **[arts] Japan Society — blocked (fetch failed):** Events redirect returned only a skip-navigation shell with no usable listings.
-- **[arts] KGB Bar — error:** Calendar requests failed at the transport level; no listings verified.
-- **[arts] Korean Cultural Center New York — used:** Retained The Present Tense with official run dates, address and normal opening hours; Thanksgiving exception not confirmed.
-- **[arts] La MaMa — used:** Retained Jump Start on November 27 and Mirrored Pool on November 29. Legacy public OvationTix pages verified exact times, rooms, prices and unavailable dates after the newer ticket pages failed to render.
-- **[arts] Light Industry — checked, no retained pick:** Readable calendar jumped from November 17 to December 1; no in-window program.
-- **[arts] Lincoln Center — checked, no retained pick:** Readable upcoming-program listings began December 1; no in-window arts event retained.
-- **[arts] Littlefield — used:** Retained Friendsgiving; official detail and organizer ticket page verified November 24, show and doors times, price, address and 21+ restriction.
-- **[arts] Low Cinema — used:** Verified the film-specific calendar and retained 1 Sunday screening in Ridgewood. No Thanksgiving show is published.
-- **[arts] McNally Jackson — blocked (fetch failed):** Events access returned HTTP 403.
-- **[arts] Metrograph — used:** Read the week's calendar and selected film pages; retained 8 screenings. November 26 is closed. Earlier Q&A notices were not misattributed to this week.
-- **[arts] MoMA — blocked (fetch failed):** Calendar returned HTTP 403. Upstream recurring free-Friday entries were not duplicated.
-- **[arts] MoMA PS1 — used:** Calendar and Hard Art detail were readable; retained 1 exhibition with confirmed run dates.
-- **[arts] Museum of the City of New York — used:** Retained After Dark with official closing date and Skint provenance. Opening date and holiday access were not established from the official page.
-- **[arts] Museum of the Moving Image — blocked (fetch failed):** Events page returned HTTP 403. Unconfirmed editorial screening leads were not retained.
-- **[arts] New Museum — checked, no retained pick:** Retrieved event data began December 6; no in-window event retained. Retrieval was partial, not an exhaustive calendar audit.
-- **[arts] New York Comedy Club — used:** Read named weekday lineups; retained the November 25 Upper West Side show with prices, address, age limit and minimum-purchase conditions. Generic unnamed listings were excluded.
-- **[arts] New York Public Library — blocked (fetch failed):** Calendar and LIVE pages did not render event results; date-query attempt still showed Loading events. No dates inferred.
-- **[arts] New York Theatre Workshop — blocked (fetch failed):** Calendar navigation and production links loaded without usable dated listings.
-- **[arts] Nitehawk Cinema — used:** Checked Williamsburg separately from Prospect Park. Retained Boyz n the Hood and Saturday Citizen Kane; conflicting Citizen Kane format labels are disclosed.
-- **[arts] Nitehawk Prospect Park — used:** Retained 5 screenings. Purchase-page headers resolved hidden date selectors for Elsinore, The Last Waltz and Beginners. No purchase or seat selection performed.
-- **[arts] Nonsense NYC — checked, no retained pick:** Public homepage exposed subscription/navigation material but no usable public event listings; no subscriber access attempted.
-- **[arts] Park Avenue Armory — blocked (fetch failed):** Calendar returned HTTP 403.
-- **[arts] Performance Space New York — checked, no retained pick:** Retrieved calendar exposed a stale 2020 link and no verifiable in-window program.
-- **[arts] Pioneer Works — used:** Events landing page was sparse, but calendar, visit information and exhibition pages were readable. Retained 2 current exhibitions; Thanksgiving exceptions remain unverified.
-- **[arts] Playbill Productions — used:** Consulted Broadway production listings and details. Retained 4 performance entries with provenance: 3 Fantasticks dates and Two Strangers' closing performance. Official producer pages verified the productions; Playbill supplies the date-specific Two Strangers schedule.
-- **[arts] Powerhouse Arena — checked, no retained pick:** Readable upcoming author listings began December 9; none retained.
-- **[arts] Powerhouse Arts — used:** Retained 2 current exhibitions. Prado adult admission is $20 on the official page, superseding older editorial pricing; concession labels conflict and were omitted.
-- **[arts] Q.E.D. Astoria — blocked (fetch failed):** Homepage and linked calendar failed to render usable events; calendar displayed a loading message.
-- **[arts] Queens Museum — used:** Calendar extraction was dominated by date-navigation grids; homepage and official exhibition detail provided a verified Sonia Boyce exhibition instead. No dated program inferred.
-- **[arts] Rizzoli Bookstore — used:** Retained 1 November 23 author conversation. RSVP and doors verified through organizer ticketing; conflicting end times left unresolved rather than guessed.
-- **[arts] Rooftop Films — checked, no retained pick:** Public site showed off-season membership/submission information, not an in-window screening.
+- **[arts] Guggenheim — not checked:** Not opened during this research pass.
+- **[arts] Housing Works — unavailable:** Fetch returned raw page infrastructure rather than a usable event listing; no candidate verified.
+- **[arts] Hyperallergic — used:** Read the New York listing and two linked exhibition articles. Retained the Lehman exhibition after official confirmation. The Maggie Ellis article reached a login wall; that lead was not retained.
+- **[arts] IFC Center — used:** Retained 5 screenings across November 26–30, including 2 explicitly identified 35mm presentations and 2 guest discussions.
+- **[arts] Instituto Cervantes New York — not checked:** Not opened during this research pass.
+- **[arts] Japan Society — blocked (fetch failed):** Redirected events page exposed only a skip-to-content link; no readable schedule.
+- **[arts] KGB Bar — error:** Both events and calendar requests failed at the transport/DNS/TLS level.
+- **[arts] Korean Cultural Center New York — used:** Retained The Present Tense after verifying its November 19–December 18 run and gallery address. Holiday exceptions remain unverified.
+- **[arts] La MaMa — used:** Read festival and individual production pages. Retained Mirrored Pool and Jump Start as single short-run entries, plus A View from the Bridge. Ticketing shells did not expose individual puppet-show times or stages.
+- **[arts] Lehman College Art Gallery — used:** Official page confirms the current humor exhibition through January 16. Regular hours verified; Thanksgiving campus access remains uncertain.
+- **[arts] Light Industry — checked, no retained pick:** Read 2026 calendar: November 17 was followed by December 1, with no assigned-window event listed.
+- **[arts] Lincoln Center — checked, no retained pick:** Readable upcoming-program listing began December 1, outside the assigned window.
+- **[arts] Littlefield — used:** Retained 2 dated comedy bills after individual-page verification. Disclosed the November 30 political fundraiser and its contribution range; excluded dancehall programming.
+- **[arts] Low Cinema — checked, no retained pick:** Read November calendar. Monday commentary screenings were sold out; remaining offerings repeated You Can See Everything. None retained.
+- **[arts] Magnet Theater — used:** Verified November 30 at 9:30pm and $10 admission for You Are Not Alone.
+- **[arts] McNally Jackson — blocked (fetch failed):** Events page returned HTTP 403.
+- **[arts] Metrograph — used:** Calendar and selected film pages verified 2 retained programs. Did not misattribute earlier guest appearances to this week's screenings; calendar indicates Thanksgiving closure.
+- **[arts] MoMA — blocked (fetch failed):** Calendar returned HTTP 403. Fixed free-Friday series not duplicated.
+- **[arts] MoMA PS1 — used:** Read calendar, exhibition pages, and visit information; retained 2 exhibitions. Free admission and November 24–26 closures verified.
+- **[arts] Morgan Library & Museum — blocked (fetch failed):** Dickens exhibition page returned HTTP 403; the newsletter's run dates were not treated as official confirmation.
+- **[arts] Museum of the Moving Image — blocked (fetch failed):** Events page returned HTTP 403.
+- **[arts] New Museum — not checked:** Not opened during this research pass.
+- **[arts] New York Comedy Club — used:** Read calendar, Judy Gold's event page, and venue locations. Retained her November 24 headline show with disclosed fees, minimum spend, and displayed limited inventory.
+- **[arts] New York Public Library — unavailable:** Date-specific November 24 and November 30 searches and LIVE listing remained at Loading events; no program fabricated.
+- **[arts] New York Theatre Workshop — blocked (fetch failed):** Calendar page loaded navigation and empty performance sections without a usable schedule.
+- **[arts] Nitehawk Cinema — used:** Williamsburg calendar and film/date pages yielded 4 candidates. Citizen Kane's conflicting DCP/35mm information is disclosed; Fellowship's 35mm designation is explicit.
+- **[arts] Nitehawk Prospect Park — used:** Checked this location independently. Retained Network, Elsinore, and both dated Last Waltz brunch screenings; checked ticket/date pages.
+- **[arts] Nonsense NYC — checked, no retained pick:** Public homepage loaded but exposed subscription/navigation links rather than a dated weekly event listing.
+- **[arts] Park Avenue Armory — not checked:** Not opened during this research pass.
+- **[arts] Performance Space New York — not checked:** Not opened during this research pass.
+- **[arts] Pioneer Works — used:** The assigned events URL rendered an application shell; the linked calendar, two exhibition pages, and visit page were readable. Retained 2 current exhibitions. Holiday exceptions were not established.
+- **[arts] Playbill Productions — checked, no retained pick:** Read current Broadway listings, including Two Strangers' November 29 closing. Its official ticket link returned HTTP 403; no Broadway candidate retained. Coverage remains incomplete.
+- **[arts] Powerhouse Arena — checked, no retained pick:** Upcoming listing began December 9 at Columbus Circle; no in-window event retained.
+- **[arts] Public search — blocked (fetch failed):** Date-specific literary searches returned Google's JavaScript interstitials and DuckDuckGo's CAPTCHA. Neither was bypassed.
+- **[arts] Q.E.D. Astoria — unavailable:** Homepage exposed navigation but no dated programs. Linked calendar was not investigated further.
+- **[arts] Queens Museum — unavailable:** Calendar fetched, but successive extracted sections were dominated by extensive date navigation rather than usable exhibition/event records. No candidate verified.
+- **[arts] Random Access Theatre / The RAT NYC — used:** Organizer and venue agree on November 27 at 8pm for the Die Hard premiere. Organizer confirms $12 price; unrelated venue boilerplate is disclosed.
+- **[arts] Rizzoli Bookstore — used:** Verified November 30 discussion with Aram Kim and Pat Cummings on official and organizer ticket pages. Conflicting end times disclosed; book price not mistaken for admission.
+- **[arts] Rooftop Films — checked, no retained pick:** Homepage describes the off-season, memberships, and 2027 submissions; no in-window public screening retained.
 - **[arts] Screen Slate — blocked (fetch failed):** Listings returned HTTP 403.
-- **[arts] Second Stage Theater — used:** Official performance calendar verified 3 retained Fantasticks dates and the Thanksgiving-day gap.
+- **[arts] Snug Harbor — blocked (fetch failed):** Events page returned HTTP 403; Staten Island Museum supplied an independently verified borough candidate.
 - **[arts] St. Ann's Warehouse — blocked (fetch failed):** Events page returned HTTP 403.
-- **[arts] Staten Island Museum — used:** Retained Stephanie Dinkins, officially marked now on view. Run boundaries are unpublished and null. Visitor page confirms Thanksgiving closure and November 27–29 opening.
-- **[arts] Strand Book Store — blocked (fetch failed):** Events access returned HTTP 403.
-- **[arts] The Bell House — blocked (fetch failed):** Calendar remained a loading shell.
-- **[arts] The Bronx Museum — used:** Retained Saya Woolfalk exhibition. Official visitor guide confirms free admission, renovation entrance and closures November 26–27.
-- **[arts] The Center for Fiction — blocked (fetch failed):** Events access returned HTTP 403.
+- **[arts] Staten Island Museum — used:** Anchoring Home is explicitly now on view. Verified Thanksgiving closure and November 27–29 opening; did not convert an index publication date into an exhibition opening date.
+- **[arts] Strand Book Store — blocked (fetch failed):** Events page returned HTTP 403.
+- **[arts] Syndicated — used:** Official linked ticket calendar verified 4 retained screenings, including both Bill Plympton appearances. Excluded sold-out offerings.
+- **[arts] The Bell House — blocked (fetch failed):** Calendar redirected to a shows page that remained at Loading.
+- **[arts] The Bronx Museum — used:** Verified WoodsWoman exhibition dates, free admission, and closures November 26–27; retained 1 ongoing exhibition.
 - **[arts] The Metropolitan Museum of Art — blocked (fetch failed):** Events page returned HTTP 429.
-- **[arts] The Poetry Project — checked, no retained pick:** Readable calendar moved from November 20 to December 2; no in-window reading.
+- **[arts] The Poetry Project — checked, no retained pick:** Read calendar: upcoming events begin December 2 and latest past event was November 20; no assigned-window reading listed.
 - **[arts] The Public Theater — blocked (fetch failed):** Season page returned HTTP 403.
-- **[arts] The Shed — blocked (fetch failed):** Queue-it access screen prevented program verification.
-- **[arts] The Skint — used:** Read the complete current November 20–23 roundup. Retained 9 items with provenance, including later officially verified performances from its Elektra and Rossellini leads. Most dated roundup entries were November 20–22 and excluded.
-- **[arts] The Skyscraper Museum — used:** Retained the free November 25, 3pm curator tour. Required timed reservation verified; later book talks fall outside the window.
+- **[arts] The Shed — not checked:** Not opened during this research pass.
+- **[arts] The Skint — used:** Read the complete current Thanksgiving-week article, including every day and its ongoing link. Fewer than 20 distinct in-window arts-lane leads were present in that article. Retained 6 dated candidates with item-level provenance; omitted unconfirmed leads and other lanes.
+- **[arts] The Skyscraper Museum — used:** Programs listing explicitly dates Carol Willis's free curator tour November 25 at 3pm; individual page confirms content and timed-ticket requirement.
 - **[arts] The Stand — blocked (fetch failed):** Shows page returned HTTP 403.
-- **[arts] Theatre for a New Audience — used:** Retained 3 explicitly scheduled Elektra performances. November 24 and 25 sold out and excluded; November 27 limited-to-no availability is prominently disclosed.
-- **[arts] Time Out New York — used:** Consulted homepage and weekly guide; retained Two Girls and the Prado VR exhibition after official checks. Editorial closing-date and price conflicts were not copied. Guide was not exhaustively audited beyond the retrieved portions.
-- **[arts] Two Strangers — used:** Official production site confirms November 29 closing; Playbill supplies that week's Sunday 3pm schedule. Telecharge returned HTTP 403, leaving price and availability unknown.
-- **[arts] UCB New York — blocked (fetch failed):** Assigned shows page returned HTTP 403.
-- **[arts] Union Hall — used:** Retained 7 distinct named comedy shows across all published in-window dates. Organizer ticket pages verified times and location; conflicting doors metadata on 2 shows is disclosed.
-- **[arts] Westbeth Gallery — checked, no retained pick:** Winter Show page conflicts between November 27 and December 27 closing dates; excluded rather than labeling an unverified final week.
-- **[arts] Whitney Museum — used:** Verified 2 date-specific tours and retained 1 newly opened exhibition. Museum admission is not represented as free merely because tours are included. Upstream free-Friday event excluded.
-- **[bookahead] & Juliet Broadway — used:** Official homepage confirms final Broadway performance January 3; official January 2027 calendar verifies the 3pm performance and direct ticket link.
-- **[bookahead] 92NY (92nd Street Y) — error:** The events URL redirected through a shared-session endpoint that returned HTTP 503; no event calendar was retrieved.
-- **[bookahead] Atlantic Theater Company — checked, no retained pick:** Read the current season homepage. Too Bad For Her and Old Actress are already on sale; no future public release or additional timing pressure was verified. The children's production was excluded.
-- **[bookahead] AXS — blocked (fetch failed):** The official LCD Soundsystem December 13 ticket URL returned HTTP 403. The direct link is preserved, but price, showtime, and live inventory were not verified.
-- **[bookahead] BAM — checked, no retained pick:** Consulted film, programs, Next Wave, HUMAN, Minor Music, and the Minor Music ticket listing. Raw HTML recovered listings omitted by text extraction. Next Wave general on-sale was June 30; remaining December shows had short runs but no additional verified availability pressure.
-- **[bookahead] Boesky Gallery — used:** The official Requiem release confirmed December 19 and supported the Hyperallergic lead. Retained as a closing-date watch, not a final-two-week or scarce-ticket alert. A separate contact-page request returned HTTP 404.
-- **[bookahead] Broadway.org — blocked (fetch failed):** The assigned shows page returned HTTP 403.
-- **[bookahead] Brooklyn Museum — blocked (fetch failed):** Both calendar and exhibition listing returned HTTP 429; closing dates and on-sale information could not be verified.
-- **[bookahead] Film at Lincoln Center — blocked (fetch failed):** The calendar returned HTTP 403; festival releases could not be checked.
-- **[bookahead] Free Shakespeare in the Park — blocked (fetch failed):** The primary page returned HTTP 403. The permitted Help Scout Daily Ticket Update was readable and states that the 2026 season has concluded, with a summer 2027 return outside this lane's horizon.
-- **[bookahead] Gagosian New York — blocked (fetch failed):** The exhibition listing returned HTTP 403; New York locations could not be filtered or checked.
-- **[bookahead] Governors Island — checked, no retained pick:** The official events page was readable but exposed no upcoming event entries or actionable release deadlines.
-- **[bookahead] Guggenheim — blocked (fetch failed):** The assigned events URL redirected to a calendar returning HTTP 404. An alternate exhibition request exposed raw application HTML but no verified exhibition dates in the retrieved content.
-- **[bookahead] Hyperallergic — used:** Consulted three New York index pages and five article leads; retained Requiem with item-level editorial provenance and official confirmation. Several other articles exposed only registration-gated excerpts. The 260 Madison, Mrs. anniversary, and Siphon leads had already ended.
-- **[bookahead] Jack Shainman Gallery — checked, no retained pick:** Read the exhibition listing and Donyel Ivy-Royal page, which confirms December 19. No final-two-week NYC closing or future on-sale was identified; this additional December closing was not retained.
-- **[bookahead] Knockdown Center — blocked (fetch failed):** The attempted residency event page returned HTTP 429. Residency dates were instead verified on the official promoter's dedicated page.
-- **[bookahead] Lincoln Center — used:** Checked featured performances, Contemporary Dance Festival, Under the Radar, globalFEST, Wynton Marsalis, and public ticketing information. Retained one verified future public on-sale for Carmen de Lavallade. Already-on-sale concerts and the November 4 dance-festival release were excluded.
-- **[bookahead] Low Cinema — used:** Read November and December calendars, the commentary-film page, and the December 2 purchase page. Retained one screening supported by five other listed showings being marked sold out.
-- **[bookahead] Luhring Augustine — used:** Checked both listed exhibitions and the Jason Moran detail page. Retained STACKS as a December 19 visit-by watch; it is not yet in its final two weeks. The other listing is in Paris.
-- **[bookahead] Madison Square Garden — checked, no retained pick:** The public calendar returned Showing 0 Events and no usable listings. No concert on-sale information could be verified from the rendered response.
-- **[bookahead] MoMA — blocked (fetch failed):** Both calendar and exhibition-calendar requests returned HTTP 403.
-- **[bookahead] MoMA PS1 — checked, no retained pick:** Read the calendar, Teresa Margolles exhibition, and School Nite series. February–March exhibition closings were not treated as immediate alerts. Future School Nite dates have no published ticket-release date; earlier sold-out editions were not reused.
-- **[bookahead] Mrs. Gallery — checked, no retained pick:** Official DECENNIUM page confirms September 8–November 14, 2026; the Hyperallergic lead was expired and excluded.
-- **[bookahead] Museum of the Moving Image — blocked (fetch failed):** The assigned events page returned HTTP 403.
-- **[bookahead] New Museum — checked, no retained pick:** Read event and exhibition data embedded in public HTML. Five current exhibitions have January endings, but no immediate closing or dated future ticket release was retained.
-- **[bookahead] New York Theatre Workshop — checked, no retained pick:** Read the calendar and 2026–27 season. Wild Rose and The Grief Eater Near North Bender already have ticket links; no future release date or exceptional availability constraint was verified.
-- **[bookahead] Open House New York — checked, no retained pick:** Read the calendar and December 7 Before New York talk. Public tickets are already available without verified timing pressure; the Open Council tour is members-only.
-- **[bookahead] OpenStreetMap Nominatim — used:** Consulted public geocoding results for the retained venues and addresses; coordinates are supplied for every item. The 521 West 21st Street result uses an older tenant label, so venue identity comes from Paula Cooper's official exhibition page.
-- **[bookahead] Park Avenue Armory — blocked (fetch failed):** The assigned calendar returned HTTP 403.
-- **[bookahead] Paula Cooper Gallery — used:** Checked both current exhibitions and their detail pages. Retained the earlier December 12 closing, Art is for the Spirit; omitted the additional December 19 Oldenburg closing. Neither current show is yet in its final two weeks.
-- **[bookahead] Pioneer Works — used:** Checked exhibitions, event-specific metadata, visiting information, and three concert pages. Retained two December 20 exhibition closings. Siphon had ended; concert pages did not establish a dated future on-sale or sufficient additional timing pressure.
-- **[bookahead] Playbill Productions — used:** The productions URL redirected to the Broadway listing. Retained two closing leads, SIX and & Juliet, after official confirmation; preserved Playbill provenance. Here There Are Blueberries was not retained because the attempted ticket confirmation returned HTTP 403.
-- **[bookahead] SIX Broadway — used:** Official homepage confirms January 3, 2027 closing; official calendar supplies the final 7pm performance and direct ticket link.
-- **[bookahead] St. Ann's Warehouse — blocked (fetch failed):** The assigned events page returned HTTP 403.
-- **[bookahead] The Bowery Presents — used:** Read the official LCD Soundsystem 2026 residency schedule and retained its last listed night, December 13, strictly as an ending-date watch. The promoter labels that date Best Availability; no sellout urgency is claimed.
-- **[bookahead] The Joyce Theater — error:** The performances request exceeded the fetcher's ten-redirect limit in a repeated HTTP 307 redirect chain.
-- **[bookahead] The Metropolitan Museum of Art — blocked (fetch failed):** Both events and exhibition listings returned HTTP 429.
-- **[bookahead] The Odyssey 70mm watch — blocked (fetch failed):** AMC's Lincoln Square page and attempted film page returned HTTP 403; IMAX's film and news pages also returned HTTP 403. Additional dates, standard-seat inventory, release windows, refund/exchange changes, and regional 70mm engagements could not be verified. No alert issued; this is not confirmation…
-- **[bookahead] The Public Theater — blocked (fetch failed):** The assigned season page returned HTTP 403; no downtown production deadline or future on-sale was verified.
-- **[bookahead] The Shed — blocked (fetch failed):** The programs page redirected to a Queue-it soft-block waiting room; programming was inaccessible.
-- **[bookahead] Theatre for a New Audience — used:** Read the season homepage, Elektra calendar and pricing, and Honor detail page. Retained Elektra's newly extended December block against explicit sold-out listings. Honor was subscriber-booking-only without a verified public on-sale date.
-- **[bookahead] Trigger coverage — used:** 11 retained items: closing=8; onsale=1; limited_availability=2; reservation_release=0; timed_entry=0; none=0. All deadlines fall within the book-ahead horizon or identify a verified ticket release for an event in that horizon. No retained commercial-gallery exhibition is claimed to be in its final…
-- **[bookahead] Whitney Museum — checked, no retained pick:** Read events and exhibitions and confirmed Minnie Evans ends January 10. No near-term release or sufficiently immediate closing alert was retained; members-only events were excluded.
-- **[local] Atlas Obscura New York — blocked (fetch failed):** The assigned New York events page returned HTTP 403.
-- **[local] Balance — used:** largest source: The Skint 11/41; Brooklyn 21/41. Boroughs: Brooklyn 21, Manhattan 12, Bronx 5, Queens 2, Staten Island 1. Distinct venue/route groups: 19, grouping Prospect Park sites and Wave Hill rooms. Largest venue group: Prospect Park 6/41. No verified spectator-sports game or niche science le…
-- **[local] Barclays Center — checked, no retained pick:** Accessible in-window listings included November 28-29 John Summit performances, which belong to the music lane; the next displayed Nets game was November 30, outside this window.
-- **[local] Briscola domain verification — error:** An incorrect guessed domain redirected to unrelated gambling/spam content, which was ignored. The actual restaurant was verified at briscolabrooklyn.com. Its Thanksgiving event was not retained.
-- **[local] Brooklyn Botanic Garden — used:** Verified four Lightscape dates and exact adult peak/off-peak prices from the official calendar and price table. November 23, 24 and 26 are disabled. Excluded Cornucopia because registration was closed and the price exceeded budget.
-- **[local] Brooklyn Brainery — unavailable:** The courses page exposed general mission and location information but no usable dated course inventory.
-- **[local] Brooklyn Flea — used:** Verified the active DUMBO Saturday/Sunday 10am-5pm schedule and address; retained both weekend occurrences.
-- **[local] Brooklyn Magazine — blocked (fetch failed):** The fetched page exposed a sign-in/subscription wall rather than usable current listings.
-- **[local] Brooklyn Public Library presents — blocked (fetch failed):** The assigned events page returned HTTP 403.
-- **[local] Bryant Park — used:** Verified Holiday Shops hours and the rink's 2026-27 season and November 19-January 3 peak hours. Retained two market occurrences and Thanksgiving skating with a heavy-rain warning.
-- **[local] Daily coverage — used:** 2026-11-23: 5; 2026-11-24: 4; 2026-11-25: 7; 2026-11-26: 4; 2026-11-27: 5; 2026-11-28: 8; 2026-11-29: 8
-- **[local] Domino Park — used:** Verified the 2026-27 skating season, Monday hours and explicit November 26-27 extended holiday hours.
-- **[local] Eater New York — used:** Read the current Brooklyn heatmap. Retained Altbau, SSRP and Zig Zag restaurant provenance. Chain locations were excluded; vague opening months were not converted into invented opening dates.
-- **[local] Eventbrite New York — blocked (fetch failed):** The assigned city discovery page returned HTTP 405. Individual organizer and event pages were accessible and used separately; the city-calendar block is not treated as successful coverage.
-- **[local] Flushing Town Hall — checked, no retained pick:** Read the accessible calendar; no qualifying in-window local program was retained. Relevant market and class listings were in December.
-- **[local] Genre coverage — used:** 41 events: food 4; markets 9; outdoors 11; sports 5; workshop 5; unusual 4; other 3. Overlapping floors: at least 28 free-entry or outdoor activities; 13 food/market events; 8 workshops/classes/maker activities including radio, synthesizers and archive processing; 4 unusual activities. Date ideas:…
-- **[local] Gothamist — checked, no retained pick:** Read the arts-and-entertainment listing; no sufficiently verified in-window local-lane item was retained.
-- **[local] Governors Island — checked, no retained pick:** The upcoming-events page exposed no qualifying dated local-lane program in the window.
-- **[local] Grand Central Holiday Fair — blocked (fetch failed):** The official holiday-fair page returned HTTP 403; the fair was not retained. MAS's independently verified terminal tours are separate.
-- **[local] Greenbelt Conservancy — used:** Verified Saturday Orienteering Fundamentals on the official event page and ticket listing, including the Staten Island location and adult-appropriate age guidance.
-- **[local] GrowNYC — blocked (fetch failed):** Direct Bartel-Pritchard and Grand Army Plaza market pages returned HTTP 403. Retained market dates and hours rely on the accessible official Prospect Park Alliance calendar.
-- **[local] Grub Street — used:** Read all five November 19 dining leads and the Altbau opening article. Retained Altbau, Cahoots and Tatiana restaurant provenance, plus the Cahoots venue-discovery path to trivia. Tatiana's November 20 anniversary special was excluded as expired.
-- **[local] Interference Archive — used:** Retained the November 25 Collections Work Party. The official page resolves stale August wording in the ticket description; limited-space RSVP is explicitly stated.
-- **[local] Macy's Thanksgiving Day Parade — blocked (fetch failed):** The official parade page returned HTTP 403; no parade event was retained from unsupported assumptions.
-- **[local] Madison Square Garden — unavailable:** The fetched calendar returned a JavaScript-dependent shell and zero rendered events. This is not evidence that no games occur.
-- **[local] Morbid Anatomy — blocked (fetch failed):** The calendar exposed a November 29 tarot salon, but linked library/location pages returned 404 and the current physical address could not be corroborated. The event was omitted rather than assigned an old address or erroneous metadata coordinates.
-- **[local] Municipal Art Society tours — used:** Verified five public tours with nonmember prices, exact times and one-hour-before-start registration deadlines. Withheld meeting points were not replaced with invented coordinates.
-- **[local] National Weather Service — used:** Consulted the official Prospect Park-area forecast for November 23-29. Added Thursday rain/wind and Friday midday rain-risk notes to affected outdoor plans.
-- **[local] New York Liberty — not checked:** The assigned team schedule was not opened.
-- **[local] New York Mets — not checked:** The assigned team schedule was not opened.
-- **[local] New York Public Library — unavailable:** The calendar and date-filtered request remained at Loading events, without usable program results.
-- **[local] New York Road Runners — blocked (fetch failed):** Access encountered a waiting-room redirect loop; no race was retained without verification.
-- **[local] Nonsense NYC — unavailable:** Read the homepage and About page. The publisher explicitly says its listings are available only by email, not online; no public dated newsletter was available and no subscription was submitted.
-- **[local] NYC Parks Events — blocked (fetch failed):** The assigned events page returned HTTP 405. Prospect Park Alliance independently corroborated the ranger hike; this does not count as successful access to the citywide calendar.
-- **[local] NYC Planning GeoSearch — used:** Used public address-geocoding responses to corroborate restaurant and venue coordinates without collecting Google or Yelp ratings. All restaurant reviews objects are empty.
-- **[local] NYC Resistor — used:** Retained four distinct dated activities from the official Eventbrite organizer. Excluded fixed Monday/Thursday public craft nights and the sold-out TouchDesigner/ESP32 class.
-- **[local] NYC Resistor blog — checked, no retained pick:** Read the opening portion of the RSS feed, which contained project posts rather than retained dated event leads. Used the assigned Eventbrite organizer for programs; ignored unrelated site content and did not follow injected offers.
-- **[local] Open House New York — checked, no retained pick:** No eligible in-window public local event was retained; later December programming and members-only offerings were excluded.
-- **[local] Prospect Park Alliance — used:** Verified six occurrences across greenmarkets, adult volunteering, birdwatching and the post-Thanksgiving ranger hike. Used the dated calendar for times where detail pages omitted them.
-- **[local] Q.E.D. Astoria — unavailable:** Read the homepage and linked calendar; the calendar remained a loading shell without usable dated listings.
-- **[local] Queens Botanical Garden — used:** Verified Monday compost and Tuesday farm volunteer sessions from dated official pages. Registration links were preserved, including the compost link's older slug.
-- **[local] Red Calendar — checked, no retained pick:** Read in-window listings through November 30. Most were music or arts programming; a ritual lead lacked independent official confirmation and a virtual activity was excluded.
-- **[local] Roebling Rink — used:** Verified daily operation November 14, 2026-January 31, 2027 and the Brooklyn Bridge Park location. Exact Monday sessions and admission price were not exposed.
-- **[local] Rooftop Films — checked, no retained pick:** The accessible site emphasized offseason membership and submissions; no qualifying in-window local-lane event was retained.
-- **[local] Seasonal configuration — used:** Read preferences and seasonal-events configuration. Did not open sources.json. Fixed craft nights and other collector-emitted series were not duplicated; no relevant local-lane reminder was in season. No files or external services were modified.
-- **[local] Secret NYC — blocked (fetch failed):** The response was an AWS WAF JavaScript challenge rather than readable listings.
-- **[local] Simons Foundation lectures — checked, no retained pick:** The accessible upcoming lecture listings were December 2, 4 and 9, outside the assigned window.
-- **[local] Smorgasburg — checked, no retained pick:** The official New York information said locations were closed for the season; no in-window market was retained.
-- **[local] Snug Harbor — blocked (fetch failed):** The events page returned HTTP 403. Staten Island research continued with the Greenbelt Conservancy.
-- **[local] The Dynamo Room and The View — used:** Official menu and restaurant booking evidence corroborated two Thanksgiving meals. The View's $120 excludes tax, service and beverages; no live table availability is claimed.
-- **[local] The Infatuation NYC — used:** Read the homepage, full 2026 Thanksgiving guide and selected restaurant pages. Retained two officially corroborated Thanksgiving events and restaurant provenance. Briscola's special event was omitted because its booking page did not expose confirmation.
-- **[local] The Skint — used:** Read the complete current November 20-23 post and ongoing roundup, examining seasonal and local leads rather than only snippets. Retained 11 dated event occurrences with item-level provenance; excluded expired, out-of-lane and fixed-series duplicates.
-- **[local] Time Out New York — used:** Read the long weekly guide through its end. Retained Bryant Park discovery provenance on three occurrences, with official schedules used for verification. Numerous older, expired and other-lane entries were excluded.
-- **[local] Wave Hill — used:** Retained five occurrences: two Holiday Teas, Saturday Gratitude Weekend, Sunday yoga and needle felting. Verified Wednesday's early closing and Thanksgiving closure.
-- **[local] Welcome to Chinatown — used:** Read the official seasonal page and Thanksgiving-weekend Luma listing. Retained Friday with Favor Coffee; did not assume Thanksgiving Thursday opening from generic weekly hours.
-- **[local] Xiaohongshu / REDnote — not checked:** Not opened; research prioritized public official calendars and accessible editorial sources.
-- **[music] Additional unverified leads — unavailable:** Refuge and Downtown Music Gallery requests failed at transport/TLS level; Continuousness ticket page stayed loading. None retained as verified performances.
-- **[music] Americas Society — blocked (fetch failed):** Official events page returned HTTP 403.
-- **[music] Baby's All Right — used:** Followed official homepage to its Eventim calendar and individual Eventim/DICE listings. Retained 4; flagged the Slim Kings time conflict and kept LIIM's unverified showtime distinct from doors.
-- **[music] Balance — used:** largest source: NYC Noise 9/55; Brooklyn 24/55. Largest discovery share 16.4%; Brooklyn 43.6%. Retained 23 distinct venues, counting Birdland's two rooms as one venue; consulted more than 40 official venues/organizers. Boroughs: Manhattan 30, Brooklyn 24, Queens 1, Bronx 0, Staten Island 0. All fiv…
-- **[music] BAM — unavailable:** Assigned film page and homepage exposed JavaScript listing placeholders, not usable music or dance performance dates.
-- **[music] Barbès — used:** Venue and organizer Viewcy pages verified 3 retained events, including exact start/end times and coordinates. Donation or unknown admission was not labelled free.
-- **[music] Barclays Center — used:** Official event HTML confirms John Summit November 28 and 29 at 7pm, doors one hour earlier. Retained 2; ticket prices and inventory remain unverified.
-- **[music] Birdland — used:** Verified dates, prices and doors/show distinctions for 3 retained performances: Vince Giordano, David Ostwald and Anderson Brothers. Theater and Jazz Club are different rooms at one venue.
-- **[music] Blue Note — used:** Official event pages verified 8 retained performances across all seven dates, including all four Chief Adjuah nights. Ticket prices unavailable; $20 minimum distinguished from admission. One attempted Ticketweb page returned 530.
-- **[music] BRIC Celebrate Brooklyn! — checked, no retained pick:** Checked the dedicated festival page, not the general BRIC calendar. Summer programming is out of season; no November 23–29 concert.
-- **[music] Bronx Music Hall — checked, no retained pick:** Recovered actual official site after an unsuccessful domain attempt. Calendar showed November 22 programming and December events, with no qualifying November 23–29 listing.
-- **[music] Brooklyn Bowl — used:** Retained 4: Monday line dancing, free Wednesday Dead Bowl and both Antibalas nights. Flagged contradictory Monday timing. Venue closed November 24 and 26; children's Sunday programme excluded.
-- **[music] Brooklyn Folk Festival / Durations — checked, no retained pick:** Festival leads and official sites checked. No November 23–29 festival dates verified. Conflicting month text on Durations was not resolved by inventing dates; neither festival retained.
-- **[music] Brooklyn Magazine — blocked (fetch failed):** Accessible page presented a subscription/sign-in wall rather than usable current listings.
-- **[music] Brooklyn Paramount — unavailable:** Official shows page remained at a loading state; aggregator concert leads were not treated as verified.
-- **[music] Brooklyn Steel — unavailable:** Venue page exposed a generic LCD Soundsystem promotion rather than a full calendar. The linked residency schedule was checked and had no dates in the window; broader venue coverage remains incomplete.
-- **[music] Carnegie Hall — blocked (fetch failed):** Official events access encountered queue/redirect failures.
-- **[music] Cassette — used:** Authorized DICE page verified November 25 lineup, address, price, age restriction and doors. Performance start left unknown.
-- **[music] Daily coverage — used:** 2026-11-23: 8; 2026-11-24: 7; 2026-11-25: 7; 2026-11-26: 5; 2026-11-27: 7; 2026-11-28: 13; 2026-11-29: 8
-- **[music] Elsewhere — used:** Recovered current events site from the old URL. Retained all 3 in-window club events; linked organizer Eventbrite pages independently confirmed event start/end times and two advertised starting prices.
-- **[music] Eventbrite New York — blocked (fetch failed):** Assigned discovery page returned HTTP 405. Separately, five venue-linked organizer event pages loaded and verified Elsewhere and Union Hall events; these were not discovered through Eventbrite search.
-- **[music] Flushing Town Hall — checked, no retained pick:** Read official events. In-window lead was theater; identified music/dance programming began in December.
+- **[arts] Theatre for a New Audience — used:** Verified Elektra's schedule; retained November 27–29 performances. Excluded sold-out November 24–25 dates and disclosed Friday's limited availability.
+- **[arts] Time Out New York — checked, no retained pick:** Homepage consulted; no retained candidate independently verified from its leads. Did not complete all linked guides.
+- **[arts] UCB New York — not checked:** Not opened during this research pass.
+- **[arts] Union Hall — used:** Read the full visible in-window calendar and 9 organizer ticket pages. Retained 9 distinct named shows. Two inconsistent doors fields are disclosed rather than silently resolved.
+- **[arts] Whitney Museum — used:** Retained 3 dated tours and 2 ongoing exhibitions. Verified Thanksgiving closure, admission, and opening hours. Excluded member-only programs and duplicate standing free-Friday admission.
+- **[arts] WORD Bookstores — blocked (fetch failed):** Events page returned HTTP 403.
+- **[bookahead] 92NY (92nd Street Y) — error:** Events redirected through a shared-session endpoint that returned HTTP 503; no program calendar was available.
+- **[bookahead] Atlantic Theater Company — checked, no retained pick:** Read current season announcements. Too Bad For Her was already on sale for January 9–February 14 without additional verified pressure; Finn is children's programming, and later runs extend beyond the horizon.
+- **[bookahead] BAM — used:** Checked film, programs, Next Wave, Winter/Spring, two production pages, and their ticket calendars. Retained two imminent December closings. Next Wave general on-sale June 30 and Winter/Spring general on-sale November 5 had already passed. Some listing text required reading public HTML.
+- **[bookahead] Boesky Gallery — used:** Official Requiem page confirmed December 19 closing and exhibition content. Retained one Hyperallergic-discovered item. Supplemental contact URL returned HTTP 404.
+- **[bookahead] Broadway.org — blocked (fetch failed):** Assigned shows page returned HTTP 403.
+- **[bookahead] Brooklyn Museum — blocked (fetch failed):** Assigned calendar returned HTTP 429; closing dates and on-sale announcements could not be inspected.
+- **[bookahead] Film at Lincoln Center — blocked (fetch failed):** Assigned calendar returned HTTP 403.
+- **[bookahead] Free Shakespeare in the Park — blocked (fetch failed):** Main official page returned HTTP 403. The permitted Help Scout Daily Ticket Update was readable and states the 2026 season has concluded; announced summer 2027 productions fall outside this lane's horizon.
+- **[bookahead] Gagosian New York — blocked (fetch failed):** Exhibitions listing returned HTTP 403; New York closing dates could not be inspected.
+- **[bookahead] Governors Island — checked, no retained pick:** Upcoming Events page was accessible but exposed no event listings or dated booking releases.
+- **[bookahead] Guggenheim — blocked (fetch failed):** Assigned events URL redirected to a calendar URL returning HTTP 404.
+- **[bookahead] Hyperallergic — used:** Read the New York listing and five article leads; retained Requiem with item-level editorial provenance and official confirmation. The Maggie Ellis and Laia Abril articles had registration-gated continuations; those were not bypassed. 260 Madison had already closed.
+- **[bookahead] Jack Shainman Gallery — used:** Read exhibition listing and Donyel Ivy-Royal's official page; retained its December 19 Chelsea closing. A supplemental contact URL returned 404, so visiting hours remain unverified.
+- **[bookahead] Knockdown Center — blocked (fetch failed):** Venue homepage and attempted residency page returned HTTP 429. LCD Soundsystem's date and venue were instead confirmed on the promoter's official residency page.
+- **[bookahead] Lehman College Art Gallery — checked, no retained pick:** Followed the Hyperallergic humor-exhibition lead to official Sarah Lawrence and Lehman pages. Confirmed different closing dates: December 13 in Bronxville and January 16 in the Bronx. Neither was retained as an immediate NYC closing alert.
+- **[bookahead] Lincoln Center — used:** Checked featured performances through March, the contemporary dance festival, globalFEST, and individual productions. Retained one verified future public on-sale: January 21 at noon for Carmen de Lavallade. Already-on-sale programming without separate pressure was omitted.
+- **[bookahead] Low Cinema — used:** Read November and December calendars, the commentary-film page, and its public checkout. Retained the December 2 6pm screening with exactly two tickets shown online; other listed commentary screenings were sold out.
+- **[bookahead] Luhring Augustine — used:** Read exhibitions, STACKS details, and location information; retained one December 19 closing. The other current listing was in Paris and excluded. No exhibition in its final two weeks was found.
+- **[bookahead] Madison Square Garden — checked, no retained pick:** Public calendar rendered Showing 0 Events; no usable concert announcements or future on-sale dates were exposed. This does not establish that the venue has no scheduled events.
+- **[bookahead] MoMA — blocked (fetch failed):** Assigned calendar returned HTTP 403.
+- **[bookahead] MoMA PS1 — checked, no retained pick:** Read calendar and Teresa Margolles details. February 8 and March 15 exhibition endings are within the horizon but not imminent; no new Warm Up release or other dated booking-pressure announcement was found.
+- **[bookahead] Museum of the Moving Image — blocked (fetch failed):** Assigned events page returned HTTP 403.
+- **[bookahead] New Museum — checked, no retained pick:** Calendar redirected to events. Read embedded public event data, including December and January programs; no verified future release date or availability pressure was established.
+- **[bookahead] New York Theatre Workshop — checked, no retained pick:** Read calendar and 2026–27 season page. Wild Rose and The Grief Eater had dates and ticket links, but no future public on-sale or immediate availability pressure was established.
+- **[bookahead] NYC Winter Jazzfest — used:** Read the 2027 festival listing, Brooklyn Marathon program, closing concert page, and official ticket seller. Retained one explicitly identified festival and Expressions-series finale. Already-on-sale marathon passes were not promoted as a new release.
+- **[bookahead] Open House New York — checked, no retained pick:** Read calendar. A members-only design tour was excluded; the December 7 talk listing did not establish a dated release or other booking-pressure trigger.
+- **[bookahead] OpenStreetMap Nominatim — used:** Consulted public venue/address geocoding for retained locations. Coordinates are attributed to OpenStreetMap contributors under ODbL; no ratings or review content was collected.
+- **[bookahead] Park Avenue Armory — blocked (fetch failed):** Assigned calendar returned HTTP 403.
+- **[bookahead] Paula Cooper Gallery — used:** Read two current New York exhibition pages and gallery information; retained December 12 and December 19 closings. Neither was described as a ticket scarcity alert.
+- **[bookahead] Playbill Productions — used:** Productions redirected to the Broadway listing. Retained the SIX closing lead with item-level provenance after official confirmation. Other displayed closing leads were not retained without sufficient official confirmation.
+- **[bookahead] St. Ann's Warehouse — blocked (fetch failed):** Assigned events page returned HTTP 403.
+- **[bookahead] The Bowery Presents — used:** Read shows listing and official LCD Soundsystem residency calendar. Retained December 13 as the final listed residency date, explicitly labeled Best Availability. The linked AXS page returned HTTP 403; no ticket scarcity was inferred.
+- **[bookahead] The Joyce Theater — error:** Performances URL entered a redirect loop; fetch exceeded ten redirects before any listing could be read.
+- **[bookahead] The Metropolitan Museum of Art — blocked (fetch failed):** Assigned events page returned HTTP 429.
+- **[bookahead] The Odyssey 70mm watch — blocked (fetch failed):** AMC movie and Lincoln Square pages, plus IMAX movie and news pages, returned HTTP 403. Additional dates, standard-seat inventory, policy changes, and regional 70mm engagements could not be verified. No alert issued; this is not confirmation that nothing changed.
+- **[bookahead] The Public Theater — blocked (fetch failed):** Assigned season page returned HTTP 403. The readable Help Scout mirror did not establish an eligible downtown production alert.
+- **[bookahead] The Shed — blocked (fetch failed):** Programs redirected to a Queue-it soft-block waiting page; no listings were accessible.
+- **[bookahead] Theatre for a New Audience — used:** Read homepage, Elektra, and Honor. Retained Elektra's newly extended December 8–13 final week with documented earlier sellouts. Honor showed subscriber booking only, without a verified future public on-sale date.
+- **[bookahead] Trigger coverage — used:** 13 retained items: closing=11; onsale=1; limited_availability=1; reservation_release=0; timed_entry=0; none=0. Events=0 and restaurants=0. Longer-lead closing reminders use watch rather than invented purchase urgency.
+- **[bookahead] Whitney Museum — checked, no retained pick:** Read events, exhibitions, Minnie Evans details, and visitor information. Verified January 10 and January 18 exhibition endings, but retained none: these were not yet final-weeks alerts and no future on-sale pressure was established.
+- **[local] Atlas Obscura New York — blocked (fetch failed):** Assigned events page returned HTTP 403. No claim of comprehensive unusual-event coverage from this source.
+- **[local] Balance — used:** largest source: The Skint 14/43; Brooklyn 22/43. 27 distinct venue/route identities across Manhattan 12, Brooklyn 22, Queens 2, Bronx 5 and Staten Island 2. More than 12 official organizers consulted. Largest normalized venue contribution is Wave Hill 5/43; even all Prospect Park locations together…
+- **[local] Barclays Center — used:** Official calendar and game page confirmed Nets-Thunder on November 30 at 19:30. Music events were left to the music lane; ticket prices were not invented.
+- **[local] Brooklyn Botanic Garden — used:** Read calendar, Lightscape calendar markup, visitor guidance and Lodge menu. Retained only the four enabled in-window Lightscape nights: November 25, 27, 28 and 29. November 24, 26 and 30 are disabled. The closed Cornucopia registration was excluded.
+- **[local] Brooklyn Brainery — unavailable:** The courses page exposed general class information but no usable current class list in the fetched rendering.
+- **[local] Brooklyn Magazine — blocked (fetch failed):** The fetched page exposed a sign-in/subscription gate rather than usable current listings.
+- **[local] Brooklyn Public Library presents — blocked (fetch failed):** The assigned page and a November 30 calendar request returned HTTP 403. No library event was inferred.
+- **[local] Bryant Park — used:** Read the assigned programs redirect, Winter Village information and Holiday Shops schedule. Retained the Monday market with current 2026 run dates and weekday hours.
+- **[local] Daily coverage — used:** 2026-11-24: 5; 2026-11-25: 6; 2026-11-26: 3; 2026-11-27: 6; 2026-11-28: 8; 2026-11-29: 10; 2026-11-30: 5
+- **[local] Domino Park — used:** Current skating page confirms the season and Tuesday opening. Thursday is explicitly closed for rain and was excluded. Conflicting weekday closing times are disclosed instead of choosing one.
+- **[local] DUMBO NYC / Brooklyn Flea — used:** Event-specific co-organizer pages confirm both November 28 and 29 holiday markets, 10:00-17:00.
+- **[local] Eater New York — used:** Read current homepage material and substantial portions of the Thanksgiving guide. Monterey and Dynamo were retained after official-menu checks. Golden Hof and Briscola were not retained without adequate independent confirmation.
+- **[local] Eventbrite New York — blocked (fetch failed):** The assigned New York directory returned HTTP 405. Targeted public organizer and ticket pages were readable and independently used for NYC Resistor, Queens Botanical Garden, Interference Archive and Greenbelt; the directory itself was not successfully searched.
+- **[local] FAD Market — used:** Official homepage and event page confirm the November 30 opening, 11:00-18:00 hours, free entry and 14-maker weekday format.
+- **[local] Farmlink — used:** Organizer Luma page and structured event data confirm November 24, 11:00-18:00, 261 Fifth Avenue and free admission.
+- **[local] Flushing Town Hall — checked, no retained pick:** Read the calendar. The next eligible local-lane programs found were in December; in-window performance material belonged to other lanes.
+- **[local] Genre coverage — used:** Primary categories: food 4; markets 9; outdoors 13; sports 5; workshop 4; unusual 5; other 3. Overlapping floor groups: free or outdoor 30; markets/food/pop-ups 14; workshops/classes/maker nights at least 7; niche non-tourist unusual happenings 4, plus the nostalgia subway ride. All genre floors me…
+- **[local] Gothamist — checked, no retained pick:** Read the arts-and-entertainment section. No sufficiently verified in-window local-lane event was retained; much of the material belonged to other lanes.
+- **[local] Governors Island — unavailable:** The public events page loaded a heading but no usable dated calendar entries. This is a rendering limitation, not evidence that the island has no events.
+- **[local] Greenbelt Conservancy — used:** Official event and ticket pages confirm November 28 orienteering, its 11:00-13:00 time and Greenbelt Nature Center location. The program permits adults; it is not children-only.
+- **[local] Grub Street — used:** Read current homepage material and the Altbau opening article. Retained Altbau with its documented October 29, 2026 opening date and item-level provenance.
+- **[local] Historic Richmond Town — used:** Read the 2026 fall guided-tour run and Wednesday-Sunday schedule. Retained a 75-minute outdoor heritage walk with interior stops, not an exhibition recommendation. Live booking inventory and price were not verified.
+- **[local] Interference Archive — used:** Official event page and ticket heading confirm the November 25 collections work party. The ticket body's stale August reference is disclosed; no price was invented.
+- **[local] LeFrak Center at Lakeside — used:** Official schedule verifies November 28 open-air opening and November 30 Monday discount. Holiday admission, cash/card differences and separate rental charges were retained.
+- **[local] Macy's — blocked (fetch failed):** Parade and corporate newsroom requests returned HTTP 403. Parade date, route start and 08:30 start were recovered from NYC's official tourism organization; balloon inflation was not retained.
+- **[local] Madison Square Garden — unavailable:** The fetched calendar showed an empty JavaScript-dependent event container. This was not interpreted as proof of no scheduled sports.
+- **[local] Municipal Art Society tours — used:** Verified five dated tours: three Grand Central departures, Park Slope and Art Deco Financial District. Public prices and one-hour registration cutoffs were preserved; undisclosed street-tour meeting locations remain null.
+- **[local] National Weather Service — used:** Consulted the official NYC-area forecast: Thanksgiving heavy rain and gusts up to 55 mph, with a high-wind watch November 26 10:00-November 27 01:00; Friday rain chance 50%; Monday 30%. Material outdoor cautions were added.
+- **[local] New York Liberty — blocked (fetch failed):** The official schedule returned HTTP 403. No game was inferred.
+- **[local] New York Mets — checked, no retained pick:** Read the public schedule page; no dated November home game was found. No offseason game was inferred from schedule templates.
+- **[local] New York Public Library — unavailable:** A date-targeted public calendar request exposed loading content and an inconsistent default date, not a usable November 30 event list.
+- **[local] New York Transit Museum — used:** Official 2026 Nostalgia Rides page confirms Sunday operation beginning November 29, both terminal departure schedules and normal-fare admission.
+- **[local] Nonsense NYC — checked, no retained pick:** Public homepage was readable but exposed subscription information rather than a current publicly dated event listing. No event retained.
+- **[local] NYC Parks Events — blocked (fetch failed):** The main calendar and a Thanksgiving-focused request returned HTTP 405. Prospect Park Alliance independently confirmed the retained ranger hike.
+- **[local] NYC Resistor — used:** Read organizer 52408308 and event-specific pages. Retained Ham Radio Club, Synthesizer Night and masks-required painting. Excluded the sold-out TouchDesigner workshop and the fixed Monday/Thursday craft nights already emitted by the collector.
+- **[local] NYC Resistor blog — checked, no retained pick:** Read the RSS feed's current project posts. No dated in-window lead was retained from the feed. Used only the permitted Eventbrite organizer and ticket links for event research, not compromised homepage links.
+- **[local] NYC Tourism + Conventions — used:** Official event listing and updated parade article confirm the November 26, 2026 parade, free public viewing and 08:30 start.
+- **[local] Open House New York — checked, no retained pick:** Read the calendar. A members-only tour and an out-of-window December public event were excluded.
+- **[local] Prospect Park Alliance — used:** Calendar and event pages verified six occurrences: three greenmarkets, Fall Fix-Up, the post-Thanksgiving hike and beginner birdwatching. The variable volunteer meeting point was not invented.
+- **[local] Q.E.D. Astoria — unavailable:** Homepage and linked calendar were attempted. The calendar exposed only a loading message and empty event controls, not usable dated listings.
+- **[local] Queens Botanical Garden — used:** Official dated pages and public ticket descriptions confirm Tuesday farm volunteering and Monday compost building, both free with registration. Age, physical-work and meeting-point details were checked.
+- **[local] Red Calendar — checked, no retained pick:** Read the plain calendar's in-window rows. Music, film, dance and virtual entries did not qualify for this local lane.
+- **[local] Restaurant verification — used:** Retained 11 restaurants with official operating information or strong editorial confirmation. Only Altbau is marked new. Late-night tags are limited to Cafe Paulette, Cafe Fiorello, Veselka and Threes with official post-21:00 service; holiday exceptions remain relevant. No Google or Yelp reviews we…
+- **[local] Rooftop Films — checked, no retained pick:** Readable public material concerned offseason membership and submissions. No eligible in-window local-lane event was retained.
+- **[local] Sana Sana Market — used:** Public organizer Partiful page confirms November 28, 11:00-17:00, Artspace PS109 and free market admission. Optional workshop prices and times were not invented.
+- **[local] Secret NYC — blocked (fetch failed):** Simplified fetch yielded no usable page; raw HTML exposed an AWS WAF challenge. No event data was accessible.
+- **[local] Simons Foundation lectures — checked, no retained pick:** Read the public-events page after redirect. The next listed public programs were December 2, 4 and 9, outside this lane's window.
+- **[local] Smorgasburg — checked, no retained pick:** Read the homepage and New York locations page. Central Park, World Trade Center, Williamsburg and Prospect Park are explicitly marked closed for the season; no November market was emitted.
+- **[local] The Infatuation NYC — used:** Read the homepage, Thanksgiving guide and focused restaurant reviews. Retained Dynamo's holiday meal and restaurant recommendations with item-level provenance. Structured editorial metadata supplied several coordinates and price tiers; no numerical reviews were retained.
+- **[local] The Skint — used:** Read the complete current Thanksgiving-week listing and ongoing listings, examining at least 20 plausible in-window leads. Retained 14 dated event occurrences with item-level provenance; official pages resolved operating dates, prices and conflicting times.
+- **[local] Time Out New York — used:** Read the homepage and full holiday-market guide. Five retained occurrences preserve provenance: two Brooklyn Flea dates, Chinatown, Bryant Park and FAD Market. Official schedules superseded stale or ambiguous guide details.
+- **[local] Unretained restaurant leads — error:** Olmsted had a transport failure; Cafe Henri returned 403; Golden Hof and Briscola holiday reservation pages were JavaScript shells. A guessed Briscola domain redirected to unrelated gambling/spam and was discarded. Enoteca Maria's redirect exposed malformed links, which were not followed. Pecking H…
+- **[local] Wave Hill — used:** Calendar and detail pages confirmed two tea dates, needle felting, the garden walk and yoga. Thanksgiving closure and November 25 early closing were checked. Tea seating ranges were not misrepresented as session duration.
+- **[local] Welcome to Chinatown — used:** Read the seasonal page and Thanksgiving-weekend Luma event, including structured dates. The specific event starts November 27; Thanksgiving Day was excluded despite the generic Thursday seasonal schedule. Favor Coffee is the confirmed weekend pop-up.
+- **[local] Xiaohongshu / REDnote — blocked (fetch failed):** Public access redirected to a login wall. No sign-in, app automation or access-control bypass was attempted.
+- **[music] 54 Below — used:** Marilyn Maye's Thanksgiving performance verified. Mandatory $95 dinner makes the minimum known total $147.50 before additional meal charges; retained as an explicit over-budget exception.
+- **[music] Americas Society — blocked (fetch failed):** Assigned events page returned HTTP 403.
+- **[music] Baby's All Right — used:** Official linked calendar and event-specific ticket pages verified four retained shows on November 24, 25, 29 and 30. The Slim Kings page's conflicting header/detail times are explicitly flagged.
+- **[music] Balance — used:** largest source: Songkick New York 8/46; Brooklyn 23/46. Manhattan 19; Queens 4; Bronx 0; Staten Island 0. Twenty-two distinct physical venues, combining Birdland's two rooms, across at least 13 neighborhoods. Largest venue: Birdland 6/46. Queens, Bronx and Staten Island official calendars were acti…
+- **[music] BAM — unavailable:** Assigned film page and homepage exposed headings or dynamic placeholders without usable dated performance listings. No music/dance event retained from that incomplete response.
+- **[music] Barbès — used:** Two separate November 28 Viewcy listings confirm the Found Sound Nation and Anthony Coleman performances and their times.
+- **[music] Barclays Center — used:** Official event page confirms John Summit with Cassian and Jackie Hollander on November 28 and 29. Both dates retained; times and prices were not exposed and are flagged.
+- **[music] Birdland — used:** Official calendar, pagination and event details verified six retained performances. Ticket amounts are kept separate from the additional $20 food/beverage minimum.
+- **[music] Blue Note New York — used:** Five retained performances verified on official pages, including an album release, brunch tribute and rescheduled War and Treaty show. Ticketweb requests returned 530; ticket prices remain unknown, not confused with the $20 minimum.
+- **[music] BRIC Celebrate Brooklyn! — checked, no retained pick:** Checked the dedicated festival page, not merely BRIC's general calendar. It concerns the summer season; no November 24-30 bandshell concert was listed.
+- **[music] Brooklyn Bowl — used:** Three retained entries: free Thanksgiving Eve Dead Bowl and both Antibalas nights. Official pages distinguish doors and performance times.
+- **[music] Brooklyn Magazine — blocked (fetch failed):** Accessible response exposed a sign-in/subscription overlay rather than usable current listings.
+- **[music] Brooklyn Paramount — unavailable:** Official shows page remained a Loading shell; no usable dated concert listing extracted.
+- **[music] Brooklyn Steel — used:** Venue listing was dynamically empty, but the official Bowery Presents residency site confirmed LCD Soundsystem on November 30. AXS returned 403, leaving price, time and availability unverified.
+- **[music] Carnegie Hall — blocked (fetch failed):** Calendar requests encountered a redirect loop; no usable schedule obtained.
+- **[music] Cassette — used:** November 25 Andy Loebs bill verified on DICE; only doors time was available.
+- **[music] Daily coverage — used:** 2026-11-24: 7; 2026-11-25: 5; 2026-11-26: 4; 2026-11-27: 6; 2026-11-28: 11; 2026-11-29: 7; 2026-11-30: 6
+- **[music] Downtown Music Gallery — error:** Official shows-page request failed with a network/DNS/TLS transport error; no schedule verified.
+- **[music] Elsewhere — used:** Official calendar and three event pages checked; retained November 25, 27 and 28 parties. Organizer Eventbrite pages supplied confirmed event hours, distinct from individual DJ set times.
+- **[music] Eventbrite New York — used:** General NYC discovery page returned 405. Public event-specific organizer pages remained accessible and verified three retained Elsewhere parties, including hours and two advertised starting prices. Those pages are preserved in item-level provenance.
+- **[music] Flushing Town Hall — checked, no retained pick:** Official listings checked; exposed music programs were in December. A theatrical run was excluded from this lane.
 - **[music] Forest Hills Stadium — blocked (fetch failed):** Official events page returned HTTP 403.
-- **[music] Genre coverage — used:** Categories: music 38; nightlife 10; dance 7; festival 0. Music includes 36 live-band/vocal/instrumental events and 2 arena DJ performances. Dance comprises 6 staged performances across 2 productions, plus 1 participatory line-dance event. At least 7 distinct multi-day engagements are represented: C…
-- **[music] Good Room — used:** Official calendar confirms November 25, 27 and 28 lineups; retained 3. Event-specific RA access was unavailable for attempted links, so unknown hours and prices remain explicitly unverified.
-- **[music] Gothamist — checked, no retained pick:** Read arts coverage and the monthly concert feature. Festival and other concert leads preceded the window; LCD Soundsystem dates did not overlap November 23–29. Retained 0.
-- **[music] Ibeam Brooklyn — used:** Individual Instrumental Underground page verified November 24 programme and $20 admission; official public page metadata supplied venue coordinates.
-- **[music] ISSUE Project Room — checked, no retained pick:** Official calendar checked; nearest listed performances were November 19 and December 5, outside the window.
-- **[music] Jazz at Lincoln Center / Dizzy's — used:** Official calendar verifies Thanksgiving with Herlin Riley and November 27–29 Herlin Riley and Friends. Retained 2. Ticket pages returned 503; holiday time left unknown, Sunday time drawn transparently from official Sunday schedule.
-- **[music] Kings Theatre — checked, no retained pick:** Official events redirected to the ATG listing; next visible performance was December 5.
-- **[music] Le Poisson Rouge — used:** Official event pages verified Action Bronson, Golden Age of EDM and The Last Waltz, including separate doors/show times and price ranges. Retained 3.
-- **[music] Lehman Center — checked, no retained pick:** Bronx calendar checked. November 28 poetry and November 29 holiday theater did not qualify for the music lane; no qualifying music/dance retained.
-- **[music] Light & Sound Design — checked, no retained pick:** Verified November 25 dance practice and November 26 Indigenous Day of Mourning programme. Omitted because a public fixed address and reliable venue coordinates could not be established; did not expose or invent a hidden location.
-- **[music] Lincoln Center — checked, no retained pick:** Assigned Lincoln Center Presents page yielded no in-window programme; next visible listing was December 1. NYCB and Jazz at Lincoln Center were researched separately and retained under their own sources.
-- **[music] Littlefield — checked, no retained pick:** Read current homepage listings. Identified in-window programming was sketch comedy, outside this lane.
-- **[music] Madison Square Garden — used:** Dynamic general calendar was limited, but official event-specific pages verified Victoria Monét and a Radio City Rockettes performance. Retained 2 across distinct venues; only Victoria Monét carried an explicit selling-fast notice.
-- **[music] MoMA PS1 — checked, no retained pick:** Calendar and School Nite programme checked. Published School Nite dates included November 19, not November 23–29; Warm Up was not an active November series.
-- **[music] Music Hall of Williamsburg — unavailable:** Shows page redirected to a Bowery listing shell. Songkick Glassjaw leads could not be confirmed on an accessible official event page.
-- **[music] National Sawdust — unavailable:** Performances endpoint exposed contact information without usable dated listings.
-- **[music] New York City Ballet — used:** Official production page and public calendar feed verified all 5 opening-weekend performances, each with a separate ticketing ID. These represent one ballet programme, not five distinct productions.
-- **[music] New York Live Arts — checked, no retained pick:** Events redirected to the homepage. Visible dance run ended November 22 and subsequent programmes began in December; no in-window performance verified.
-- **[music] New York Philharmonic — unavailable:** Official programme confirms Rouvali/LeClair run November 25–December 1 and a Kevin Puts world premiere, but individual performance dates/times did not render. Not retained; template 'Loading Sold Out' was not treated as inventory evidence.
-- **[music] Nonsense NYC — checked, no retained pick:** Public landing page exposed subscription/navigation material but no dated current bulletin. No authenticated or subscriber content accessed; retained 0.
-- **[music] Nowadays — blocked (fetch failed):** Calendar and events URLs returned 404; homepage offered no readable schedule. RA verification was also blocked, so no event retained.
-- **[music] NYC Noise — used:** Read the November 23–29 listings and followed event links to organizers or authorized ticketing. Retained 9 with item-level provenance. Excluded sold-out TV Eye, unverified listings and hidden-location events lacking usable coordinates.
-- **[music] NYC Parks Events — blocked (fetch failed):** Assigned calendar returned HTTP 405.
-- **[music] Oh My Rockness — blocked (fetch failed):** HTTP 403 prevented reading the calendar.
-- **[music] Performance Space New York — unavailable:** Calendar endpoint exposed a stale 2020 calendar link rather than a usable current schedule.
-- **[music] Pianos — used:** Authorized DICE page verified November 29 Stereo Mandrax lineup, address, prices and doors; no separate showtime asserted.
-- **[music] Pioneer Works — checked, no retained pick:** Initial events page was a JavaScript shell; recovered the official calendar and checked Ocean Season. No dated in-window music performance verified; next identified concert was December 1.
-- **[music] Prospect Park Alliance — checked, no retained pick:** Read listings through early December. In-window items were principally nature, health and markets rather than qualifying music or dance.
-- **[music] Public Records — unavailable:** Calendar redirected to a page with venue information and hours but no usable dated programme. Durations website was also checked; no in-window festival date established.
-- **[music] Resident Advisor New York — blocked (fetch failed):** New York discovery and attempted event pages returned HTTP 403. Good Room listings were instead verified on its own calendar; no RA discovery provenance claimed.
-- **[music] Roulette — used:** Calendar and event page verified November 23 Talujon with Brian Chase and John Hollenbeck, including premieres, doors, performance time and prices. Retained 1.
-- **[music] SmallsLIVE / Mezzrow — used:** Official calendar and individual Alan Broadbent/Harvie S page verified Monday's two sets and doors. Retained the early performance.
-- **[music] Songkick New York — used:** Read the returned metro listing through November 28 and verified selected leads officially. Retained provenance on Action Bronson, Red Alert's gala and Friday Antibalas: 3 items. Rejected mislocated and unconfirmed listings.
-- **[music] Sony Hall — used:** Official pages verified Con C de Cuba and Red Alert's milestone gala, including prices, doors and practical restrictions. War And Treaty relocation verified with hosting Blue Note.
-- **[music] St. George Theatre — checked, no retained pick:** Staten Island homepage checked after sparse events endpoint. November 28–29 Anthony Rodia was comedy; identified music dates were outside the window.
-- **[music] SummerStage — checked, no retained pick:** Official page states the 2026 season has ended; next season starts in 2027. No standing summer events transplanted into November.
-- **[music] The Bell House — unavailable:** Calendar redirected to a shows page displaying only a loading state.
-- **[music] The Django — used:** Followed Time Out lead to full official week calendar. Specifically checked Thanksgiving: closed November 26. Retained Friday Sam Dillon Quartet after verifying lineup, time and cover.
-- **[music] The Joyce Theater — blocked (fetch failed):** Performances page exceeded the redirect limit; contemporary-dance calendar could not be read.
-- **[music] The Shed — blocked (fetch failed):** Programme page encountered a Queue-it access wall.
-- **[music] The Skint — checked, no retained pick:** Read the current November 20–23 listing, including ongoing sections. In-window Monday leads did not yield a qualifying music event; Pachelbel Rant was comedy. Fewer than 20 plausible in-window music leads were published. Retained 0.
-- **[music] The Sultan Room — used:** Official homepage was sparse, but the authorized DICE event verified November 28 Downtown Boys and supports, price, age restriction and doors. Separate performance time unavailable.
-- **[music] Time Out New York — used:** Read homepage and the complete 56-item current weekly guide. Much material was older, recurring or outside this lane. Followed its Django lead to the official dated calendar and retained Sam Dillon Quartet; retained 1.
-- **[music] TV Eye — checked, no retained pick:** Official ticket page for November 28 JEFF the Brotherhood/Shellshag explicitly said sold out; not retained as an available recommendation.
-- **[music] Union Hall — used:** Read dated calendar and followed both qualifying nightlife listings to organizer event pages. Retained November 27 Karaoke Tremendous and November 28 Roundup; comedy excluded.
-- **[music] Union Pool — unavailable:** Calendar returned only a cart indicator, without event listings.
-- **[music] Verification limitations — used:** Eight records use date-only ISO starts because a separate programme time was unavailable; verified doors remain separate. Two published time conflicts are explicitly flagged. Ticket links do not guarantee remaining inventory. Unknown prices remain null, and no scarcity was inferred except MSG's exp…
-- **[music] Village Vanguard — used:** Official calendar verifies Jason Moran's November 24–29 engagement; FAQ verifies 8pm/10pm shows and seating times. Retained Thanksgiving and closing night. Ticketing inventory/prices did not render.
-- **Anthology Film Archives — used:** 21 in window, 0 later, of 41 listed in the rss feed
+- **[music] Genre coverage — used:** 46 retained entries: music 36; nightlife 8; dance 2; festival 0. Live-music and nightlife floors met. Dance is below the floor of 5: Joyce, BAM, Movement Research and Smithsonian access/rendering failures limited verification, while other dance calendars had no in-window programs. Eleven entries re…
+- **[music] Gibney — checked, no retained pick:** Dance calendar checked; exposed November performances ended November 21, with the next programs in December.
+- **[music] Good Room — used:** Official page verified three November 25, 27 and 28 lineups. No start times or prices were exposed, so entries use date-only starts and explicit uncertainty.
+- **[music] Gothamist — checked, no retained pick:** Arts-and-entertainment coverage was accessible; no additional in-window music event was independently verified and retained.
+- **[music] Ibeam Brooklyn — used:** Instrumental Underground's November 24 lineup, three set times, event duration and $20 admission verified.
+- **[music] ISSUE Project Room — checked, no retained pick:** Official events page checked; next exposed program was December 5, outside the window.
+- **[music] Jalopy Theatre — used:** Official Viewcy page confirms Hanksgiving on November 27, 2026 despite a misleading 2027 URL slug; The Skint supplies the reported $20 price.
+- **[music] Kings Theatre — checked, no retained pick:** Official redirected ATG calendar checked; exposed upcoming events began December 5.
+- **[music] Le Poisson Rouge — used:** Official calendar and event details verified Action Bronson on November 24 and the live Last Waltz tribute on November 28, including separate doors/show times and price ranges.
+- **[music] Lehman Center — checked, no retained pick:** Bronx calendar checked. November 28 spoken-word poetry and November 29 family theater were outside this music-lane selection; next exposed dance program was December 10.
+- **[music] Light & Sound Design — checked, no retained pick:** Official November 25 dance-practice and November 26 mixed-program pages were read. The location is disclosed through RSVP, with no verified public venue coordinates; deliberately false discovery-map pins were rejected.
+- **[music] Lincoln Center — checked, no retained pick:** The assigned Lincoln Center Presents listing exposed upcoming programs beginning December 1. NYCB was researched separately and has its own retained-source entry.
+- **[music] Littlefield — used:** Retained the November 28 BASHMENT IN BK Thanksgiving Special with official hours, price, age restriction and admission cutoff.
+- **[music] LOOVE — used:** Brandon Ross's November 28 solo concert, doors, performance time and $20 price verified on the official product page.
+- **[music] Madison Square Garden — used:** General calendar was dynamically empty; event-specific official page recovered Victoria Monét at Infosys Theater on November 24, with 8pm doors, 9pm show and an explicit selling-fast notice.
+- **[music] MoMA PS1 — checked, no retained pick:** Calendar and official School Nite page checked. School Nite occurred November 19, outside the window; no in-window Warm Up or music-night edition was confirmed.
+- **[music] Movement Research — blocked (fetch failed):** Official November 30 event page returned 403. NYC Noise's Judson dance-performance lead was not retained without accessible primary confirmation.
+- **[music] Music Hall of Williamsburg — unavailable:** Shows page redirected to Bowery Presents without an exposed event list. The November 30 Lucy Dacus aggregator lead was not independently confirmed and was not retained.
+- **[music] Music Mondays — used:** November 30 Ruckus collaboration verified; official About page confirms 7:30pm concert time and post-concert reception.
+- **[music] National Sawdust — unavailable:** Performances page exposed contact/footer content without usable dated listings.
+- **[music] New York City Ballet — used:** Official run opening November 27 and the explicit November 29, 5pm audio-described performance retained. Dynamic selector did not expose other curtain times; no additional dates were inferred from the run.
+- **[music] New York Live Arts — checked, no retained pick:** Events route redirected to an accessible homepage. Exposed performances ended November 22 or began December 2; no in-window dance retained.
+- **[music] Nonsense NYC — checked, no retained pick:** Public homepage was accessible but exposed subscription/navigation rather than a dated public newsletter; no retained lead.
+- **[music] Nowadays — blocked (fetch failed):** Assigned calendar returned 404; homepage recovery exposed images but no usable dated lineup. NYC Noise's November 27 lead was not retained without primary confirmation.
+- **[music] NYC Noise — used:** Read the in-window listings across the week. Seven leads retained with primary confirmation and provenance: Ibeam, Cassette, two Barbès shows, LOOVE, Sultan Room and Pianos. Secret-location fake map pins were not used.
+- **[music] NYC Parks Events — blocked (fetch failed):** Assigned events page returned HTTP 405; this is not evidence that no park concerts exist.
+- **[music] Oh My Rockness — blocked (fetch failed):** Assigned site returned HTTP 403.
+- **[music] Performance Space New York — unavailable:** Calendar route exposed an old 2020 tab rather than a usable current November 2026 schedule.
+- **[music] Pianos — used:** November 29 Stereo Mandrax bill verified on DICE, including price and doors; no performance time invented.
+- **[music] Pioneer Works — checked, no retained pick:** The assigned events route exposed a JavaScript shell; the public programs page worked. Its next listed concert, Księżyc on December 1, falls outside this window.
+- **[music] Prospect Park Alliance — checked, no retained pick:** Current November listings contained markets, walks, volunteering and other non-music programs; no retained music-lane event.
+- **[music] Public Records — unavailable:** Calendar request redirected to navigation/homepage content without an accessible dated program.
+- **[music] Resident Advisor New York — blocked (fetch failed):** NYC listings and a linked Good Room event returned HTTP 403. Good Room dates and lineups were independently confirmed on the venue's site; RA times, prices and availability were not inferred.
+- **[music] Roulette — checked, no retained pick:** Official calendar read; next exposed program was December 1, outside the window.
+- **[music] Smithsonian Native Pride dance — blocked (fetch failed):** Official November 27 program page returned 403; the editorial dance lead was not promoted to a verified event.
+- **[music] Songkick New York — used:** Read current listings and date-specific November 26 and 30 results. Eight retained entries preserve provenance. Primary sources corrected the Ostwald venue and supplied actual performance times where aggregator times were ambiguous.
+- **[music] St. George Theatre — checked, no retained pick:** Staten Island events route was dynamically empty, but homepage recovered current listings: November 28-29 comedy, followed by music in December. No in-window music retained.
+- **[music] SummerStage — checked, no retained pick:** Official page explicitly states that the 2026 season has ended; no in-window concert.
+- **[music] The Bell House — unavailable:** Calendar redirected to a shows page whose listing remained 'Loading'; no usable schedule extracted.
+- **[music] The Joyce Theater — blocked (fetch failed):** Performances page failed with a redirect loop exceeding ten redirects.
+- **[music] The Shed — blocked (fetch failed):** Programs request reached a Queue-it waiting-room/softblock rather than the calendar.
+- **[music] The Skint — used:** Read the current November 24-December 1 roundup. Fewer than 20 plausible music-lane leads were published. Retained two officially confirmed leads: Hanksgiving and Music Mondays; other leads lacked accessible primary confirmation or belonged to other lanes.
+- **[music] The Sultan Room — used:** Officially linked DICE listing confirmed the November 28 Downtown Boys bill, price, doors and 21+ restriction; performance start remains unknown.
+- **[music] Time Out New York — checked, no retained pick:** Read all 62 entries in the November 23 weekly roundup. No additional event retained: Bourbon & Brass had conflicting editorial/organizer hours and no exposed November 25 occurrence; Xanadu linked an August ticket; other leads were undated, outside the lane/window, or required further confirmation.
+- **[music] TV Eye — used:** Calendar and three event-specific ticket pages verified November 24 karaoke, November 29 Effigies and November 30 Truman Flyer/Gavin Sultan/Will Hasell. Sold-out November 28 JEFF the Brotherhood was excluded.
+- **[music] Union Hall — checked, no retained pick:** Calendar read; predominantly comedy. Karaoke Tremendous and Roundup appeared as nightlife leads, but event-specific details were not sufficiently verified for retention.
+- **[music] Union Pool — unavailable:** Calendar rendered only a cart marker. The November 30 Rev Vince aggregator lead was not independently confirmed.
+- **Anthology Film Archives — used:** 20 in window, 0 later, of 41 listed in the rss feed
 - **Atlas Obscura New York — not checked:** No source-level check was reported for this run.
 - **Baby's All Right — used:** At least one retained item preserves source provenance.
-- **BAM — not checked:** No source-level check was reported for this run.
+- **BAM — used:** At least one retained item preserves source provenance.
 - **Barclays Center — used:** At least one retained item preserves source provenance.
 - **BRIC Celebrate Brooklyn! — not checked:** No source-level check was reported for this run.
 - **Broadway.org — not checked:** No source-level check was reported for this run.
-- **Bronx official exhibitions — used:** Direct calendar: 2 dated or active-run records retained; checked 2026-11-23T10:23:05+00:00.
+- **Bronx official exhibitions — used:** Direct calendar: 2 dated or active-run records retained; checked 2026-11-24T10:23:13+00:00.
 - **Brooklyn Botanic Garden — used:** At least one retained item preserves source provenance.
 - **Brooklyn Comedy Collective — used:** At least one retained item preserves source provenance.
 - **Brooklyn Magazine — not checked:** No source-level check was reported for this run.
 - **Brooklyn Museum — not checked:** No source-level check was reported for this run.
 - **Bryant Park — used:** At least one retained item preserves source provenance.
-- **Caveat — used:** At least one retained item preserves source provenance.
-- **Center for Architecture — used:** At least one retained item preserves source provenance.
-- **City Parks Foundation — checked, no retained pick:** 0 in window, 0 later, of 33 listed in the tribe feed
-- **collect_new_restaurants — error:** HTTP 503 for https://data.cityofnewyork.us/resource/43nn-pn8j.json?%24select=camis%2Cdba%2Cboro%2Cbuilding%2Cstreet%2Czipcode%2Ccuisine_description%2Cinspection_date%2Caction%2Cscore%2Cgrade%2Clatitude%2Clongitude&%24where=inspection_date+%3E%3D+%272026-07-26T00%3A00%3A00.000%27+AND+inspection_type…
+- **City Parks Foundation — checked, no retained pick:** 0 in window, 0 later, of 29 listed in the tribe feed
 - **Comedy Cellar — not checked:** No source-level check was reported for this run.
 - **Copilot web discovery (arts) — used:** Lane completed and its payload passed schema validation.
 - **Copilot web discovery (bookahead) — used:** Lane completed and its payload passed schema validation.
 - **Copilot web discovery (local) — used:** Lane completed and its payload passed schema validation.
 - **Copilot web discovery (music) — used:** Lane completed and its payload passed schema validation.
-- **DoNYC public calendar — used:** 21 public calendar pages read, 327 in-window NYC listings, 0 page failures. Availability requires organizer confirmation.
+- **DoNYC public calendar — used:** 21 public calendar pages read, 328 in-window NYC listings, 0 page failures. Availability requires organizer confirmation.
 - **Eater New York — used:** At least one retained item preserves source provenance.
 - **Elsewhere — used:** At least one retained item preserves source provenance.
-- **Eventbrite New York — not checked:** No source-level check was reported for this run.
+- **Eventbrite New York — used:** At least one retained item preserves source provenance.
 - **Eventbrite Organizer API — unavailable:** EVENTBRITE_TOKEN is not configured
 - **Film Forum — used:** At least one retained item preserves source provenance.
 - **Free Shakespeare in the Park — not checked:** No source-level check was reported for this run.
-- **Freshness re-check — used:** Checked 50 items against the venue's own pages: 45 confirmed, 2 date corrections, 0 cancelled and dropped, 3 unverifiable.
-- **Freshness re-check — corrections — used:** Roebling Rink: skating beneath the Brooklyn Bridge moved 2026-11-23 to 2026-11-23; Holiday Tea at Wave Hill moved 2026-11-24 to 2026-11-24
-- **Freshness re-check — unconfirmed — unavailable:** The venue's own page did not confirm these, so they ship as the discovery lane published them: Do Si Don'tcha: Y'all Stars Country Line Dancing; LCD Soundsystem — last listed night of the 2026 NYC residency; Mary Lovelace O'Neal: Requiem — closing date
+- **Freshness re-check — used:** Checked 50 items against the venue's own pages: 44 confirmed, 1 date correction, 0 cancelled and dropped, 5 unverifiable.
+- **Freshness re-check — corrections — used:** Andy Loebs, Jack Alboher and Plaase moved 2026-11-25 to 2026-11-25
+- **Freshness re-check — unconfirmed — unavailable:** The venue's own page did not confirm these, so they ship as the discovery lane published them: Gloria Danger: Budino, Very DJs and Will Automagic; Lightscape at Brooklyn Botanic Garden; NYC Resistor Ham Radio Club; The Slim Kings with Alma Muñeca; LCD Soundsystem — final listed night of the 2026 NY…
 - **Gagosian New York — not checked:** No source-level check was reported for this run.
-- **Geocoding — checked, no retained pick:** 546/634 items located (196 from source, 350 neighborhood centroid, 0 cached, 0 looked up); 88 unplaced; mode=off
+- **Geocoding — checked, no retained pick:** 869/986 items located (489 from source, 380 neighborhood centroid, 0 cached, 0 looked up); 117 unplaced; mode=off
 - **Good Room — used:** At least one retained item preserves source provenance.
 - **Gothamist — not checked:** No source-level check was reported for this run.
 - **Governors Island — not checked:** No source-level check was reported for this run.
-- **Green-Wood — used:** 6 in window, 0 later, of 26 listed in the tribe feed
+- **Green-Wood — used:** 6 in window, 0 later, of 24 listed in the tribe feed
 - **Grub Street — used:** At least one retained item preserves source provenance.
 - **Hyperallergic — used:** At least one retained item preserves source provenance.
 - **IFC Center — used:** At least one retained item preserves source provenance.
 - **Interference Archive — used:** At least one retained item preserves source provenance.
-- **Jack Shainman Gallery — not checked:** No source-level check was reported for this run.
+- **Jack Shainman Gallery — used:** At least one retained item preserves source provenance.
 - **Japan Society — used:** At least one retained item preserves source provenance.
 - **Korean Cultural Center New York — used:** At least one retained item preserves source provenance.
 - **La MaMa — used:** At least one retained item preserves source provenance.
@@ -4617,14 +4636,14 @@ _No API key is needed for these public websites. `not checked` is distinct from 
 - **Luhring Augustine — used:** At least one retained item preserves source provenance.
 - **Madison Square Garden — used:** At least one retained item preserves source provenance.
 - **Metrograph — used:** At least one retained item preserves source provenance.
-- **MLB official schedule — checked, no retained pick:** Direct calendar: 0 dated or active-run records retained; checked 2026-11-23T10:23:05+00:00.
+- **MLB official schedule — checked, no retained pick:** Direct calendar: 0 dated or active-run records retained; checked 2026-11-24T10:23:13+00:00.
 - **MoMA — used:** At least one retained item preserves source provenance.
 - **MoMA PS1 — used:** At least one retained item preserves source provenance.
 - **Museum of Chinese in America — checked, no retained pick:** 0 in window, 0 later, of 8 listed in the tribe feed
 - **Museum of the Moving Image — not checked:** No source-level check was reported for this run.
-- **New York Adventure Club — used:** 10 in window, 0 later, of 10 listed in the ics feed
+- **New York Adventure Club — used:** 8 in window, 0 later, of 10 listed in the ics feed
 - **New York Comedy Club — used:** At least one retained item preserves source provenance.
-- **New York Transit Museum — used:** 3 in window, 18 later, of 27 listed in the tribe feed
+- **New York Transit Museum — used:** 3 in window, 18 later, of 26 listed in the tribe feed
 - **Nitehawk Cinema — used:** At least one retained item preserves source provenance.
 - **Nitehawk Prospect Park — used:** At least one retained item preserves source provenance.
 - **Nonsense NYC — not checked:** No source-level check was reported for this run.
@@ -4632,24 +4651,24 @@ _No API key is needed for these public websites. `not checked` is distinct from 
 - **NYC Parks Events — not checked:** No source-level check was reported for this run.
 - **NYC Permitted Event Information — used:** 60 usable events in the seven-day window
 - **NYC Resistor — used:** At least one retained item preserves source provenance.
+- **NYC Restaurant Inspection Results — used:** 335 recent pre-permit restaurants passed the health filter
 - **Oh My Rockness — not checked:** No source-level check was reported for this run.
 - **Paula Cooper Gallery — used:** At least one retained item preserves source provenance.
 - **Pioneer Works — used:** At least one retained item preserves source provenance.
 - **Playbill Productions — used:** At least one retained item preserves source provenance.
 - **Prospect Park Alliance — used:** At least one retained item preserves source provenance.
 - **Queens Museum — used:** At least one retained item preserves source provenance.
-- **Queens official exhibitions — used:** Direct calendar: 6 dated or active-run records retained; checked 2026-11-23T10:23:05+00:00.
+- **Queens official exhibitions — used:** Direct calendar: 6 dated or active-run records retained; checked 2026-11-24T10:23:13+00:00.
 - **Resident Advisor New York — not checked:** No source-level check was reported for this run.
 - **Rooftop Films — not checked:** No source-level check was reported for this run.
-- **Roulette — used:** At least one retained item preserves source provenance.
-- **Scandinavia House — used:** 6 in window, 0 later, of 38 listed in the tribe feed
+- **Scandinavia House — used:** 7 in window, 0 later, of 38 listed in the tribe feed
 - **Screen Slate — not checked:** No source-level check was reported for this run.
 - **Seasonal recurring series — used:** 4 recurring events in the window and 1 in-season series to check
 - **Secret NYC — not checked:** No source-level check was reported for this run.
 - **Smorgasburg — not checked:** No source-level check was reported for this run.
 - **Songkick New York — used:** At least one retained item preserves source provenance.
 - **SummerStage — not checked:** No source-level check was reported for this run.
-- **The Bowery Presents official calendar — used:** Direct calendar: 141 dated or active-run records retained; checked 2026-11-23T10:23:04+00:00.
+- **The Bowery Presents official calendar — used:** Direct calendar: 143 dated or active-run records retained; checked 2026-11-24T10:23:12+00:00.
 - **The Brick — checked, no retained pick:** 0 in window, 0 later, of 30 listed in the ics feed
 - **The Infatuation NYC — used:** At least one retained item preserves source provenance.
 - **The Metropolitan Museum of Art — not checked:** No source-level check was reported for this run.
@@ -4663,8 +4682,8 @@ _No API key is needed for these public websites. `not checked` is distinct from 
 - **Union Hall — used:** At least one retained item preserves source provenance.
 - **Wave Hill — used:** At least one retained item preserves source provenance.
 - **Whitney Museum — used:** At least one retained item preserves source provenance.
-- **Whitney official exhibitions — used:** Direct calendar: 5 dated or active-run records retained; checked 2026-11-23T10:23:05+00:00.
-- **Wonderville — used:** 8 in window, 0 later, of 155 listed in the squarespace feed
+- **Whitney official exhibitions — used:** Direct calendar: 5 dated or active-run records retained; checked 2026-11-24T10:23:13+00:00.
+- **Wonderville — used:** 9 in window, 0 later, of 155 listed in the squarespace feed
 
 ## Optional API enrichments
 
@@ -4676,4 +4695,4 @@ _The planner works without these. They add ticket inventory or restaurant rating
 
 _Availability, hours, prices, tickets, and reservations can change. Open the official link before leaving or booking._
 
-**AI generation: 12,302,342 input tokens (558 uncached + 11,547,312 cache-read, 1,430,721 cache-write), 166,896 output tokens, 23,692 reasoning tokens · GPT-6-ASTRA · 5 sessions**
+**AI generation: 11,138,215 input tokens (525 uncached + 10,622,486 cache-read, 1,174,554 cache-write), 153,069 output tokens, 19,206 reasoning tokens · GPT-6-ASTRA · 5 sessions**
